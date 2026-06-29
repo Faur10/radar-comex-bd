@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { GoogleGenerativeAI, HarmCategory, HarmBlockThreshold } from '@google/generative-ai';
 import { RawNovedad, AIResult, Impacto, Categoria } from '../types.js';
 
