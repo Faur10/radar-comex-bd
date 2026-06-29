@@ -1,9 +1,9 @@
 [
   {
-    "id": "2026-06-28-bcra-tipo-de-cambio-mulc-del-dia-91fa10",
+    "id": "2026-06-29-bcra-tipo-de-cambio-mulc-del-dia-f6660c",
     "slug": "bcra-tipo-de-cambio-mulc-del-dia",
     "organismo": "BCRA",
-    "fecha": "2026-06-28",
+    "fecha": "2026-06-29",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
@@ -18,6 +18,6 @@
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-06-28T15:11:17.531Z"
+    "actualizadoEn": "2026-06-29T14:41:19.918Z"
   }
 ]
