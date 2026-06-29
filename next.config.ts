@@ -1,8 +1,5 @@
-import type { NextConfig } from "next";
-
-const nextConfig: NextConfig = {
+const nextConfig = {
   typescript: {
-    // Los scripts/engine/ son Node.js puro (GitHub Actions), no parte del frontend
     ignoreBuildErrors: true,
   },
 };

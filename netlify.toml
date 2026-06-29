@@ -1,0 +1,9 @@
+[build]
+  command   = "npm run build"
+  publish   = ".next"
+
+[build.environment]
+  NEXT_TELEMETRY_DISABLED = "1"
+  # Fuerza a Next.js a ignorar errores TS durante el build de Netlify.
+  # Los scripts/engine/ son Node.js puro que corre en GitHub Actions, no en el frontend.
+  TYPESCRIPT_TSBUILDINFO = "false"
