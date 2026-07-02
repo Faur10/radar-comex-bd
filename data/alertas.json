@@ -1,9 +1,9 @@
 [
   {
-    "id": "2026-07-01-bcra-tipo-de-cambio-mulc-del-dia-859466",
+    "id": "2026-07-02-bcra-tipo-de-cambio-mulc-del-dia-016e29",
     "slug": "bcra-tipo-de-cambio-mulc-del-dia",
     "organismo": "BCRA",
-    "fecha": "2026-07-01",
+    "fecha": "2026-07-02",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
@@ -11,13 +11,13 @@
       "tipo de cambio"
     ],
     "titulo": "BCRA – Tipo de Cambio MULC del día",
-    "resumen": "Tipo de Cambio MULC ($ por USD): 1025.40 — al 2026-06-30",
+    "resumen": "Tipo de Cambio MULC ($ por USD): 1027.26 — al 2026-07-01",
     "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-07-01T13:29:56.773Z"
+    "actualizadoEn": "2026-07-02T12:52:35.056Z"
   }
 ]
