@@ -10,11 +10,6 @@ function todayYYYYMMDD(): string {
   return isoToday().replace(/-/g, '');
 }
 
-function todayDDMMYYYY(): string {
-  const [y, m, d] = isoToday().split('-');
-  return `${d}/${m}/${y}`;
-}
-
 interface BoraItem {
   titulo: string;
   organismo: string;
@@ -25,64 +20,44 @@ interface BoraItem {
   normativaRef: string;
 }
 
-// Intento 1: endpoint JSON de búsqueda avanzada (AJAX interno de BORA)
-async function fetchBoraSearchJSON(): Promise<BoraItem[]> {
-  const body = new URLSearchParams({
-    q: '',
-    pageNum: '1',
-    pageSize: '100',
-    fechaDesde: todayDDMMYYYY(),
-    fechaHasta: todayDDMMYYYY(),
-  });
-
-  const res = await fetch(`${BORA_BASE}/busquedaAvanzada/realizar.json`, {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
-      'X-Requested-With': 'XMLHttpRequest',
-      'User-Agent': 'Mozilla/5.0 (compatible; RadarComexBot/1.0)',
-      Referer: `${BORA_BASE}/busquedaAvanzada/q`,
-    },
-    body: body.toString(),
-    signal: AbortSignal.timeout(25_000),
-  });
-
-  if (!res.ok) throw new Error(`BORA search HTTP ${res.status}`);
-
-  const data = await res.json();
-  const normas: any[] = data.normas ?? data.results ?? data ?? [];
-
-  return normas.map((n: any) => parseBoraItem(n));
+function decodeEntities(s: string): string {
+  return s
+    .replace(/&amp;/g, '&')
+    .replace(/&aacute;/g, 'á').replace(/&eacute;/g, 'é').replace(/&iacute;/g, 'í')
+    .replace(/&oacute;/g, 'ó').replace(/&uacute;/g, 'ú').replace(/&ntilde;/g, 'ñ')
+    .replace(/&Aacute;/g, 'Á').replace(/&Eacute;/g, 'É').replace(/&Iacute;/g, 'Í')
+    .replace(/&Oacute;/g, 'Ó').replace(/&Uacute;/g, 'Ú').replace(/&Ntilde;/g, 'Ñ')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&#39;/g, "'").replace(/&quot;/g, '"')
+    .replace(/\s+/g, ' ')
+    .trim();
 }
 
-// Intento 2: listado por sección y fecha
+// Divide "Decreto 571/2026" en tipo="Decreto" y numero="571/2026"
+function splitTipoNumero(text: string): { tipo: string; numero: string } {
+  const m = text.match(/^(.*?)\s+(\S*\d\S*)$/);
+  return m ? { tipo: m[1].trim(), numero: m[2].trim() } : { tipo: text.trim(), numero: '' };
+}
+
+// Listado por sección del día: BORA renderiza el HTML server-side en /seccion/{nombre}/{fecha}
 async function fetchBoraPorSeccion(): Promise<BoraItem[]> {
   const fecha = todayYYYYMMDD();
-  const secciones = ['primera-seccion', 'segunda-seccion'];
+  const secciones = ['primera', 'segunda'];
   const items: BoraItem[] = [];
 
   for (const sec of secciones) {
     try {
-      const res = await fetch(`${BORA_BASE}/norma/listado/${sec}/${fecha}`, {
+      const res = await fetch(`${BORA_BASE}/seccion/${sec}/${fecha}`, {
         headers: {
-          Accept: 'application/json, text/html, */*',
+          Accept: 'text/html',
           'User-Agent': 'Mozilla/5.0 (compatible; RadarComexBot/1.0)',
         },
         signal: AbortSignal.timeout(20_000),
       });
       if (!res.ok) continue;
 
-      const ct = res.headers.get('content-type') ?? '';
-
-      if (ct.includes('json')) {
-        const data = await res.json();
-        const normas: any[] = data.normas ?? data.items ?? (Array.isArray(data) ? data : []);
-        items.push(...normas.map(parseBoraItem));
-      } else {
-        // HTML: parsear tabla básica
-        const html = await res.text();
-        items.push(...parseBoraHTML(html));
-      }
+      const html = await res.text();
+      items.push(...parseBoraSeccionHTML(html));
     } catch {
       // sección no disponible, continuar con la siguiente
     }
@@ -91,51 +66,39 @@ async function fetchBoraPorSeccion(): Promise<BoraItem[]> {
   return items;
 }
 
-function parseBoraItem(n: any): BoraItem {
-  const tipo   = (n.tipoNorma   ?? n.tipo    ?? '').trim();
-  const numero = (n.nroNorma    ?? n.numero  ?? '').trim();
-  const org    = (n.reparticion ?? n.organismo ?? '').trim();
-  const idNorma = n.idNorma ?? n.id ?? '';
-  const url    = n.urlTextoCompleto
-    ?? (idNorma ? `${BORA_BASE}/norma/detalleNorma/${idNorma}` : BORA_BASE);
-
-  return {
-    titulo:       (n.titulo ?? `${tipo} ${numero}`).trim(),
-    organismo:    org,
-    tipo,
-    numero,
-    descripcion:  (n.descripcion ?? n.sinopsis ?? n.bajada ?? '').trim(),
-    url:          url.startsWith('http') ? url : `${BORA_BASE}${url}`,
-    normativaRef: tipo && numero ? `${tipo} ${numero}/${new Date().getFullYear()}` : '',
-  };
-}
-
-function parseBoraHTML(html: string): BoraItem[] {
+// Parsea el HTML real de /seccion/{primera|segunda}/{fecha}:
+// cada aviso es un <a href="/detalleAviso/..."><div class="linea-aviso">
+//   <p class="item">ORGANISMO</p>
+//   <p class="item-detalle"><small>Tipo Numero/Año</small></p>
+//   <p class="item-detalle"><small>Referencia - Descripción</small></p>
+// </div></a>
+function parseBoraSeccionHTML(html: string): BoraItem[] {
   const items: BoraItem[] = [];
-  // Extrae filas de tabla que contengan info de normas
-  const rowRe = /<tr[^>]*>[\s\S]*?<\/tr>/gi;
-  const rows  = html.match(rowRe) ?? [];
+  const avisoRe = /<a href="([^"]+)"[^>]*>\s*<div class="linea-aviso">([\s\S]*?)<\/div>\s*<\/a>/gi;
 
-  for (const row of rows) {
-    const cells = [...row.matchAll(/<td[^>]*>([\s\S]*?)<\/td>/gi)]
-      .map(m => m[1].replace(/<[^>]+>/g, '').trim())
-      .filter(Boolean);
-    const linkMatch = row.match(/href="([^"]+)"/i);
+  for (const avisoMatch of html.matchAll(avisoRe)) {
+    const href = avisoMatch[1];
+    const block = avisoMatch[2];
 
-    if (cells.length < 2) continue;
+    const detalles = [...block.matchAll(/<small>([\s\S]*?)<\/small>/gi)]
+      .map(m => decodeEntities(m[1].replace(/<[^>]+>/g, '')));
+    const organismoMatch = block.match(/class="item"\s*>([\s\S]*?)<\/p>/i);
+    const organismo = organismoMatch ? decodeEntities(organismoMatch[1].replace(/<[^>]+>/g, '')) : '';
 
-    const url = linkMatch
-      ? (linkMatch[1].startsWith('http') ? linkMatch[1] : `${BORA_BASE}${linkMatch[1]}`)
-      : BORA_BASE;
+    if (!detalles.length) continue;
+
+    const { tipo, numero } = splitTipoNumero(detalles[0]);
+    const descripcion = detalles[1] ?? '';
+    const url = href.startsWith('http') ? href : `${BORA_BASE}${href}`;
 
     items.push({
-      titulo:       cells[1] ?? cells[0],
-      organismo:    cells[2] ?? '',
-      tipo:         '',
-      numero:       cells[0],
-      descripcion:  cells[3] ?? '',
+      titulo: descripcion || detalles[0],
+      organismo,
+      tipo,
+      numero,
+      descripcion,
       url,
-      normativaRef: cells[0],
+      normativaRef: tipo && numero ? `${tipo} ${numero}` : '',
     });
   }
 
@@ -145,22 +108,11 @@ function parseBoraHTML(html: string): BoraItem[] {
 export async function fetchBoletin(): Promise<RawNovedad[]> {
   let items: BoraItem[] = [];
 
-  // Intentar el endpoint JSON primero
   try {
-    items = await fetchBoraSearchJSON();
-    console.log(`  [Boletin] JSON endpoint: ${items.length} normas`);
+    items = await fetchBoraPorSeccion();
+    console.log(`  [Boletin] Por sección: ${items.length} normas`);
   } catch (err) {
-    console.warn('[Boletin] JSON endpoint falló, intentando listado por sección:', (err as Error).message);
-  }
-
-  // Si el JSON no devolvió nada, intentar por sección
-  if (!items.length) {
-    try {
-      items = await fetchBoraPorSeccion();
-      console.log(`  [Boletin] Por sección: ${items.length} normas`);
-    } catch (err) {
-      console.warn('[Boletin] Listado por sección también falló:', (err as Error).message);
-    }
+    console.warn('[Boletin] Listado por sección falló:', (err as Error).message);
   }
 
   return items.map(n => ({
