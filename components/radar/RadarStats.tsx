@@ -39,11 +39,11 @@ function StatCard({ stat, animate }: { stat: StatItem; animate: boolean }) {
   const count = useCountUp(stat.value, animate);
 
   return (
-    <div className="bg-white rounded-2xl border border-gray-100 shadow-sm px-6 py-5 flex flex-col gap-1">
-      <p className={`text-3xl font-bold ${stat.accent}`}>
+    <div className="bg-white rounded-2xl border border-gray-100 shadow-sm px-3 py-5 min-h-[104px] flex flex-col items-center justify-center text-center gap-1">
+      <p className={`text-3xl font-bold leading-none ${stat.accent}`}>
         {count}{stat.suffix ?? ''}
       </p>
-      <p className="text-sm text-gray-text">{stat.label}</p>
+      <p className="text-xs sm:text-sm text-gray-text leading-snug">{stat.label}</p>
     </div>
   );
 }
@@ -71,7 +71,7 @@ export function RadarStats({ alertas }: RadarStatsProps) {
         initial={reduced ? undefined : { opacity: 0 }}
         animate={inView ? { opacity: 1 } : undefined}
         transition={{ duration: 0.5 }}
-        className="grid grid-cols-2 md:grid-cols-4 gap-4"
+        className="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4"
       >
         {stats.map(s => (
           <StatCard key={s.label} stat={s} animate={animate} />

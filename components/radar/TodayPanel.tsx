@@ -42,7 +42,7 @@ export function TodayPanel({ alertas }: TodayPanelProps) {
   return (
     <section
       aria-label="Novedades de hoy en COMEX"
-      className="bg-navy text-white rounded-2xl px-6 py-5 shadow-lg"
+      className="bg-navy text-white rounded-2xl px-6 py-5 shadow-lg lg:w-[300px] lg:shrink-0"
     >
       <div className="flex items-center gap-2 mb-4">
         <span className="relative flex h-2 w-2" aria-hidden="true">

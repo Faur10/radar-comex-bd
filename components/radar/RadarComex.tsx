@@ -63,9 +63,11 @@ export function RadarComex({ alertas }: RadarComexProps) {
       <main className="max-w-6xl mx-auto px-4 md:px-6 py-12 flex flex-col gap-12">
 
         {/* Panel de hoy + stats */}
-        <div className="grid md:grid-cols-[300px_1fr] gap-6 items-start">
+        <div className="flex flex-col lg:flex-row gap-6 items-start">
           <TodayPanel alertas={alertas} />
-          <RadarStats alertas={alertas} />
+          <div className="w-full min-w-0 flex-1">
+            <RadarStats alertas={alertas} />
+          </div>
         </div>
 
         {/* Sección de alertas */}
