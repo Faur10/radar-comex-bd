@@ -1,10 +1,10 @@
 [
   {
-    "id": "2026-07-05-bcra-tipo-de-cambio-mulc-del-dia-36559e",
+    "id": "2026-07-05-bcra-tipo-de-cambio-mulc-del-dia-854866",
     "slug": "bcra-tipo-de-cambio-mulc-del-dia",
     "organismo": "BCRA",
     "fecha": "2026-07-05",
-    "impacto": "medio",
+    "impacto": "alto",
     "categoria": "normativa",
     "tags": [
       "MULC",
@@ -18,310 +18,117 @@
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-07-05T04:05:31.230Z"
+    "actualizadoEn": "2026-07-05T04:12:00.334Z"
   },
   {
-    "id": "2026-07-03-resol-2026-883-apn-mec-2681e4",
-    "slug": "resol-2026-883-apn-mec",
-    "organismo": "MINISTERIO DE ECONOMÍA",
+    "id": "2026-07-05-el-cda-incorpora-una-nueva-asesoria-especializada-en-seguro-1dfd3c",
+    "slug": "el-cda-incorpora-una-nueva-asesoria-especializada-en-seguro",
+    "organismo": "CDA",
     "fecha": "2026-07-03",
-    "impacto": "medio",
-    "categoria": "normativa",
-    "tags": [],
-    "titulo": "RESOL-2026-883-APN-MEC",
-    "resumen": "RESOL-2026-883-APN-MEC",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/343984/20260703"
-    },
-    "normativaRef": "Resolución 883/2026",
-    "publicadoEn": "2026-07-03T04:52:12.605Z",
-    "actualizadoEn": "2026-07-05T04:05:31.230Z"
-  },
-  {
-    "id": "2026-07-03-resol-2026-884-apn-mec-a6368d",
-    "slug": "resol-2026-884-apn-mec",
-    "organismo": "MINISTERIO DE ECONOMÍA",
-    "fecha": "2026-07-03",
-    "impacto": "medio",
-    "categoria": "normativa",
-    "tags": [],
-    "titulo": "RESOL-2026-884-APN-MEC",
-    "resumen": "RESOL-2026-884-APN-MEC",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/343985/20260703"
-    },
-    "normativaRef": "Resolución 884/2026",
-    "publicadoEn": "2026-07-03T04:52:12.607Z",
-    "actualizadoEn": "2026-07-05T04:05:31.230Z"
-  },
-  {
-    "id": "2026-07-03-resol-2026-152-apn-semec-5a271c",
-    "slug": "resol-2026-152-apn-semec",
-    "organismo": "MINISTERIO DE ECONOMÍA - SECRETARÍA DE ENERGÍA",
-    "fecha": "2026-07-03",
-    "impacto": "medio",
-    "categoria": "normativa",
-    "tags": [],
-    "titulo": "RESOL-2026-152-APN-SE#MEC",
-    "resumen": "RESOL-2026-152-APN-SE#MEC",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/343986/20260703"
-    },
-    "normativaRef": "Resolución 152/2026",
-    "publicadoEn": "2026-07-03T04:52:12.607Z",
-    "actualizadoEn": "2026-07-05T04:05:31.230Z"
-  },
-  {
-    "id": "2026-07-03-resol-2026-66-apn-shmec-f22387",
-    "slug": "resol-2026-66-apn-shmec",
-    "organismo": "MINISTERIO DE ECONOMÍA - SECRETARÍA DE HACIENDA",
-    "fecha": "2026-07-03",
-    "impacto": "medio",
-    "categoria": "normativa",
-    "tags": [],
-    "titulo": "RESOL-2026-66-APN-SH#MEC",
-    "resumen": "RESOL-2026-66-APN-SH#MEC",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/343987/20260703"
-    },
-    "normativaRef": "Resolución 66/2026",
-    "publicadoEn": "2026-07-03T04:52:12.607Z",
-    "actualizadoEn": "2026-07-05T04:05:31.230Z"
-  },
-  {
-    "id": "2026-07-03-resog-2026-5872-e-arca-arca-impuesto-a-las-ganancias-articulo-17-septimo-parrafo-654ac7",
-    "slug": "resog-2026-5872-e-arca-arca-impuesto-a-las-ganancias-articulo-17-septimo-parrafo",
-    "organismo": "AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO",
-    "fecha": "2026-07-03",
-    "impacto": "medio",
-    "categoria": "normativa",
-    "tags": [
-      "ARCA"
-    ],
-    "titulo": "RESOG-2026-5872-E-ARCA-ARCA - Impuesto a las Ganancias. Artículo 17, séptimo párrafo, de la ley del ",
-    "resumen": "RESOG-2026-5872-E-ARCA-ARCA - Impuesto a las Ganancias. Artículo 17, séptimo párrafo, de la ley del gravamen. Registro de contratos por operaciones de...",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/343996/20260703"
-    },
-    "normativaRef": "Resolución General 5872/2026",
-    "publicadoEn": "2026-07-03T04:52:12.607Z",
-    "actualizadoEn": "2026-07-05T04:05:31.230Z"
-  },
-  {
-    "id": "2026-07-03-resog-2026-5873-e-arca-arca-procedimiento-contribuyentes-concursados-y-fallidos--ba288e",
-    "slug": "resog-2026-5873-e-arca-arca-procedimiento-contribuyentes-concursados-y-fallidos-",
-    "organismo": "AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO",
-    "fecha": "2026-07-03",
-    "impacto": "medio",
-    "categoria": "normativa",
-    "tags": [
-      "ARCA"
-    ],
-    "titulo": "RESOG-2026-5873-E-ARCA-ARCA - Procedimiento. Contribuyentes concursados y fallidos. Obligaciones imp",
-    "resumen": "RESOG-2026-5873-E-ARCA-ARCA - Procedimiento. Contribuyentes concursados y fallidos. Obligaciones impositivas, aduaneras y de los recursos de la seguri...",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/343997/20260703"
-    },
-    "normativaRef": "Resolución General 5873/2026",
-    "publicadoEn": "2026-07-03T04:52:12.607Z",
-    "actualizadoEn": "2026-07-05T04:05:31.230Z"
-  },
-  {
-    "id": "2026-07-03-resog-2026-5874-e-arca-arca-procedimiento-regimen-especial-de-facilidades-de-pag-ae25a0",
-    "slug": "resog-2026-5874-e-arca-arca-procedimiento-regimen-especial-de-facilidades-de-pag",
-    "organismo": "AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO",
-    "fecha": "2026-07-03",
-    "impacto": "medio",
-    "categoria": "normativa",
-    "tags": [
-      "ARCA"
-    ],
-    "titulo": "RESOG-2026-5874-E-ARCA-ARCA - Procedimiento. Régimen especial de facilidades de pago de obligaciones",
-    "resumen": "RESOG-2026-5874-E-ARCA-ARCA - Procedimiento. Régimen especial de facilidades de pago de obligaciones impositivas, aduaneras y de los recursos de la se...",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/343998/20260703"
-    },
-    "normativaRef": "Resolución General 5874/2026",
-    "publicadoEn": "2026-07-03T04:52:12.608Z",
-    "actualizadoEn": "2026-07-05T04:05:31.230Z"
-  },
-  {
-    "id": "2026-07-03-di-2026-90-e-arca-arca-2d1f4e",
-    "slug": "di-2026-90-e-arca-arca",
-    "organismo": "AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO",
-    "fecha": "2026-07-03",
-    "impacto": "medio",
-    "categoria": "normativa",
-    "tags": [
-      "ARCA"
-    ],
-    "titulo": "DI-2026-90-E-ARCA-ARCA",
-    "resumen": "DI-2026-90-E-ARCA-ARCA",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/344016/20260703"
-    },
-    "normativaRef": "Disposición 90/2026",
-    "publicadoEn": "2026-07-03T04:52:12.608Z",
-    "actualizadoEn": "2026-07-05T04:05:31.230Z"
-  },
-  {
-    "id": "2026-07-03-di-2026-91-e-arca-arca-f0c310",
-    "slug": "di-2026-91-e-arca-arca",
-    "organismo": "AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO",
-    "fecha": "2026-07-03",
-    "impacto": "medio",
-    "categoria": "normativa",
-    "tags": [
-      "ARCA"
-    ],
-    "titulo": "DI-2026-91-E-ARCA-ARCA",
-    "resumen": "DI-2026-91-E-ARCA-ARCA",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/344017/20260703"
-    },
-    "normativaRef": "Disposición 91/2026",
-    "publicadoEn": "2026-07-03T04:52:12.608Z",
-    "actualizadoEn": "2026-07-05T04:05:31.230Z"
-  },
-  {
-    "id": "2026-07-03-di-2026-92-e-arca-arca-8ff785",
-    "slug": "di-2026-92-e-arca-arca",
-    "organismo": "AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO",
-    "fecha": "2026-07-03",
-    "impacto": "medio",
-    "categoria": "normativa",
-    "tags": [
-      "ARCA"
-    ],
-    "titulo": "DI-2026-92-E-ARCA-ARCA",
-    "resumen": "DI-2026-92-E-ARCA-ARCA",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/344018/20260703"
-    },
-    "normativaRef": "Disposición 92/2026",
-    "publicadoEn": "2026-07-03T04:52:12.608Z",
-    "actualizadoEn": "2026-07-05T04:05:31.230Z"
-  },
-  {
-    "id": "2026-07-03-di-2026-93-e-arca-arca-361252",
-    "slug": "di-2026-93-e-arca-arca",
-    "organismo": "AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO",
-    "fecha": "2026-07-03",
-    "impacto": "medio",
-    "categoria": "normativa",
-    "tags": [
-      "ARCA"
-    ],
-    "titulo": "DI-2026-93-E-ARCA-ARCA",
-    "resumen": "DI-2026-93-E-ARCA-ARCA",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/344019/20260703"
-    },
-    "normativaRef": "Disposición 93/2026",
-    "publicadoEn": "2026-07-03T04:52:12.608Z",
-    "actualizadoEn": "2026-07-05T04:05:31.230Z"
-  },
-  {
-    "id": "2026-07-03-di-2026-28-e-arca-adiguasdgoai-db788f",
-    "slug": "di-2026-28-e-arca-adiguasdgoai",
-    "organismo": "AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO - ADUANA IGUAZÚ",
-    "fecha": "2026-07-03",
-    "impacto": "medio",
-    "categoria": "importacion",
-    "tags": [
-      "ARCA"
-    ],
-    "titulo": "DI-2026-28-E-ARCA-ADIGUA#SDGOAI",
-    "resumen": "DI-2026-28-E-ARCA-ADIGUA#SDGOAI",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/344020/20260703"
-    },
-    "normativaRef": "Disposición 28/2026",
-    "publicadoEn": "2026-07-03T04:52:12.608Z",
-    "actualizadoEn": "2026-07-05T04:05:31.230Z"
-  },
-  {
-    "id": "2026-07-03-di-2026-60-e-arca-dirrossdgopii-9edbd4",
-    "slug": "di-2026-60-e-arca-dirrossdgopii",
-    "organismo": "AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO - DIRECCIÓN REGIONAL ROSARIO",
-    "fecha": "2026-07-03",
-    "impacto": "medio",
-    "categoria": "normativa",
-    "tags": [
-      "ARCA"
-    ],
-    "titulo": "DI-2026-60-E-ARCA-DIRROS#SDGOPII",
-    "resumen": "DI-2026-60-E-ARCA-DIRROS#SDGOPII",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/344021/20260703"
-    },
-    "normativaRef": "Disposición 60/2026",
-    "publicadoEn": "2026-07-03T04:52:12.608Z",
-    "actualizadoEn": "2026-07-05T04:05:31.230Z"
-  },
-  {
-    "id": "2026-07-03-di-2026-242-e-arca-dirrhhsdgadm-0edfe4",
-    "slug": "di-2026-242-e-arca-dirrhhsdgadm",
-    "organismo": "AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO - DIRECCIÓN DE RECURSOS HUMANOS",
-    "fecha": "2026-07-03",
-    "impacto": "medio",
-    "categoria": "importacion",
-    "tags": [
-      "ARCA"
-    ],
-    "titulo": "DI-2026-242-E-ARCA-DIRRHH#SDGADM",
-    "resumen": "DI-2026-242-E-ARCA-DIRRHH#SDGADM",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/344022/20260703"
-    },
-    "normativaRef": "Disposición 242/2026",
-    "publicadoEn": "2026-07-03T04:52:12.608Z",
-    "actualizadoEn": "2026-07-05T04:05:31.230Z"
-  },
-  {
-    "id": "2026-07-03-aviso-oficial-23627c",
-    "slug": "aviso-oficial",
-    "organismo": "AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO - ADUANA BARRANQUERAS",
-    "fecha": "2026-07-03",
-    "impacto": "medio",
+    "impacto": "bajo",
     "categoria": "importacion",
     "tags": [],
-    "titulo": "Aviso Oficial",
-    "resumen": "Aviso Oficial",
+    "titulo": "El CDA incorpora una nueva Asesoría Especializada en Seguro",
+    "resumen": "Con el objetivo de continuar ampliando los servicios de asesoramiento profesional para los Despachantes de Aduana, el Centro Despachantes de...",
     "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
     "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/344028/20260703"
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42619"
     },
-    "publicadoEn": "2026-07-03T04:52:12.608Z",
-    "actualizadoEn": "2026-07-05T04:05:31.230Z"
+    "publicadoEn": "2026-07-05T04:12:00.329Z",
+    "actualizadoEn": "2026-07-05T04:12:00.334Z"
+  },
+  {
+    "id": "2026-07-05-jornada-comex-2026-tres-jornadas-para-construir-el-futuro-d-d90d17",
+    "slug": "jornada-comex-2026-tres-jornadas-para-construir-el-futuro-d",
+    "organismo": "CDA",
+    "fecha": "2026-07-03",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [],
+    "titulo": "Jornada Comex 2026: tres jornadas para construir el futuro d",
+    "resumen": "Más de 550 participantes acompañaron la Jornada Comex 2026 del CDA, tres días de análisis, actualización y construcción conjunta para ...",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42625"
+    },
+    "publicadoEn": "2026-07-05T04:12:00.331Z",
+    "actualizadoEn": "2026-07-05T04:12:00.334Z"
+  },
+  {
+    "id": "2026-07-05-se-fortalecen-los-conocimientos-sobre-limites-maximos-de-residuos-y-productos-fi-c91bb2",
+    "slug": "se-fortalecen-los-conocimientos-sobre-limites-maximos-de-residuos-y-productos-fi",
+    "organismo": "SENASA",
+    "fecha": "2026-07-03",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "SENASA",
+      "fitosanitario"
+    ],
+    "titulo": "Se fortalecen los conocimientos sobre límites máximos de residuos y productos fitosanitarios",
+    "resumen": "El SENASA participó de una actividad que promovió el intercambio de capacidades técnicas entre organismos sanitarios y de salud de América Latina.",
+    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
+    "fuente": {
+      "nombre": "SENASA Comunica",
+      "url": "https://www.argentina.gob.ar/noticias/se-fortalecen-los-conocimientos-sobre-limites-maximos-de-residuos-y-productos"
+    },
+    "publicadoEn": "2026-07-05T04:12:00.332Z",
+    "actualizadoEn": "2026-07-05T04:12:00.334Z"
+  },
+  {
+    "id": "2026-07-05-aporte-solidario-de-socios-vitalicios-una-forma-de-seguir-a-84cb55",
+    "slug": "aporte-solidario-de-socios-vitalicios-una-forma-de-seguir-a",
+    "organismo": "CDA",
+    "fecha": "2026-07-02",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "Aporte solidario de socios vitalicios: una forma de seguir a",
+    "resumen": "El Centro Despachantes de Aduana (CDA) invita a sus socios vitalicios a continuar acompañando activamente el desarrollo y sostenimiento de ...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42521"
+    },
+    "publicadoEn": "2026-07-05T04:12:00.332Z",
+    "actualizadoEn": "2026-07-05T04:12:00.334Z"
+  },
+  {
+    "id": "2026-07-05-nuevo-servicio-de-traslado-de-documentacion-a-ezeiza-a-carg-02a143",
+    "slug": "nuevo-servicio-de-traslado-de-documentacion-a-ezeiza-a-carg",
+    "organismo": "CDA",
+    "fecha": "2026-07-02",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "Nuevo servicio de traslado de documentación a Ezeiza a carg",
+    "resumen": "El Centro Despachantes de Aduana (CDA) informa a sus socios que, a partir de la fecha, el servicio de traslado de documentación estará a c...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42623"
+    },
+    "publicadoEn": "2026-07-05T04:12:00.332Z",
+    "actualizadoEn": "2026-07-05T04:12:00.334Z"
+  },
+  {
+    "id": "2026-07-05-convocatoria-asamblea-general-extraordinaria-013dca",
+    "slug": "convocatoria-asamblea-general-extraordinaria",
+    "organismo": "CDA",
+    "fecha": "2026-07-02",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [],
+    "titulo": "Convocatoria Asamblea General Extraordinaria",
+    "resumen": "Conforme a lo determinado en los Artículos 59, 60, 62, 63 y 64 del Estatuto Social, se convoca a los señores socios del CENTRO DESPACHANTE...",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42621"
+    },
+    "publicadoEn": "2026-07-05T04:12:00.332Z",
+    "actualizadoEn": "2026-07-05T04:12:00.334Z"
   }
 ]

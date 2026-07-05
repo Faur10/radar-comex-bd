@@ -4,8 +4,25 @@ import { RawNovedad } from '../types.js';
 const BASE_CAMBIARIAS = 'https://api.bcra.gob.ar/estadisticascambiarias/v1.0';
 const BASE_SITE       = 'https://www.bcra.gob.ar';
 
+// El motor corre de lunes a viernes: 3 días de ventana cubre el fin de
+// semana (el lunes hay que llegar hasta el viernes anterior).
+const DIAS_VENTANA = 3;
+
 function isoToday(): string {
   return new Date().toISOString().split('T')[0];
+}
+
+function ddmmyyyyToIso(ddmmyyyy: string): string {
+  const [dd, mm, yyyy] = ddmmyyyy.split('/');
+  return `${yyyy}-${mm}-${dd}`;
+}
+
+function dentroDeVentana(ddmmyyyy: string, dias: number): boolean {
+  const fecha  = new Date(`${ddmmyyyyToIso(ddmmyyyy)}T00:00:00Z`);
+  const cutoff = new Date();
+  cutoff.setUTCDate(cutoff.getUTCDate() - dias);
+  cutoff.setUTCHours(0, 0, 0, 0);
+  return fecha.getTime() >= cutoff.getTime();
 }
 
 async function fetchVariables(): Promise<RawNovedad[]> {
@@ -56,16 +73,13 @@ async function fetchComunicaciones(): Promise<RawNovedad[]> {
   const html = await res.text();
   const novedades: RawNovedad[] = [];
 
-  const [yyyy, mm, dd] = isoToday().split('-');
-  const fechaHoy = `${dd}/${mm}/${yyyy}`;
-
   // Busca filas de tabla con Comunicaciones A
   const rowRe = /<tr[\s\S]*?<\/tr>/gi;
   const rows  = html.match(rowRe) ?? [];
 
   for (const row of rows) {
     const fechaMatch = row.match(/(\d{2}\/\d{2}\/\d{4})/);
-    if (!fechaMatch || fechaMatch[1] !== fechaHoy) continue;
+    if (!fechaMatch || !dentroDeVentana(fechaMatch[1], DIAS_VENTANA)) continue;
 
     const numMatch  = row.match(/Com(?:unicaci[oó]n)?\s*A\s*"?(\d+)/i);
     const linkMatch = row.match(/href="([^"]+)"/i);
@@ -84,7 +98,7 @@ async function fetchComunicaciones(): Promise<RawNovedad[]> {
       titulo: `BCRA – Comunicación "A" ${num}`,
       sinopsis: texto || `Comunicación "A" ${num} del BCRA`,
       organismo: 'BCRA',
-      fecha: isoToday(),
+      fecha: ddmmyyyyToIso(fechaMatch[1]),
       fuente: {
         nombre: 'BCRA – Comunicaciones',
         url: href.startsWith('http') ? href : `${BASE_SITE}${href}`,

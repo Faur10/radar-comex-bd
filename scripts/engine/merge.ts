@@ -1,7 +1,12 @@
 import { createHash } from 'node:crypto';
 import { Alerta } from './types.js';
 
-const MAX_ALERTAS = 60;
+// El radar corre de lunes a viernes y cada corrida trae solo la ventana de
+// las últimas 24-48hs (ver sources/*.ts) — no la semana completa. Por eso
+// ya no se puede reemplazar el archivo entero: se mergea con lo existente
+// y se retiene una ventana móvil de DIAS_RETENCION días, para que el sitio
+// siempre muestre un panorama útil y no solo "lo de hoy".
+const DIAS_RETENCION = 14;
 
 function titleHash(titulo: string): string {
   const normalized = titulo.toLowerCase().replace(/\s+/g, ' ').trim().slice(0, 120);
@@ -26,22 +31,30 @@ function dedupKeys(a: Alerta): string[] {
   return keys;
 }
 
-export function mergeAlertas(existing: Alerta[], incoming: Alerta[]): Alerta[] {
-  const now  = new Date().toISOString();
+function dentroDeRetencion(a: Alerta, cutoff: Date): boolean {
+  return new Date(`${a.fecha}T00:00:00Z`).getTime() >= cutoff.getTime();
+}
+
+export function buildRollingAlertas(existing: Alerta[], incoming: Alerta[]): Alerta[] {
+  const now    = new Date().toISOString();
+  const cutoff = new Date();
+  cutoff.setUTCDate(cutoff.getUTCDate() - DIAS_RETENCION);
+  cutoff.setUTCHours(0, 0, 0, 0);
+
   const seen = new Set<string>();
   const out: Alerta[] = [];
 
-  // Primero los incoming (más recientes); preservar publicadoEn si ya existía
+  // Para preservar publicadoEn original si la alerta ya existía
   const existingByKey = new Map<string, Alerta>();
   for (const a of existing) {
     for (const k of dedupKeys(a)) existingByKey.set(k, a);
   }
 
+  // Primero las incoming (más recientes)
   for (const a of incoming) {
     const keys = dedupKeys(a);
     if (keys.some(k => seen.has(k))) continue;
 
-    // Recuperar publicadoEn original si es una alerta conocida
     const prev = keys.map(k => existingByKey.get(k)).find(Boolean);
     const publicadoEn = prev?.publicadoEn ?? a.publicadoEn ?? now;
 
@@ -49,16 +62,15 @@ export function mergeAlertas(existing: Alerta[], incoming: Alerta[]): Alerta[] {
     out.push({ ...a, publicadoEn, actualizadoEn: now });
   }
 
-  // Luego los existing que no son duplicados de los incoming
+  // Luego las existing que no son duplicados y siguen dentro de la ventana
   for (const a of existing) {
     const keys = dedupKeys(a);
     if (keys.some(k => seen.has(k))) continue;
     keys.forEach(k => seen.add(k));
-    out.push({ ...a, actualizadoEn: now });
+    out.push(a);
   }
 
-  // Ordenar por fecha desc (fecha ISO lexicográfica funciona directo)
-  out.sort((a, b) => b.fecha.localeCompare(a.fecha));
-
-  return out.slice(0, MAX_ALERTAS);
+  return out
+    .filter(a => dentroDeRetencion(a, cutoff))
+    .sort((a, b) => b.fecha.localeCompare(a.fecha));
 }

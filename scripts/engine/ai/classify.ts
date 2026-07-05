@@ -5,7 +5,7 @@ import { RawNovedad, AIResult, Impacto, Categoria } from '../types.js';
 const MODEL   = 'gemini-2.0-flash-lite';
 const TIMEOUT = 30_000;
 
-const VALID_IMPACTO  = new Set<Impacto>(['alto', 'medio', 'oportunidad']);
+const VALID_IMPACTO  = new Set<Impacto>(['alto', 'medio', 'bajo']);
 const VALID_CATEGORIA = new Set<Categoria>(['importacion', 'exportacion', 'normativa', 'logistica']);
 
 function buildPrompt(n: RawNovedad): string {
@@ -18,7 +18,7 @@ ORGANISMO: ${n.organismo}
 El JSON debe tener exactamente estas claves y valores permitidos:
 {
   "organismo": "nombre oficial del organismo emisor (string)",
-  "impacto": "alto" | "medio" | "oportunidad",
+  "impacto": "alto" | "medio" | "bajo",
   "categoria": "importacion" | "exportacion" | "normativa" | "logistica",
   "tags": ["array de strings", "máximo 5 términos técnicos COMEX"],
   "titulo": "título reescrito en español claro, máximo 100 caracteres",
@@ -26,10 +26,10 @@ El JSON debe tener exactamente estas claves y valores permitidos:
   "queSignifica": "1 o 2 frases prácticas sobre qué debe verificar o hacer el importador/exportador. Sé prudente: sugerí revisar, nunca afirmes que algo no aplica."
 }
 
-Criterios de impacto:
-- "alto": prohíbe, suspende, cambia alícuotas, impone nuevos requisitos obligatorios
-- "medio": modifica procedimientos, plazos o criterios existentes
-- "oportunidad": simplificación, beneficio, exención, nuevo programa, información útil
+Criterios de impacto (pensado para un despachante de aduanas, no para prensa general):
+- "alto": bloquea o frena una operación en curso — comunicaciones "A" o MULC del BCRA, caídas/alertas de sistemas (VUCE, SIM, Malvina), retiros de mercado o prohibiciones de comercialización de ANMAT/INAL, suspensiones de registros o habilitaciones de ARCA/Aduana
+- "medio": cambia costos o procedimientos pero no bloquea nada hoy — modificación de aranceles, alícuotas, valores criterio, derechos de exportación, resoluciones generales de ARCA/Aduana, reglamentos técnicos del INTI
+- "bajo": informativo, no cambia nada operativo — noticias institucionales del CDA, capacitaciones, jurisprudencia, informes generales, acuerdos comerciales de largo plazo
 
 Criterios de categoría:
 - "importacion": afecta principalmente operaciones de importación

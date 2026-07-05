@@ -1,8 +1,12 @@
 # Motor de actualización – RADAR COMEX BD
 
-Job diario en GitHub Actions que obtiene novedades de BCRA y Boletín Oficial,
-filtra las relevantes para comercio exterior y las publica en `data/alertas.json`.
-El push automático dispara el redeploy en Netlify.
+Job diario de lunes a viernes (7:00 hs Argentina) en GitHub Actions que
+obtiene novedades de BCRA, Boletín Oficial, ARCA, Aduana, SENASA, ANMAT,
+CDA, INTI y Secretaría de Comercio Exterior de las **últimas 24-48hs**
+(ventana de 3 días para cubrir el fin de semana), filtra las relevantes
+para comercio exterior y las **mergea** con lo existente en
+`data/alertas.json`, reteniendo una **ventana móvil de 14 días** (ver
+`merge.ts`). El push automático dispara el redeploy en Netlify.
 
 ---
 
@@ -42,7 +46,7 @@ npm install
 4. Copiar la key generada (empieza con `AIza…`).
 5. **No compartir ni commitear** esta key. Solo va como secret de GitHub.
 
-> El free tier de Gemini incluye 1.500 requests/día y 1M tokens/min con `gemini-2.0-flash-lite`, suficiente para el job diario.
+> El free tier de Gemini incluye 1.500 requests/día y 1M tokens/min con `gemini-2.0-flash-lite`, más que suficiente para el job diario.
 
 ---
 
@@ -63,23 +67,53 @@ npm install
 
 1. En el repo, ir a la pestaña **Actions**.
 2. Si GitHub pregunta si habilitar workflows, confirmar.
-3. El job corre automáticamente a las **08:00 hora Argentina** (11:00 UTC) todos los días.
-4. Para correr manualmente: Actions → "Radar COMEX BD" → **Run workflow**.
+3. El job corre automáticamente a las **07:00 hora Argentina** (10:00 UTC) **de lunes a viernes**.
+4. Para correr manualmente (por ejemplo, para forzar un refresco): Actions → "Radar COMEX BD" → **Run workflow**.
 
 ---
 
 ## 4. Cómo funciona el motor
 
 ```
-fetchBCRA() ─┐
-             ├─→ filterComex() → classifyWithAI() [o fallback] → mergeAlertas() → writeAlertas()
-fetchBoletin()─┘
+fetchBCRA() ────────────┐
+fetchBoletin() ─────────┤   (todas: últimos 3 días,
+fetchCDA() ─────────────┼─→  cubre el fin de semana)
+fetchArgentinaGobNoticias()   → filterComex() → classifyWithAI() [o fallback] → buildRollingAlertas() → writeAlertas()
+  (ARCA, Aduana, SENASA, ─┘
+   ANMAT, INTI, Sec. Comercio)
 ```
 
 - Si **una fuente cae**, las demás continúan.
+- **`filterComex.ts` no tiene whitelist de organismos**: toda novedad —
+  venga de donde venga — tiene que matchear una keyword real de contenido
+  comex (aduana, arancel, importación, exportación, VUCE, MULC, etc.). Esto
+  evita que pasen gacetillas institucionales solo por venir de un organismo
+  "de confianza".
 - Si **Gemini falla o no hay key**, `fallback.ts` clasifica por palabras clave.
 - Si **el job falla**, GitHub envía mail automático al dueño del repo.
 - `data/alertas.json` se escribe atómicamente (temp → rename) para evitar corrupción.
+- **Ventana móvil de 14 días** (`merge.ts`): como cada corrida diaria solo
+  trae 24-48hs nuevas, el motor mergea con lo existente (dedup por hash de
+  título/referencia normativa/URL) y descarta lo que ya tiene más de 14
+  días. Así el sitio siempre muestra un panorama útil, no solo "lo de hoy".
+- El **organismo** de cada alerta se normaliza (`organismoMap.ts`) a un
+  código corto (ARCA, Aduana, SENASA, BCRA, ANMAT / INAL, CDA, INTI,
+  Secretaría de Comercio, Min. Economía, Cancillería) para que el badge de
+  institución en el frontend sea siempre consistente, aunque la fuente
+  original publique el nombre largo oficial.
+- **VUCE**: su sección de novedades (vuce.gob.ar/novedades) es una SPA React
+  sin contenido en el HTML estático, así que no tiene scraper propio. El
+  Boletín Oficial actúa como fuente indirecta: cualquier norma que
+  mencione "VUCE" o "Ventanilla Única" ya matchea esas keywords en
+  `filterComex.ts` y entra igual.
+- **Impacto** (alto/medio/bajo) pensado para un despachante, no para
+  prensa general: *alto* = bloquea una operación hoy (comunicaciones "A"
+  del BCRA, caídas de VUCE/SIM/Malvina, retiros de mercado de ANMAT,
+  suspensiones de registro de ARCA/Aduana); *medio* = cambia costos o
+  procedimientos (aranceles, alícuotas, valores criterio, RG de
+  ARCA/Aduana, reglamentos técnicos del INTI); *bajo* = informativo
+  (noticias del CDA, capacitaciones, jurisprudencia, acuerdos comerciales
+  de largo plazo).
 
 ---
 

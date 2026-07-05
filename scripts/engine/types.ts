@@ -8,7 +8,7 @@ export interface RawNovedad {
   rawText: string;      // texto completo para filtrado por keywords
 }
 
-export type Impacto = 'alto' | 'medio' | 'oportunidad';
+export type Impacto = 'alto' | 'medio' | 'bajo';
 export type Categoria = 'importacion' | 'exportacion' | 'normativa' | 'logistica';
 
 export interface Alerta {

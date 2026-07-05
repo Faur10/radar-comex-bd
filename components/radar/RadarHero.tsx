@@ -57,7 +57,7 @@ export function RadarHero() {
               <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-gold" />
             </span>
             <span className="text-gold text-sm font-medium tracking-wide uppercase">
-              Actualización automática diaria
+              Actualización automática diaria · Lunes a viernes 7:00 hs
             </span>
           </motion.div>
 
@@ -130,7 +130,7 @@ export function RadarHero() {
             height={280}
             unoptimized
             priority
-            className="drop-shadow-2xl"
+            className="drop-shadow-2xl w-[280px] h-[280px]"
           />
         </motion.div>
 

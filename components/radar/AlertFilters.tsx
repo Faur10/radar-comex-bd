@@ -6,11 +6,17 @@ import type { Categoria, Impacto } from '@/lib/radar/types';
 export type FilterKey =
   | 'todos'
   | Categoria
-  | 'oportunidades'
+  | 'alto'
+  | 'informativas'
   | 'bcra'
   | 'senasa'
   | 'arca'
-  | 'aduana';
+  | 'aduana'
+  | 'cda'
+  | 'anmat'
+  | 'inti'
+  | 'minecon'
+  | 'cancilleria';
 
 interface FilterOption {
   key:   FilterKey;
@@ -23,11 +29,17 @@ const FILTERS: FilterOption[] = [
   { key: 'exportacion',  label: 'Exportación' },
   { key: 'normativa',    label: 'Normativa' },
   { key: 'logistica',    label: 'Logística' },
-  { key: 'oportunidades', label: 'Oportunidades' },
+  { key: 'alto',         label: 'Alto impacto' },
+  { key: 'informativas', label: 'Informativas' },
   { key: 'bcra',         label: 'BCRA' },
   { key: 'senasa',       label: 'SENASA' },
   { key: 'arca',         label: 'ARCA' },
   { key: 'aduana',       label: 'Aduana' },
+  { key: 'cda',          label: 'CDA' },
+  { key: 'anmat',        label: 'ANMAT / INAL' },
+  { key: 'inti',         label: 'INTI' },
+  { key: 'minecon',      label: 'Min. Economía' },
+  { key: 'cancilleria',  label: 'Cancillería' },
 ];
 
 interface AlertFiltersProps {
@@ -45,8 +57,14 @@ export function AlertFilters({ active, onChange, counts }: AlertFiltersProps) {
       className="flex flex-wrap gap-2"
     >
       {FILTERS.map((f) => {
+        const count = counts[f.key];
+
+        // Solo "Todos" se muestra siempre. El resto de los chips son
+        // data-driven: si no hay ninguna alerta de esa categoría/organismo
+        // en este momento, no ensucia el menú con una opción vacía.
+        if (f.key !== 'todos' && count === undefined) return null;
+
         const isActive = active === f.key;
-        const count    = counts[f.key];
 
         return (
           <button

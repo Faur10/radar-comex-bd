@@ -2,12 +2,21 @@ import { RawNovedad } from '../types.js';
 
 const BORA_BASE = 'https://www.boletinoficial.gob.ar';
 
-function isoToday(): string {
-  return new Date().toISOString().split('T')[0];
-}
+// El motor corre de lunes a viernes: 3 días de ventana cubre el fin de
+// semana (el lunes hay que llegar hasta el viernes anterior) sin traer de
+// más. El dedup en merge.ts absorbe el solape entre corridas.
+const DIAS_VENTANA = 3;
 
-function todayYYYYMMDD(): string {
-  return isoToday().replace(/-/g, '');
+// Últimos N días en formato ISO (YYYY-MM-DD), incluyendo hoy.
+function ventanaSemanal(dias: number): string[] {
+  const out: string[] = [];
+  const base = new Date();
+  for (let i = 0; i < dias; i++) {
+    const d = new Date(base);
+    d.setUTCDate(d.getUTCDate() - i);
+    out.push(d.toISOString().split('T')[0]);
+  }
+  return out;
 }
 
 interface BoraItem {
@@ -18,6 +27,7 @@ interface BoraItem {
   descripcion: string;
   url: string;
   normativaRef: string;
+  fecha: string;
 }
 
 function decodeEntities(s: string): string {
@@ -39,27 +49,31 @@ function splitTipoNumero(text: string): { tipo: string; numero: string } {
   return m ? { tipo: m[1].trim(), numero: m[2].trim() } : { tipo: text.trim(), numero: '' };
 }
 
-// Listado por sección del día: BORA renderiza el HTML server-side en /seccion/{nombre}/{fecha}
+// Listado por sección de cada día de la ventana semanal: BORA renderiza el
+// HTML server-side en /seccion/{nombre}/{fecha}
 async function fetchBoraPorSeccion(): Promise<BoraItem[]> {
-  const fecha = todayYYYYMMDD();
   const secciones = ['primera', 'segunda'];
   const items: BoraItem[] = [];
 
-  for (const sec of secciones) {
-    try {
-      const res = await fetch(`${BORA_BASE}/seccion/${sec}/${fecha}`, {
-        headers: {
-          Accept: 'text/html',
-          'User-Agent': 'Mozilla/5.0 (compatible; RadarComexBot/1.0)',
-        },
-        signal: AbortSignal.timeout(20_000),
-      });
-      if (!res.ok) continue;
+  for (const fechaIso of ventanaSemanal(DIAS_VENTANA)) {
+    const fechaYYYYMMDD = fechaIso.replace(/-/g, '');
 
-      const html = await res.text();
-      items.push(...parseBoraSeccionHTML(html));
-    } catch {
-      // sección no disponible, continuar con la siguiente
+    for (const sec of secciones) {
+      try {
+        const res = await fetch(`${BORA_BASE}/seccion/${sec}/${fechaYYYYMMDD}`, {
+          headers: {
+            Accept: 'text/html',
+            'User-Agent': 'Mozilla/5.0 (compatible; RadarComexBot/1.0)',
+          },
+          signal: AbortSignal.timeout(20_000),
+        });
+        if (!res.ok) continue;
+
+        const html = await res.text();
+        items.push(...parseBoraSeccionHTML(html, fechaIso));
+      } catch {
+        // sección no disponible ese día (ej. fin de semana), continuar
+      }
     }
   }
 
@@ -72,7 +86,7 @@ async function fetchBoraPorSeccion(): Promise<BoraItem[]> {
 //   <p class="item-detalle"><small>Tipo Numero/Año</small></p>
 //   <p class="item-detalle"><small>Referencia - Descripción</small></p>
 // </div></a>
-function parseBoraSeccionHTML(html: string): BoraItem[] {
+function parseBoraSeccionHTML(html: string, fecha: string): BoraItem[] {
   const items: BoraItem[] = [];
   const avisoRe = /<a href="([^"]+)"[^>]*>\s*<div class="linea-aviso">([\s\S]*?)<\/div>\s*<\/a>/gi;
 
@@ -99,6 +113,7 @@ function parseBoraSeccionHTML(html: string): BoraItem[] {
       descripcion,
       url,
       normativaRef: tipo && numero ? `${tipo} ${numero}` : '',
+      fecha,
     });
   }
 
@@ -110,7 +125,7 @@ export async function fetchBoletin(): Promise<RawNovedad[]> {
 
   try {
     items = await fetchBoraPorSeccion();
-    console.log(`  [Boletin] Por sección: ${items.length} normas`);
+    console.log(`  [Boletin] Por sección (últimos ${DIAS_VENTANA} días): ${items.length} normas`);
   } catch (err) {
     console.warn('[Boletin] Listado por sección falló:', (err as Error).message);
   }
@@ -119,7 +134,7 @@ export async function fetchBoletin(): Promise<RawNovedad[]> {
     titulo:      n.titulo,
     sinopsis:    n.descripcion || n.titulo,
     organismo:   n.organismo,
-    fecha:       isoToday(),
+    fecha:       n.fecha,
     fuente: {
       nombre: 'Boletín Oficial de la República Argentina',
       url:    n.url,

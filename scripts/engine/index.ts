@@ -1,10 +1,13 @@
 import { randomUUID } from 'node:crypto';
-import { fetchBCRA }            from './sources/bcra.js';
-import { fetchBoletin }         from './sources/boletin.js';
+import { fetchBCRA }              from './sources/bcra.js';
+import { fetchBoletin }           from './sources/boletin.js';
+import { fetchCDA }               from './sources/cda.js';
+import { fetchArgentinaGobNoticias, FuenteArgentinaGob } from './sources/argentinaGob.js';
 import { filterComex }          from './filterComex.js';
 import { classifyWithAI }       from './ai/classify.js';
 import { classifyWithFallback } from './ai/fallback.js';
-import { mergeAlertas }         from './merge.js';
+import { buildRollingAlertas }   from './merge.js';
+import { normalizeOrganismo }   from './organismoMap.js';
 import { readExistingAlertas, writeAlertas } from './writeData.js';
 import { RawNovedad, Alerta, AIResult } from './types.js';
 
@@ -48,7 +51,7 @@ async function buildAlerta(raw: RawNovedad): Promise<Alerta> {
   return {
     id,
     slug,
-    organismo:    classified.organismo || raw.organismo,
+    organismo:    normalizeOrganismo(classified.organismo || raw.organismo),
     fecha:        raw.fecha,
     impacto:      classified.impacto,
     categoria:    classified.categoria,
@@ -63,6 +66,18 @@ async function buildAlerta(raw: RawNovedad): Promise<Alerta> {
   };
 }
 
+// Micrositios de argentina.gob.ar que comparten la misma plantilla de
+// "noticias" (ver sources/argentinaGob.ts). VUCE queda afuera: su sección de
+// novedades es una SPA (React) que no expone contenido en el HTML estático.
+const FUENTES_ARGENTINA_GOB: FuenteArgentinaGob[] = [
+  { path: '/arca/noticias',                         organismo: 'ARCA',                   fuenteNombre: 'ARCA – Noticias' },
+  { path: '/arca/aduana/noticias',                  organismo: 'Aduana',                  fuenteNombre: 'Aduana – Novedades' },
+  { path: '/senasa/senasacomunica',                 organismo: 'SENASA',                  fuenteNombre: 'SENASA Comunica' },
+  { path: '/anmat/alertas',                         organismo: 'ANMAT',                   fuenteNombre: 'ANMAT – Alertas' },
+  { path: '/inti/noticias',                         organismo: 'INTI',                    fuenteNombre: 'INTI – Noticias' },
+  { path: '/produccion/comercio-exterior/noticias', organismo: 'Secretaría de Comercio',  fuenteNombre: 'Secretaría de Comercio Exterior – Noticias' },
+];
+
 // ── Orquestador principal ─────────────────────────────────────────────────────
 
 async function main(): Promise<void> {
@@ -70,33 +85,33 @@ async function main(): Promise<void> {
   const fechaAR = new Date().toLocaleString('es-AR', { timeZone: 'America/Argentina/Buenos_Aires' });
 
   console.log('\n══════════════════════════════════════════════════');
-  console.log('  RADAR COMEX BD — Motor de actualización diaria');
+  console.log('  RADAR COMEX BD — Motor de actualización diaria (L-V)');
   console.log(`  Fecha : ${fechaAR}`);
   console.log(`  IA    : ${process.env.GEMINI_API_KEY ? '✓ Gemini habilitado' : '✗ Fallback por reglas (sin GEMINI_API_KEY)'}`);
   console.log('══════════════════════════════════════════════════\n');
 
   // ── Paso 1: Fetch de todas las fuentes en paralelo ──────────────────────────
   console.log('[1/5] Obteniendo fuentes…');
-  const [bcraResult, boletinResult] = await Promise.allSettled([
-    fetchBCRA(),
-    fetchBoletin(),
-  ]);
 
+  const fuentes: Array<{ nombre: string; promesa: Promise<RawNovedad[]> }> = [
+    { nombre: 'BCRA',            promesa: fetchBCRA() },
+    { nombre: 'Boletín Oficial', promesa: fetchBoletin() },
+    { nombre: 'CDA',             promesa: fetchCDA() },
+    ...FUENTES_ARGENTINA_GOB.map(f => ({ nombre: f.organismo, promesa: fetchArgentinaGobNoticias(f) })),
+  ];
+
+  const resultados = await Promise.allSettled(fuentes.map(f => f.promesa));
   const rawAll: RawNovedad[] = [];
 
-  if (bcraResult.status === 'fulfilled') {
-    console.log(`  ✓ BCRA: ${bcraResult.value.length} novedades`);
-    rawAll.push(...bcraResult.value);
-  } else {
-    console.warn('  ✗ BCRA falló (el motor continúa):', (bcraResult.reason as Error).message);
-  }
-
-  if (boletinResult.status === 'fulfilled') {
-    console.log(`  ✓ Boletín Oficial: ${boletinResult.value.length} novedades`);
-    rawAll.push(...boletinResult.value);
-  } else {
-    console.warn('  ✗ Boletín Oficial falló (el motor continúa):', (boletinResult.reason as Error).message);
-  }
+  resultados.forEach((r, i) => {
+    const nombre = fuentes[i].nombre;
+    if (r.status === 'fulfilled') {
+      console.log(`  ✓ ${nombre}: ${r.value.length} novedades`);
+      rawAll.push(...r.value);
+    } else {
+      console.warn(`  ✗ ${nombre} falló (el motor continúa):`, (r.reason as Error).message);
+    }
+  });
 
   // ── Paso 2: Filtrar por relevancia COMEX ────────────────────────────────────
   console.log(`\n[2/5] Filtrando por relevancia COMEX…`);
@@ -121,19 +136,18 @@ async function main(): Promise<void> {
     }
   }
 
-  // ── Paso 4: Merge con alertas existentes ────────────────────────────────────
-  console.log(`\n[4/5] Mergeando con datos existentes…`);
+  // ── Paso 4: Mergear con lo existente (ventana móvil de 14 días) ─────────────
+  console.log(`\n[4/5] Mergeando con la ventana móvil…`);
   const existentes = readExistingAlertas();
-  console.log(`  Existentes: ${existentes.length} | Nuevas candidatas: ${nuevasAlertas.length}`);
-  const merged = mergeAlertas(existentes, nuevasAlertas);
-  console.log(`  Total tras dedup y limit-60: ${merged.length}`);
+  const actualizado = buildRollingAlertas(existentes, nuevasAlertas);
+  console.log(`  Existentes: ${existentes.length} | Nuevas candidatas: ${nuevasAlertas.length} | Total tras dedup y retención: ${actualizado.length}`);
 
   // ── Paso 5: Escribir JSON ────────────────────────────────────────────────────
   console.log(`\n[5/5] Escribiendo data/alertas.json…`);
-  writeAlertas(merged);
+  writeAlertas(actualizado);
 
   const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
-  console.log(`\n✓ Motor finalizado en ${elapsed}s — ${merged.length} alertas publicadas.\n`);
+  console.log(`\n✓ Motor finalizado en ${elapsed}s — ${actualizado.length} alertas publicadas.\n`);
 }
 
 main().catch(err => {

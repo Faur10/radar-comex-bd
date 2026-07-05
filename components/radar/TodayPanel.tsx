@@ -1,33 +1,30 @@
 'use client';
 
-import { useMemo } from 'react';
 import { motion, useReducedMotion } from 'framer-motion';
 import type { Alerta } from '@/lib/radar/types';
+import type { FilterKey } from './AlertFilters';
 
 interface TodayPanelProps {
-  alertas: Alerta[];
+  alertas:  Alerta[];
+  onSelect: (key: FilterKey) => void;
 }
 
-function getTodayIso(): string {
-  return new Date().toISOString().slice(0, 10);
-}
-
-export function TodayPanel({ alertas }: TodayPanelProps) {
+export function TodayPanel({ alertas, onSelect }: TodayPanelProps) {
   const reduced = useReducedMotion();
-  const today   = getTodayIso();
 
-  const hoy = useMemo(() => alertas.filter(a => a.fecha === today), [alertas, today]);
+  // El radar corre de lunes a viernes y mergea con lo existente reteniendo
+  // una ventana móvil de 14 días (ver merge.ts) — "alertas" ya viene
+  // recortada a esa ventana, no hace falta filtrar acá.
+  const altos        = alertas.filter(a => a.impacto === 'alto').length;
+  const informativas = alertas.filter(a => a.impacto === 'bajo').length;
+  const organismos   = [...new Set(alertas.map(a => a.organismo))];
 
-  const altos        = hoy.filter(a => a.impacto === 'alto').length;
-  const oportunidades = hoy.filter(a => a.impacto === 'oportunidad').length;
-  const organismos   = [...new Set(hoy.map(a => a.organismo))];
+  if (alertas.length === 0) return null;
 
-  if (hoy.length === 0) return null;
-
-  const stats = [
-    { label: 'Novedades hoy',   value: hoy.length,    color: 'text-navy' },
-    { label: 'Alto impacto',    value: altos,          color: 'text-red-600' },
-    { label: 'Oportunidades',   value: oportunidades,  color: 'text-emerald-600' },
+  const stats: Array<{ label: string; value: number; color: string; filterKey: FilterKey }> = [
+    { label: 'Novedades (14 días)', value: alertas.length, color: 'text-navy',      filterKey: 'todos' },
+    { label: 'Alto impacto',        value: altos,          color: 'text-red-600',  filterKey: 'alto' },
+    { label: 'Informativas',        value: informativas,   color: 'text-slate-300', filterKey: 'informativas' },
   ];
 
   const container = {
@@ -41,7 +38,7 @@ export function TodayPanel({ alertas }: TodayPanelProps) {
 
   return (
     <section
-      aria-label="Novedades de hoy en COMEX"
+      aria-label="Novedades COMEX de los últimos 14 días"
       className="bg-navy text-white rounded-2xl px-6 py-5 shadow-lg lg:w-[300px] lg:shrink-0"
     >
       <div className="flex items-center gap-2 mb-4">
@@ -50,7 +47,7 @@ export function TodayPanel({ alertas }: TodayPanelProps) {
           <span className="relative inline-flex rounded-full h-2 w-2 bg-gold" />
         </span>
         <h2 className="text-xs font-bold uppercase tracking-widest text-gold">
-          HOY EN COMEX
+          COMEX — ÚLTIMOS 14 DÍAS
         </h2>
       </div>
 
@@ -61,14 +58,17 @@ export function TodayPanel({ alertas }: TodayPanelProps) {
         className="grid grid-cols-3 gap-4 mb-4"
       >
         {stats.map(s => (
-          <motion.div
+          <motion.button
+            type="button"
             key={s.label}
             variants={reduced ? undefined : item}
-            className="text-center"
+            onClick={() => onSelect(s.filterKey)}
+            aria-label={`Ver alertas: ${s.label}, ${s.value}`}
+            className="text-center rounded-lg py-1 transition-colors hover:bg-white/10 focus:outline-none focus:ring-2 focus:ring-gold cursor-pointer"
           >
             <p className={`text-3xl font-bold ${s.color}`}>{s.value}</p>
             <p className="text-xs text-white/50 mt-0.5">{s.label}</p>
-          </motion.div>
+          </motion.button>
         ))}
       </motion.div>
 

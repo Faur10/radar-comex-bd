@@ -1,25 +1,40 @@
 import { RawNovedad, AIResult, Impacto, Categoria } from '../types.js';
 
 // ── Detección de impacto ──────────────────────────────────────────────────────
+// Escala pensada para el día a día de un despachante de aduanas:
+// - alto: bloquea o frena una operación en curso (hay que actuar ya)
+// - medio: cambia costos o procedimientos (hay que revisar, no es urgente)
+// - bajo: informativo — no cambia nada operativo hoy
 
 const IMPACTO_ALTO: RegExp[] = [
-  /proh[ií]be?/i, /suspende?/i, /veda/i, /bloquea?/i,
-  /nuevo\s+requisito/i, /obligatorio/i, /alícuota/i, /alicuota/i,
-  /derechos\s+de\s+exportaci[oó]n/i, /retenci[oó]n/i,
-  /incremento/i, /aumento\s+de\s+(tasa|arancel)/i,
-  /cierre.*importaci[oó]n/i,
+  // BCRA: comunicaciones "A" y MULC son normativa cambiaria de aplicación inmediata
+  /comunicaci[oó]n\s*["“]?a["”]?\b/i, /\bmulc\b/i,
+  // caídas o alertas de sistemas operativos (frenan el despacho en el día)
+  /\bvuce\b/i, /ventanilla [uú]nica/i, /\bsim\b/i, /\bmalvina\b/i,
+  /ca[ií]da/i, /fuera de servicio/i, /interrupci[oó]n/i,
+  // retiros de mercado / prohibiciones de ANMAT-INAL
+  /retiro del mercado/i, /prohibici[oó]n de comercializaci[oó]n/i,
+  /proh[ií]be?/i, /veda/i,
+  // suspensión de registros/habilitaciones en ARCA/Aduana
+  /suspende?/i, /suspensi[oó]n de (registro|habilitaci[oó]n|matr[ií]cula)/i,
+  /bloquea?/i, /inhabilita/i,
 ];
 
-const IMPACTO_OPORTUNIDAD: RegExp[] = [
-  /simplifica/i, /flexibili/i, /reducci[oó]n/i, /rebaja/i,
-  /exenci[oó]n/i, /beneficio/i, /programa\s+de/i, /promoci[oó]n/i,
-  /reintegro/i, /recupero/i, /incentivo/i, /facilita/i,
+const IMPACTO_MEDIO: RegExp[] = [
+  /arancel/i, /alícuota/i, /alicuota/i, /valor criterio/i, /valor\s*cr[ií]ter/i,
+  /derechos\s+de\s+exportaci[oó]n/i, /retenci[oó]n/i, /reintegro/i,
+  /resoluci[oó]n general/i, /disposici[oó]n/i,
+  /reglamento\s+t[eé]cnico/i, /normativa\s+t[eé]cnica/i,
+  /nuevo\s+requisito/i, /obligatorio/i, /cambia?\s+(el\s+)?procedimiento/i,
+  /plazo de pago/i, /cruzamiento sist[eé]mico/i,
 ];
 
 function detectImpacto(text: string): Impacto {
-  if (IMPACTO_ALTO.some(re => re.test(text)))         return 'alto';
-  if (IMPACTO_OPORTUNIDAD.some(re => re.test(text)))  return 'oportunidad';
-  return 'medio';
+  if (IMPACTO_ALTO.some(re => re.test(text)))  return 'alto';
+  if (IMPACTO_MEDIO.some(re => re.test(text))) return 'medio';
+  // Institucional/informativo por defecto: noticias del CDA, capacitaciones,
+  // jurisprudencia, informes generales, acuerdos comerciales de largo plazo.
+  return 'bajo';
 }
 
 // ── Detección de categoría ────────────────────────────────────────────────────

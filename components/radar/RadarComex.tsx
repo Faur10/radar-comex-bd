@@ -16,15 +16,21 @@ const CATEGORIA_KEYS = new Set<FilterKey>([
   'importacion', 'exportacion', 'normativa', 'logistica',
 ]);
 const ORGANISMO_MAP: Partial<Record<FilterKey, string>> = {
-  bcra:   'BCRA',
-  senasa: 'SENASA',
-  arca:   'ARCA',
-  aduana: 'Aduana',
+  bcra:        'BCRA',
+  senasa:      'SENASA',
+  arca:        'ARCA',
+  aduana:      'Aduana',
+  cda:         'CDA',
+  anmat:       'ANMAT / INAL',
+  inti:        'INTI',
+  minecon:     'Min. Economía',
+  cancilleria: 'Cancillería',
 };
 
 function filterAlertas(alertas: Alerta[], active: FilterKey): Alerta[] {
   if (active === 'todos') return alertas;
-  if (active === 'oportunidades') return alertas.filter(a => a.impacto === 'oportunidad');
+  if (active === 'alto') return alertas.filter(a => a.impacto === 'alto');
+  if (active === 'informativas') return alertas.filter(a => a.impacto === 'bajo');
   if (CATEGORIA_KEYS.has(active)) return alertas.filter(a => a.categoria === (active as Categoria));
   const org = ORGANISMO_MAP[active];
   if (org) return alertas.filter(a => a.organismo === org);
@@ -38,11 +44,17 @@ function buildCounts(alertas: Alerta[]): Partial<Record<FilterKey, number>> {
     exportacion:  alertas.filter(a => a.categoria === 'exportacion').length,
     normativa:    alertas.filter(a => a.categoria === 'normativa').length,
     logistica:    alertas.filter(a => a.categoria === 'logistica').length,
-    oportunidades: alertas.filter(a => a.impacto === 'oportunidad').length,
+    alto:         alertas.filter(a => a.impacto === 'alto').length,
+    informativas: alertas.filter(a => a.impacto === 'bajo').length,
     bcra:   alertas.filter(a => a.organismo === 'BCRA').length,
     senasa: alertas.filter(a => a.organismo === 'SENASA').length,
     arca:   alertas.filter(a => a.organismo === 'ARCA').length,
     aduana: alertas.filter(a => a.organismo === 'Aduana').length,
+    cda:    alertas.filter(a => a.organismo === 'CDA').length,
+    anmat:       alertas.filter(a => a.organismo === 'ANMAT / INAL').length,
+    inti:        alertas.filter(a => a.organismo === 'INTI').length,
+    minecon:     alertas.filter(a => a.organismo === 'Min. Economía').length,
+    cancilleria: alertas.filter(a => a.organismo === 'Cancillería').length,
   };
   // Omitir ceros salvo "todos"
   return Object.fromEntries(
@@ -56,6 +68,13 @@ export function RadarComex({ alertas }: RadarComexProps) {
   const filtered = useMemo(() => filterAlertas(alertas, active), [alertas, active]);
   const counts   = useMemo(() => buildCounts(alertas), [alertas]);
 
+  // Clickear una stat ("Alto impacto", "Informativas", "Organismos", etc.)
+  // aplica ese filtro y lleva directo a la lista de alertas correspondiente.
+  function goToFilter(key: FilterKey) {
+    setActive(key);
+    document.getElementById('alertas')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+
   return (
     <>
       <RadarHero />
@@ -64,9 +83,9 @@ export function RadarComex({ alertas }: RadarComexProps) {
 
         {/* Panel de hoy + stats */}
         <div className="flex flex-col lg:flex-row gap-6 items-start">
-          <TodayPanel alertas={alertas} />
+          <TodayPanel alertas={alertas} onSelect={goToFilter} />
           <div className="w-full min-w-0 flex-1">
-            <RadarStats alertas={alertas} />
+            <RadarStats alertas={alertas} onSelect={goToFilter} />
           </div>
         </div>
 

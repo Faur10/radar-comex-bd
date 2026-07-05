@@ -6,9 +6,9 @@ import type { Alerta, Impacto, Categoria } from '@/lib/radar/types';
 // ── Helpers de presentación ──────────────────────────────────────────────────
 
 const IMPACTO_CONFIG: Record<Impacto, { label: string; dot: string; badge: string }> = {
-  alto:        { label: 'Alto impacto', dot: 'bg-red-500',   badge: 'bg-red-50 text-red-700 border-red-200' },
-  medio:       { label: 'Medio',        dot: 'bg-amber-400', badge: 'bg-amber-50 text-amber-700 border-amber-200' },
-  oportunidad: { label: 'Oportunidad',  dot: 'bg-emerald-500', badge: 'bg-emerald-50 text-emerald-700 border-emerald-200' },
+  alto:  { label: 'Alto impacto', dot: 'bg-red-500',   badge: 'bg-red-50 text-red-700 border-red-200' },
+  medio: { label: 'Medio',        dot: 'bg-amber-400', badge: 'bg-amber-50 text-amber-700 border-amber-200' },
+  bajo:  { label: 'Informativo',  dot: 'bg-slate-400', badge: 'bg-slate-50 text-slate-600 border-slate-200' },
 };
 
 const CATEGORIA_LABEL: Record<Categoria, string> = {
@@ -18,12 +18,18 @@ const CATEGORIA_LABEL: Record<Categoria, string> = {
   logistica:   'Logística',
 };
 
-const ORGANISMO_COLOR: Record<string, string> = {
-  ARCA:   'bg-blue-50 text-blue-800 border-blue-200',
-  Aduana: 'bg-slate-50 text-slate-700 border-slate-200',
-  SENASA: 'bg-green-50 text-green-800 border-green-200',
-  BCRA:   'bg-purple-50 text-purple-800 border-purple-200',
+// Recuadro (fondo + borde) y marcador sólido por institución. El marcador
+// da una identificación rápida y "oficial" incluso antes de leer el texto.
+const ORGANISMO_STYLE: Record<string, { badge: string; dot: string }> = {
+  ARCA:            { badge: 'bg-blue-50 text-blue-800 border-blue-300',      dot: 'bg-blue-600' },
+  Aduana:          { badge: 'bg-slate-50 text-slate-700 border-slate-300',   dot: 'bg-slate-500' },
+  SENASA:          { badge: 'bg-green-50 text-green-800 border-green-300',  dot: 'bg-green-600' },
+  BCRA:            { badge: 'bg-purple-50 text-purple-800 border-purple-300', dot: 'bg-purple-600' },
+  'ANMAT / INAL':  { badge: 'bg-teal-50 text-teal-800 border-teal-300',     dot: 'bg-teal-600' },
+  'Min. Economía': { badge: 'bg-indigo-50 text-indigo-800 border-indigo-300', dot: 'bg-indigo-600' },
+  'Cancillería':   { badge: 'bg-rose-50 text-rose-800 border-rose-300',     dot: 'bg-rose-600' },
 };
+const ORGANISMO_FALLBACK = { badge: 'bg-gray-50 text-gray-700 border-gray-300', dot: 'bg-gray-400' };
 
 function formatFecha(iso: string): string {
   return new Date(iso + 'T00:00:00').toLocaleDateString('es-AR', {
@@ -60,7 +66,7 @@ export function AlertCard({ alerta, index }: AlertCardProps) {
   const reduced = useReducedMotion();
 
   const impacto  = IMPACTO_CONFIG[alerta.impacto];
-  const orgColor = ORGANISMO_COLOR[alerta.organismo] ?? 'bg-gray-50 text-gray-700 border-gray-200';
+  const orgStyle = ORGANISMO_STYLE[alerta.organismo] ?? ORGANISMO_FALLBACK;
 
   const variants = reduced
     ? {}
@@ -90,7 +96,8 @@ export function AlertCard({ alerta, index }: AlertCardProps) {
         {/* Cabecera: organismo + fecha + impacto */}
         <div className="flex flex-wrap items-start justify-between gap-2">
           <div className="flex flex-wrap gap-2">
-            <span className={`text-xs font-semibold px-2.5 py-1 rounded-md border ${orgColor}`}>
+            <span className={`inline-flex items-center gap-1.5 text-[11px] font-bold uppercase tracking-wide px-2.5 py-1 rounded-md border-[1.5px] ${orgStyle.badge}`}>
+              <span className={`w-1.5 h-1.5 rounded-sm shrink-0 ${orgStyle.dot}`} aria-hidden="true" />
               {alerta.organismo}
             </span>
             <span className={`inline-flex items-center gap-1.5 text-xs font-medium px-2.5 py-1 rounded-md border ${impacto.badge}`}>
