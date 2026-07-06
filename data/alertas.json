@@ -1,9 +1,9 @@
 [
   {
-    "id": "2026-07-05-bcra-tipo-de-cambio-mulc-del-dia-547770",
+    "id": "2026-07-06-bcra-tipo-de-cambio-mulc-del-dia-2578ac",
     "slug": "bcra-tipo-de-cambio-mulc-del-dia",
     "organismo": "BCRA",
-    "fecha": "2026-07-05",
+    "fecha": "2026-07-06",
     "impacto": "alto",
     "categoria": "normativa",
     "tags": [
@@ -18,10 +18,46 @@
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-07-05T04:32:36.004Z"
+    "actualizadoEn": "2026-07-06T13:41:42.866Z"
   },
   {
-    "id": "2026-07-05-el-cda-incorpora-una-nueva-asesoria-especializada-en-seguro-274aab",
+    "id": "2026-07-06-cronogramas-operativos-de-las-terminales-portuarias-feriado-e7f6a0",
+    "slug": "cronogramas-operativos-de-las-terminales-portuarias-feriado",
+    "organismo": "CDA",
+    "fecha": "2026-07-06",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "Cronogramas operativos de las Terminales Portuarias: Feriado",
+    "resumen": "El Centro Despachantes de Aduana (CDA) les acerca a sus asociados el cronograma operativo de las distintas Terminales Portuarias para los fe...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42622"
+    },
+    "publicadoEn": "2026-07-06T13:40:21.488Z",
+    "actualizadoEn": "2026-07-06T13:41:42.866Z"
+  },
+  {
+    "id": "2026-07-06-cda-informa-el-cese-de-actividades-por-el-feriado-del-9-y-10-e3c3f0",
+    "slug": "cda-informa-el-cese-de-actividades-por-el-feriado-del-9-y-10",
+    "organismo": "CDA",
+    "fecha": "2026-07-06",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "CDA informa el cese de actividades por el feriado del 9 y 10",
+    "resumen": "El Centro Despachantes de Aduana informa a sus asociados que los días 9 y 10 de julio de 2026, la Institución permanecerá cerrada por con...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42626"
+    },
+    "publicadoEn": "2026-07-06T13:40:37.752Z",
+    "actualizadoEn": "2026-07-06T13:41:42.866Z"
+  },
+  {
+    "id": "2026-07-06-el-cda-incorpora-una-nueva-asesoria-especializada-en-seguro-4be9e4",
     "slug": "el-cda-incorpora-una-nueva-asesoria-especializada-en-seguro",
     "organismo": "CDA",
     "fecha": "2026-07-03",
@@ -36,10 +72,10 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42619"
     },
     "publicadoEn": "2026-07-05T04:12:00.329Z",
-    "actualizadoEn": "2026-07-05T04:32:36.004Z"
+    "actualizadoEn": "2026-07-06T13:41:42.866Z"
   },
   {
-    "id": "2026-07-05-jornada-comex-2026-tres-jornadas-para-construir-el-futuro-d-8decf2",
+    "id": "2026-07-06-jornada-comex-2026-tres-jornadas-para-construir-el-futuro-d-2571ac",
     "slug": "jornada-comex-2026-tres-jornadas-para-construir-el-futuro-d",
     "organismo": "CDA",
     "fecha": "2026-07-03",
@@ -54,10 +90,10 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42625"
     },
     "publicadoEn": "2026-07-05T04:12:00.331Z",
-    "actualizadoEn": "2026-07-05T04:32:36.004Z"
+    "actualizadoEn": "2026-07-06T13:41:42.866Z"
   },
   {
-    "id": "2026-07-05-se-fortalecen-los-conocimientos-sobre-limites-maximos-de-residuos-y-productos-fi-c30127",
+    "id": "2026-07-06-se-fortalecen-los-conocimientos-sobre-limites-maximos-de-residuos-y-productos-fi-9806de",
     "slug": "se-fortalecen-los-conocimientos-sobre-limites-maximos-de-residuos-y-productos-fi",
     "organismo": "SENASA",
     "fecha": "2026-07-03",
@@ -75,7 +111,7 @@
       "url": "https://www.argentina.gob.ar/noticias/se-fortalecen-los-conocimientos-sobre-limites-maximos-de-residuos-y-productos"
     },
     "publicadoEn": "2026-07-05T04:12:00.332Z",
-    "actualizadoEn": "2026-07-05T04:32:36.004Z"
+    "actualizadoEn": "2026-07-06T13:41:42.866Z"
   },
   {
     "id": "2026-07-05-aporte-solidario-de-socios-vitalicios-una-forma-de-seguir-a-5f7428",
