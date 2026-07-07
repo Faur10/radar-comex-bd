@@ -1,9 +1,9 @@
 [
   {
-    "id": "2026-07-06-bcra-tipo-de-cambio-mulc-del-dia-2578ac",
+    "id": "2026-07-07-bcra-tipo-de-cambio-mulc-del-dia-9a8097",
     "slug": "bcra-tipo-de-cambio-mulc-del-dia",
     "organismo": "BCRA",
-    "fecha": "2026-07-06",
+    "fecha": "2026-07-07",
     "impacto": "alto",
     "categoria": "normativa",
     "tags": [
@@ -11,17 +11,55 @@
       "tipo de cambio"
     ],
     "titulo": "BCRA – Tipo de Cambio MULC del día",
-    "resumen": "Tipo de Cambio MULC ($ por USD): 1032.72 — al 2026-07-03",
+    "resumen": "Tipo de Cambio MULC ($ por USD): 1033.27 — al 2026-07-06",
     "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-07-06T13:41:42.866Z"
+    "actualizadoEn": "2026-07-07T12:25:02.145Z"
   },
   {
-    "id": "2026-07-06-cronogramas-operativos-de-las-terminales-portuarias-feriado-e7f6a0",
+    "id": "2026-07-07-anmat-prohibe-los-productos-medicos-elaborados-por-la-firma-lead-cables-y-acceso-6e3800",
+    "slug": "anmat-prohibe-los-productos-medicos-elaborados-por-la-firma-lead-cables-y-acceso",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-07-07",
+    "impacto": "alto",
+    "categoria": "logistica",
+    "tags": [
+      "ANMAT"
+    ],
+    "titulo": "ANMAT prohíbe los productos médicos elaborados por la firma LEAD CABLES Y ACCESORIOS S.R.L.",
+    "resumen": "ANMAT prohíbe los productos médicos elaborados por la firma LEAD CABLES Y ACCESORIOS S.R.L.",
+    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-los-productos-medicos-elaborados-por-la-firma-lead-cables-y-accesorios-srl"
+    },
+    "publicadoEn": "2026-07-07T12:24:45.928Z",
+    "actualizadoEn": "2026-07-07T12:25:02.145Z"
+  },
+  {
+    "id": "2026-07-07-cdacapacita-oea-una-oportunidad-de-jerarquizacion-8f9f55",
+    "slug": "cdacapacita-oea-una-oportunidad-de-jerarquizacion",
+    "organismo": "CDA",
+    "fecha": "2026-07-06",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "#CDACapacita - OEA, una oportunidad de jerarquización",
+    "resumen": "El Centro Despachantes de Aduana (CDA) se complace en invitar a sus asociados a participar de una nueva jornada de capacitación sobre Opera...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42627"
+    },
+    "publicadoEn": "2026-07-07T12:23:57.044Z",
+    "actualizadoEn": "2026-07-07T12:25:02.145Z"
+  },
+  {
+    "id": "2026-07-07-cronogramas-operativos-de-las-terminales-portuarias-feriado-fc0e72",
     "slug": "cronogramas-operativos-de-las-terminales-portuarias-feriado",
     "organismo": "CDA",
     "fecha": "2026-07-06",
@@ -36,10 +74,10 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42622"
     },
     "publicadoEn": "2026-07-06T13:40:21.488Z",
-    "actualizadoEn": "2026-07-06T13:41:42.866Z"
+    "actualizadoEn": "2026-07-07T12:25:02.145Z"
   },
   {
-    "id": "2026-07-06-cda-informa-el-cese-de-actividades-por-el-feriado-del-9-y-10-e3c3f0",
+    "id": "2026-07-07-cda-informa-el-cese-de-actividades-por-el-feriado-del-9-y-10-607f72",
     "slug": "cda-informa-el-cese-de-actividades-por-el-feriado-del-9-y-10",
     "organismo": "CDA",
     "fecha": "2026-07-06",
@@ -54,7 +92,7 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42626"
     },
     "publicadoEn": "2026-07-06T13:40:37.752Z",
-    "actualizadoEn": "2026-07-06T13:41:42.866Z"
+    "actualizadoEn": "2026-07-07T12:25:02.145Z"
   },
   {
     "id": "2026-07-06-el-cda-incorpora-una-nueva-asesoria-especializada-en-seguro-4be9e4",
