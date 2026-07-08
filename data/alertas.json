@@ -1,9 +1,9 @@
 [
   {
-    "id": "2026-07-07-bcra-tipo-de-cambio-mulc-del-dia-9a8097",
+    "id": "2026-07-08-bcra-tipo-de-cambio-mulc-del-dia-583553",
     "slug": "bcra-tipo-de-cambio-mulc-del-dia",
     "organismo": "BCRA",
-    "fecha": "2026-07-07",
+    "fecha": "2026-07-08",
     "impacto": "alto",
     "categoria": "normativa",
     "tags": [
@@ -11,17 +11,35 @@
       "tipo de cambio"
     ],
     "titulo": "BCRA – Tipo de Cambio MULC del día",
-    "resumen": "Tipo de Cambio MULC ($ por USD): 1033.27 — al 2026-07-06",
+    "resumen": "Tipo de Cambio MULC ($ por USD): 1035.60 — al 2026-07-07",
     "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-07-07T12:25:02.145Z"
+    "actualizadoEn": "2026-07-08T11:45:23.729Z"
   },
   {
-    "id": "2026-07-07-anmat-prohibe-los-productos-medicos-elaborados-por-la-firma-lead-cables-y-acceso-6e3800",
+    "id": "2026-07-08-nuevo-servicio-de-traslado-de-documentacion-a-ezeiza-a-carg-bc7104",
+    "slug": "nuevo-servicio-de-traslado-de-documentacion-a-ezeiza-a-carg",
+    "organismo": "CDA",
+    "fecha": "2026-07-07",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "Nuevo servicio de traslado de documentación a Ezeiza a carg",
+    "resumen": "El Centro Despachantes de Aduana (CDA) informa a sus socios que, a partir de la fecha, el servicio de traslado de documentación estará a c...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42623"
+    },
+    "publicadoEn": "2026-07-05T04:12:00.332Z",
+    "actualizadoEn": "2026-07-08T11:45:23.729Z"
+  },
+  {
+    "id": "2026-07-08-anmat-prohibe-los-productos-medicos-elaborados-por-la-firma-lead-cables-y-acceso-5a3fc9",
     "slug": "anmat-prohibe-los-productos-medicos-elaborados-por-la-firma-lead-cables-y-acceso",
     "organismo": "ANMAT / INAL",
     "fecha": "2026-07-07",
@@ -38,10 +56,10 @@
       "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-los-productos-medicos-elaborados-por-la-firma-lead-cables-y-accesorios-srl"
     },
     "publicadoEn": "2026-07-07T12:24:45.928Z",
-    "actualizadoEn": "2026-07-07T12:25:02.145Z"
+    "actualizadoEn": "2026-07-08T11:45:23.729Z"
   },
   {
-    "id": "2026-07-07-cdacapacita-oea-una-oportunidad-de-jerarquizacion-8f9f55",
+    "id": "2026-07-08-cdacapacita-oea-una-oportunidad-de-jerarquizacion-531df0",
     "slug": "cdacapacita-oea-una-oportunidad-de-jerarquizacion",
     "organismo": "CDA",
     "fecha": "2026-07-06",
@@ -56,10 +74,10 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42627"
     },
     "publicadoEn": "2026-07-07T12:23:57.044Z",
-    "actualizadoEn": "2026-07-07T12:25:02.145Z"
+    "actualizadoEn": "2026-07-08T11:45:23.729Z"
   },
   {
-    "id": "2026-07-07-cronogramas-operativos-de-las-terminales-portuarias-feriado-fc0e72",
+    "id": "2026-07-08-cronogramas-operativos-de-las-terminales-portuarias-feriado-edb4df",
     "slug": "cronogramas-operativos-de-las-terminales-portuarias-feriado",
     "organismo": "CDA",
     "fecha": "2026-07-06",
@@ -74,10 +92,10 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42622"
     },
     "publicadoEn": "2026-07-06T13:40:21.488Z",
-    "actualizadoEn": "2026-07-07T12:25:02.145Z"
+    "actualizadoEn": "2026-07-08T11:45:23.729Z"
   },
   {
-    "id": "2026-07-07-cda-informa-el-cese-de-actividades-por-el-feriado-del-9-y-10-607f72",
+    "id": "2026-07-08-cda-informa-el-cese-de-actividades-por-el-feriado-del-9-y-10-a7a9dc",
     "slug": "cda-informa-el-cese-de-actividades-por-el-feriado-del-9-y-10",
     "organismo": "CDA",
     "fecha": "2026-07-06",
@@ -92,7 +110,7 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42626"
     },
     "publicadoEn": "2026-07-06T13:40:37.752Z",
-    "actualizadoEn": "2026-07-07T12:25:02.145Z"
+    "actualizadoEn": "2026-07-08T11:45:23.729Z"
   },
   {
     "id": "2026-07-06-el-cda-incorpora-una-nueva-asesoria-especializada-en-seguro-4be9e4",
@@ -165,24 +183,6 @@
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42521"
-    },
-    "publicadoEn": "2026-07-05T04:12:00.332Z",
-    "actualizadoEn": "2026-07-05T04:32:36.004Z"
-  },
-  {
-    "id": "2026-07-05-nuevo-servicio-de-traslado-de-documentacion-a-ezeiza-a-carg-61c44c",
-    "slug": "nuevo-servicio-de-traslado-de-documentacion-a-ezeiza-a-carg",
-    "organismo": "CDA",
-    "fecha": "2026-07-02",
-    "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [],
-    "titulo": "Nuevo servicio de traslado de documentación a Ezeiza a carg",
-    "resumen": "El Centro Despachantes de Aduana (CDA) informa a sus socios que, a partir de la fecha, el servicio de traslado de documentación estará a c...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42623"
     },
     "publicadoEn": "2026-07-05T04:12:00.332Z",
     "actualizadoEn": "2026-07-05T04:32:36.004Z"
