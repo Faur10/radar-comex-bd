@@ -1,45 +1,51 @@
 [
   {
-    "id": "2026-07-10-bcra-tipo-de-cambio-mulc-del-dia-d05033",
-    "slug": "bcra-tipo-de-cambio-mulc-del-dia",
+    "id": "2026-07-11-actualizacion-del-tipo-de-cambio-oficial-de-referencia-del-bcra-9e51ae",
+    "slug": "actualizacion-del-tipo-de-cambio-oficial-de-referencia-del-bcra",
     "organismo": "BCRA",
-    "fecha": "2026-07-10",
-    "impacto": "alto",
+    "fecha": "2026-07-11",
+    "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "tipo de cambio"
+      "tipo de cambio",
+      "divisas",
+      "operaciones cambiarias",
+      "BCRA"
     ],
-    "titulo": "BCRA – Tipo de Cambio MULC del día",
-    "resumen": "Tipo de Cambio MULC ($ por USD): 1031.33 — al 2026-07-08",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
+    "titulo": "Actualización del tipo de cambio oficial de referencia del BCRA",
+    "resumen": "Se informa el valor del tipo de cambio oficial del MULC para la fecha indicada, utilizado como referencia en operaciones de comercio exterior. Es el valor base para la liquidación de divisas y el pago de obligaciones en moneda extranjera.",
+    "queSignifica": "Verifique este valor contra los costos proyectados y los cierres de cambio pendientes en sus bancos intervinientes. Se recomienda validar si este tipo de cambio impacta en la actualización de sus proyecciones de flujo de fondos o en la valorización de declaraciones juradas en curso.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-07-10T12:22:39.117Z"
+    "actualizadoEn": "2026-07-11T20:39:10.312Z"
   },
   {
-    "id": "2026-07-10-simplificacion-del-procedimiento-para-habilitar-destinos-de-exportacion-de-produ-3cb408",
-    "slug": "simplificacion-del-procedimiento-para-habilitar-destinos-de-exportacion-de-produ",
+    "id": "2026-07-11-simplificacion-y-digitalizacion-de-habilitaciones-para-exportar-productos-de-ori-5db90d",
+    "slug": "simplificacion-y-digitalizacion-de-habilitaciones-para-exportar-productos-de-ori",
     "organismo": "SENASA",
     "fecha": "2026-07-08",
-    "impacto": "bajo",
-    "categoria": "logistica",
+    "impacto": "medio",
+    "categoria": "exportacion",
     "tags": [
       "SENASA",
-      "exportación"
+      "Habilitaciones",
+      "Exportación",
+      "Certificación",
+      "Gestión Documental"
     ],
-    "titulo": "Simplificación del procedimiento para habilitar destinos de exportación de productos de origen anima",
-    "resumen": "El SENASA elimina la presentación de formularios en papel, el vencimiento de dos años, y establece requisitos claros para habilitaciones de exportación.",
-    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
+    "titulo": "Simplificación y digitalización de habilitaciones para exportar productos de origen animal",
+    "resumen": "Se eliminan los formularios físicos y la caducidad bienal de las habilitaciones, estableciendo criterios técnicos estandarizados. El objetivo es desburocratizar el proceso de alta de destinos de exportación.",
+    "queSignifica": "Los exportadores deben revisar sus habilitaciones vigentes para identificar posibles cambios en la gestión documental y validar los nuevos requisitos técnicos. Se recomienda verificar en el sistema informático del SENASA si la eliminación de los plazos de vencimiento impacta en el estado de sus registros actuales.",
     "fuente": {
       "nombre": "SENASA Comunica",
       "url": "https://www.argentina.gob.ar/noticias/simplificacion-del-procedimiento-para-habilitar-destinos-de-exportacion-de-productos-de"
     },
     "publicadoEn": "2026-07-09T12:41:41.068Z",
-    "actualizadoEn": "2026-07-10T12:22:39.117Z"
+    "actualizadoEn": "2026-07-11T20:39:10.312Z"
   },
   {
     "id": "2026-07-09-cdacapacita-el-lunes-oea-una-oportunidad-de-jerarquizac-c47ecc",

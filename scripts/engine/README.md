@@ -46,7 +46,7 @@ npm install
 4. Copiar la key generada (empieza con `AIza…`).
 5. **No compartir ni commitear** esta key. Solo va como secret de GitHub.
 
-> El free tier de Gemini incluye 1.500 requests/día y 1M tokens/min con `gemini-2.0-flash-lite`, más que suficiente para el job diario.
+> El free tier de Gemini incluye 1.500 requests/día con `gemini-3.1-flash-lite`, más que suficiente para el job diario. Google deprecó `gemini-2.0-flash-lite` (baja el 1/6/2026) y `gemini-2.5-flash-lite` dejó de estar disponible para keys nuevas — si en el futuro vuelve a aparecer `[AI] Error ... 404 ... no longer available`, hay que revisar qué modelo está vigente en [ai.google.dev/gemini-api/docs/models](https://ai.google.dev/gemini-api/docs/models) y actualizar `MODEL` en `scripts/engine/ai/classify.ts`.
 
 ---
 

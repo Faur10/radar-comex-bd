@@ -2,7 +2,10 @@
 import { GoogleGenerativeAI, HarmCategory, HarmBlockThreshold } from '@google/generative-ai';
 import { RawNovedad, AIResult, Impacto, Categoria } from '../types.js';
 
-const MODEL   = 'gemini-2.0-flash-lite';
+// gemini-2.0-flash-lite (dado de baja 1/6/2026) y gemini-2.5-flash-lite
+// (ya no disponible para keys nuevas) fueron los intentos previos.
+// Modelo vigente al 07/2026 dentro del tier gratuito:
+const MODEL   = 'gemini-3.1-flash-lite';
 const TIMEOUT = 30_000;
 
 const VALID_IMPACTO  = new Set<Impacto>(['alto', 'medio', 'bajo']);
@@ -93,13 +96,17 @@ export async function classifyWithAI(novedad: RawNovedad): Promise<AIResult | nu
 
       return parsed;
     } catch (err: any) {
-      const status: number = err?.status ?? err?.errorDetails?.[0]?.reason === 'RATE_LIMIT_EXCEEDED' ? 429 : 0;
+      // Bug previo: la precedencia de ?? / === / ?: hacía que CUALQUIER
+      // status truthy se reportara como "429", ocultando el error real.
+      const status: number =
+        err?.status ?? (err?.errorDetails?.[0]?.reason === 'RATE_LIMIT_EXCEEDED' ? 429 : 0);
+
       if (status === 429) {
         console.warn(`[AI] Rate limit (429) — esperando 8s antes de reintentar…`);
         await new Promise(r => setTimeout(r, 8_000));
         continue;
       }
-      console.warn(`[AI] Error en intento ${attempt}:`, (err as Error).message ?? err);
+      console.warn(`[AI] Error en intento ${attempt} (status ${status}):`, (err as Error).message ?? err);
       break;
     }
   }

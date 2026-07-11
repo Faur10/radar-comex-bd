@@ -134,6 +134,13 @@ async function main(): Promise<void> {
     } catch (err) {
       console.warn(`  [!] No se pudo procesar "${raw.titulo.slice(0, 50)}":`, (err as Error).message);
     }
+
+    // Pausa entre llamadas a Gemini para no superar el límite de requests
+    // por minuto del tier gratuito (antes se disparaban una atrás de otra
+    // y todas caían en 429).
+    if (process.env.GEMINI_API_KEY) {
+      await new Promise(r => setTimeout(r, 4_000));
+    }
   }
 
   // ── Paso 4: Mergear con lo existente (ventana móvil de 14 días) ─────────────
