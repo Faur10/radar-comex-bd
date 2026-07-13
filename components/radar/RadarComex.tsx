@@ -94,8 +94,8 @@ export function RadarComex({ alertas }: RadarComexProps) {
           <div className="flex flex-col gap-6">
 
             <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
-              <h2 className="text-xl font-bold text-navy">
-                Últimas alertas COMEX
+              <h2 className="inline-block text-xl font-bold text-navy bg-gradient-to-r from-gold/15 via-gold/10 to-transparent border border-gold/40 rounded-xl px-4 py-2 shadow-[0_6px_24px_rgba(199,162,74,0.28)]">
+                Últimas alertas analizadas con Inteligencia Artificial
               </h2>
               <p className="text-sm text-gray-text" aria-live="polite">
                 {filtered.length} {filtered.length === 1 ? 'alerta' : 'alertas'}

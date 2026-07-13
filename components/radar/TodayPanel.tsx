@@ -1,5 +1,6 @@
 'use client';
 
+import Image from 'next/image';
 import { motion, useReducedMotion } from 'framer-motion';
 import type { Alerta } from '@/lib/radar/types';
 import type { FilterKey } from './AlertFilters';
@@ -24,7 +25,7 @@ export function TodayPanel({ alertas, onSelect }: TodayPanelProps) {
   const stats: Array<{ label: string; value: number; color: string; filterKey: FilterKey }> = [
     { label: 'Novedades (14 días)', value: alertas.length, color: 'text-navy',      filterKey: 'todos' },
     { label: 'Alto impacto',        value: altos,          color: 'text-red-600',  filterKey: 'alto' },
-    { label: 'Informativas',        value: informativas,   color: 'text-slate-300', filterKey: 'informativas' },
+    { label: 'Informativas',        value: informativas,   color: 'text-slate-500', filterKey: 'informativas' },
   ];
 
   const container = {
@@ -39,16 +40,26 @@ export function TodayPanel({ alertas, onSelect }: TodayPanelProps) {
   return (
     <section
       aria-label="Novedades COMEX de los últimos 14 días"
-      className="bg-navy text-white rounded-2xl px-6 py-5 shadow-lg lg:w-[300px] lg:shrink-0"
+      className="bg-sky-50 text-navy rounded-2xl px-6 py-5 shadow-lg border border-sky-200/70 lg:w-[300px] lg:shrink-0"
     >
-      <div className="flex items-center gap-2 mb-4">
-        <span className="relative flex h-2 w-2" aria-hidden="true">
-          <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-gold opacity-75" />
-          <span className="relative inline-flex rounded-full h-2 w-2 bg-gold" />
-        </span>
-        <h2 className="text-xs font-bold uppercase tracking-widest text-gold">
-          COMEX — ÚLTIMOS 14 DÍAS
-        </h2>
+      <div className="flex items-center justify-between gap-2 mb-4">
+        <div className="flex items-center gap-2">
+          <span className="relative flex h-2 w-2" aria-hidden="true">
+            <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-gold opacity-75" />
+            <span className="relative inline-flex rounded-full h-2 w-2 bg-gold" />
+          </span>
+          <h2 className="text-xs font-bold uppercase tracking-widest text-navy">
+            COMEX — ÚLTIMOS 14 DÍAS
+          </h2>
+        </div>
+        <Image
+          src="/logo-bd.gif"
+          alt="BD Trading SRL"
+          width={36}
+          height={36}
+          unoptimized
+          className="shrink-0 rounded-md"
+        />
       </div>
 
       <motion.div
@@ -64,21 +75,21 @@ export function TodayPanel({ alertas, onSelect }: TodayPanelProps) {
             variants={reduced ? undefined : item}
             onClick={() => onSelect(s.filterKey)}
             aria-label={`Ver alertas: ${s.label}, ${s.value}`}
-            className="text-center rounded-lg py-1 transition-colors hover:bg-white/10 focus:outline-none focus:ring-2 focus:ring-gold cursor-pointer"
+            className="text-center rounded-lg py-1 transition-colors hover:bg-white focus:outline-none focus:ring-2 focus:ring-gold cursor-pointer"
           >
             <p className={`text-3xl font-bold ${s.color}`}>{s.value}</p>
-            <p className="text-xs text-white/50 mt-0.5">{s.label}</p>
+            <p className="text-xs text-navy/55 mt-0.5">{s.label}</p>
           </motion.button>
         ))}
       </motion.div>
 
       {organismos.length > 0 && (
-        <div className="flex flex-wrap gap-1.5 border-t border-white/10 pt-3">
-          <span className="text-xs text-white/40 self-center">Emiten:</span>
+        <div className="flex flex-wrap gap-1.5 border-t border-sky-200 pt-3">
+          <span className="text-xs text-navy/50 self-center">Emiten:</span>
           {organismos.map(org => (
             <span
               key={org}
-              className="text-xs bg-white/10 text-white/70 px-2 py-0.5 rounded-md"
+              className="text-xs bg-white text-navy/75 border border-sky-200 shadow-sm px-2 py-0.5 rounded-md"
             >
               {org}
             </span>

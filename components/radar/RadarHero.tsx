@@ -37,12 +37,24 @@ export function RadarHero() {
           >
             <a
               href="https://www.bdtradingsrl.com.ar"
-              className="inline-flex items-center gap-1.5 text-white/50 hover:text-gold text-sm font-medium mb-8 transition-colors focus:outline-none focus:underline"
+              aria-label="Volver al sitio principal de BD Trading SRL"
+              className="group inline-flex items-center gap-2.5 mb-8 rounded-xl border border-gold/40 bg-navy/70 py-2 pl-2 pr-4 shadow-[0_0_0_1px_rgba(199,162,74,0.3),0_0_20px_rgba(199,162,74,0.28)] transition-all duration-300 hover:border-gold/80 hover:shadow-[0_0_0_1px_rgba(199,162,74,0.6),0_0_32px_rgba(199,162,74,0.5)] focus:outline-none focus:ring-2 focus:ring-gold"
             >
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" aria-hidden="true">
-                <path d="M19 12H5M12 19l-7-7 7-7" />
-              </svg>
-              Volver a BD Trading SRL
+              <span className="relative h-9 w-9 shrink-0 overflow-hidden rounded-full bg-white ring-1 ring-gold/50">
+                <Image
+                  src="/logo-bd.gif"
+                  alt=""
+                  fill
+                  unoptimized
+                  className="object-cover scale-150"
+                />
+              </span>
+              <span className="flex items-center gap-1.5 text-white/70 group-hover:text-gold text-sm font-medium transition-colors">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" aria-hidden="true">
+                  <path d="M19 12H5M12 19l-7-7 7-7" />
+                </svg>
+                Volver a BD Trading SRL
+              </span>
             </a>
           </motion.div>
 
@@ -117,21 +129,22 @@ export function RadarHero() {
           </motion.p>
         </div>
 
-        {/* Columna derecha: logo animado (solo desktop) */}
+        {/* Columna derecha: foto del Puerto de Rosario (solo desktop) */}
         <motion.div
           {...fade}
           transition={{ duration: 0.6, delay: 0.3 }}
-          className="hidden md:flex shrink-0 items-center justify-center"
+          className="hidden md:block shrink-0 w-full max-w-md lg:max-w-lg"
         >
-          <Image
-            src="/logo-bd.gif"
-            alt="BD Trading SRL"
-            width={280}
-            height={280}
-            unoptimized
-            priority
-            className="drop-shadow-2xl w-[280px] h-[280px]"
-          />
+          <div className="relative aspect-[16/9] rounded-2xl overflow-hidden shadow-2xl ring-1 ring-gold/30">
+            <Image
+              src="/hero-puerto-rosario.webp"
+              alt="Contenedor de BD Trading SRL en el Puerto de Rosario, Río Paraná, Santa Fe"
+              fill
+              priority
+              className="object-cover"
+              sizes="(min-width: 1024px) 512px, 448px"
+            />
+          </div>
         </motion.div>
 
       </div>
