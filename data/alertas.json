@@ -1,27 +1,99 @@
 [
   {
-    "id": "2026-07-11-actualizacion-del-tipo-de-cambio-oficial-de-referencia-del-bcra-9e51ae",
-    "slug": "actualizacion-del-tipo-de-cambio-oficial-de-referencia-del-bcra",
+    "id": "2026-07-13-actualizacion-del-tipo-de-cambio-oficial-del-bcra-2c402b",
+    "slug": "actualizacion-del-tipo-de-cambio-oficial-del-bcra",
     "organismo": "BCRA",
-    "fecha": "2026-07-11",
+    "fecha": "2026-07-13",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
       "tipo de cambio",
       "divisas",
-      "operaciones cambiarias",
-      "BCRA"
+      "BCRA",
+      "comercio exterior"
     ],
-    "titulo": "Actualización del tipo de cambio oficial de referencia del BCRA",
-    "resumen": "Se informa el valor del tipo de cambio oficial del MULC para la fecha indicada, utilizado como referencia en operaciones de comercio exterior. Es el valor base para la liquidación de divisas y el pago de obligaciones en moneda extranjera.",
-    "queSignifica": "Verifique este valor contra los costos proyectados y los cierres de cambio pendientes en sus bancos intervinientes. Se recomienda validar si este tipo de cambio impacta en la actualización de sus proyecciones de flujo de fondos o en la valorización de declaraciones juradas en curso.",
+    "titulo": "Actualización del tipo de cambio oficial del BCRA",
+    "resumen": "Se establece el valor de referencia del dólar estadounidense en el Mercado Único y Libre de Cambios para la fecha indicada. Este valor es utilizado como base para la liquidación de divisas y pagos al exterior.",
+    "queSignifica": "Los operadores deben verificar este valor al momento de realizar sus proyecciones de costos y liquidaciones cambiarias. Se sugiere validar con su entidad bancaria la aplicación de este tipo de cambio según el instrumento de pago o cobro utilizado.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-07-11T20:39:10.312Z"
+    "actualizadoEn": "2026-07-13T12:28:19.657Z"
+  },
+  {
+    "id": "2026-07-13-cese-de-actividades-del-centro-despachantes-de-aduana-por-feriado-nacional-9e20f1",
+    "slug": "cese-de-actividades-del-centro-despachantes-de-aduana-por-feriado-nacional",
+    "organismo": "Aduana",
+    "fecha": "2026-07-13",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "CDA",
+      "feriado",
+      "operativa aduanera",
+      "gestión documental",
+      "despachante"
+    ],
+    "titulo": "Cese de actividades del Centro Despachantes de Aduana por feriado nacional",
+    "resumen": "El CDA permanecerá cerrado durante los días 9 y 10 de julio de 2026, lo cual implica la interrupción de sus servicios administrativos internos.",
+    "queSignifica": "Se recomienda verificar posibles demoras en gestiones administrativas o certificaciones que dependan de la institución durante dichas fechas, y planificar con antelación las presentaciones ante los organismos oficiales.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42626"
+    },
+    "publicadoEn": "2026-07-06T13:40:37.752Z",
+    "actualizadoEn": "2026-07-13T12:28:19.657Z"
+  },
+  {
+    "id": "2026-07-13-cronograma-de-operacion-de-terminales-portuarias-durante-feriados-f65ba7",
+    "slug": "cronograma-de-operacion-de-terminales-portuarias-durante-feriados",
+    "organismo": "Aduana",
+    "fecha": "2026-07-13",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "cronograma",
+      "terminales portuarias",
+      "feriado",
+      "logística",
+      "operativa"
+    ],
+    "titulo": "Cronograma de operación de terminales portuarias durante feriados",
+    "resumen": "El CDA informa los horarios y modalidades de trabajo de las distintas terminales portuarias para los días feriados.",
+    "queSignifica": "Se recomienda verificar el cronograma específico de la terminal donde opera su mercadería para coordinar turnos de retiro o ingreso. Es aconsejable consultar con su despachante o agente de transporte para evitar demoras operativas.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42622"
+    },
+    "publicadoEn": "2026-07-06T13:40:21.488Z",
+    "actualizadoEn": "2026-07-13T12:28:19.657Z"
+  },
+  {
+    "id": "2026-07-13-anmat-prohibe-comercializacion-y-uso-de-cosmeticos-ushas-fayankou-kakaziyan-y-ch-bccd2b",
+    "slug": "anmat-prohibe-comercializacion-y-uso-de-cosmeticos-ushas-fayankou-kakaziyan-y-ch",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-07-13",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "ANMAT",
+      "productos cosméticos",
+      "prohibición",
+      "trámites SIM",
+      "seguridad sanitaria"
+    ],
+    "titulo": "ANMAT prohíbe comercialización y uso de cosméticos USHAS, FAYANKOU, KAKAZIYAN y CHOVEMOAR",
+    "resumen": "La normativa establece la prohibición del uso, comercialización y distribución en todo el territorio nacional de diversos productos cosméticos pertenecientes a las marcas USHAS, FAYANKOU, KAKAZIYAN y CHOVEMOAR.",
+    "queSignifica": "El importador debe verificar el inventario y stock actual de estas marcas para evitar su despacho o venta. Se sugiere consultar con el departamento técnico la disposición específica de ANMAT para revisar el estado de los registros y proceder con el bloqueo preventivo de estas partidas.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-distintos-productos-cosmeticos-de-las-marcas-ushas-fayankou-kakaziyan-y"
+    },
+    "publicadoEn": "2026-07-13T12:28:14.407Z",
+    "actualizadoEn": "2026-07-13T12:28:19.657Z"
   },
   {
     "id": "2026-07-11-simplificacion-y-digitalizacion-de-habilitaciones-para-exportar-productos-de-ori-5db90d",
@@ -119,42 +191,6 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42623"
     },
     "publicadoEn": "2026-07-05T04:12:00.332Z",
-    "actualizadoEn": "2026-07-09T12:42:13.626Z"
-  },
-  {
-    "id": "2026-07-09-cronogramas-operativos-de-las-terminales-portuarias-feriado-78e4f9",
-    "slug": "cronogramas-operativos-de-las-terminales-portuarias-feriado",
-    "organismo": "CDA",
-    "fecha": "2026-07-06",
-    "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [],
-    "titulo": "Cronogramas operativos de las Terminales Portuarias: Feriado",
-    "resumen": "El Centro Despachantes de Aduana (CDA) les acerca a sus asociados el cronograma operativo de las distintas Terminales Portuarias para los fe...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42622"
-    },
-    "publicadoEn": "2026-07-06T13:40:21.488Z",
-    "actualizadoEn": "2026-07-09T12:42:13.626Z"
-  },
-  {
-    "id": "2026-07-09-cda-informa-el-cese-de-actividades-por-el-feriado-del-9-y-10-7540b1",
-    "slug": "cda-informa-el-cese-de-actividades-por-el-feriado-del-9-y-10",
-    "organismo": "CDA",
-    "fecha": "2026-07-06",
-    "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [],
-    "titulo": "CDA informa el cese de actividades por el feriado del 9 y 10",
-    "resumen": "El Centro Despachantes de Aduana informa a sus asociados que los días 9 y 10 de julio de 2026, la Institución permanecerá cerrada por con...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42626"
-    },
-    "publicadoEn": "2026-07-06T13:40:37.752Z",
     "actualizadoEn": "2026-07-09T12:42:13.626Z"
   },
   {
