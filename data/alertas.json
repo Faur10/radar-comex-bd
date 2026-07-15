@@ -1,31 +1,31 @@
 [
   {
-    "id": "2026-07-14-actualizacion-del-tipo-de-cambio-oficial-de-referencia-del-bcra-e462f6",
-    "slug": "actualizacion-del-tipo-de-cambio-oficial-de-referencia-del-bcra",
+    "id": "2026-07-15-actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc-ed60b7",
+    "slug": "actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc",
     "organismo": "BCRA",
-    "fecha": "2026-07-14",
+    "fecha": "2026-07-15",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "tipo de cambio",
-      "operaciones cambiarias",
-      "divisas",
+      "Tipo de Cambio",
+      "Liquidación de divisas",
+      "Acceso al mercado de cambios",
       "BCRA"
     ],
-    "titulo": "Actualización del tipo de cambio oficial de referencia del BCRA",
-    "resumen": "El BCRA ha fijado el tipo de cambio del Mercado Único y Libre de Cambios (MULC) en 1025.84 pesos por dólar para la fecha informada.",
-    "queSignifica": "Se recomienda revisar este valor al momento de realizar la liquidación de divisas de exportación o el pago de importaciones en el sistema bancario. Verifique con su entidad financiera la aplicación de este tipo de cambio para sus operaciones pendientes de pago o cobro.",
+    "titulo": "Actualización de la cotización oficial del dólar en el MULC",
+    "resumen": "Se establece el valor oficial de referencia del dólar estadounidense para las operaciones cursadas a través del Mercado Único y Libre de Cambios.",
+    "queSignifica": "El operador debe utilizar este valor como referencia para el cálculo de costos de importación y liquidación de exportaciones. Se sugiere verificar su aplicación en la base imponible y el registro de la declaración jurada correspondiente.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-07-14T11:20:56.880Z"
+    "actualizadoEn": "2026-07-15T11:24:21.722Z"
   },
   {
-    "id": "2026-07-14-actualizacion-de-normas-sobre-acceso-al-mercado-unico-y-libre-de-cambios-850c77",
-    "slug": "actualizacion-de-normas-sobre-acceso-al-mercado-unico-y-libre-de-cambios",
+    "id": "2026-07-15-actualizacion-de-normas-operativas-del-bcra-sobre-el-mercado-de-cambios-8db7c1",
+    "slug": "actualizacion-de-normas-operativas-del-bcra-sobre-el-mercado-de-cambios",
     "organismo": "BCRA",
     "fecha": "2026-07-14",
     "impacto": "alto",
@@ -33,24 +33,24 @@
     "tags": [
       "MULC",
       "Acceso al Mercado de Cambios",
-      "BCRA",
+      "Giros al exterior",
       "Regulaciones Cambiarias",
-      "Comercio Exterior"
+      "BCRA"
     ],
-    "titulo": "Actualización de normas sobre acceso al Mercado Único y Libre de Cambios",
-    "resumen": "La Comunicación A 8450 modifica las condiciones y requisitos para el acceso al MULC en operaciones de comercio exterior. Establece nuevos parámetros para la liquidación de divisas y el acceso para pagos de importaciones o cobros de exportaciones.",
-    "queSignifica": "Es necesario verificar de inmediato el cumplimiento de los nuevos requisitos cambiarios antes de programar cualquier giro o liquidación. Se recomienda consultar con su entidad bancaria para validar si su operación en curso requiere ajustes documentales conforme a la normativa vigente.",
+    "titulo": "Actualización de normas operativas del BCRA sobre el Mercado de Cambios",
+    "resumen": "La comunicación establece nuevas pautas y requisitos técnicos para la operatoria de cambios en el MULC. Modifica los procedimientos vigentes para el acceso a divisas en las operaciones de comercio exterior.",
+    "queSignifica": "Se recomienda revisar en detalle el texto completo de la norma para evaluar su impacto en los plazos y condiciones de sus giros. Verifique con su entidad bancaria la aplicación específica según la naturaleza de sus operaciones vigentes.",
     "fuente": {
       "nombre": "Boletín Oficial de la República Argentina",
       "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/344312/20260714"
     },
     "normativaRef": "Comunicación \"A\" 8450/2026",
     "publicadoEn": "2026-07-14T11:20:15.232Z",
-    "actualizadoEn": "2026-07-14T11:20:56.880Z"
+    "actualizadoEn": "2026-07-15T11:24:21.722Z"
   },
   {
-    "id": "2026-07-14-actualizacion-de-normas-cambiarias-para-acceso-al-mercado-de-cambios-1f8d89",
-    "slug": "actualizacion-de-normas-cambiarias-para-acceso-al-mercado-de-cambios",
+    "id": "2026-07-15-actualizacion-de-normas-cambiarias-para-operaciones-de-comercio-exterior-e5e85f",
+    "slug": "actualizacion-de-normas-cambiarias-para-operaciones-de-comercio-exterior",
     "organismo": "BCRA",
     "fecha": "2026-07-14",
     "impacto": "alto",
@@ -58,20 +58,68 @@
     "tags": [
       "MULC",
       "BCRA",
-      "Giros al exterior",
-      "Acceso a divisas",
-      "Pagos"
+      "Giros de divisas",
+      "Acceso al mercado de cambios",
+      "Cumplimiento normativo"
     ],
-    "titulo": "Actualización de normas cambiarias para acceso al mercado de cambios",
-    "resumen": "La comunicación establece nuevos requisitos y condiciones para el acceso al Mercado Único y Libre de Cambios (MULC) para operaciones de comercio exterior. Modifica los plazos y la documentación respaldatoria exigida para cursar pagos al exterior.",
-    "queSignifica": "Debe revisar la vigencia de las declaraciones SIRASE/SIRA o equivalentes y el cumplimiento de las nuevas condiciones de plazo para evitar bloqueos en el pago. Se recomienda validar con su entidad bancaria la aplicación de esta norma según el tipo de bien o servicio a cancelar.",
+    "titulo": "Actualización de normas cambiarias para operaciones de comercio exterior",
+    "resumen": "La comunicación establece modificaciones en el acceso al Mercado Único y Libre de Cambios (MULC) para cursar pagos de operaciones de comercio exterior. Ajusta las condiciones de acceso, plazos y requisitos para la liquidación de divisas en el sistema financiero.",
+    "queSignifica": "Es necesario verificar el impacto en el cronograma de pagos de sus operaciones en curso frente a las nuevas condiciones del BCRA. Se recomienda consultar con su entidad bancaria para validar la elegibilidad y requisitos documentales de cada transacción específica.",
     "fuente": {
       "nombre": "Boletín Oficial de la República Argentina",
       "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/344313/20260714"
     },
     "normativaRef": "Comunicación \"A\" 8451/2026",
     "publicadoEn": "2026-07-14T11:20:20.373Z",
-    "actualizadoEn": "2026-07-14T11:20:56.880Z"
+    "actualizadoEn": "2026-07-15T11:24:21.722Z"
+  },
+  {
+    "id": "2026-07-15-retiro-preventivo-del-mercado-de-lotes-especificos-de-sopa-deshidratada-la-anoni-a0f23b",
+    "slug": "retiro-preventivo-del-mercado-de-lotes-especificos-de-sopa-deshidratada-la-anoni",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-07-13",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "INAL",
+      "Seguridad alimentaria",
+      "Retiro de mercado",
+      "Restricciones no arancelarias",
+      "Compliance"
+    ],
+    "titulo": "Retiro preventivo del mercado de lotes específicos de sopa deshidratada La Anónima",
+    "resumen": "La ANMAT ordenó el retiro del mercado de tres lotes de sopa de arvejas instantánea marca La Anónima por incumplimientos en la normativa alimentaria. El organismo exige el cese de comercialización de las unidades afectadas.",
+    "queSignifica": "El importador debe verificar el inventario en stock y los registros de mercadería nacionalizada para asegurar que no se comercialicen los lotes observados. Se recomienda contactar al proveedor para coordinar el retiro preventivo y evitar sanciones de la autoridad sanitaria.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/retiro-del-mercado-de-tres-lotes-de-sopa-de-arvejas-deshidratada-instantanea-marca-la"
+    },
+    "publicadoEn": "2026-07-14T11:20:45.629Z",
+    "actualizadoEn": "2026-07-15T11:24:21.722Z"
+  },
+  {
+    "id": "2026-07-15-anmat-prohibe-la-comercializacion-de-productos-cosmeticos-marcas-ushas-fayankou--27e335",
+    "slug": "anmat-prohibe-la-comercializacion-de-productos-cosmeticos-marcas-ushas-fayankou-",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-07-13",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "ANMAT",
+      "productos cosméticos",
+      "prohibición comercialización",
+      "control sanitario",
+      "SIMI/SIRA"
+    ],
+    "titulo": "ANMAT prohíbe la comercialización de productos cosméticos marcas USHAS, FAYANKOU, KAKAZIYAN y CHOVEMOAR",
+    "resumen": "La ANMAT dispuso la prohibición de uso, distribución y comercialización de diversos productos cosméticos de las marcas mencionadas por falta de registros sanitarios y datos de origen. La medida busca prevenir riesgos para la salud al tratarse de productos sin trazabilidad garantizada.",
+    "queSignifica": "El importador debe verificar si posee stock o destinaciones en curso de estos artículos y suspender su comercialización inmediata. Se recomienda auditar el inventario contra el listado detallado en la disposición oficial para evitar infracciones aduaneras y sanciones sanitarias.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-distintos-productos-cosmeticos-de-las-marcas-ushas-fayankou-kakaziyan-y"
+    },
+    "publicadoEn": "2026-07-13T12:28:14.407Z",
+    "actualizadoEn": "2026-07-15T11:24:21.722Z"
   },
   {
     "id": "2026-07-14-jornada-de-capacitacion-sobre-el-programa-operador-economico-autorizado-oea-cecb6c",
@@ -167,54 +215,6 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42622"
     },
     "publicadoEn": "2026-07-06T13:40:21.488Z",
-    "actualizadoEn": "2026-07-14T11:20:56.880Z"
-  },
-  {
-    "id": "2026-07-14-retiro-preventivo-del-mercado-de-lotes-de-sopa-de-arvejas-marca-la-anonima-67a060",
-    "slug": "retiro-preventivo-del-mercado-de-lotes-de-sopa-de-arvejas-marca-la-anonima",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-07-13",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "seguridad alimentaria",
-      "inal",
-      "bloqueo de mercadería",
-      "gestión de calidad",
-      "cumplimiento normativo"
-    ],
-    "titulo": "Retiro preventivo del mercado de lotes de Sopa de arvejas marca La Anónima",
-    "resumen": "La ANMAT ordenó el retiro del mercado de tres lotes específicos de sopa deshidratada por posible presencia de alérgenos no declarados. La medida implica el cese inmediato de comercialización de dichas unidades.",
-    "queSignifica": "El importador debe verificar si posee stock de los lotes afectados para realizar el bloqueo preventivo y coordinar con el departamento de calidad. Se sugiere revisar la trazabilidad de la mercadería en depósito y realizar la comunicación pertinente al servicio aduanero si la carga está en curso.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/retiro-del-mercado-de-tres-lotes-de-sopa-de-arvejas-deshidratada-instantanea-marca-la"
-    },
-    "publicadoEn": "2026-07-14T11:20:45.629Z",
-    "actualizadoEn": "2026-07-14T11:20:56.880Z"
-  },
-  {
-    "id": "2026-07-14-anmat-prohibe-el-uso-distribucion-y-comercializacion-de-productos-cosmeticos-esp-9f730e",
-    "slug": "anmat-prohibe-el-uso-distribucion-y-comercializacion-de-productos-cosmeticos-esp",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-07-13",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "ANMAT",
-      "prohibición",
-      "cosméticos",
-      "bloqueo",
-      "SICE"
-    ],
-    "titulo": "ANMAT prohíbe el uso, distribución y comercialización de productos cosméticos específicos",
-    "resumen": "La normativa establece la prohibición de comercializar productos cosméticos de las marcas USHAS, FAYANKOU, KAKAZIYAN y CHOVEMOAR por carecer de registro sanitario.",
-    "queSignifica": "El importador debe verificar en sus stocks y registros de despacho si existen productos bajo estas marcas para evitar bloqueos aduaneros o medidas punitivas. Se recomienda consultar con el servicio técnico de ANMAT si el producto posee habilitación antes de continuar con cualquier gestión de nacionalización.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-distintos-productos-cosmeticos-de-las-marcas-ushas-fayankou-kakaziyan-y"
-    },
-    "publicadoEn": "2026-07-13T12:28:14.407Z",
     "actualizadoEn": "2026-07-14T11:20:56.880Z"
   },
   {
