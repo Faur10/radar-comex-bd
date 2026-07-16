@@ -1,31 +1,128 @@
 [
   {
-    "id": "2026-07-15-actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc-ed60b7",
-    "slug": "actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc",
+    "id": "2026-07-16-cotizacion-oficial-del-dolar-en-el-mercado-unico-y-libre-de-cambios-al-15072026-2d8fa7",
+    "slug": "cotizacion-oficial-del-dolar-en-el-mercado-unico-y-libre-de-cambios-al-15072026",
     "organismo": "BCRA",
-    "fecha": "2026-07-15",
+    "fecha": "2026-07-16",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "Tipo de Cambio",
+      "Tipo de cambio",
       "Liquidación de divisas",
-      "Acceso al mercado de cambios",
-      "BCRA"
+      "BCRA",
+      "Comex"
     ],
-    "titulo": "Actualización de la cotización oficial del dólar en el MULC",
-    "resumen": "Se establece el valor oficial de referencia del dólar estadounidense para las operaciones cursadas a través del Mercado Único y Libre de Cambios.",
-    "queSignifica": "El operador debe utilizar este valor como referencia para el cálculo de costos de importación y liquidación de exportaciones. Se sugiere verificar su aplicación en la base imponible y el registro de la declaración jurada correspondiente.",
+    "titulo": "Cotización oficial del dólar en el Mercado Único y Libre de Cambios al 15/07/2026",
+    "resumen": "Se establece el tipo de cambio oficial del BCRA aplicable al mercado de cambios para la fecha indicada. Este valor es la referencia para las operaciones de comercio exterior sujetas a liquidación o pago.",
+    "queSignifica": "Debe verificar este valor al realizar el cálculo de sus costos operativos y cierres de cambio. Se sugiere revisar su concordancia con la cotización aplicada por su entidad bancaria para la liquidación de divisas o pago de importaciones.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-07-15T11:24:21.722Z"
+    "actualizadoEn": "2026-07-16T11:29:14.876Z"
   },
   {
-    "id": "2026-07-15-actualizacion-de-normas-operativas-del-bcra-sobre-el-mercado-de-cambios-8db7c1",
-    "slug": "actualizacion-de-normas-operativas-del-bcra-sobre-el-mercado-de-cambios",
+    "id": "2026-07-16-cierre-administrativo-del-centro-de-despachantes-de-aduana-el-miercoles-15-de-ju-35874a",
+    "slug": "cierre-administrativo-del-centro-de-despachantes-de-aduana-el-miercoles-15-de-ju",
+    "organismo": "Aduana",
+    "fecha": "2026-07-15",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "CDA",
+      "gestión administrativa",
+      "operatividad",
+      "despachante",
+      "logística"
+    ],
+    "titulo": "Cierre administrativo del Centro de Despachantes de Aduana el miércoles 15 de julio",
+    "resumen": "El Centro de Despachantes de Aduana informa que suspenderá su atención presencial y servicios administrativos durante la jornada del 15 de julio.",
+    "queSignifica": "Se recomienda verificar si las gestiones pendientes ante la institución requieren atención presencial y reprogramarlas. Ante cualquier duda, consulte con su despachante sobre la disponibilidad de los servicios de asistencia durante dicha fecha.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42635"
+    },
+    "publicadoEn": "2026-07-16T11:28:18.198Z",
+    "actualizadoEn": "2026-07-16T11:29:14.876Z"
+  },
+  {
+    "id": "2026-07-16-actualizacion-de-los-valores-de-la-tasa-por-servicios-extraordinarios-de-la-dga-a49df0",
+    "slug": "actualizacion-de-los-valores-de-la-tasa-por-servicios-extraordinarios-de-la-dga",
+    "organismo": "Aduana",
+    "fecha": "2026-07-15",
+    "impacto": "medio",
+    "categoria": "normativa",
+    "tags": [
+      "Servicios Extraordinarios",
+      "Tasa Aduanera",
+      "Costos Operativos",
+      "DGA",
+      "Despacho"
+    ],
+    "titulo": "Actualización de los valores de la tasa por servicios extraordinarios de la DGA",
+    "resumen": "La resolución oficializa el incremento en las tasas aplicables a los servicios aduaneros realizados fuera de los horarios o lugares habituales. La medida ajusta los costos administrativos que la Aduana percibe por la prestación de dichos servicios.",
+    "queSignifica": "Se recomienda revisar la estructura de costos de sus próximas operaciones y consultar con su despachante sobre el impacto directo de estas nuevas tasas en sus liquidaciones. Evalúe si la programación de sus operaciones requiere un análisis de costos actualizado bajo este nuevo esquema tarifario.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42636"
+    },
+    "publicadoEn": "2026-07-16T11:28:23.215Z",
+    "actualizadoEn": "2026-07-16T11:29:14.876Z"
+  },
+  {
+    "id": "2026-07-16-exportacion-de-20-toneladas-de-carne-caprina-hacia-oman-bajo-fiscalizacion-de-se-cae780",
+    "slug": "exportacion-de-20-toneladas-de-carne-caprina-hacia-oman-bajo-fiscalizacion-de-se",
+    "organismo": "SENASA",
+    "fecha": "2026-07-15",
+    "impacto": "bajo",
+    "categoria": "exportacion",
+    "tags": [
+      "exportación carne",
+      "requisitos fitosanitarios",
+      "certificación SENASA",
+      "carne caprina",
+      "Omán"
+    ],
+    "titulo": "Exportación de 20 toneladas de carne caprina hacia Omán bajo fiscalización de SENASA",
+    "resumen": "El SENASA realizó la fiscalización sanitaria de un embarque de carne caprina cumpliendo con las exigencias del mercado de Omán. La operatoria confirma la apertura y cumplimiento técnico del mercado de Medio Oriente para este producto.",
+    "queSignifica": "Para exportadores del sector, se sugiere verificar la vigencia de los protocolos sanitarios y los requisitos específicos del país de destino en el sistema del SENASA antes de iniciar nuevas operaciones. Se recomienda confirmar la habilitación de los establecimientos faenadores ante el servicio veterinario del país importador.",
+    "fuente": {
+      "nombre": "SENASA Comunica",
+      "url": "https://www.argentina.gob.ar/noticias/chaco-exportacion-de-mas-de-20-toneladas-de-carne-caprina-con-destino-oman"
+    },
+    "publicadoEn": "2026-07-16T11:28:58.210Z",
+    "actualizadoEn": "2026-07-16T11:29:14.876Z"
+  },
+  {
+    "id": "2026-07-16-actualizacion-de-las-normas-de-acceso-al-mercado-de-cambios-del-bcra-a385a4",
+    "slug": "actualizacion-de-las-normas-de-acceso-al-mercado-de-cambios-del-bcra",
+    "organismo": "BCRA",
+    "fecha": "2026-07-14",
+    "impacto": "alto",
+    "categoria": "normativa",
+    "tags": [
+      "MULC",
+      "Acceso al Mercado de Cambios",
+      "BCRA",
+      "Pagos al exterior",
+      "Financiamiento"
+    ],
+    "titulo": "Actualización de las normas de acceso al mercado de cambios del BCRA",
+    "resumen": "La Comunicación establece nuevas condiciones y requisitos regulatorios para el acceso al MULC por parte de las entidades y clientes. Modifica los procedimientos vigentes para la liquidación de operaciones cambiarias en el comercio exterior.",
+    "queSignifica": "Se recomienda revisar inmediatamente la nueva normativa y consultar con su entidad bancaria para verificar si las operaciones en curso o pendientes cumplen con los nuevos requisitos de acceso. Evalúe con su asesor cambiario el impacto en el flujo de pagos pendientes antes de realizar presentaciones ante el BCRA.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/344312/20260714"
+    },
+    "normativaRef": "Comunicación \"A\" 8450/2026",
+    "publicadoEn": "2026-07-14T11:20:15.232Z",
+    "actualizadoEn": "2026-07-16T11:29:14.876Z"
+  },
+  {
+    "id": "2026-07-16-actualizacion-de-normas-cambiarias-para-acceso-al-mulc-del-bcra-036e96",
+    "slug": "actualizacion-de-normas-cambiarias-para-acceso-al-mulc-del-bcra",
     "organismo": "BCRA",
     "fecha": "2026-07-14",
     "impacto": "alto",
@@ -34,120 +131,95 @@
       "MULC",
       "Acceso al Mercado de Cambios",
       "Giros al exterior",
-      "Regulaciones Cambiarias",
-      "BCRA"
-    ],
-    "titulo": "Actualización de normas operativas del BCRA sobre el Mercado de Cambios",
-    "resumen": "La comunicación establece nuevas pautas y requisitos técnicos para la operatoria de cambios en el MULC. Modifica los procedimientos vigentes para el acceso a divisas en las operaciones de comercio exterior.",
-    "queSignifica": "Se recomienda revisar en detalle el texto completo de la norma para evaluar su impacto en los plazos y condiciones de sus giros. Verifique con su entidad bancaria la aplicación específica según la naturaleza de sus operaciones vigentes.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/344312/20260714"
-    },
-    "normativaRef": "Comunicación \"A\" 8450/2026",
-    "publicadoEn": "2026-07-14T11:20:15.232Z",
-    "actualizadoEn": "2026-07-15T11:24:21.722Z"
-  },
-  {
-    "id": "2026-07-15-actualizacion-de-normas-cambiarias-para-operaciones-de-comercio-exterior-e5e85f",
-    "slug": "actualizacion-de-normas-cambiarias-para-operaciones-de-comercio-exterior",
-    "organismo": "BCRA",
-    "fecha": "2026-07-14",
-    "impacto": "alto",
-    "categoria": "normativa",
-    "tags": [
-      "MULC",
       "BCRA",
-      "Giros de divisas",
-      "Acceso al mercado de cambios",
-      "Cumplimiento normativo"
+      "Comunicación A 8451"
     ],
-    "titulo": "Actualización de normas cambiarias para operaciones de comercio exterior",
-    "resumen": "La comunicación establece modificaciones en el acceso al Mercado Único y Libre de Cambios (MULC) para cursar pagos de operaciones de comercio exterior. Ajusta las condiciones de acceso, plazos y requisitos para la liquidación de divisas en el sistema financiero.",
-    "queSignifica": "Es necesario verificar el impacto en el cronograma de pagos de sus operaciones en curso frente a las nuevas condiciones del BCRA. Se recomienda consultar con su entidad bancaria para validar la elegibilidad y requisitos documentales de cada transacción específica.",
+    "titulo": "Actualización de normas cambiarias para acceso al MULC del BCRA",
+    "resumen": "La Comunicación A 8451 establece nuevas condiciones para la ejecución de pagos al exterior y el acceso al Mercado Único y Libre de Cambios. La norma modifica los requisitos documentales y plazos exigidos para validar giros de divisas vinculados al comercio exterior.",
+    "queSignifica": "Es necesario auditar los expedientes en curso para asegurar el cumplimiento de las nuevas exigencias documentales. Se recomienda revisar con el banco interviniente si la operativa vigente requiere ajustes antes de cursar nuevos pagos.",
     "fuente": {
       "nombre": "Boletín Oficial de la República Argentina",
       "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/344313/20260714"
     },
     "normativaRef": "Comunicación \"A\" 8451/2026",
     "publicadoEn": "2026-07-14T11:20:20.373Z",
-    "actualizadoEn": "2026-07-15T11:24:21.722Z"
+    "actualizadoEn": "2026-07-16T11:29:14.876Z"
   },
   {
-    "id": "2026-07-15-retiro-preventivo-del-mercado-de-lotes-especificos-de-sopa-deshidratada-la-anoni-a0f23b",
-    "slug": "retiro-preventivo-del-mercado-de-lotes-especificos-de-sopa-deshidratada-la-anoni",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-07-13",
-    "impacto": "alto",
-    "categoria": "importacion",
+    "id": "2026-07-16-nueva-asesoria-especializada-en-temas-de-seguros-para-el-asociado-c7e928",
+    "slug": "nueva-asesoria-especializada-en-temas-de-seguros-para-el-asociado",
+    "organismo": "Aduana",
+    "fecha": "2026-07-14",
+    "impacto": "bajo",
+    "categoria": "normativa",
     "tags": [
-      "INAL",
-      "Seguridad alimentaria",
-      "Retiro de mercado",
-      "Restricciones no arancelarias",
-      "Compliance"
+      "seguros",
+      "asesoramiento",
+      "servicios profesionales",
+      "despachante de aduana",
+      "gestión de riesgos"
     ],
-    "titulo": "Retiro preventivo del mercado de lotes específicos de sopa deshidratada La Anónima",
-    "resumen": "La ANMAT ordenó el retiro del mercado de tres lotes de sopa de arvejas instantánea marca La Anónima por incumplimientos en la normativa alimentaria. El organismo exige el cese de comercialización de las unidades afectadas.",
-    "queSignifica": "El importador debe verificar el inventario en stock y los registros de mercadería nacionalizada para asegurar que no se comercialicen los lotes observados. Se recomienda contactar al proveedor para coordinar el retiro preventivo y evitar sanciones de la autoridad sanitaria.",
+    "titulo": "Nueva asesoría especializada en temas de seguros para el asociado",
+    "resumen": "El CDA ha implementado un nuevo canal de asesoramiento técnico enfocado exclusivamente en materia de seguros para sus asociados.",
+    "queSignifica": "Se recomienda consultar a esta nueva asesoría ante dudas sobre coberturas, riesgos o siniestros en la cadena logística, verificando si las pólizas vigentes se ajustan a las necesidades operativas actuales.",
     "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/retiro-del-mercado-de-tres-lotes-de-sopa-de-arvejas-deshidratada-instantanea-marca-la"
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42619"
     },
-    "publicadoEn": "2026-07-14T11:20:45.629Z",
-    "actualizadoEn": "2026-07-15T11:24:21.722Z"
+    "publicadoEn": "2026-07-05T04:12:00.329Z",
+    "actualizadoEn": "2026-07-16T11:29:14.876Z"
   },
   {
-    "id": "2026-07-15-anmat-prohibe-la-comercializacion-de-productos-cosmeticos-marcas-ushas-fayankou--27e335",
-    "slug": "anmat-prohibe-la-comercializacion-de-productos-cosmeticos-marcas-ushas-fayankou-",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-07-13",
-    "impacto": "alto",
-    "categoria": "importacion",
+    "id": "2026-07-16-nuevo-servicio-de-traslado-de-documentacion-hacia-la-aduana-de-ezeiza-e6347a",
+    "slug": "nuevo-servicio-de-traslado-de-documentacion-hacia-la-aduana-de-ezeiza",
+    "organismo": "Aduana",
+    "fecha": "2026-07-14",
+    "impacto": "bajo",
+    "categoria": "logistica",
     "tags": [
-      "ANMAT",
-      "productos cosméticos",
-      "prohibición comercialización",
-      "control sanitario",
-      "SIMI/SIRA"
+      "documentación",
+      "despachante",
+      "logística",
+      "aduana",
+      "Ezeiza"
     ],
-    "titulo": "ANMAT prohíbe la comercialización de productos cosméticos marcas USHAS, FAYANKOU, KAKAZIYAN y CHOVEMOAR",
-    "resumen": "La ANMAT dispuso la prohibición de uso, distribución y comercialización de diversos productos cosméticos de las marcas mencionadas por falta de registros sanitarios y datos de origen. La medida busca prevenir riesgos para la salud al tratarse de productos sin trazabilidad garantizada.",
-    "queSignifica": "El importador debe verificar si posee stock o destinaciones en curso de estos artículos y suspender su comercialización inmediata. Se recomienda auditar el inventario contra el listado detallado en la disposición oficial para evitar infracciones aduaneras y sanciones sanitarias.",
+    "titulo": "Nuevo servicio de traslado de documentación hacia la Aduana de Ezeiza",
+    "resumen": "El CDA ha implementado una nueva modalidad para el traslado de documentación operativa hacia la Aduana de Ezeiza.",
+    "queSignifica": "Se sugiere a los operadores verificar las condiciones y horarios de este servicio en el portal del CDA para evaluar su conveniencia operativa. Recomendamos consultar los términos específicos para asegurar que el método de traslado cumpla con los plazos de presentación documental.",
     "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-distintos-productos-cosmeticos-de-las-marcas-ushas-fayankou-kakaziyan-y"
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42623"
     },
-    "publicadoEn": "2026-07-13T12:28:14.407Z",
-    "actualizadoEn": "2026-07-15T11:24:21.722Z"
+    "publicadoEn": "2026-07-05T04:12:00.332Z",
+    "actualizadoEn": "2026-07-16T11:29:14.876Z"
   },
   {
-    "id": "2026-07-14-jornada-de-capacitacion-sobre-el-programa-operador-economico-autorizado-oea-cecb6c",
-    "slug": "jornada-de-capacitacion-sobre-el-programa-operador-economico-autorizado-oea",
+    "id": "2026-07-16-jornada-de-capacitacion-sobre-el-programa-oea-095c6d",
+    "slug": "jornada-de-capacitacion-sobre-el-programa-oea",
     "organismo": "Aduana",
     "fecha": "2026-07-13",
     "impacto": "bajo",
     "categoria": "normativa",
     "tags": [
       "OEA",
+      "Operador Económico Autorizado",
       "Aduana",
-      "Capacitación",
-      "Comercio Exterior",
-      "Certificación"
+      "Certificación",
+      "Comercio Exterior"
     ],
-    "titulo": "Jornada de capacitación sobre el programa Operador Económico Autorizado (OEA)",
-    "resumen": "El CDA organiza una sesión informativa para profundizar en los beneficios y requisitos del programa OEA. La capacitación busca promover la jerarquización de los operadores mediante esta certificación internacional.",
-    "queSignifica": "Se sugiere revisar la convocatoria para evaluar si la empresa cumple con los estándares para obtener la certificación OEA, lo cual podría agilizar futuros procesos aduaneros.",
+    "titulo": "Jornada de capacitación sobre el programa OEA",
+    "resumen": "El CDA organiza una jornada informativa sobre los beneficios y requisitos del programa Operador Económico Autorizado.",
+    "queSignifica": "Se recomienda participar en la capacitación para evaluar si la empresa cumple con los estándares necesarios para obtener la certificación OEA y los beneficios asociados. Analice si esta figura se alinea con la estrategia de facilitación aduanera de su organización.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42627"
     },
     "publicadoEn": "2026-07-07T12:23:57.044Z",
-    "actualizadoEn": "2026-07-14T11:20:56.880Z"
+    "actualizadoEn": "2026-07-16T11:29:14.876Z"
   },
   {
-    "id": "2026-07-14-servicio-de-espacios-de-coworking-para-asociados-en-la-sede-del-cda-3daaae",
-    "slug": "servicio-de-espacios-de-coworking-para-asociados-en-la-sede-del-cda",
+    "id": "2026-07-16-disponibilidad-de-espacios-de-coworking-en-el-cda-bc6718",
+    "slug": "disponibilidad-de-espacios-de-coworking-en-el-cda",
     "organismo": "Aduana",
     "fecha": "2026-07-13",
     "impacto": "bajo",
@@ -155,47 +227,47 @@
     "tags": [
       "CDA",
       "servicios",
-      "infraestructura",
       "despachante",
-      "asociados"
+      "oficina",
+      "infraestructura"
     ],
-    "titulo": "Servicio de espacios de coworking para asociados en la sede del CDA",
-    "resumen": "El Centro Despachantes de Aduana informa sobre la disponibilidad de espacios de trabajo compartido para sus miembros.",
-    "queSignifica": "Es una comunicación institucional sin impacto operativo. Se sugiere revisar la disponibilidad y condiciones de uso si requiere espacio físico en la sede para su gestión profesional.",
+    "titulo": "Disponibilidad de espacios de coworking en el CDA",
+    "resumen": "El Centro Despachantes de Aduana informa la disponibilidad de espacios de trabajo para sus asociados.",
+    "queSignifica": "Es una comunicación de carácter institucional. Se sugiere verificar los beneficios y condiciones de uso de los espacios si requiere realizar gestiones administrativas presenciales en el centro.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42526"
     },
     "publicadoEn": "2026-07-14T11:20:30.526Z",
-    "actualizadoEn": "2026-07-14T11:20:56.880Z"
+    "actualizadoEn": "2026-07-16T11:29:14.876Z"
   },
   {
-    "id": "2026-07-14-cese-de-actividades-del-cda-los-dias-9-y-10-de-julio-de-2026-8d5f44",
-    "slug": "cese-de-actividades-del-cda-los-dias-9-y-10-de-julio-de-2026",
+    "id": "2026-07-16-cese-de-actividades-del-cda-por-feriado-del-9-y-10-de-julio-de-2026-7462ef",
+    "slug": "cese-de-actividades-del-cda-por-feriado-del-9-y-10-de-julio-de-2026",
     "organismo": "Aduana",
     "fecha": "2026-07-13",
     "impacto": "bajo",
     "categoria": "logistica",
     "tags": [
       "cierre administrativo",
-      "gestión aduanera",
-      "cronograma",
-      "operatividad",
-      "despachante de aduana"
+      "operatividad aduanera",
+      "gestión despachante",
+      "feriados nacionales",
+      "trámites COMEX"
     ],
-    "titulo": "Cese de actividades del CDA los días 9 y 10 de julio de 2026",
-    "resumen": "El Centro Despachantes de Aduana comunica que permanecerá cerrado los días 9 y 10 de julio por feriados. La medida afecta exclusivamente la atención administrativa de la institución.",
-    "queSignifica": "Se sugiere verificar la programación de trámites y presentaciones institucionales ante el CDA para evitar demoras. Asimismo, se recomienda revisar con los prestadores logísticos y terminales de carga la operatividad específica de los días feriados para cualquier trámite aduanero pendiente.",
+    "titulo": "Cese de actividades del CDA por feriado del 9 y 10 de julio de 2026",
+    "resumen": "El Centro Despachantes de Aduana informa que su sede permanecerá cerrada durante los días 9 y 10 de julio de 2026.",
+    "queSignifica": "Se sugiere verificar la disponibilidad de atención de las dependencias oficiales y coordinar las gestiones documentales con antelación, ya que la atención administrativa de la institución se encontrará suspendida.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42626"
     },
     "publicadoEn": "2026-07-06T13:40:37.752Z",
-    "actualizadoEn": "2026-07-14T11:20:56.880Z"
+    "actualizadoEn": "2026-07-16T11:29:14.876Z"
   },
   {
-    "id": "2026-07-14-cronogramas-de-operacion-en-terminales-portuarias-por-feriados-3ddcdc",
-    "slug": "cronogramas-de-operacion-en-terminales-portuarias-por-feriados",
+    "id": "2026-07-16-cronograma-de-operacion-en-terminales-portuarias-durante-los-feriados-59a79f",
+    "slug": "cronograma-de-operacion-en-terminales-portuarias-durante-los-feriados",
     "organismo": "Aduana",
     "fecha": "2026-07-13",
     "impacto": "bajo",
@@ -204,18 +276,66 @@
       "terminales portuarias",
       "cronograma operativo",
       "feriados",
-      "logistica",
-      "despacho"
+      "logistica portuaria",
+      "operaciones de comercio exterior"
     ],
-    "titulo": "Cronogramas de operación en terminales portuarias por feriados",
-    "resumen": "El CDA publica los horarios de atención y disponibilidad operativa de las terminales portuarias durante los días feriados.",
-    "queSignifica": "Se sugiere verificar el cronograma específico de la terminal donde opera su carga para evitar demoras. Revise los costos por estadías o servicios extraordinarios antes de programar retiros o ingresos durante estos días.",
+    "titulo": "Cronograma de operación en terminales portuarias durante los feriados",
+    "resumen": "El CDA informa los horarios y condiciones de atención de las terminales portuarias para los días feriados.",
+    "queSignifica": "Se recomienda verificar con cada terminal la disponibilidad de turnos y ventanas operativas antes de programar retiros o ingresos de mercadería, a fin de evitar costos por demoras o estadías.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42622"
     },
     "publicadoEn": "2026-07-06T13:40:21.488Z",
-    "actualizadoEn": "2026-07-14T11:20:56.880Z"
+    "actualizadoEn": "2026-07-16T11:29:14.876Z"
+  },
+  {
+    "id": "2026-07-16-retiro-preventivo-del-mercado-de-tres-lotes-de-sopa-de-arvejas-marca-la-anonima-707e2d",
+    "slug": "retiro-preventivo-del-mercado-de-tres-lotes-de-sopa-de-arvejas-marca-la-anonima",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-07-13",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "INAL",
+      "Seguridad Alimentaria",
+      "Retiro de mercado",
+      "Control sanitario",
+      "Gestión de riesgo"
+    ],
+    "titulo": "Retiro preventivo del mercado de tres lotes de Sopa de arvejas marca La Anónima",
+    "resumen": "La ANMAT ordenó el retiro del mercado de tres lotes específicos de sopa deshidratada por presentar riesgos potenciales para la salud. La medida busca prevenir la comercialización de unidades afectadas por una posible contaminación.",
+    "queSignifica": "Se sugiere verificar urgentemente el stock y los registros de ingresos de los lotes mencionados en la alerta para asegurar que no se encuentren en la cadena de distribución o depósitos aduaneros. Se recomienda contactar con el responsable del producto para coordinar la gestión de la mercadería y evitar multas o sanciones del INAL.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/retiro-del-mercado-de-tres-lotes-de-sopa-de-arvejas-deshidratada-instantanea-marca-la"
+    },
+    "publicadoEn": "2026-07-14T11:20:45.629Z",
+    "actualizadoEn": "2026-07-16T11:29:14.876Z"
+  },
+  {
+    "id": "2026-07-16-anmat-prohibe-la-comercializacion-y-uso-de-cosmeticos-marcas-ushas-fayankou-kaka-915a70",
+    "slug": "anmat-prohibe-la-comercializacion-y-uso-de-cosmeticos-marcas-ushas-fayankou-kaka",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-07-13",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "ANMAT",
+      "cosméticos",
+      "prohibición",
+      "SIMI",
+      "cumplimiento normativo"
+    ],
+    "titulo": "ANMAT prohíbe la comercialización y uso de cosméticos marcas USHAS, FAYANKOU, KAKAZIYAN y CHOVEMOAR",
+    "resumen": "La normativa establece la prohibición del uso, comercialización y distribución de diversos productos cosméticos de las marcas mencionadas por falta de registro sanitario. Se ordena el retiro inmediato del mercado de las unidades involucradas.",
+    "queSignifica": "Verificar el stock y el estado de registro de mercadería en almacén fiscal o depósito. Se sugiere contactar a los proveedores para validar la documentación técnica de respaldo y evitar el ingreso a plaza de productos alcanzados por esta medida.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-distintos-productos-cosmeticos-de-las-marcas-ushas-fayankou-kakaziyan-y"
+    },
+    "publicadoEn": "2026-07-13T12:28:14.407Z",
+    "actualizadoEn": "2026-07-16T11:29:14.876Z"
   },
   {
     "id": "2026-07-11-simplificacion-y-digitalizacion-de-habilitaciones-para-exportar-productos-de-ori-5db90d",
@@ -278,42 +398,6 @@
     },
     "publicadoEn": "2026-07-07T12:24:45.928Z",
     "actualizadoEn": "2026-07-10T12:22:39.117Z"
-  },
-  {
-    "id": "2026-07-09-nuevo-servicio-de-traslado-de-documentacion-a-ezeiza-a-carg-449e30",
-    "slug": "nuevo-servicio-de-traslado-de-documentacion-a-ezeiza-a-carg",
-    "organismo": "CDA",
-    "fecha": "2026-07-07",
-    "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [],
-    "titulo": "Nuevo servicio de traslado de documentación a Ezeiza a carg",
-    "resumen": "El Centro Despachantes de Aduana (CDA) informa a sus socios que, a partir de la fecha, el servicio de traslado de documentación estará a c...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42623"
-    },
-    "publicadoEn": "2026-07-05T04:12:00.332Z",
-    "actualizadoEn": "2026-07-09T12:42:13.626Z"
-  },
-  {
-    "id": "2026-07-06-el-cda-incorpora-una-nueva-asesoria-especializada-en-seguro-4be9e4",
-    "slug": "el-cda-incorpora-una-nueva-asesoria-especializada-en-seguro",
-    "organismo": "CDA",
-    "fecha": "2026-07-03",
-    "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [],
-    "titulo": "El CDA incorpora una nueva Asesoría Especializada en Seguro",
-    "resumen": "Con el objetivo de continuar ampliando los servicios de asesoramiento profesional para los Despachantes de Aduana, el Centro Despachantes de...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42619"
-    },
-    "publicadoEn": "2026-07-05T04:12:00.329Z",
-    "actualizadoEn": "2026-07-06T13:41:42.866Z"
   },
   {
     "id": "2026-07-06-jornada-comex-2026-tres-jornadas-para-construir-el-futuro-d-2571ac",
