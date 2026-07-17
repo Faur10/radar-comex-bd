@@ -1,31 +1,167 @@
 [
   {
-    "id": "2026-07-16-cotizacion-oficial-del-dolar-en-el-mercado-unico-y-libre-de-cambios-al-15072026-2d8fa7",
-    "slug": "cotizacion-oficial-del-dolar-en-el-mercado-unico-y-libre-de-cambios-al-15072026",
+    "id": "2026-07-17-actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc-01a7e8",
+    "slug": "actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc",
     "organismo": "BCRA",
-    "fecha": "2026-07-16",
+    "fecha": "2026-07-17",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "Tipo de cambio",
-      "Liquidación de divisas",
+      "tipo de cambio",
+      "divisas",
       "BCRA",
-      "Comex"
+      "valuación"
     ],
-    "titulo": "Cotización oficial del dólar en el Mercado Único y Libre de Cambios al 15/07/2026",
-    "resumen": "Se establece el tipo de cambio oficial del BCRA aplicable al mercado de cambios para la fecha indicada. Este valor es la referencia para las operaciones de comercio exterior sujetas a liquidación o pago.",
-    "queSignifica": "Debe verificar este valor al realizar el cálculo de sus costos operativos y cierres de cambio. Se sugiere revisar su concordancia con la cotización aplicada por su entidad bancaria para la liquidación de divisas o pago de importaciones.",
+    "titulo": "Actualización de la cotización oficial del dólar en el MULC",
+    "resumen": "Se informa la cotización oficial de referencia del dólar estadounidense para el Mercado Único y Libre de Cambios con fecha 16 de julio de 2026.",
+    "queSignifica": "El operador debe verificar si esta cotización afecta el cálculo de sus obligaciones cambiarias, derechos de exportación o costos de importación pendientes de liquidación. Se sugiere consultar con el sector de tesorería o su entidad bancaria para validar la aplicación de este tipo de cambio en operaciones vigentes.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-07-16T11:29:14.876Z"
+    "actualizadoEn": "2026-07-17T11:17:57.509Z"
   },
   {
-    "id": "2026-07-16-cierre-administrativo-del-centro-de-despachantes-de-aduana-el-miercoles-15-de-ju-35874a",
-    "slug": "cierre-administrativo-del-centro-de-despachantes-de-aduana-el-miercoles-15-de-ju",
+    "id": "2026-07-17-disponibilidad-de-ejemplares-impresos-de-la-revista-comercio-exterior-del-cda-725fd5",
+    "slug": "disponibilidad-de-ejemplares-impresos-de-la-revista-comercio-exterior-del-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-07-16",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "comunicación institucional",
+      "capacitación",
+      "actualización profesional"
+    ],
+    "titulo": "Disponibilidad de ejemplares impresos de la Revista Comercio Exterior del CDA",
+    "resumen": "El Centro Despachantes de Aduana informa la puesta a la venta de los ejemplares impresos de su publicación técnica.",
+    "queSignifica": "Es una noticia de carácter institucional sin impacto en la operativa aduanera. Se recomienda consultar los canales oficiales del CDA si desea adquirir material bibliográfico o de consulta técnica.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42614"
+    },
+    "publicadoEn": "2026-07-17T11:17:01.820Z",
+    "actualizadoEn": "2026-07-17T11:17:57.509Z"
+  },
+  {
+    "id": "2026-07-17-campana-de-aporte-solidario-para-socios-vitalicios-del-cda-78d864",
+    "slug": "campana-de-aporte-solidario-para-socios-vitalicios-del-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-07-16",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "CDA",
+      "institucional",
+      "socio vitalicio",
+      "comercio exterior"
+    ],
+    "titulo": "Campaña de aporte solidario para socios vitalicios del CDA",
+    "resumen": "El Centro Despachantes de Aduana solicita a sus socios vitalicios un aporte económico voluntario destinado al sostenimiento institucional.",
+    "queSignifica": "Es una comunicación de carácter institucional y opcional. Se sugiere revisar la comunicación interna del CDA por si usted es socio vitalicio, ya que no afecta la operatoria aduanera ni los trámites de comercio exterior.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42521"
+    },
+    "publicadoEn": "2026-07-05T04:12:00.332Z",
+    "actualizadoEn": "2026-07-17T11:17:57.509Z"
+  },
+  {
+    "id": "2026-07-17-comunicado-institucional-del-cda-por-fallecimiento-4e7fa7",
+    "slug": "comunicado-institucional-del-cda-por-fallecimiento",
+    "organismo": "Aduana",
+    "fecha": "2026-07-16",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "institucional",
+      "comunicado"
+    ],
+    "titulo": "Comunicado institucional del CDA por fallecimiento",
+    "resumen": "El Centro Despachantes de Aduana expresa sus condolencias por el fallecimiento del padre de una autoridad de la institución.",
+    "queSignifica": "Esta información es de carácter institucional y no afecta los procesos operativos, aduaneros o cambiarios del comercio exterior.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42638"
+    },
+    "publicadoEn": "2026-07-17T11:17:11.860Z",
+    "actualizadoEn": "2026-07-17T11:17:57.509Z"
+  },
+  {
+    "id": "2026-07-17-noticia-institucional-fallecimiento-del-socio-carlos-onco-d84f7d",
+    "slug": "noticia-institucional-fallecimiento-del-socio-carlos-onco",
+    "organismo": "Aduana",
+    "fecha": "2026-07-16",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "institucional",
+      "comunidad profesional",
+      "despachante de aduana"
+    ],
+    "titulo": "Noticia institucional: Fallecimiento del socio Carlos Onco",
+    "resumen": "El Centro Despachantes de Aduana informa el fallecimiento de uno de sus socios vitalicios.",
+    "queSignifica": "Es una comunicación de carácter institucional y no requiere ninguna acción operativa o de gestión ante organismos oficiales por parte de los operadores de comercio exterior.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42639"
+    },
+    "publicadoEn": "2026-07-17T11:17:16.776Z",
+    "actualizadoEn": "2026-07-17T11:17:57.509Z"
+  },
+  {
+    "id": "2026-07-17-convocatoria-a-asamblea-extraordinaria-del-centro-despachantes-de-aduana-e14f84",
+    "slug": "convocatoria-a-asamblea-extraordinaria-del-centro-despachantes-de-aduana",
+    "organismo": "Aduana",
+    "fecha": "2026-07-16",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "CDA",
+      "gremial",
+      "asamblea",
+      "comercio exterior",
+      "institucional"
+    ],
+    "titulo": "Convocatoria a Asamblea Extraordinaria del Centro Despachantes de Aduana",
+    "resumen": "El CDA ha comunicado la realización de una Asamblea Extraordinaria para sus asociados el día 5 de agosto. Se trata de un evento de carácter institucional y gremial.",
+    "queSignifica": "Esta novedad no impacta en la operatoria aduanera ni en el flujo de mercaderías. Se sugiere revisar el cronograma del evento si desea participar en la gestión de la entidad.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42629"
+    },
+    "publicadoEn": "2026-07-17T11:17:21.570Z",
+    "actualizadoEn": "2026-07-17T11:17:57.509Z"
+  },
+  {
+    "id": "2026-07-17-inscripcion-obligatoria-en-el-smr-para-exportar-uvas-frescas-a-brasil-a9453c",
+    "slug": "inscripcion-obligatoria-en-el-smr-para-exportar-uvas-frescas-a-brasil",
+    "organismo": "SENASA",
+    "fecha": "2026-07-16",
+    "impacto": "medio",
+    "categoria": "exportacion",
+    "tags": [
+      "SENASA",
+      "SMR",
+      "uva fresca",
+      "protocolo fitosanitario",
+      "exportación"
+    ],
+    "titulo": "Inscripción obligatoria en el SMR para exportar uvas frescas a Brasil",
+    "resumen": "Los productores de uva de San Juan y Mendoza deben registrarse en el protocolo del SENASA antes del 15 de agosto para habilitar la comercialización a mercado interno y exportación a Brasil.",
+    "queSignifica": "Los exportadores deben verificar que sus proveedores estén debidamente inscriptos en el Sistema de Monitoreo y Registro (SMR). Se sugiere auditar el cumplimiento del productor antes de la carga para evitar bloqueos fitosanitarios en destino.",
+    "fuente": {
+      "nombre": "SENASA Comunica",
+      "url": "https://www.argentina.gob.ar/noticias/cuyo-inscripcion-en-el-smr-para-comercializar-uva-fresca-en-el-mercado-interno-yo-exportar"
+    },
+    "publicadoEn": "2026-07-17T11:17:47.071Z",
+    "actualizadoEn": "2026-07-17T11:17:57.509Z"
+  },
+  {
+    "id": "2026-07-17-cierre-de-oficinas-del-cda-por-jornada-institucional-el-15-de-julio-84a607",
+    "slug": "cierre-de-oficinas-del-cda-por-jornada-institucional-el-15-de-julio",
     "organismo": "Aduana",
     "fecha": "2026-07-15",
     "impacto": "bajo",
@@ -34,66 +170,113 @@
       "CDA",
       "gestión administrativa",
       "operatividad",
-      "despachante",
-      "logística"
+      "trámites",
+      "atención al público"
     ],
-    "titulo": "Cierre administrativo del Centro de Despachantes de Aduana el miércoles 15 de julio",
-    "resumen": "El Centro de Despachantes de Aduana informa que suspenderá su atención presencial y servicios administrativos durante la jornada del 15 de julio.",
-    "queSignifica": "Se recomienda verificar si las gestiones pendientes ante la institución requieren atención presencial y reprogramarlas. Ante cualquier duda, consulte con su despachante sobre la disponibilidad de los servicios de asistencia durante dicha fecha.",
+    "titulo": "Cierre de oficinas del CDA por jornada institucional el 15 de julio",
+    "resumen": "El Centro de Despachantes de Aduana informa que no brindará atención presencial el miércoles 15 de julio por motivos institucionales.",
+    "queSignifica": "Se recomienda prever la gestión de trámites administrativos ante la entidad para fechas anteriores o posteriores, verificando si este cierre afecta alguna solicitud en curso.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42635"
     },
     "publicadoEn": "2026-07-16T11:28:18.198Z",
-    "actualizadoEn": "2026-07-16T11:29:14.876Z"
+    "actualizadoEn": "2026-07-17T11:17:57.509Z"
   },
   {
-    "id": "2026-07-16-actualizacion-de-los-valores-de-la-tasa-por-servicios-extraordinarios-de-la-dga-a49df0",
-    "slug": "actualizacion-de-los-valores-de-la-tasa-por-servicios-extraordinarios-de-la-dga",
+    "id": "2026-07-17-actualizacion-de-valores-para-servicios-extraordinarios-aduaneros-adb1cc",
+    "slug": "actualizacion-de-valores-para-servicios-extraordinarios-aduaneros",
     "organismo": "Aduana",
     "fecha": "2026-07-15",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
-      "Servicios Extraordinarios",
-      "Tasa Aduanera",
-      "Costos Operativos",
+      "servicios extraordinarios",
+      "tasas aduaneras",
+      "costos operativos",
       "DGA",
-      "Despacho"
+      "aranceles"
     ],
-    "titulo": "Actualización de los valores de la tasa por servicios extraordinarios de la DGA",
-    "resumen": "La resolución oficializa el incremento en las tasas aplicables a los servicios aduaneros realizados fuera de los horarios o lugares habituales. La medida ajusta los costos administrativos que la Aduana percibe por la prestación de dichos servicios.",
-    "queSignifica": "Se recomienda revisar la estructura de costos de sus próximas operaciones y consultar con su despachante sobre el impacto directo de estas nuevas tasas en sus liquidaciones. Evalúe si la programación de sus operaciones requiere un análisis de costos actualizado bajo este nuevo esquema tarifario.",
+    "titulo": "Actualización de valores para servicios extraordinarios aduaneros",
+    "resumen": "La normativa establece una adecuación en las tasas aplicables a los servicios extraordinarios prestados por la Dirección General de Aduanas. Esta medida ajusta los costos operativos por la intervención del servicio aduanero fuera de los horarios o lugares habituales.",
+    "queSignifica": "Se sugiere verificar la nueva estructura de costos en el sistema para ajustar las previsiones presupuestarias de sus operaciones. Recomendamos revisar con su despachante cómo este incremento impacta específicamente en los costos operativos de sus próximas destinaciones.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42636"
     },
     "publicadoEn": "2026-07-16T11:28:23.215Z",
-    "actualizadoEn": "2026-07-16T11:29:14.876Z"
+    "actualizadoEn": "2026-07-17T11:17:57.509Z"
   },
   {
-    "id": "2026-07-16-exportacion-de-20-toneladas-de-carne-caprina-hacia-oman-bajo-fiscalizacion-de-se-cae780",
-    "slug": "exportacion-de-20-toneladas-de-carne-caprina-hacia-oman-bajo-fiscalizacion-de-se",
+    "id": "2026-07-17-exportacion-de-carne-caprina-a-oman-cumplimiento-de-protocolos-sanitarios-de-sen-7fc403",
+    "slug": "exportacion-de-carne-caprina-a-oman-cumplimiento-de-protocolos-sanitarios-de-sen",
     "organismo": "SENASA",
     "fecha": "2026-07-15",
     "impacto": "bajo",
     "categoria": "exportacion",
     "tags": [
-      "exportación carne",
-      "requisitos fitosanitarios",
-      "certificación SENASA",
-      "carne caprina",
-      "Omán"
+      "exportación",
+      "productos cárnicos",
+      "sanidad animal",
+      "certificación fitosanitaria",
+      "mercado destino"
     ],
-    "titulo": "Exportación de 20 toneladas de carne caprina hacia Omán bajo fiscalización de SENASA",
-    "resumen": "El SENASA realizó la fiscalización sanitaria de un embarque de carne caprina cumpliendo con las exigencias del mercado de Omán. La operatoria confirma la apertura y cumplimiento técnico del mercado de Medio Oriente para este producto.",
-    "queSignifica": "Para exportadores del sector, se sugiere verificar la vigencia de los protocolos sanitarios y los requisitos específicos del país de destino en el sistema del SENASA antes de iniciar nuevas operaciones. Se recomienda confirmar la habilitación de los establecimientos faenadores ante el servicio veterinario del país importador.",
+    "titulo": "Exportación de carne caprina a Omán: cumplimiento de protocolos sanitarios de SENASA",
+    "resumen": "SENASA realizó la fiscalización sanitaria para el envío de más de 20 toneladas de carne caprina hacia Omán. La operación cumple con las exigencias sanitarias específicas del país de destino.",
+    "queSignifica": "Es un reporte de cumplimiento operativo exitoso. Los exportadores del sector deben revisar periódicamente las exigencias sanitarias actualizadas de los países de destino en la plataforma de SENASA para asegurar la conformidad de sus embarques.",
     "fuente": {
       "nombre": "SENASA Comunica",
       "url": "https://www.argentina.gob.ar/noticias/chaco-exportacion-de-mas-de-20-toneladas-de-carne-caprina-con-destino-oman"
     },
     "publicadoEn": "2026-07-16T11:28:58.210Z",
-    "actualizadoEn": "2026-07-16T11:29:14.876Z"
+    "actualizadoEn": "2026-07-17T11:17:57.509Z"
+  },
+  {
+    "id": "2026-07-17-el-cda-habilita-un-nuevo-servicio-de-asesoria-especializada-en-seguros-fd9b71",
+    "slug": "el-cda-habilita-un-nuevo-servicio-de-asesoria-especializada-en-seguros",
+    "organismo": "Aduana",
+    "fecha": "2026-07-14",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "seguro de caución",
+      "asesoría técnica",
+      "gestión aduanera",
+      "CDA",
+      "despachante de aduana"
+    ],
+    "titulo": "El CDA habilita un nuevo servicio de asesoría especializada en seguros",
+    "resumen": "El Centro Despachantes de Aduana incorporó una asesoría técnica profesional dedicada exclusivamente a temáticas de seguros vinculadas a la actividad.",
+    "queSignifica": "Se sugiere contactar al CDA para consultas sobre pólizas o coberturas específicas si su operatoria requiere asesoramiento experto. Revise si sus actuales pólizas de caución o de transporte requieren una auditoría técnica especializada.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42619"
+    },
+    "publicadoEn": "2026-07-05T04:12:00.329Z",
+    "actualizadoEn": "2026-07-17T11:17:57.509Z"
+  },
+  {
+    "id": "2026-07-17-nuevo-servicio-de-traslado-de-documentacion-aduanera-a-ezeiza-daf2a2",
+    "slug": "nuevo-servicio-de-traslado-de-documentacion-aduanera-a-ezeiza",
+    "organismo": "Aduana",
+    "fecha": "2026-07-14",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "documentación",
+      "despacho",
+      "Ezeiza",
+      "gestión operativa"
+    ],
+    "titulo": "Nuevo servicio de traslado de documentación aduanera a Ezeiza",
+    "resumen": "El CDA ha implementado un servicio de logística dedicado al traslado de documentación física hacia el aeropuerto de Ezeiza para sus asociados.",
+    "queSignifica": "Se recomienda verificar los términos y alcance del servicio con el CDA si necesita derivar la logística de entrega de documentación. Revise si esta modalidad optimiza sus tiempos operativos actuales antes de adoptar el cambio.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42623"
+    },
+    "publicadoEn": "2026-07-05T04:12:00.332Z",
+    "actualizadoEn": "2026-07-17T11:17:57.509Z"
   },
   {
     "id": "2026-07-16-actualizacion-de-las-normas-de-acceso-al-mercado-de-cambios-del-bcra-a385a4",
@@ -143,54 +326,6 @@
     },
     "normativaRef": "Comunicación \"A\" 8451/2026",
     "publicadoEn": "2026-07-14T11:20:20.373Z",
-    "actualizadoEn": "2026-07-16T11:29:14.876Z"
-  },
-  {
-    "id": "2026-07-16-nueva-asesoria-especializada-en-temas-de-seguros-para-el-asociado-c7e928",
-    "slug": "nueva-asesoria-especializada-en-temas-de-seguros-para-el-asociado",
-    "organismo": "Aduana",
-    "fecha": "2026-07-14",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "seguros",
-      "asesoramiento",
-      "servicios profesionales",
-      "despachante de aduana",
-      "gestión de riesgos"
-    ],
-    "titulo": "Nueva asesoría especializada en temas de seguros para el asociado",
-    "resumen": "El CDA ha implementado un nuevo canal de asesoramiento técnico enfocado exclusivamente en materia de seguros para sus asociados.",
-    "queSignifica": "Se recomienda consultar a esta nueva asesoría ante dudas sobre coberturas, riesgos o siniestros en la cadena logística, verificando si las pólizas vigentes se ajustan a las necesidades operativas actuales.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42619"
-    },
-    "publicadoEn": "2026-07-05T04:12:00.329Z",
-    "actualizadoEn": "2026-07-16T11:29:14.876Z"
-  },
-  {
-    "id": "2026-07-16-nuevo-servicio-de-traslado-de-documentacion-hacia-la-aduana-de-ezeiza-e6347a",
-    "slug": "nuevo-servicio-de-traslado-de-documentacion-hacia-la-aduana-de-ezeiza",
-    "organismo": "Aduana",
-    "fecha": "2026-07-14",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "documentación",
-      "despachante",
-      "logística",
-      "aduana",
-      "Ezeiza"
-    ],
-    "titulo": "Nuevo servicio de traslado de documentación hacia la Aduana de Ezeiza",
-    "resumen": "El CDA ha implementado una nueva modalidad para el traslado de documentación operativa hacia la Aduana de Ezeiza.",
-    "queSignifica": "Se sugiere a los operadores verificar las condiciones y horarios de este servicio en el portal del CDA para evaluar su conveniencia operativa. Recomendamos consultar los términos específicos para asegurar que el método de traslado cumpla con los plazos de presentación documental.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42623"
-    },
-    "publicadoEn": "2026-07-05T04:12:00.332Z",
     "actualizadoEn": "2026-07-16T11:29:14.876Z"
   },
   {
@@ -437,41 +572,5 @@
     },
     "publicadoEn": "2026-07-05T04:12:00.332Z",
     "actualizadoEn": "2026-07-06T13:41:42.866Z"
-  },
-  {
-    "id": "2026-07-05-aporte-solidario-de-socios-vitalicios-una-forma-de-seguir-a-5f7428",
-    "slug": "aporte-solidario-de-socios-vitalicios-una-forma-de-seguir-a",
-    "organismo": "CDA",
-    "fecha": "2026-07-02",
-    "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [],
-    "titulo": "Aporte solidario de socios vitalicios: una forma de seguir a",
-    "resumen": "El Centro Despachantes de Aduana (CDA) invita a sus socios vitalicios a continuar acompañando activamente el desarrollo y sostenimiento de ...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42521"
-    },
-    "publicadoEn": "2026-07-05T04:12:00.332Z",
-    "actualizadoEn": "2026-07-05T04:32:36.004Z"
-  },
-  {
-    "id": "2026-07-05-convocatoria-asamblea-general-extraordinaria-5999be",
-    "slug": "convocatoria-asamblea-general-extraordinaria",
-    "organismo": "CDA",
-    "fecha": "2026-07-02",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [],
-    "titulo": "Convocatoria Asamblea General Extraordinaria",
-    "resumen": "Conforme a lo determinado en los Artículos 59, 60, 62, 63 y 64 del Estatuto Social, se convoca a los señores socios del CENTRO DESPACHANTE...",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42621"
-    },
-    "publicadoEn": "2026-07-05T04:12:00.332Z",
-    "actualizadoEn": "2026-07-05T04:32:36.004Z"
   }
 ]
