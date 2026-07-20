@@ -1,27 +1,174 @@
 [
   {
-    "id": "2026-07-17-actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc-01a7e8",
-    "slug": "actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc",
+    "id": "2026-07-20-actualizacion-del-tipo-de-cambio-de-referencia-del-bcra-para-operaciones-del-mul-8b3f99",
+    "slug": "actualizacion-del-tipo-de-cambio-de-referencia-del-bcra-para-operaciones-del-mul",
     "organismo": "BCRA",
-    "fecha": "2026-07-17",
+    "fecha": "2026-07-20",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
       "tipo de cambio",
       "divisas",
-      "BCRA",
-      "valuación"
+      "pago de importaciones",
+      "cobro de exportaciones"
     ],
-    "titulo": "Actualización de la cotización oficial del dólar en el MULC",
-    "resumen": "Se informa la cotización oficial de referencia del dólar estadounidense para el Mercado Único y Libre de Cambios con fecha 16 de julio de 2026.",
-    "queSignifica": "El operador debe verificar si esta cotización afecta el cálculo de sus obligaciones cambiarias, derechos de exportación o costos de importación pendientes de liquidación. Se sugiere consultar con el sector de tesorería o su entidad bancaria para validar la aplicación de este tipo de cambio en operaciones vigentes.",
+    "titulo": "Actualización del tipo de cambio de referencia del BCRA para operaciones del MULC",
+    "resumen": "El BCRA establece el tipo de cambio oficial de referencia para la liquidación de divisas en el Mercado Único y Libre de Cambios.",
+    "queSignifica": "Debe verificar la cotización oficial para sus proyecciones financieras y el cálculo de costos de nacionalización o liquidación de exportaciones. Se sugiere revisar la aplicación de este tipo de cambio en su entidad bancaria para la validación de sus operaciones vigentes.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-07-17T11:17:57.509Z"
+    "actualizadoEn": "2026-07-20T12:12:16.728Z"
+  },
+  {
+    "id": "2026-07-20-prorroga-para-la-presentacion-de-ddjj-del-impuesto-a-las-ganancias-periodo-2025-b783e2",
+    "slug": "prorroga-para-la-presentacion-de-ddjj-del-impuesto-a-las-ganancias-periodo-2025",
+    "organismo": "ARCA",
+    "fecha": "2026-07-20",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "Impuesto a las Ganancias",
+      "ARCA",
+      "DJAI",
+      "Obligaciones Fiscales",
+      "Fiscalidad"
+    ],
+    "titulo": "Prórroga para la presentación de DDJJ del Impuesto a las Ganancias periodo 2025",
+    "resumen": "La norma establece un plazo especial para la presentación de la declaración jurada y el pago del Impuesto a las Ganancias correspondiente al periodo fiscal 2025.",
+    "queSignifica": "Debe verificar con su departamento contable o asesor impositivo si la prórroga afecta el calendario de vencimientos de la empresa. Se recomienda revisar la aplicación específica a su estructura societaria.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/344534/20260720"
+    },
+    "normativaRef": "Resolución General 5876/2026",
+    "publicadoEn": "2026-07-20T12:11:45.865Z",
+    "actualizadoEn": "2026-07-20T12:12:16.728Z"
+  },
+  {
+    "id": "2026-07-20-actualizacion-de-normas-sobre-acceso-al-mercado-de-cambios-para-operaciones-de-c-725843",
+    "slug": "actualizacion-de-normas-sobre-acceso-al-mercado-de-cambios-para-operaciones-de-c",
+    "organismo": "BCRA",
+    "fecha": "2026-07-20",
+    "impacto": "alto",
+    "categoria": "normativa",
+    "tags": [
+      "MULC",
+      "Acceso al Mercado de Cambios",
+      "BCRA",
+      "Pago de Importaciones",
+      "Normativa Cambiaria"
+    ],
+    "titulo": "Actualización de normas sobre acceso al mercado de cambios para operaciones de comercio exterior",
+    "resumen": "La Comunicación establece nuevas condiciones operativas para el acceso a divisas en el MULC vinculadas a operaciones de importación y exportación. Define los nuevos plazos y requisitos documentales necesarios para el curso de los pagos al exterior.",
+    "queSignifica": "Es necesario verificar el cumplimiento de los nuevos plazos de liquidación o acceso según el perfil de la operación. Se recomienda auditar la documentación respaldatoria vigente antes de cursar cualquier solicitud de giro de divisas ante su entidad financiera.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/344557/20260720"
+    },
+    "normativaRef": "Comunicación \"A\" 8452/2026",
+    "publicadoEn": "2026-07-20T12:11:50.830Z",
+    "actualizadoEn": "2026-07-20T12:12:16.728Z"
+  },
+  {
+    "id": "2026-07-20-actualizacion-de-las-normas-de-acceso-al-mercado-de-cambios-para-operaciones-de--8dcf19",
+    "slug": "actualizacion-de-las-normas-de-acceso-al-mercado-de-cambios-para-operaciones-de-",
+    "organismo": "BCRA",
+    "fecha": "2026-07-20",
+    "impacto": "alto",
+    "categoria": "normativa",
+    "tags": [
+      "MULC",
+      "acceso al mercado",
+      "giro de divisas",
+      "BCRA",
+      "normativa cambiaria"
+    ],
+    "titulo": "Actualización de las normas de acceso al mercado de cambios para operaciones de comercio exterior",
+    "resumen": "La norma establece nuevos lineamientos para el acceso al MULC en el marco de las operaciones de comercio exterior. Define plazos y condiciones específicas para la liquidación y el pago de divisas.",
+    "queSignifica": "Debe revisar con su departamento contable o banco interviniente si su operación encuadra en las nuevas restricciones o plazos de pago. Se recomienda validar la vigencia de las declaraciones juradas y normativas cambiarias aplicables antes de cursar cualquier pago al exterior.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/344558/20260720"
+    },
+    "normativaRef": "Comunicación \"A\" 8453/2026",
+    "publicadoEn": "2026-07-20T12:11:55.929Z",
+    "actualizadoEn": "2026-07-20T12:12:16.728Z"
+  },
+  {
+    "id": "2026-07-20-prohibicion-de-comercializacion-y-uso-del-lote-falsificado-de-dysport-500-ipsen-075967",
+    "slug": "prohibicion-de-comercializacion-y-uso-del-lote-falsificado-de-dysport-500-ipsen",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-07-20",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "anmat",
+      "prohibición",
+      "seguridad sanitaria",
+      "control aduanero",
+      "mercadería falsificada"
+    ],
+    "titulo": "Prohibición de comercialización y uso del lote falsificado de Dysport 500 IPSEN",
+    "resumen": "La ANMAT prohibió la comercialización y uso de un lote específico del producto Dysport 500 al confirmarse su falsificación. La medida busca prevenir riesgos para la salud pública ante la detección de unidades apócrifas en el mercado.",
+    "queSignifica": "Es imperativo verificar el stock existente y las futuras operaciones de importación contra el lote indicado por el organismo. Se recomienda auditar la trazabilidad y procedencia de los lotes recibidos para asegurar el cumplimiento con las normas de seguridad sanitaria vigentes.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-un-lote-falsificado-del-producto-dysport-500-ipsen"
+    },
+    "publicadoEn": "2026-07-20T12:12:06.348Z",
+    "actualizadoEn": "2026-07-20T12:12:16.728Z"
+  },
+  {
+    "id": "2026-07-20-prohibicion-de-comercializacion-de-protectores-solares-marcas-karite-kiss-beauty-d1256a",
+    "slug": "prohibicion-de-comercializacion-de-protectores-solares-marcas-karite-kiss-beauty",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-07-20",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "ANMAT",
+      "prohibición comercialización",
+      "cosméticos",
+      "bloqueo aduanero",
+      "gestión de riesgo"
+    ],
+    "titulo": "Prohibición de comercialización de protectores solares marcas KARITÉ, KISS BEAUTY y MISS VANESA",
+    "resumen": "La ANMAT prohibió el uso, comercialización y distribución en todo el país de diversos lotes de protectores solares de las marcas indicadas por falta de registro sanitario. La medida afecta a toda la cadena de suministro, incluyendo la importación y comercialización local.",
+    "queSignifica": "Se sugiere verificar urgentemente el stock existente y las operaciones de importación en curso bajo dichas marcas para evitar multas o incautaciones. Se recomienda consultar el listado de lotes específicos con el departamento de Asuntos Regulatorios para determinar si existen mercaderías alcanzadas en depósito fiscal.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-distintos-protectores-solares-de-las-marcas-karite-kiss-beauty-y-miss-vanesa"
+    },
+    "publicadoEn": "2026-07-20T12:12:11.593Z",
+    "actualizadoEn": "2026-07-20T12:12:16.728Z"
+  },
+  {
+    "id": "2026-07-20-habilitacion-de-tres-frigorificos-argentinos-para-exportar-carne-a-china-c20874",
+    "slug": "habilitacion-de-tres-frigorificos-argentinos-para-exportar-carne-a-china",
+    "organismo": "SENASA",
+    "fecha": "2026-07-17",
+    "impacto": "medio",
+    "categoria": "exportacion",
+    "tags": [
+      "carne bovina",
+      "GACC",
+      "habilitación sanitaria",
+      "certificación de origen",
+      "mercado chino"
+    ],
+    "titulo": "Habilitación de tres frigoríficos argentinos para exportar carne a China",
+    "resumen": "El GACC de China autorizó a tres establecimientos cárnicos ubicados en Córdoba, Salta y Buenos Aires para exportar sus productos a dicho destino tras gestiones del SENASA.",
+    "queSignifica": "Los exportadores interesados deben verificar en el portal del SENASA si sus plantas están incluidas en la nómina actualizada y revisar el cumplimiento de los protocolos sanitarios específicos exigidos por las autoridades aduaneras chinas.",
+    "fuente": {
+      "nombre": "SENASA Comunica",
+      "url": "https://www.argentina.gob.ar/noticias/china-habilito-frigorificos-argentinos-para-exportar-carne-ese-destino"
+    },
+    "publicadoEn": "2026-07-20T12:12:01.256Z",
+    "actualizadoEn": "2026-07-20T12:12:16.728Z"
   },
   {
     "id": "2026-07-17-disponibilidad-de-ejemplares-impresos-de-la-revista-comercio-exterior-del-cda-725fd5",
@@ -533,44 +680,5 @@
     },
     "publicadoEn": "2026-07-07T12:24:45.928Z",
     "actualizadoEn": "2026-07-10T12:22:39.117Z"
-  },
-  {
-    "id": "2026-07-06-jornada-comex-2026-tres-jornadas-para-construir-el-futuro-d-2571ac",
-    "slug": "jornada-comex-2026-tres-jornadas-para-construir-el-futuro-d",
-    "organismo": "CDA",
-    "fecha": "2026-07-03",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [],
-    "titulo": "Jornada Comex 2026: tres jornadas para construir el futuro d",
-    "resumen": "Más de 550 participantes acompañaron la Jornada Comex 2026 del CDA, tres días de análisis, actualización y construcción conjunta para ...",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42625"
-    },
-    "publicadoEn": "2026-07-05T04:12:00.331Z",
-    "actualizadoEn": "2026-07-06T13:41:42.866Z"
-  },
-  {
-    "id": "2026-07-06-se-fortalecen-los-conocimientos-sobre-limites-maximos-de-residuos-y-productos-fi-9806de",
-    "slug": "se-fortalecen-los-conocimientos-sobre-limites-maximos-de-residuos-y-productos-fi",
-    "organismo": "SENASA",
-    "fecha": "2026-07-03",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "SENASA",
-      "fitosanitario"
-    ],
-    "titulo": "Se fortalecen los conocimientos sobre límites máximos de residuos y productos fitosanitarios",
-    "resumen": "El SENASA participó de una actividad que promovió el intercambio de capacidades técnicas entre organismos sanitarios y de salud de América Latina.",
-    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
-    "fuente": {
-      "nombre": "SENASA Comunica",
-      "url": "https://www.argentina.gob.ar/noticias/se-fortalecen-los-conocimientos-sobre-limites-maximos-de-residuos-y-productos"
-    },
-    "publicadoEn": "2026-07-05T04:12:00.332Z",
-    "actualizadoEn": "2026-07-06T13:41:42.866Z"
   }
 ]
