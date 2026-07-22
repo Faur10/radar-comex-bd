@@ -1,127 +1,175 @@
 [
   {
-    "id": "2026-07-21-actualizacion-del-tipo-de-cambio-oficial-para-operaciones-en-el-mulc-347226",
+    "id": "2026-07-22-actualizacion-del-tipo-de-cambio-oficial-para-operaciones-en-el-mulc-9f06d0",
     "slug": "actualizacion-del-tipo-de-cambio-oficial-para-operaciones-en-el-mulc",
     "organismo": "BCRA",
-    "fecha": "2026-07-21",
+    "fecha": "2026-07-22",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "Tipo de cambio",
-      "Liquidación de divisas",
-      "Pago de importaciones",
-      "BCRA"
+      "Tipo de Cambio",
+      "Liquidación de Divisas",
+      "BCRA",
+      "Comex"
     ],
     "titulo": "Actualización del tipo de cambio oficial para operaciones en el MULC",
-    "resumen": "El BCRA ha fijado la cotización del dólar para el Mercado Único y Libre de Cambios (MULC) en 1037.44 pesos por unidad de moneda estadounidense para la fecha indicada.",
-    "queSignifica": "Se debe utilizar esta cotización para el cálculo de costos de nacionalización y valoraciones aduaneras. Se recomienda revisar la correcta aplicación de este tipo de cambio en los sistemas de gestión de pagos y cobros de operaciones vigentes.",
+    "resumen": "Se informa el valor oficial de referencia del dólar para el Mercado Único y Libre de Cambios establecido por el BCRA para la fecha indicada. Esta cifra constituye la base de cálculo para las operaciones de comercio exterior bajo regulación cambiaria.",
+    "queSignifica": "Verifique con su entidad bancaria la aplicación de este valor en sus operaciones de pago o cobro de divisas. Se recomienda validar si existen cargos adicionales o brechas diferenciales según su posición cambiaria específica.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-07-21T11:44:10.718Z"
+    "actualizadoEn": "2026-07-22T11:44:11.923Z"
   },
   {
-    "id": "2026-07-21-actualizacion-de-normas-cambiarias-para-acceso-al-mercado-de-cambios-d7324d",
-    "slug": "actualizacion-de-normas-cambiarias-para-acceso-al-mercado-de-cambios",
+    "id": "2026-07-22-actualizacion-de-las-normas-de-acceso-al-mercado-unico-y-libre-de-cambios-mulc-da4353",
+    "slug": "actualizacion-de-las-normas-de-acceso-al-mercado-unico-y-libre-de-cambios-mulc",
     "organismo": "BCRA",
     "fecha": "2026-07-21",
     "impacto": "alto",
     "categoria": "normativa",
     "tags": [
-      "MULC",
-      "Acceso a divisas",
-      "Pagos al exterior",
       "BCRA",
-      "Régimen cambiario"
+      "MULC",
+      "Acceso al Mercado de Cambios",
+      "Comunicación A 8455",
+      "Regulaciones cambiarias"
     ],
-    "titulo": "Actualización de normas cambiarias para acceso al mercado de cambios",
-    "resumen": "La norma establece nuevas condiciones y requisitos procedimentales para el acceso al Mercado Único y Libre de Cambios (MULC) para operaciones de comercio exterior. Define ajustes en los plazos y documentación necesaria para cursar pagos de importaciones y liquidación de exportaciones.",
-    "queSignifica": "Debe revisar el cumplimiento de las nuevas condiciones cambiarias frente a sus operaciones pendientes de pago o liquidación. Se recomienda validar con su entidad bancaria la adecuación de la documentación presentada antes de intentar cursar transferencias al exterior.",
+    "titulo": "Actualización de las normas de acceso al Mercado Único y Libre de Cambios (MULC)",
+    "resumen": "La normativa establece nuevos requisitos y condiciones para la compra de divisas destinadas a operaciones de comercio exterior. Define los plazos y la documentación requerida para la validación de pagos al exterior a través del sistema financiero.",
+    "queSignifica": "Es necesario revisar el cumplimiento de los nuevos requisitos documentales y plazos de acceso según la tipología de la operación. Se recomienda verificar con su entidad bancaria la aplicabilidad de estas condiciones sobre los giros pendientes o programados.",
     "fuente": {
       "nombre": "Boletín Oficial de la República Argentina",
       "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/344667/20260721"
     },
     "normativaRef": "Comunicación \"A\" 8455/2026",
     "publicadoEn": "2026-07-21T11:43:24.411Z",
-    "actualizadoEn": "2026-07-21T11:44:10.718Z"
+    "actualizadoEn": "2026-07-22T11:44:11.923Z"
   },
   {
-    "id": "2026-07-21-prorroga-en-plazos-de-presentacion-de-ddjj-de-impuesto-a-las-ganancias-periodo-2-5057cc",
-    "slug": "prorroga-en-plazos-de-presentacion-de-ddjj-de-impuesto-a-las-ganancias-periodo-2",
+    "id": "2026-07-22-prorroga-para-la-presentacion-y-pago-del-impuesto-a-las-ganancias-periodo-2025-d4e9dd",
+    "slug": "prorroga-para-la-presentacion-y-pago-del-impuesto-a-las-ganancias-periodo-2025",
     "organismo": "ARCA",
     "fecha": "2026-07-20",
     "impacto": "bajo",
     "categoria": "normativa",
     "tags": [
-      "Impuesto a las Ganancias",
-      "ARCA",
-      "Declaración Jurada",
-      "Fiscalidad",
-      "Cumplimiento"
+      "impuesto a las ganancias",
+      "fiscal",
+      "ddjj",
+      "arca",
+      "contribuyente"
     ],
-    "titulo": "Prórroga en plazos de presentación de DDJJ de Impuesto a las Ganancias periodo 2025",
-    "resumen": "La normativa establece un calendario excepcional para la presentación y el pago de las declaraciones juradas del Impuesto a las Ganancias correspondientes al ejercicio fiscal 2025.",
-    "queSignifica": "Se recomienda revisar el nuevo cronograma de vencimientos con su área contable para evitar recargos. Verifique si su empresa o sujeto alcanza las condiciones de esta prórroga según el ejercicio fiscal en curso.",
+    "titulo": "Prórroga para la presentación y pago del Impuesto a las Ganancias periodo 2025",
+    "resumen": "La normativa establece un calendario excepcional con plazos especiales para la presentación de la declaración jurada y el ingreso del saldo del Impuesto a las Ganancias del periodo fiscal 2025.",
+    "queSignifica": "Se recomienda revisar el nuevo calendario de vencimientos con su contador para evitar multas. Verifique si su CUIT está alcanzado por estas fechas especiales en los sistemas de ARCA.",
     "fuente": {
       "nombre": "Boletín Oficial de la República Argentina",
       "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/344534/20260720"
     },
     "normativaRef": "Resolución General 5876/2026",
     "publicadoEn": "2026-07-20T12:11:45.865Z",
-    "actualizadoEn": "2026-07-21T11:44:10.718Z"
+    "actualizadoEn": "2026-07-22T11:44:11.923Z"
   },
   {
-    "id": "2026-07-21-actualizacion-de-normas-sobre-acceso-al-mercado-de-cambios-para-operaciones-de-c-c38ec8",
-    "slug": "actualizacion-de-normas-sobre-acceso-al-mercado-de-cambios-para-operaciones-de-c",
+    "id": "2026-07-22-actualizacion-de-normas-de-acceso-al-mercado-de-cambios-por-bcra-062c6a",
+    "slug": "actualizacion-de-normas-de-acceso-al-mercado-de-cambios-por-bcra",
     "organismo": "BCRA",
     "fecha": "2026-07-20",
     "impacto": "alto",
     "categoria": "normativa",
     "tags": [
+      "BCRA",
       "MULC",
       "Acceso al Mercado de Cambios",
       "Pagos al exterior",
-      "BCRA",
-      "Regulaciones cambiarias"
+      "Comunicación A 8452"
     ],
-    "titulo": "Actualización de normas sobre acceso al mercado de cambios para operaciones de comercio exterior",
-    "resumen": "La normativa establece nuevos requisitos y condiciones para el acceso al Mercado Único y Libre de Cambios para el pago de obligaciones vinculadas al comercio exterior. Ajusta los plazos y la documentación necesaria para tramitar transferencias al exterior según la naturaleza de la operación.",
-    "queSignifica": "Se sugiere verificar la nueva documentación requerida y los plazos vigentes para asegurar el encuadre de los pagos en el MULC. Revise con su departamento financiero o banco interviniente la posible necesidad de adecuar los flujos de fondos actuales a estos nuevos requerimientos.",
+    "titulo": "Actualización de normas de acceso al mercado de cambios por BCRA",
+    "resumen": "La normativa establece nuevos requisitos y condiciones para el acceso al Mercado Único y Libre de Cambios (MULC) para operaciones de comercio exterior. Ajusta las condiciones de pago y plazos aplicables según la tipología de las operaciones cursadas.",
+    "queSignifica": "Debe revisar el texto completo de la comunicación para identificar si sus operaciones pendientes de pago cumplen con los nuevos plazos y requisitos documentales. Se recomienda validar con su entidad bancaria la aplicabilidad de esta norma a sus giros en curso antes de intentar cualquier transacción.",
     "fuente": {
       "nombre": "Boletín Oficial de la República Argentina",
       "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/344557/20260720"
     },
     "normativaRef": "Comunicación \"A\" 8452/2026",
     "publicadoEn": "2026-07-20T12:11:50.830Z",
-    "actualizadoEn": "2026-07-21T11:44:10.718Z"
+    "actualizadoEn": "2026-07-22T11:44:11.923Z"
   },
   {
-    "id": "2026-07-21-actualizacion-normativa-del-banco-central-de-la-republica-argentina-3cb163",
-    "slug": "actualizacion-normativa-del-banco-central-de-la-republica-argentina",
+    "id": "2026-07-22-actualizacion-de-normas-cambiarias-sobre-acceso-al-mercado-libre-de-cambios-fc320a",
+    "slug": "actualizacion-de-normas-cambiarias-sobre-acceso-al-mercado-libre-de-cambios",
     "organismo": "BCRA",
     "fecha": "2026-07-20",
-    "impacto": "bajo",
+    "impacto": "alto",
     "categoria": "normativa",
     "tags": [
       "BCRA",
-      "Comunicación A",
-      "Cambios normativos",
-      "COMEX",
-      "Regulaciones"
+      "MULC",
+      "Acceso a divisas",
+      "Pago de importaciones",
+      "Comunicación A"
     ],
-    "titulo": "Actualización normativa del Banco Central de la República Argentina",
-    "resumen": "La comunicación detalla modificaciones en el marco normativo aplicable a las operaciones de cambio y el sistema financiero. Se establecen lineamientos técnicos para el cumplimiento de las normativas vigentes en el mercado de cambios.",
-    "queSignifica": "Se recomienda revisar el texto completo de la norma y evaluar si el objeto social o la operatoria específica de su empresa se encuentra alcanzada por las nuevas disposiciones. Ante cualquier duda, consulte con su oficial de cuenta en la entidad financiera para asegurar la correcta adecuación de sus operaciones.",
+    "titulo": "Actualización de normas cambiarias sobre acceso al Mercado Libre de Cambios",
+    "resumen": "La norma establece nuevos lineamientos operativos para el acceso al mercado de cambios relacionados con el pago de obligaciones comerciales. Modifica las condiciones procedimentales para la cancelación de giros al exterior.",
+    "queSignifica": "Es necesario revisar el cumplimiento de los nuevos requisitos documentales y plazos exigidos por el BCRA antes de programar cualquier giro. Se recomienda consultar con su entidad financiera y su asesor legal para verificar cómo esta normativa impacta en sus operaciones en curso.",
     "fuente": {
       "nombre": "Boletín Oficial de la República Argentina",
       "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/344558/20260720"
     },
     "normativaRef": "Comunicación \"A\" 8453/2026",
     "publicadoEn": "2026-07-20T12:11:55.929Z",
-    "actualizadoEn": "2026-07-21T11:44:10.718Z"
+    "actualizadoEn": "2026-07-22T11:44:11.923Z"
+  },
+  {
+    "id": "2026-07-22-prohibicion-de-comercializacion-y-uso-del-lote-falsificado-del-producto-dysport--4bf18c",
+    "slug": "prohibicion-de-comercializacion-y-uso-del-lote-falsificado-del-producto-dysport-",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-07-20",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "ANMAT",
+      "productos médicos",
+      "seguridad sanitaria",
+      "comercio ilícito",
+      "control aduanero"
+    ],
+    "titulo": "Prohibición de comercialización y uso del lote falsificado del producto Dysport 500 IPSEN",
+    "resumen": "La ANMAT prohibió la comercialización, distribución y uso de un lote falsificado del producto médico Dysport 500 unidades (toxina botulínica). La medida responde a la detección de unidades que no cumplen con los estándares de autenticidad y seguridad sanitaria.",
+    "queSignifica": "El importador debe verificar inmediatamente sus stocks, comparar los números de lote y etiquetas con los datos oficiales de IPSEN y suspender cualquier operación comercial si se detecta el producto identificado. Se recomienda auditar la cadena de suministro para asegurar la trazabilidad del producto y evitar el despacho a plaza de mercadería apócrifa.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-un-lote-falsificado-del-producto-dysport-500-ipsen"
+    },
+    "publicadoEn": "2026-07-20T12:12:06.348Z",
+    "actualizadoEn": "2026-07-22T11:44:11.923Z"
+  },
+  {
+    "id": "2026-07-22-anmat-prohibe-la-comercializacion-de-protectores-solares-de-marcas-karite-kiss-b-5a7e49",
+    "slug": "anmat-prohibe-la-comercializacion-de-protectores-solares-de-marcas-karite-kiss-b",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-07-20",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "prohibicion",
+      "cosmeticos",
+      "simi",
+      "seguridad sanitaria",
+      "control aduanero"
+    ],
+    "titulo": "ANMAT prohíbe la comercialización de protectores solares de marcas Karité, Kiss Beauty y Miss Vanesa",
+    "resumen": "La ANMAT prohibió la comercialización, distribución y venta en todo el país de diversos protectores solares de las marcas mencionadas por falta de registros sanitarios. La medida busca prevenir riesgos para la salud ante productos sin aval técnico.",
+    "queSignifica": "Los importadores deberán revisar su stock y verificar el estado registral de cualquier producto cosmético de dichas marcas en el VUCE. Se recomienda suspender cualquier gestión de despacho o comercialización de estas mercaderías para evitar eventuales bloqueos por parte del servicio aduanero.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-distintos-protectores-solares-de-las-marcas-karite-kiss-beauty-y-miss-vanesa"
+    },
+    "publicadoEn": "2026-07-20T12:12:11.593Z",
+    "actualizadoEn": "2026-07-22T11:44:11.923Z"
   },
   {
     "id": "2026-07-21-implementacion-de-sistema-de-acceso-remoto-y-seguro-al-sim-9700d1",
@@ -193,54 +241,6 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42621"
     },
     "publicadoEn": "2026-07-21T11:43:55.231Z",
-    "actualizadoEn": "2026-07-21T11:44:10.718Z"
-  },
-  {
-    "id": "2026-07-21-prohibicion-de-comercializacion-y-uso-de-lote-falsificado-de-dysport-500-5c08dd",
-    "slug": "prohibicion-de-comercializacion-y-uso-de-lote-falsificado-de-dysport-500",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-07-20",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "ANMAT",
-      "productos médicos",
-      "despacho de importación",
-      "control de mercadería",
-      "falsificación"
-    ],
-    "titulo": "Prohibición de comercialización y uso de lote falsificado de Dysport 500",
-    "resumen": "La ANMAT ha prohibido el uso y comercialización de un lote específico del producto Dysport 500 IPSEN por haber sido detectado como falsificado. La medida busca prevenir riesgos sanitarios asociados a productos sin trazabilidad garantizada.",
-    "queSignifica": "Verifique el stock actual y las mercaderías en proceso de despacho frente al número de lote afectado. Ante la presencia de dicho producto, se recomienda abstenerse de comercializarlo y realizar la consulta técnica correspondiente ante la autoridad sanitaria.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-un-lote-falsificado-del-producto-dysport-500-ipsen"
-    },
-    "publicadoEn": "2026-07-20T12:12:06.348Z",
-    "actualizadoEn": "2026-07-21T11:44:10.718Z"
-  },
-  {
-    "id": "2026-07-21-anmat-prohibe-comercializacion-de-protectores-solares-marcas-karite-kiss-beauty--15be70",
-    "slug": "anmat-prohibe-comercializacion-de-protectores-solares-marcas-karite-kiss-beauty-",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-07-20",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "ANMAT",
-      "prohibición",
-      "cosméticos",
-      "bloqueo",
-      "SICE"
-    ],
-    "titulo": "ANMAT prohíbe comercialización de protectores solares marcas KARITÉ, KISS BEAUTY y MISS VANESA",
-    "resumen": "La normativa prohíbe la comercialización en todo el país de diversos protectores solares de las marcas KARITÉ, KISS BEAUTY y MISS VANESA por carecer de registro sanitario. La medida implica el retiro inmediato del mercado de los lotes afectados.",
-    "queSignifica": "Verifique su stock y operaciones en curso para asegurar que no contengan productos de las marcas citadas. Se sugiere consultar con el servicio técnico del importador y confirmar la situación de los registros ante el sistema VUCE/ANMAT para evitar bloqueos en Aduana.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-distintos-protectores-solares-de-las-marcas-karite-kiss-beauty-y-miss-vanesa"
-    },
-    "publicadoEn": "2026-07-20T12:12:11.593Z",
     "actualizadoEn": "2026-07-21T11:44:10.718Z"
   },
   {
@@ -757,25 +757,5 @@
     },
     "publicadoEn": "2026-07-09T12:40:35.949Z",
     "actualizadoEn": "2026-07-09T12:42:13.626Z"
-  },
-  {
-    "id": "2026-07-10-anmat-prohibe-los-productos-medicos-elaborados-por-la-firma-lead-cables-y-acceso-10549f",
-    "slug": "anmat-prohibe-los-productos-medicos-elaborados-por-la-firma-lead-cables-y-acceso",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-07-07",
-    "impacto": "alto",
-    "categoria": "logistica",
-    "tags": [
-      "ANMAT"
-    ],
-    "titulo": "ANMAT prohíbe los productos médicos elaborados por la firma LEAD CABLES Y ACCESORIOS S.R.L.",
-    "resumen": "ANMAT prohíbe los productos médicos elaborados por la firma LEAD CABLES Y ACCESORIOS S.R.L.",
-    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-los-productos-medicos-elaborados-por-la-firma-lead-cables-y-accesorios-srl"
-    },
-    "publicadoEn": "2026-07-07T12:24:45.928Z",
-    "actualizadoEn": "2026-07-10T12:22:39.117Z"
   }
 ]
