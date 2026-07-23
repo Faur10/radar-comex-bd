@@ -1,52 +1,242 @@
 [
   {
-    "id": "2026-07-22-actualizacion-del-tipo-de-cambio-oficial-para-operaciones-en-el-mulc-9f06d0",
-    "slug": "actualizacion-del-tipo-de-cambio-oficial-para-operaciones-en-el-mulc",
+    "id": "2026-07-23-referencia-del-tipo-de-cambio-oficial-del-bcra-al-22-de-julio-de-2026-dad73f",
+    "slug": "referencia-del-tipo-de-cambio-oficial-del-bcra-al-22-de-julio-de-2026",
     "organismo": "BCRA",
-    "fecha": "2026-07-22",
-    "impacto": "medio",
+    "fecha": "2026-07-23",
+    "impacto": "bajo",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "Tipo de Cambio",
-      "Liquidación de Divisas",
-      "BCRA",
-      "Comex"
+      "tipo de cambio",
+      "divisas",
+      "operaciones cambiarias",
+      "BCRA"
     ],
-    "titulo": "Actualización del tipo de cambio oficial para operaciones en el MULC",
-    "resumen": "Se informa el valor oficial de referencia del dólar para el Mercado Único y Libre de Cambios establecido por el BCRA para la fecha indicada. Esta cifra constituye la base de cálculo para las operaciones de comercio exterior bajo regulación cambiaria.",
-    "queSignifica": "Verifique con su entidad bancaria la aplicación de este valor en sus operaciones de pago o cobro de divisas. Se recomienda validar si existen cargos adicionales o brechas diferenciales según su posición cambiaria específica.",
+    "titulo": "Referencia del tipo de cambio oficial del BCRA al 22 de julio de 2026",
+    "resumen": "Se publica el valor oficial del dólar estadounidense en el Mercado Único y Libre de Cambios para la fecha indicada.",
+    "queSignifica": "El operador debe utilizar esta cotización como referencia para sus cálculos de costos y proyecciones financieras. Se sugiere verificar este valor en el sistema contable propio para asegurar la correcta valuación de las operaciones vigentes.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-07-22T11:44:11.923Z"
+    "actualizadoEn": "2026-07-23T11:47:38.371Z"
   },
   {
-    "id": "2026-07-22-actualizacion-de-las-normas-de-acceso-al-mercado-unico-y-libre-de-cambios-mulc-da4353",
-    "slug": "actualizacion-de-las-normas-de-acceso-al-mercado-unico-y-libre-de-cambios-mulc",
+    "id": "2026-07-23-refuerzo-de-controles-sanitarios-en-aeropuerto-cordoba-f01d9c",
+    "slug": "refuerzo-de-controles-sanitarios-en-aeropuerto-cordoba",
+    "organismo": "SENASA",
+    "fecha": "2026-07-22",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "SENASA",
+      "fitozoosanitario",
+      "control aduanero",
+      "mercadería prohibida",
+      "barreras no arancelarias"
+    ],
+    "titulo": "Refuerzo de controles sanitarios en Aeropuerto Córdoba",
+    "resumen": "El SENASA informó el decomiso de 237 kg de productos no permitidos durante el primer semestre de 2026 para preservar el estatus sanitario nacional.",
+    "queSignifica": "Es recomendable que los operadores verifiquen estrictamente las restricciones de ingreso de productos de origen animal o vegetal para evitar sanciones o decomisos en terminales aeroportuarias. Se sugiere revisar la normativa vigente de SENASA antes de realizar envíos o gestionar equipaje acompañado para asegurar el cumplimiento de las prohibiciones de importación.",
+    "fuente": {
+      "nombre": "SENASA Comunica",
+      "url": "https://www.argentina.gob.ar/noticias/controles-sanitarios-en-el-aeropuerto-internacional-cordoba-en-el-primer-semestre-2026"
+    },
+    "publicadoEn": "2026-07-23T11:47:22.885Z",
+    "actualizadoEn": "2026-07-23T11:47:38.371Z"
+  },
+  {
+    "id": "2026-07-23-actualizacion-sobre-acceso-al-mercado-unico-y-libre-de-cambios-para-operaciones--50622a",
+    "slug": "actualizacion-sobre-acceso-al-mercado-unico-y-libre-de-cambios-para-operaciones-",
     "organismo": "BCRA",
     "fecha": "2026-07-21",
     "impacto": "alto",
     "categoria": "normativa",
     "tags": [
-      "BCRA",
       "MULC",
-      "Acceso al Mercado de Cambios",
-      "Comunicación A 8455",
-      "Regulaciones cambiarias"
+      "Acceso a divisas",
+      "BCRA",
+      "Pagos al exterior",
+      "Comunicación A"
     ],
-    "titulo": "Actualización de las normas de acceso al Mercado Único y Libre de Cambios (MULC)",
-    "resumen": "La normativa establece nuevos requisitos y condiciones para la compra de divisas destinadas a operaciones de comercio exterior. Define los plazos y la documentación requerida para la validación de pagos al exterior a través del sistema financiero.",
-    "queSignifica": "Es necesario revisar el cumplimiento de los nuevos requisitos documentales y plazos de acceso según la tipología de la operación. Se recomienda verificar con su entidad bancaria la aplicabilidad de estas condiciones sobre los giros pendientes o programados.",
+    "titulo": "Actualización sobre acceso al Mercado Único y Libre de Cambios para operaciones de comercio exterior",
+    "resumen": "La norma establece nuevos lineamientos para el acceso al mercado de cambios para el pago de obligaciones vinculadas a operaciones de comercio exterior. Define condiciones específicas de cumplimiento documental y plazos para la cancelación de compromisos con el exterior.",
+    "queSignifica": "Debe revisar el estado de sus operaciones pendientes de pago y verificar la normativa de acceso al MULC para asegurar el cumplimiento de las nuevas condiciones. Se sugiere consultar con su entidad bancaria para validar si sus operaciones específicas requieren adecuaciones adicionales antes de ejecutar el giro de divisas.",
     "fuente": {
       "nombre": "Boletín Oficial de la República Argentina",
       "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/344667/20260721"
     },
     "normativaRef": "Comunicación \"A\" 8455/2026",
     "publicadoEn": "2026-07-21T11:43:24.411Z",
-    "actualizadoEn": "2026-07-22T11:44:11.923Z"
+    "actualizadoEn": "2026-07-23T11:47:38.371Z"
+  },
+  {
+    "id": "2026-07-23-capacitacion-sobre-importacion-de-productos-medicos-4b952b",
+    "slug": "capacitacion-sobre-importacion-de-productos-medicos",
+    "organismo": "Aduana",
+    "fecha": "2026-07-21",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "productos médicos",
+      "capacitación",
+      "anmat",
+      "comercio exterior",
+      "importación"
+    ],
+    "titulo": "Capacitación sobre importación de productos médicos",
+    "resumen": "El Centro Despachantes de Aduana organiza una jornada de actualización sobre la normativa vigente para la importación de insumos médicos.",
+    "queSignifica": "Se sugiere revisar el programa de la capacitación para identificar actualizaciones procedimentales ante ANMAT. Es recomendable verificar si los actuales procesos de registro y despacho requieren ajustes normativos.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42640"
+    },
+    "publicadoEn": "2026-07-23T11:46:57.950Z",
+    "actualizadoEn": "2026-07-23T11:47:38.371Z"
+  },
+  {
+    "id": "2026-07-23-invitacion-a-la-3ra-edicion-de-los-desayunos-de-trabajo-del-cda-33e290",
+    "slug": "invitacion-a-la-3ra-edicion-de-los-desayunos-de-trabajo-del-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-07-21",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "capacitación",
+      "actualidad profesional",
+      "CDA",
+      "comercio exterior"
+    ],
+    "titulo": "Invitación a la 3ra edición de los Desayunos de Trabajo del CDA",
+    "resumen": "El Centro Despachantes de Aduana convoca a sus asociados a un espacio de intercambio profesional y actualización técnica.",
+    "queSignifica": "Se sugiere revisar el cronograma de actividades de la institución para evaluar la relevancia de los temas a tratar en la jornada según su perfil operativo.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42644"
+    },
+    "publicadoEn": "2026-07-23T11:47:02.961Z",
+    "actualizadoEn": "2026-07-23T11:47:38.371Z"
+  },
+  {
+    "id": "2026-07-23-implementacion-de-nuevo-sistema-de-acceso-remoto-al-sistema-informatico-malvina-f36c69",
+    "slug": "implementacion-de-nuevo-sistema-de-acceso-remoto-al-sistema-informatico-malvina",
+    "organismo": "Aduana",
+    "fecha": "2026-07-20",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "SIM",
+      "Malvina",
+      "acceso remoto",
+      "conectividad",
+      "ADUANA"
+    ],
+    "titulo": "Implementación de nuevo sistema de acceso remoto al Sistema Informático Malvina",
+    "resumen": "El CDA habilita una nueva modalidad de conexión al SIM para facilitar la gestión operativa desde ubicaciones externas.",
+    "queSignifica": "Se sugiere revisar los requerimientos técnicos y de seguridad informáticos del CDA para evaluar su implementación. Verifique con su departamento de IT la compatibilidad con los protocolos de seguridad de su empresa.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42462"
+    },
+    "publicadoEn": "2026-07-21T11:43:45.140Z",
+    "actualizadoEn": "2026-07-23T11:47:38.371Z"
+  },
+  {
+    "id": "2026-07-23-participacion-del-cda-en-la-feria-expo-logisti-k-2026-d761ed",
+    "slug": "participacion-del-cda-en-la-feria-expo-logisti-k-2026",
+    "organismo": "Aduana",
+    "fecha": "2026-07-20",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "CDA",
+      "LOGISTI-K",
+      "Eventos",
+      "Comercio Exterior"
+    ],
+    "titulo": "Participación del CDA en la feria EXPO LOGISTI-K 2026",
+    "resumen": "El Centro de Despachantes de Aduana anuncia su presencia institucional en la 16ª edición de la feria de logística.",
+    "queSignifica": "Es una comunicación meramente institucional; no requiere ninguna acción operativa ni modificación en los procedimientos aduaneros vigentes.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42634"
+    },
+    "publicadoEn": "2026-07-21T11:43:50.081Z",
+    "actualizadoEn": "2026-07-23T11:47:38.371Z"
+  },
+  {
+    "id": "2026-07-23-convocatoria-a-asamblea-general-extraordinaria-del-cda-79dbd0",
+    "slug": "convocatoria-a-asamblea-general-extraordinaria-del-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-07-20",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "CDA",
+      "Institucional",
+      "Asamblea",
+      "Gremial",
+      "Despachante de Aduana"
+    ],
+    "titulo": "Convocatoria a Asamblea General Extraordinaria del CDA",
+    "resumen": "El Centro Despachantes de Aduana convoca a sus socios a una asamblea extraordinaria conforme a lo estipulado en su Estatuto Social.",
+    "queSignifica": "Esta comunicación tiene carácter institucional y gremial. Se recomienda a los socios verificar el cronograma y el orden del día publicado por la institución para evaluar su participación en los asuntos internos de la entidad.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42621"
+    },
+    "publicadoEn": "2026-07-21T11:43:55.231Z",
+    "actualizadoEn": "2026-07-23T11:47:38.371Z"
+  },
+  {
+    "id": "2026-07-23-prohibicion-de-comercializacion-y-uso-del-lote-falsificado-de-dysport-500-ipsen-e96a76",
+    "slug": "prohibicion-de-comercializacion-y-uso-del-lote-falsificado-de-dysport-500-ipsen",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-07-20",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "ANMAT",
+      "productos farmacéuticos",
+      "prohibición de comercialización",
+      "control sanitario",
+      "mercadería falsificada"
+    ],
+    "titulo": "Prohibición de comercialización y uso del lote falsificado de Dysport 500 IPSEN",
+    "resumen": "La ANMAT ha dispuesto la prohibición de comercialización y uso de un lote específico del producto Dysport 500 IPSEN por tratarse de una unidad falsificada.",
+    "queSignifica": "Se recomienda verificar de inmediato el stock, inventarios y despachos en curso para asegurar que no contengan el lote afectado. Ante cualquier duda, consulte con su departamento de asuntos regulatorios o el área de control de calidad antes de liberar mercadería.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-un-lote-falsificado-del-producto-dysport-500-ipsen"
+    },
+    "publicadoEn": "2026-07-20T12:12:06.348Z",
+    "actualizadoEn": "2026-07-23T11:47:38.371Z"
+  },
+  {
+    "id": "2026-07-23-anmat-prohibe-la-comercializacion-de-protectores-solares-marcas-karite-kiss-beau-20817f",
+    "slug": "anmat-prohibe-la-comercializacion-de-protectores-solares-marcas-karite-kiss-beau",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-07-20",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "ANMAT",
+      "prohibición comercialización",
+      "productos cosméticos",
+      "seguridad sanitaria",
+      "control aduanero"
+    ],
+    "titulo": "ANMAT prohíbe la comercialización de protectores solares marcas Karité, Kiss Beauty y Miss Vanesa",
+    "resumen": "La norma establece la prohibición del uso, comercialización y distribución en todo el territorio nacional de lotes específicos de protectores solares de las marcas indicadas. La medida se fundamenta en la falta de registro sanitario y de condiciones de seguridad requeridas.",
+    "queSignifica": "El importador debe verificar el inventario de mercadería en stock o en tránsito para asegurar que no contenga los productos alcanzados por esta restricción. Se sugiere consultar la base de datos de ANMAT y realizar un bloqueo preventivo en el sistema para evitar infracciones aduaneras o de comercialización.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-distintos-protectores-solares-de-las-marcas-karite-kiss-beauty-y-miss-vanesa"
+    },
+    "publicadoEn": "2026-07-20T12:12:11.593Z",
+    "actualizadoEn": "2026-07-23T11:47:38.371Z"
   },
   {
     "id": "2026-07-22-prorroga-para-la-presentacion-y-pago-del-impuesto-a-las-ganancias-periodo-2025-d4e9dd",
@@ -122,126 +312,6 @@
     "normativaRef": "Comunicación \"A\" 8453/2026",
     "publicadoEn": "2026-07-20T12:11:55.929Z",
     "actualizadoEn": "2026-07-22T11:44:11.923Z"
-  },
-  {
-    "id": "2026-07-22-prohibicion-de-comercializacion-y-uso-del-lote-falsificado-del-producto-dysport--4bf18c",
-    "slug": "prohibicion-de-comercializacion-y-uso-del-lote-falsificado-del-producto-dysport-",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-07-20",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "ANMAT",
-      "productos médicos",
-      "seguridad sanitaria",
-      "comercio ilícito",
-      "control aduanero"
-    ],
-    "titulo": "Prohibición de comercialización y uso del lote falsificado del producto Dysport 500 IPSEN",
-    "resumen": "La ANMAT prohibió la comercialización, distribución y uso de un lote falsificado del producto médico Dysport 500 unidades (toxina botulínica). La medida responde a la detección de unidades que no cumplen con los estándares de autenticidad y seguridad sanitaria.",
-    "queSignifica": "El importador debe verificar inmediatamente sus stocks, comparar los números de lote y etiquetas con los datos oficiales de IPSEN y suspender cualquier operación comercial si se detecta el producto identificado. Se recomienda auditar la cadena de suministro para asegurar la trazabilidad del producto y evitar el despacho a plaza de mercadería apócrifa.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-un-lote-falsificado-del-producto-dysport-500-ipsen"
-    },
-    "publicadoEn": "2026-07-20T12:12:06.348Z",
-    "actualizadoEn": "2026-07-22T11:44:11.923Z"
-  },
-  {
-    "id": "2026-07-22-anmat-prohibe-la-comercializacion-de-protectores-solares-de-marcas-karite-kiss-b-5a7e49",
-    "slug": "anmat-prohibe-la-comercializacion-de-protectores-solares-de-marcas-karite-kiss-b",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-07-20",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "prohibicion",
-      "cosmeticos",
-      "simi",
-      "seguridad sanitaria",
-      "control aduanero"
-    ],
-    "titulo": "ANMAT prohíbe la comercialización de protectores solares de marcas Karité, Kiss Beauty y Miss Vanesa",
-    "resumen": "La ANMAT prohibió la comercialización, distribución y venta en todo el país de diversos protectores solares de las marcas mencionadas por falta de registros sanitarios. La medida busca prevenir riesgos para la salud ante productos sin aval técnico.",
-    "queSignifica": "Los importadores deberán revisar su stock y verificar el estado registral de cualquier producto cosmético de dichas marcas en el VUCE. Se recomienda suspender cualquier gestión de despacho o comercialización de estas mercaderías para evitar eventuales bloqueos por parte del servicio aduanero.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-distintos-protectores-solares-de-las-marcas-karite-kiss-beauty-y-miss-vanesa"
-    },
-    "publicadoEn": "2026-07-20T12:12:11.593Z",
-    "actualizadoEn": "2026-07-22T11:44:11.923Z"
-  },
-  {
-    "id": "2026-07-21-implementacion-de-sistema-de-acceso-remoto-y-seguro-al-sim-9700d1",
-    "slug": "implementacion-de-sistema-de-acceso-remoto-y-seguro-al-sim",
-    "organismo": "Aduana",
-    "fecha": "2026-07-20",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "SIM",
-      "Sistema Informático Malvina",
-      "conectividad",
-      "acceso remoto",
-      "CDA"
-    ],
-    "titulo": "Implementación de sistema de acceso remoto y seguro al SIM",
-    "resumen": "El CDA pone a disposición una herramienta para facilitar la conexión al Sistema Informático Malvina con soporte técnico continuo.",
-    "queSignifica": "Se sugiere verificar la compatibilidad técnica y las condiciones de seguridad de esta herramienta con su infraestructura actual antes de su implementación operativa.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42462"
-    },
-    "publicadoEn": "2026-07-21T11:43:45.140Z",
-    "actualizadoEn": "2026-07-21T11:44:10.718Z"
-  },
-  {
-    "id": "2026-07-21-participacion-del-cda-en-la-feria-expo-logisti-k-2026-d9d663",
-    "slug": "participacion-del-cda-en-la-feria-expo-logisti-k-2026",
-    "organismo": "Aduana",
-    "fecha": "2026-07-20",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "Logística",
-      "Comercio Exterior",
-      "Networking",
-      "Infraestructura",
-      "Servicios Aduaneros"
-    ],
-    "titulo": "Participación del CDA en la feria EXPO LOGISTI-K 2026",
-    "resumen": "El CDA ha anunciado su presencia institucional en la 16ª edición de la Exposición Internacional de Logística. Se trata de una actividad de carácter informativo sobre la presencia del gremio en el evento.",
-    "queSignifica": "Esta novedad no altera procedimientos aduaneros ni operativos vigentes. Se recomienda a los asociados consultar el cronograma oficial si desean asistir o participar en las actividades programadas.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42634"
-    },
-    "publicadoEn": "2026-07-21T11:43:50.081Z",
-    "actualizadoEn": "2026-07-21T11:44:10.718Z"
-  },
-  {
-    "id": "2026-07-21-convocatoria-a-asamblea-general-extraordinaria-del-cda-7de90c",
-    "slug": "convocatoria-a-asamblea-general-extraordinaria-del-cda",
-    "organismo": "Aduana",
-    "fecha": "2026-07-20",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "CDA",
-      "Institucional",
-      "Asamblea",
-      "Estatuto Social",
-      "Gremial"
-    ],
-    "titulo": "Convocatoria a Asamblea General Extraordinaria del CDA",
-    "resumen": "El Centro Despachantes de Aduana convoca a sus socios a una Asamblea General Extraordinaria conforme a lo establecido en su Estatuto Social.",
-    "queSignifica": "Esta comunicación es de carácter institucional y no afecta las operaciones de comercio exterior. Se sugiere a los asociados verificar el orden del día por si se trataran temas que puedan impactar en el ejercicio profesional.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42621"
-    },
-    "publicadoEn": "2026-07-21T11:43:55.231Z",
-    "actualizadoEn": "2026-07-21T11:44:10.718Z"
   },
   {
     "id": "2026-07-20-habilitacion-de-tres-frigorificos-argentinos-para-exportar-carne-a-china-c20874",
@@ -715,47 +785,5 @@
     },
     "publicadoEn": "2026-07-13T12:28:14.407Z",
     "actualizadoEn": "2026-07-16T11:29:14.876Z"
-  },
-  {
-    "id": "2026-07-11-simplificacion-y-digitalizacion-de-habilitaciones-para-exportar-productos-de-ori-5db90d",
-    "slug": "simplificacion-y-digitalizacion-de-habilitaciones-para-exportar-productos-de-ori",
-    "organismo": "SENASA",
-    "fecha": "2026-07-08",
-    "impacto": "medio",
-    "categoria": "exportacion",
-    "tags": [
-      "SENASA",
-      "Habilitaciones",
-      "Exportación",
-      "Certificación",
-      "Gestión Documental"
-    ],
-    "titulo": "Simplificación y digitalización de habilitaciones para exportar productos de origen animal",
-    "resumen": "Se eliminan los formularios físicos y la caducidad bienal de las habilitaciones, estableciendo criterios técnicos estandarizados. El objetivo es desburocratizar el proceso de alta de destinos de exportación.",
-    "queSignifica": "Los exportadores deben revisar sus habilitaciones vigentes para identificar posibles cambios en la gestión documental y validar los nuevos requisitos técnicos. Se recomienda verificar en el sistema informático del SENASA si la eliminación de los plazos de vencimiento impacta en el estado de sus registros actuales.",
-    "fuente": {
-      "nombre": "SENASA Comunica",
-      "url": "https://www.argentina.gob.ar/noticias/simplificacion-del-procedimiento-para-habilitar-destinos-de-exportacion-de-productos-de"
-    },
-    "publicadoEn": "2026-07-09T12:41:41.068Z",
-    "actualizadoEn": "2026-07-11T20:39:10.312Z"
-  },
-  {
-    "id": "2026-07-09-cronograma-desafectacion-y-destruccion-de-legajos-aduaner-292704",
-    "slug": "cronograma-desafectacion-y-destruccion-de-legajos-aduaner",
-    "organismo": "CDA",
-    "fecha": "2026-07-08",
-    "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [],
-    "titulo": "Cronograma: Desafectación y Destrucción de Legajos Aduaner",
-    "resumen": "El Centro Despachantes de Aduana (CDA) acerca a sus asociados el cronograma de implementación para la desafectación y destrucción de Lega...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42631"
-    },
-    "publicadoEn": "2026-07-09T12:40:35.949Z",
-    "actualizadoEn": "2026-07-09T12:42:13.626Z"
   }
 ]
