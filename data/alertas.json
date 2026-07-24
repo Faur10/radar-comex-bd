@@ -1,10 +1,10 @@
 [
   {
-    "id": "2026-07-23-referencia-del-tipo-de-cambio-oficial-del-bcra-al-22-de-julio-de-2026-dad73f",
-    "slug": "referencia-del-tipo-de-cambio-oficial-del-bcra-al-22-de-julio-de-2026",
+    "id": "2026-07-24-actualizacion-del-tipo-de-cambio-oficial-del-bcra-al-23-de-julio-de-2026-a75565",
+    "slug": "actualizacion-del-tipo-de-cambio-oficial-del-bcra-al-23-de-julio-de-2026",
     "organismo": "BCRA",
-    "fecha": "2026-07-23",
-    "impacto": "bajo",
+    "fecha": "2026-07-24",
+    "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
@@ -13,18 +13,90 @@
       "operaciones cambiarias",
       "BCRA"
     ],
-    "titulo": "Referencia del tipo de cambio oficial del BCRA al 22 de julio de 2026",
-    "resumen": "Se publica el valor oficial del dólar estadounidense en el Mercado Único y Libre de Cambios para la fecha indicada.",
-    "queSignifica": "El operador debe utilizar esta cotización como referencia para sus cálculos de costos y proyecciones financieras. Se sugiere verificar este valor en el sistema contable propio para asegurar la correcta valuación de las operaciones vigentes.",
+    "titulo": "Actualización del tipo de cambio oficial del BCRA al 23 de julio de 2026",
+    "resumen": "El BCRA ha fijado el tipo de cambio oficial para el mercado único y libre de cambios (MULC) en 1037.83 pesos argentinos por dólar estadounidense para la fecha indicada.",
+    "queSignifica": "El operador debe verificar este valor para realizar los cálculos de costos de importación y liquidación de divisas de exportación. Se recomienda contrastar esta cotización con su entidad bancaria interviniente antes de formalizar pagos o cobros.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-07-23T11:47:38.371Z"
+    "actualizadoEn": "2026-07-24T11:38:32.188Z"
   },
   {
-    "id": "2026-07-23-refuerzo-de-controles-sanitarios-en-aeropuerto-cordoba-f01d9c",
+    "id": "2026-07-24-capacitacion-sobre-normativa-de-importacion-de-productos-medicos-9b82ce",
+    "slug": "capacitacion-sobre-normativa-de-importacion-de-productos-medicos",
+    "organismo": "Aduana",
+    "fecha": "2026-07-23",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [
+      "Productos Médicos",
+      "Capacitación",
+      "ANMAT",
+      "Importación",
+      "Gestión Aduanera"
+    ],
+    "titulo": "Capacitación sobre normativa de importación de productos médicos",
+    "resumen": "El CDA organiza una jornada de capacitación profesional sobre los procedimientos vigentes para la importación de productos médicos. La actividad busca actualizar conocimientos técnicos sobre el marco regulatorio sectorial.",
+    "queSignifica": "Se recomienda revisar el cronograma de capacitación si su actividad involucra la gestión de insumos médicos. Verifique que sus procedimientos internos estén alineados con las últimas actualizaciones dictadas por los organismos de control.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42640"
+    },
+    "publicadoEn": "2026-07-23T11:46:57.950Z",
+    "actualizadoEn": "2026-07-24T11:38:32.188Z"
+  },
+  {
+    "id": "2026-07-24-campana-de-vacunacion-contra-la-gripe-para-socios-del-cda-738685",
+    "slug": "campana-de-vacunacion-contra-la-gripe-para-socios-del-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-07-23",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "institucional",
+      "salud",
+      "despachantes",
+      "operatividad",
+      "gestión"
+    ],
+    "titulo": "Campaña de vacunación contra la gripe para socios del CDA",
+    "resumen": "El CDA informa sobre la implementación de una campaña de vacunación para sus socios fruto de gestiones institucionales. Se trata de una comunicación de carácter prestacional y no regulatoria.",
+    "queSignifica": "Es una acción orientada al bienestar de los socios; no implica cambios en procedimientos aduaneros. Se recomienda verificar los canales de comunicación del CDA para conocer los requisitos de acceso a la vacunación.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42410"
+    },
+    "publicadoEn": "2026-07-24T11:38:11.705Z",
+    "actualizadoEn": "2026-07-24T11:38:32.188Z"
+  },
+  {
+    "id": "2026-07-24-informe-del-indec-sobre-el-intercambio-comercial-argentino-de-junio-2026-96e60e",
+    "slug": "informe-del-indec-sobre-el-intercambio-comercial-argentino-de-junio-2026",
+    "organismo": "Aduana",
+    "fecha": "2026-07-23",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "comercio exterior",
+      "estadística",
+      "intercambio comercial",
+      "INDEC",
+      "indicadores"
+    ],
+    "titulo": "Informe del INDEC sobre el intercambio comercial argentino de junio 2026",
+    "resumen": "El informe presenta los índices de precios y cantidades del comercio exterior correspondientes al mes de junio de 2026. Se detallan las variaciones en las operaciones de exportación e importación del país.",
+    "queSignifica": "Es un reporte estadístico de carácter informativo que no modifica procedimientos aduaneros. Se recomienda revisar los datos para el análisis de mercado y la proyección estratégica de sus operaciones.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42646"
+    },
+    "publicadoEn": "2026-07-24T11:38:16.682Z",
+    "actualizadoEn": "2026-07-24T11:38:32.188Z"
+  },
+  {
+    "id": "2026-07-24-refuerzo-de-controles-sanitarios-en-aeropuerto-cordoba-0d4212",
     "slug": "refuerzo-de-controles-sanitarios-en-aeropuerto-cordoba",
     "organismo": "SENASA",
     "fecha": "2026-07-22",
@@ -33,19 +105,42 @@
     "tags": [
       "SENASA",
       "fitozoosanitario",
-      "control aduanero",
-      "mercadería prohibida",
-      "barreras no arancelarias"
+      "controles aduaneros",
+      "mercaderia prohibida",
+      "seguridad fronteriza"
     ],
     "titulo": "Refuerzo de controles sanitarios en Aeropuerto Córdoba",
-    "resumen": "El SENASA informó el decomiso de 237 kg de productos no permitidos durante el primer semestre de 2026 para preservar el estatus sanitario nacional.",
-    "queSignifica": "Es recomendable que los operadores verifiquen estrictamente las restricciones de ingreso de productos de origen animal o vegetal para evitar sanciones o decomisos en terminales aeroportuarias. Se sugiere revisar la normativa vigente de SENASA antes de realizar envíos o gestionar equipaje acompañado para asegurar el cumplimiento de las prohibiciones de importación.",
+    "resumen": "El SENASA intensificó los controles de equipaje y carga en el Aeropuerto de Córdoba para evitar el ingreso de productos prohibidos. La medida busca proteger el estatus fitozoosanitario nacional mediante el decomiso de mercadería no autorizada.",
+    "queSignifica": "Se sugiere verificar que todas las cargas con productos de origen animal o vegetal cuenten con la certificación sanitaria correspondiente. Ante la duda, revise la normativa vigente de SENASA sobre prohibiciones de ingreso para evitar demoras o decomisos en terminales aeroportuarias.",
     "fuente": {
       "nombre": "SENASA Comunica",
       "url": "https://www.argentina.gob.ar/noticias/controles-sanitarios-en-el-aeropuerto-internacional-cordoba-en-el-primer-semestre-2026"
     },
     "publicadoEn": "2026-07-23T11:47:22.885Z",
-    "actualizadoEn": "2026-07-23T11:47:38.371Z"
+    "actualizadoEn": "2026-07-24T11:38:32.188Z"
+  },
+  {
+    "id": "2026-07-24-3ra-edicion-de-los-desayunos-de-trabajo-del-cda-4875ec",
+    "slug": "3ra-edicion-de-los-desayunos-de-trabajo-del-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-07-21",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "capacitación",
+      "actualidad aduanera",
+      "gestión operativa",
+      "comercio exterior"
+    ],
+    "titulo": "3ra edición de los Desayunos de Trabajo del CDA",
+    "resumen": "El Centro Despachantes de Aduana convoca a sus asociados a un nuevo encuentro de actualización profesional.",
+    "queSignifica": "Se sugiere a los colegas verificar el cronograma y temario de la convocatoria para evaluar su participación en instancias de actualización técnica. No implica modificaciones en la operatoria aduanera actual.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42644"
+    },
+    "publicadoEn": "2026-07-23T11:47:02.961Z",
+    "actualizadoEn": "2026-07-24T11:38:32.188Z"
   },
   {
     "id": "2026-07-23-actualizacion-sobre-acceso-al-mercado-unico-y-libre-de-cambios-para-operaciones--50622a",
@@ -70,53 +165,6 @@
     },
     "normativaRef": "Comunicación \"A\" 8455/2026",
     "publicadoEn": "2026-07-21T11:43:24.411Z",
-    "actualizadoEn": "2026-07-23T11:47:38.371Z"
-  },
-  {
-    "id": "2026-07-23-capacitacion-sobre-importacion-de-productos-medicos-4b952b",
-    "slug": "capacitacion-sobre-importacion-de-productos-medicos",
-    "organismo": "Aduana",
-    "fecha": "2026-07-21",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "productos médicos",
-      "capacitación",
-      "anmat",
-      "comercio exterior",
-      "importación"
-    ],
-    "titulo": "Capacitación sobre importación de productos médicos",
-    "resumen": "El Centro Despachantes de Aduana organiza una jornada de actualización sobre la normativa vigente para la importación de insumos médicos.",
-    "queSignifica": "Se sugiere revisar el programa de la capacitación para identificar actualizaciones procedimentales ante ANMAT. Es recomendable verificar si los actuales procesos de registro y despacho requieren ajustes normativos.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42640"
-    },
-    "publicadoEn": "2026-07-23T11:46:57.950Z",
-    "actualizadoEn": "2026-07-23T11:47:38.371Z"
-  },
-  {
-    "id": "2026-07-23-invitacion-a-la-3ra-edicion-de-los-desayunos-de-trabajo-del-cda-33e290",
-    "slug": "invitacion-a-la-3ra-edicion-de-los-desayunos-de-trabajo-del-cda",
-    "organismo": "Aduana",
-    "fecha": "2026-07-21",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "capacitación",
-      "actualidad profesional",
-      "CDA",
-      "comercio exterior"
-    ],
-    "titulo": "Invitación a la 3ra edición de los Desayunos de Trabajo del CDA",
-    "resumen": "El Centro Despachantes de Aduana convoca a sus asociados a un espacio de intercambio profesional y actualización técnica.",
-    "queSignifica": "Se sugiere revisar el cronograma de actividades de la institución para evaluar la relevancia de los temas a tratar en la jornada según su perfil operativo.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42644"
-    },
-    "publicadoEn": "2026-07-23T11:47:02.961Z",
     "actualizadoEn": "2026-07-23T11:47:38.371Z"
   },
   {
