@@ -1,10 +1,10 @@
 [
   {
-    "id": "2026-07-24-actualizacion-del-tipo-de-cambio-oficial-del-bcra-al-23-de-julio-de-2026-a75565",
-    "slug": "actualizacion-del-tipo-de-cambio-oficial-del-bcra-al-23-de-julio-de-2026",
+    "id": "2026-07-27-actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc-e40888",
+    "slug": "actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc",
     "organismo": "BCRA",
-    "fecha": "2026-07-24",
-    "impacto": "medio",
+    "fecha": "2026-07-27",
+    "impacto": "bajo",
     "categoria": "normativa",
     "tags": [
       "MULC",
@@ -13,15 +13,110 @@
       "operaciones cambiarias",
       "BCRA"
     ],
-    "titulo": "Actualización del tipo de cambio oficial del BCRA al 23 de julio de 2026",
-    "resumen": "El BCRA ha fijado el tipo de cambio oficial para el mercado único y libre de cambios (MULC) en 1037.83 pesos argentinos por dólar estadounidense para la fecha indicada.",
-    "queSignifica": "El operador debe verificar este valor para realizar los cálculos de costos de importación y liquidación de divisas de exportación. Se recomienda contrastar esta cotización con su entidad bancaria interviniente antes de formalizar pagos o cobros.",
+    "titulo": "Actualización de la cotización oficial del dólar en el MULC",
+    "resumen": "El BCRA ha fijado el tipo de cambio oficial del Mercado Único y Libre de Cambios en 1045.80 pesos argentinos por unidad de dólar estadounidense para la fecha indicada.",
+    "queSignifica": "Se sugiere verificar este valor al momento de realizar pagos o cobros de operaciones de comercio exterior. Es recomendable consultar con su entidad bancaria para confirmar la aplicabilidad de esta cotización en la liquidación de sus divisas.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-07-24T11:38:32.188Z"
+    "actualizadoEn": "2026-07-27T12:54:04.117Z"
+  },
+  {
+    "id": "2026-07-27-capacitacion-sobre-alternativas-y-beneficios-en-operatoria-aduanera-6cb99c",
+    "slug": "capacitacion-sobre-alternativas-y-beneficios-en-operatoria-aduanera",
+    "organismo": "Aduana",
+    "fecha": "2026-07-27",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "capacitacion",
+      "actualizacion",
+      "operativa",
+      "comercio exterior"
+    ],
+    "titulo": "Capacitación sobre alternativas y beneficios en operatoria aduanera",
+    "resumen": "El CDA organiza una actividad de actualización profesional exclusiva para sus asociados sobre herramientas y beneficios en la operativa de comercio exterior.",
+    "queSignifica": "Se sugiere revisar el temario de la capacitación para evaluar si los beneficios presentados resultan aplicables a su esquema operativo actual.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42641"
+    },
+    "publicadoEn": "2026-07-27T12:53:15.182Z",
+    "actualizadoEn": "2026-07-27T12:54:04.117Z"
+  },
+  {
+    "id": "2026-07-27-prohibicion-de-importacion-y-comercializacion-de-medicamentos-con-acetanilida-fe9576",
+    "slug": "prohibicion-de-importacion-y-comercializacion-de-medicamentos-con-acetanilida",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-07-27",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "ANMAT",
+      "prohibición",
+      "medicamentos",
+      "despacho",
+      "fiscalización"
+    ],
+    "titulo": "Prohibición de importación y comercialización de medicamentos con acetanilida",
+    "resumen": "La ANMAT ha dispuesto la prohibición total de elaboración, comercialización, importación y uso de especialidades medicinales que contengan acetanilida en su composición.",
+    "queSignifica": "Verifique de forma inmediata la composición de sus productos en cartera y el estado de sus certificados de inscripción para evitar bloqueos en el SIM o el rechazo de mercadería en frontera. Se recomienda consultar con el área técnica regulatoria antes de cursar cualquier solicitud de destinación.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-suspende-la-elaboracion-comercializacion-importacion-y-uso-de-medicamentos-que"
+    },
+    "publicadoEn": "2026-07-27T12:53:47.063Z",
+    "actualizadoEn": "2026-07-27T12:54:04.117Z"
+  },
+  {
+    "id": "2026-07-27-disponibilidad-de-ediciones-impresas-de-la-revista-comercio-exterior-del-cda-084104",
+    "slug": "disponibilidad-de-ediciones-impresas-de-la-revista-comercio-exterior-del-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-07-24",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "institucional",
+      "comunicación",
+      "capacitación",
+      "CDA",
+      "profesional"
+    ],
+    "titulo": "Disponibilidad de ediciones impresas de la Revista Comercio Exterior del CDA",
+    "resumen": "El Centro Despachantes de Aduana anuncia la puesta a la venta de ejemplares impresos de su revista especializada.",
+    "queSignifica": "Es una novedad de carácter informativo y gremial sin impacto operativo en los procesos aduaneros. Se recomienda verificar los canales oficiales del CDA para consultas sobre material bibliográfico si es de su interés profesional.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42614"
+    },
+    "publicadoEn": "2026-07-17T11:17:01.820Z",
+    "actualizadoEn": "2026-07-27T12:54:04.117Z"
+  },
+  {
+    "id": "2026-07-27-invitacion-a-la-3ra-edicion-de-los-desayunos-de-trabajo-del-cda-4ba601",
+    "slug": "invitacion-a-la-3ra-edicion-de-los-desayunos-de-trabajo-del-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-07-24",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "capacitación",
+      "actualidad",
+      "comercio exterior",
+      "novedades",
+      "gestión aduanera"
+    ],
+    "titulo": "Invitación a la 3ra edición de los Desayunos de Trabajo del CDA",
+    "resumen": "El Centro Despachantes de Aduana convoca a sus asociados a un nuevo encuentro de actualización profesional.",
+    "queSignifica": "Se trata de una instancia informativa institucional. Se sugiere revisar el cronograma del evento para evaluar su relevancia técnica en su operativa diaria.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42644"
+    },
+    "publicadoEn": "2026-07-23T11:47:02.961Z",
+    "actualizadoEn": "2026-07-27T12:54:04.117Z"
   },
   {
     "id": "2026-07-24-capacitacion-sobre-normativa-de-importacion-de-productos-medicos-9b82ce",
@@ -117,29 +212,6 @@
       "url": "https://www.argentina.gob.ar/noticias/controles-sanitarios-en-el-aeropuerto-internacional-cordoba-en-el-primer-semestre-2026"
     },
     "publicadoEn": "2026-07-23T11:47:22.885Z",
-    "actualizadoEn": "2026-07-24T11:38:32.188Z"
-  },
-  {
-    "id": "2026-07-24-3ra-edicion-de-los-desayunos-de-trabajo-del-cda-4875ec",
-    "slug": "3ra-edicion-de-los-desayunos-de-trabajo-del-cda",
-    "organismo": "Aduana",
-    "fecha": "2026-07-21",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "capacitación",
-      "actualidad aduanera",
-      "gestión operativa",
-      "comercio exterior"
-    ],
-    "titulo": "3ra edición de los Desayunos de Trabajo del CDA",
-    "resumen": "El Centro Despachantes de Aduana convoca a sus asociados a un nuevo encuentro de actualización profesional.",
-    "queSignifica": "Se sugiere a los colegas verificar el cronograma y temario de la convocatoria para evaluar su participación en instancias de actualización técnica. No implica modificaciones en la operatoria aduanera actual.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42644"
-    },
-    "publicadoEn": "2026-07-23T11:47:02.961Z",
     "actualizadoEn": "2026-07-24T11:38:32.188Z"
   },
   {
@@ -384,28 +456,6 @@
     },
     "publicadoEn": "2026-07-20T12:12:01.256Z",
     "actualizadoEn": "2026-07-20T12:12:16.728Z"
-  },
-  {
-    "id": "2026-07-17-disponibilidad-de-ejemplares-impresos-de-la-revista-comercio-exterior-del-cda-725fd5",
-    "slug": "disponibilidad-de-ejemplares-impresos-de-la-revista-comercio-exterior-del-cda",
-    "organismo": "Aduana",
-    "fecha": "2026-07-16",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "comunicación institucional",
-      "capacitación",
-      "actualización profesional"
-    ],
-    "titulo": "Disponibilidad de ejemplares impresos de la Revista Comercio Exterior del CDA",
-    "resumen": "El Centro Despachantes de Aduana informa la puesta a la venta de los ejemplares impresos de su publicación técnica.",
-    "queSignifica": "Es una noticia de carácter institucional sin impacto en la operativa aduanera. Se recomienda consultar los canales oficiales del CDA si desea adquirir material bibliográfico o de consulta técnica.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42614"
-    },
-    "publicadoEn": "2026-07-17T11:17:01.820Z",
-    "actualizadoEn": "2026-07-17T11:17:57.509Z"
   },
   {
     "id": "2026-07-17-campana-de-aporte-solidario-para-socios-vitalicios-del-cda-78d864",
