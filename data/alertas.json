@@ -1,53 +1,126 @@
 [
   {
-    "id": "2026-07-27-actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc-e40888",
-    "slug": "actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc",
+    "id": "2026-07-28-actualizacion-del-tipo-de-cambio-de-referencia-del-bcra-para-el-mulc-677df7",
+    "slug": "actualizacion-del-tipo-de-cambio-de-referencia-del-bcra-para-el-mulc",
     "organismo": "BCRA",
-    "fecha": "2026-07-27",
-    "impacto": "bajo",
+    "fecha": "2026-07-28",
+    "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
       "tipo de cambio",
       "divisas",
-      "operaciones cambiarias",
-      "BCRA"
+      "comercio exterior",
+      "liquidación"
     ],
-    "titulo": "Actualización de la cotización oficial del dólar en el MULC",
-    "resumen": "El BCRA ha fijado el tipo de cambio oficial del Mercado Único y Libre de Cambios en 1045.80 pesos argentinos por unidad de dólar estadounidense para la fecha indicada.",
-    "queSignifica": "Se sugiere verificar este valor al momento de realizar pagos o cobros de operaciones de comercio exterior. Es recomendable consultar con su entidad bancaria para confirmar la aplicabilidad de esta cotización en la liquidación de sus divisas.",
+    "titulo": "Actualización del tipo de cambio de referencia del BCRA para el MULC",
+    "resumen": "El BCRA ha fijado el tipo de cambio oficial de referencia para el Mercado Único y Libre de Cambios en 1046.25 pesos por dólar estadounidense. Este valor rige para las operaciones cambiarias liquidadas en la fecha indicada.",
+    "queSignifica": "Se sugiere verificar este valor para la correcta valuación de costos operativos y la liquidación de divisas. Es recomendable consultar con su entidad bancaria si este tipo de cambio es el aplicable a su operación específica antes de cursar transferencias.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-07-27T12:54:04.117Z"
+    "actualizadoEn": "2026-07-28T11:53:31.284Z"
   },
   {
-    "id": "2026-07-27-capacitacion-sobre-alternativas-y-beneficios-en-operatoria-aduanera-6cb99c",
-    "slug": "capacitacion-sobre-alternativas-y-beneficios-en-operatoria-aduanera",
+    "id": "2026-07-28-tercera-edicion-de-los-desayunos-de-trabajo-del-cda-4c1da8",
+    "slug": "tercera-edicion-de-los-desayunos-de-trabajo-del-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-07-27",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "capacitación",
+      "actualización profesional",
+      "comercio exterior",
+      "CDA",
+      "gestión aduanera"
+    ],
+    "titulo": "Tercera edición de los Desayunos de Trabajo del CDA",
+    "resumen": "El Centro Despachantes de Aduana convoca a sus asociados a un encuentro de formación y actualización técnica. La actividad tiene carácter informativo y de capacitación institucional.",
+    "queSignifica": "Se recomienda a los asociados consultar el cronograma del CDA para evaluar la relevancia de los temas a tratar en la jornada y verificar si los mismos impactan en la gestión operativa de sus clientes.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42644"
+    },
+    "publicadoEn": "2026-07-23T11:47:02.961Z",
+    "actualizadoEn": "2026-07-28T11:53:31.284Z"
+  },
+  {
+    "id": "2026-07-28-capacitacion-sobre-alternativas-y-beneficios-operativos-c5c75d",
+    "slug": "capacitacion-sobre-alternativas-y-beneficios-operativos",
     "organismo": "Aduana",
     "fecha": "2026-07-27",
     "impacto": "bajo",
     "categoria": "normativa",
     "tags": [
       "capacitacion",
-      "actualizacion",
-      "operativa",
-      "comercio exterior"
+      "actualizacion profesional",
+      "comercio exterior",
+      "gestion aduanera",
+      "cda"
     ],
-    "titulo": "Capacitación sobre alternativas y beneficios en operatoria aduanera",
-    "resumen": "El CDA organiza una actividad de actualización profesional exclusiva para sus asociados sobre herramientas y beneficios en la operativa de comercio exterior.",
-    "queSignifica": "Se sugiere revisar el temario de la capacitación para evaluar si los beneficios presentados resultan aplicables a su esquema operativo actual.",
+    "titulo": "Capacitación sobre alternativas y beneficios operativos",
+    "resumen": "El Centro Despachantes de Aduana organiza una jornada de capacitación técnica exclusiva para sus socios. El evento se enfoca en herramientas de actualización profesional vinculadas a la gestión aduanera.",
+    "queSignifica": "Se sugiere a los asociados revisar el cronograma de la capacitación y evaluar su inscripción para mantenerse actualizados sobre las herramientas operativas presentadas. Es una instancia informativa sin cambios directos en la normativa vigente.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42641"
     },
     "publicadoEn": "2026-07-27T12:53:15.182Z",
-    "actualizadoEn": "2026-07-27T12:54:04.117Z"
+    "actualizadoEn": "2026-07-28T11:53:31.284Z"
   },
   {
-    "id": "2026-07-27-prohibicion-de-importacion-y-comercializacion-de-medicamentos-con-acetanilida-fe9576",
+    "id": "2026-07-28-capacitacion-sobre-importacion-de-productos-medicos-organizada-por-el-cda-53f3a6",
+    "slug": "capacitacion-sobre-importacion-de-productos-medicos-organizada-por-el-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-07-27",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "productos médicos",
+      "capacitación",
+      "comercio exterior",
+      "ANMAT",
+      "importación"
+    ],
+    "titulo": "Capacitación sobre importación de productos médicos organizada por el CDA",
+    "resumen": "El Centro Despachantes de Aduana anuncia una instancia de capacitación profesional enfocada en la normativa vigente para la importación de insumos y equipos médicos.",
+    "queSignifica": "Se recomienda al operador revisar el cronograma de la capacitación para actualizarse sobre los procedimientos específicos ante ANMAT. Es aconsejable verificar si los contenidos aplican a las posiciones arancelarias de su cartera de productos.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42640"
+    },
+    "publicadoEn": "2026-07-23T11:46:57.950Z",
+    "actualizadoEn": "2026-07-28T11:53:31.284Z"
+  },
+  {
+    "id": "2026-07-28-decomiso-de-frutas-por-falta-de-documentacion-fitosanitaria-en-corrientes-fb2db5",
+    "slug": "decomiso-de-frutas-por-falta-de-documentacion-fitosanitaria-en-corrientes",
+    "organismo": "SENASA",
+    "fecha": "2026-07-27",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "fitosanitario",
+      "senasa",
+      "documentacion aduanera",
+      "control en frontera",
+      "transporte internacional"
+    ],
+    "titulo": "Decomiso de frutas por falta de documentación fitosanitaria en Corrientes",
+    "resumen": "El SENASA procedió a la desnaturalización de carga frutícola al detectar la ausencia de documentación que certifique su origen y estatus sanitario.",
+    "queSignifica": "Verifique siempre que toda la documentación de respaldo, certificados fitosanitarios y guías de tránsito acompañen físicamente a la carga. Se recomienda auditar los registros de los proveedores para asegurar que cumplan con la normativa vigente antes de cualquier despacho.",
+    "fuente": {
+      "nombre": "SENASA Comunica",
+      "url": "https://www.argentina.gob.ar/noticias/corrientes-se-evito-transporte-de-casi-9-toneladas-de-frutas-que-carecian-de-garantias"
+    },
+    "publicadoEn": "2026-07-28T11:53:20.772Z",
+    "actualizadoEn": "2026-07-28T11:53:31.284Z"
+  },
+  {
+    "id": "2026-07-28-prohibicion-de-importacion-y-comercializacion-de-medicamentos-con-acetanilida-5e22fb",
     "slug": "prohibicion-de-importacion-y-comercializacion-de-medicamentos-con-acetanilida",
     "organismo": "ANMAT / INAL",
     "fecha": "2026-07-27",
@@ -55,20 +128,20 @@
     "categoria": "importacion",
     "tags": [
       "ANMAT",
-      "prohibición",
-      "medicamentos",
-      "despacho",
-      "fiscalización"
+      "prohibicion de importacion",
+      "productos farmaceuticos",
+      "control sanitario",
+      "seguridad de medicamentos"
     ],
-    "titulo": "Prohibición de importación y comercialización de medicamentos con acetanilida",
-    "resumen": "La ANMAT ha dispuesto la prohibición total de elaboración, comercialización, importación y uso de especialidades medicinales que contengan acetanilida en su composición.",
-    "queSignifica": "Verifique de forma inmediata la composición de sus productos en cartera y el estado de sus certificados de inscripción para evitar bloqueos en el SIM o el rechazo de mercadería en frontera. Se recomienda consultar con el área técnica regulatoria antes de cursar cualquier solicitud de destinación.",
+    "titulo": "Prohibición de importación y comercialización de medicamentos con Acetanilida",
+    "resumen": "La ANMAT ha prohibido de forma inmediata la elaboración, comercialización, importación y uso de todo medicamento que contenga el principio activo Acetanilida en su composición.",
+    "queSignifica": "Debe verificar inmediatamente el listado de ingredientes de sus mercaderías en curso o proyectadas para descartar la presencia de este componente. Ante la duda, se recomienda consultar con el departamento técnico de su empresa o el servicio de farmacovigilancia antes de iniciar cualquier trámite ante el sistema VUCE o el canal de selectividad aduanero.",
     "fuente": {
       "nombre": "ANMAT – Alertas",
       "url": "https://www.argentina.gob.ar/noticias/anmat-suspende-la-elaboracion-comercializacion-importacion-y-uso-de-medicamentos-que"
     },
     "publicadoEn": "2026-07-27T12:53:47.063Z",
-    "actualizadoEn": "2026-07-27T12:54:04.117Z"
+    "actualizadoEn": "2026-07-28T11:53:31.284Z"
   },
   {
     "id": "2026-07-27-disponibilidad-de-ediciones-impresas-de-la-revista-comercio-exterior-del-cda-084104",
@@ -93,54 +166,6 @@
     },
     "publicadoEn": "2026-07-17T11:17:01.820Z",
     "actualizadoEn": "2026-07-27T12:54:04.117Z"
-  },
-  {
-    "id": "2026-07-27-invitacion-a-la-3ra-edicion-de-los-desayunos-de-trabajo-del-cda-4ba601",
-    "slug": "invitacion-a-la-3ra-edicion-de-los-desayunos-de-trabajo-del-cda",
-    "organismo": "Aduana",
-    "fecha": "2026-07-24",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "capacitación",
-      "actualidad",
-      "comercio exterior",
-      "novedades",
-      "gestión aduanera"
-    ],
-    "titulo": "Invitación a la 3ra edición de los Desayunos de Trabajo del CDA",
-    "resumen": "El Centro Despachantes de Aduana convoca a sus asociados a un nuevo encuentro de actualización profesional.",
-    "queSignifica": "Se trata de una instancia informativa institucional. Se sugiere revisar el cronograma del evento para evaluar su relevancia técnica en su operativa diaria.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42644"
-    },
-    "publicadoEn": "2026-07-23T11:47:02.961Z",
-    "actualizadoEn": "2026-07-27T12:54:04.117Z"
-  },
-  {
-    "id": "2026-07-24-capacitacion-sobre-normativa-de-importacion-de-productos-medicos-9b82ce",
-    "slug": "capacitacion-sobre-normativa-de-importacion-de-productos-medicos",
-    "organismo": "Aduana",
-    "fecha": "2026-07-23",
-    "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [
-      "Productos Médicos",
-      "Capacitación",
-      "ANMAT",
-      "Importación",
-      "Gestión Aduanera"
-    ],
-    "titulo": "Capacitación sobre normativa de importación de productos médicos",
-    "resumen": "El CDA organiza una jornada de capacitación profesional sobre los procedimientos vigentes para la importación de productos médicos. La actividad busca actualizar conocimientos técnicos sobre el marco regulatorio sectorial.",
-    "queSignifica": "Se recomienda revisar el cronograma de capacitación si su actividad involucra la gestión de insumos médicos. Verifique que sus procedimientos internos estén alineados con las últimas actualizaciones dictadas por los organismos de control.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42640"
-    },
-    "publicadoEn": "2026-07-23T11:46:57.950Z",
-    "actualizadoEn": "2026-07-24T11:38:32.188Z"
   },
   {
     "id": "2026-07-24-campana-de-vacunacion-contra-la-gripe-para-socios-del-cda-738685",
@@ -738,150 +763,6 @@
     },
     "normativaRef": "Comunicación \"A\" 8451/2026",
     "publicadoEn": "2026-07-14T11:20:20.373Z",
-    "actualizadoEn": "2026-07-16T11:29:14.876Z"
-  },
-  {
-    "id": "2026-07-16-jornada-de-capacitacion-sobre-el-programa-oea-095c6d",
-    "slug": "jornada-de-capacitacion-sobre-el-programa-oea",
-    "organismo": "Aduana",
-    "fecha": "2026-07-13",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "OEA",
-      "Operador Económico Autorizado",
-      "Aduana",
-      "Certificación",
-      "Comercio Exterior"
-    ],
-    "titulo": "Jornada de capacitación sobre el programa OEA",
-    "resumen": "El CDA organiza una jornada informativa sobre los beneficios y requisitos del programa Operador Económico Autorizado.",
-    "queSignifica": "Se recomienda participar en la capacitación para evaluar si la empresa cumple con los estándares necesarios para obtener la certificación OEA y los beneficios asociados. Analice si esta figura se alinea con la estrategia de facilitación aduanera de su organización.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42627"
-    },
-    "publicadoEn": "2026-07-07T12:23:57.044Z",
-    "actualizadoEn": "2026-07-16T11:29:14.876Z"
-  },
-  {
-    "id": "2026-07-16-disponibilidad-de-espacios-de-coworking-en-el-cda-bc6718",
-    "slug": "disponibilidad-de-espacios-de-coworking-en-el-cda",
-    "organismo": "Aduana",
-    "fecha": "2026-07-13",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "CDA",
-      "servicios",
-      "despachante",
-      "oficina",
-      "infraestructura"
-    ],
-    "titulo": "Disponibilidad de espacios de coworking en el CDA",
-    "resumen": "El Centro Despachantes de Aduana informa la disponibilidad de espacios de trabajo para sus asociados.",
-    "queSignifica": "Es una comunicación de carácter institucional. Se sugiere verificar los beneficios y condiciones de uso de los espacios si requiere realizar gestiones administrativas presenciales en el centro.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42526"
-    },
-    "publicadoEn": "2026-07-14T11:20:30.526Z",
-    "actualizadoEn": "2026-07-16T11:29:14.876Z"
-  },
-  {
-    "id": "2026-07-16-cese-de-actividades-del-cda-por-feriado-del-9-y-10-de-julio-de-2026-7462ef",
-    "slug": "cese-de-actividades-del-cda-por-feriado-del-9-y-10-de-julio-de-2026",
-    "organismo": "Aduana",
-    "fecha": "2026-07-13",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "cierre administrativo",
-      "operatividad aduanera",
-      "gestión despachante",
-      "feriados nacionales",
-      "trámites COMEX"
-    ],
-    "titulo": "Cese de actividades del CDA por feriado del 9 y 10 de julio de 2026",
-    "resumen": "El Centro Despachantes de Aduana informa que su sede permanecerá cerrada durante los días 9 y 10 de julio de 2026.",
-    "queSignifica": "Se sugiere verificar la disponibilidad de atención de las dependencias oficiales y coordinar las gestiones documentales con antelación, ya que la atención administrativa de la institución se encontrará suspendida.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42626"
-    },
-    "publicadoEn": "2026-07-06T13:40:37.752Z",
-    "actualizadoEn": "2026-07-16T11:29:14.876Z"
-  },
-  {
-    "id": "2026-07-16-cronograma-de-operacion-en-terminales-portuarias-durante-los-feriados-59a79f",
-    "slug": "cronograma-de-operacion-en-terminales-portuarias-durante-los-feriados",
-    "organismo": "Aduana",
-    "fecha": "2026-07-13",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "terminales portuarias",
-      "cronograma operativo",
-      "feriados",
-      "logistica portuaria",
-      "operaciones de comercio exterior"
-    ],
-    "titulo": "Cronograma de operación en terminales portuarias durante los feriados",
-    "resumen": "El CDA informa los horarios y condiciones de atención de las terminales portuarias para los días feriados.",
-    "queSignifica": "Se recomienda verificar con cada terminal la disponibilidad de turnos y ventanas operativas antes de programar retiros o ingresos de mercadería, a fin de evitar costos por demoras o estadías.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42622"
-    },
-    "publicadoEn": "2026-07-06T13:40:21.488Z",
-    "actualizadoEn": "2026-07-16T11:29:14.876Z"
-  },
-  {
-    "id": "2026-07-16-retiro-preventivo-del-mercado-de-tres-lotes-de-sopa-de-arvejas-marca-la-anonima-707e2d",
-    "slug": "retiro-preventivo-del-mercado-de-tres-lotes-de-sopa-de-arvejas-marca-la-anonima",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-07-13",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "INAL",
-      "Seguridad Alimentaria",
-      "Retiro de mercado",
-      "Control sanitario",
-      "Gestión de riesgo"
-    ],
-    "titulo": "Retiro preventivo del mercado de tres lotes de Sopa de arvejas marca La Anónima",
-    "resumen": "La ANMAT ordenó el retiro del mercado de tres lotes específicos de sopa deshidratada por presentar riesgos potenciales para la salud. La medida busca prevenir la comercialización de unidades afectadas por una posible contaminación.",
-    "queSignifica": "Se sugiere verificar urgentemente el stock y los registros de ingresos de los lotes mencionados en la alerta para asegurar que no se encuentren en la cadena de distribución o depósitos aduaneros. Se recomienda contactar con el responsable del producto para coordinar la gestión de la mercadería y evitar multas o sanciones del INAL.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/retiro-del-mercado-de-tres-lotes-de-sopa-de-arvejas-deshidratada-instantanea-marca-la"
-    },
-    "publicadoEn": "2026-07-14T11:20:45.629Z",
-    "actualizadoEn": "2026-07-16T11:29:14.876Z"
-  },
-  {
-    "id": "2026-07-16-anmat-prohibe-la-comercializacion-y-uso-de-cosmeticos-marcas-ushas-fayankou-kaka-915a70",
-    "slug": "anmat-prohibe-la-comercializacion-y-uso-de-cosmeticos-marcas-ushas-fayankou-kaka",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-07-13",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "ANMAT",
-      "cosméticos",
-      "prohibición",
-      "SIMI",
-      "cumplimiento normativo"
-    ],
-    "titulo": "ANMAT prohíbe la comercialización y uso de cosméticos marcas USHAS, FAYANKOU, KAKAZIYAN y CHOVEMOAR",
-    "resumen": "La normativa establece la prohibición del uso, comercialización y distribución de diversos productos cosméticos de las marcas mencionadas por falta de registro sanitario. Se ordena el retiro inmediato del mercado de las unidades involucradas.",
-    "queSignifica": "Verificar el stock y el estado de registro de mercadería en almacén fiscal o depósito. Se sugiere contactar a los proveedores para validar la documentación técnica de respaldo y evitar el ingreso a plaza de productos alcanzados por esta medida.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-distintos-productos-cosmeticos-de-las-marcas-ushas-fayankou-kakaziyan-y"
-    },
-    "publicadoEn": "2026-07-13T12:28:14.407Z",
     "actualizadoEn": "2026-07-16T11:29:14.876Z"
   }
 ]
