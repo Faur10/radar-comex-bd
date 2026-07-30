@@ -1,30 +1,177 @@
 [
   {
-    "id": "2026-07-29-actualizacion-de-la-cotizacion-de-referencia-del-dolar-oficial-para-el-mulc-223b61",
-    "slug": "actualizacion-de-la-cotizacion-de-referencia-del-dolar-oficial-para-el-mulc",
+    "id": "2026-07-30-actualizacion-del-tipo-de-cambio-oficial-del-bcra-5bcfde",
+    "slug": "actualizacion-del-tipo-de-cambio-oficial-del-bcra",
     "organismo": "BCRA",
-    "fecha": "2026-07-29",
+    "fecha": "2026-07-30",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "tipo de cambio",
-      "divisas",
-      "operaciones cambiarias",
-      "BCRA"
+      "Tipo de cambio",
+      "Liquidación de divisas",
+      "BCRA",
+      "Comercio Exterior"
     ],
-    "titulo": "Actualización de la cotización de referencia del dólar oficial para el MULC",
-    "resumen": "El BCRA ha fijado el tipo de cambio oficial de referencia en 1045,00 ARS por dólar estadounidense para la fecha del 28 de julio de 2026. Esta cifra sirve como base para el cálculo de obligaciones y liquidaciones en el Mercado Único y Libre de Cambios.",
-    "queSignifica": "Debe verificar si sus operaciones pendientes de pago o liquidación se ajustan a esta cotización para asegurar la correcta valuación contable y financiera. Se recomienda auditar los registros de cierre de divisas para confirmar que los montos operativos se alinean con la normativa vigente.",
+    "titulo": "Actualización del tipo de cambio oficial del BCRA",
+    "resumen": "Se informa el valor de referencia del tipo de cambio oficial para el día 29 de julio de 2026 en el Mercado Único y Libre de Cambios (MULC).",
+    "queSignifica": "Utilice este valor de referencia para el cálculo de costos operativos y proyecciones de flujo de fondos. Se sugiere verificar con su entidad bancaria la aplicación específica de este tipo de cambio según la modalidad de pago o cobro de su operación.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-07-29T11:57:48.084Z"
+    "actualizadoEn": "2026-07-30T11:47:59.805Z"
   },
   {
-    "id": "2026-07-29-convocatoria-a-asamblea-general-extraordinaria-del-cda-0cb8d1",
+    "id": "2026-07-30-actualizacion-de-normativa-cambiaria-del-bcra-comunicacion-a-84582026-225e3b",
+    "slug": "actualizacion-de-normativa-cambiaria-del-bcra-comunicacion-a-84582026",
+    "organismo": "BCRA",
+    "fecha": "2026-07-30",
+    "impacto": "alto",
+    "categoria": "normativa",
+    "tags": [
+      "MULC",
+      "Acceso al Mercado de Cambios",
+      "BCRA",
+      "Pagos al exterior",
+      "Regulaciones cambiarias"
+    ],
+    "titulo": "Actualización de normativa cambiaria del BCRA (Comunicación A 8458/2026)",
+    "resumen": "La norma establece modificaciones en el acceso al Mercado Único y Libre de Cambios (MULC) para operaciones de comercio exterior. Define nuevas condiciones y requisitos para la liquidación o giro de divisas según el tipo de operación.",
+    "queSignifica": "Debe revisar el cumplimiento de las nuevas condiciones cambiarias frente a su entidad financiera para evitar bloqueos en los giros. Se sugiere validar con el departamento contable o bancario el encuadre normativo de cada operación pendiente antes de cursar pagos.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/345214/20260730"
+    },
+    "normativaRef": "Comunicación \"A\" 8458/2026",
+    "publicadoEn": "2026-07-30T11:47:03.450Z",
+    "actualizadoEn": "2026-07-30T11:47:59.805Z"
+  },
+  {
+    "id": "2026-07-30-prorroga-de-vigencia-para-la-garantia-de-actuacion-de-operadores-de-comercio-ext-122d83",
+    "slug": "prorroga-de-vigencia-para-la-garantia-de-actuacion-de-operadores-de-comercio-ext",
+    "organismo": "ARCA",
+    "fecha": "2026-07-29",
+    "impacto": "medio",
+    "categoria": "normativa",
+    "tags": [
+      "garantía de actuación",
+      "solvencia económica",
+      "operadores de comercio exterior",
+      "ARCA",
+      "despachante"
+    ],
+    "titulo": "Prórroga de vigencia para la garantía de actuación de operadores de comercio exterior",
+    "resumen": "La resolución extiende el plazo de validez de la solvencia económica acreditada a través de la garantía de actuación ante el organismo.",
+    "queSignifica": "Debe revisar el estado de su garantía en el sistema y verificar si el vencimiento original fue alcanzado por esta prórroga. Se recomienda consultar con su despachante el impacto específico en su legajo para evitar posibles bloqueos operativos.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/345089/20260729"
+    },
+    "normativaRef": "Resolución General 5881/2026",
+    "publicadoEn": "2026-07-30T11:47:08.661Z",
+    "actualizadoEn": "2026-07-30T11:47:59.805Z"
+  },
+  {
+    "id": "2026-07-30-actualizacion-de-normas-cambiarias-para-acceso-al-mulc-por-el-bcra-894aad",
+    "slug": "actualizacion-de-normas-cambiarias-para-acceso-al-mulc-por-el-bcra",
+    "organismo": "BCRA",
+    "fecha": "2026-07-29",
+    "impacto": "alto",
+    "categoria": "normativa",
+    "tags": [
+      "MULC",
+      "acceso al mercado de cambios",
+      "pagos al exterior",
+      "giro de divisas",
+      "operaciones cambiarias"
+    ],
+    "titulo": "Actualización de normas cambiarias para acceso al MULC por el BCRA",
+    "resumen": "La comunicación establece nuevas pautas y requisitos operativos para el acceso al mercado de cambios para operaciones de comercio exterior. Define condiciones específicas para el giro de divisas asociadas a pagos de bienes y servicios.",
+    "queSignifica": "Debe revisar con su entidad bancaria la aplicación específica de esta normativa a sus operaciones pendientes de pago. Se sugiere verificar si los giros programados cumplen con los nuevos requisitos formales exigidos por la autoridad monetaria.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/345116/20260729"
+    },
+    "normativaRef": "Comunicación \"A\" 8454/2026",
+    "publicadoEn": "2026-07-30T11:47:13.780Z",
+    "actualizadoEn": "2026-07-30T11:47:59.805Z"
+  },
+  {
+    "id": "2026-07-30-actualizacion-de-normas-sobre-el-acceso-al-mercado-de-cambios-para-operaciones-d-e47805",
+    "slug": "actualizacion-de-normas-sobre-el-acceso-al-mercado-de-cambios-para-operaciones-d",
+    "organismo": "BCRA",
+    "fecha": "2026-07-29",
+    "impacto": "alto",
+    "categoria": "normativa",
+    "tags": [
+      "MULC",
+      "acceso a divisas",
+      "operaciones cambiarias",
+      "bcra",
+      "regimen cambiario"
+    ],
+    "titulo": "Actualización de normas sobre el acceso al mercado de cambios para operaciones de comercio exterior",
+    "resumen": "La Comunicación A 8457 introduce modificaciones en los requisitos y condiciones para el acceso al mercado libre de cambios (MULC). La norma ajusta la normativa vigente que regula los pagos de importaciones y el ingreso de divisas por exportaciones.",
+    "queSignifica": "Debe verificar si la nueva normativa altera los plazos o condiciones de su operación actual de pago o cobro. Se sugiere auditar el cumplimiento de los nuevos requisitos cambiarios con su entidad financiera antes de cursar cualquier operación.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/345117/20260729"
+    },
+    "normativaRef": "Comunicación \"A\" 8457/2026",
+    "publicadoEn": "2026-07-30T11:47:18.818Z",
+    "actualizadoEn": "2026-07-30T11:47:59.805Z"
+  },
+  {
+    "id": "2026-07-30-capacitacion-sobre-importacion-de-productos-medicos-ceef0e",
+    "slug": "capacitacion-sobre-importacion-de-productos-medicos",
+    "organismo": "Aduana",
+    "fecha": "2026-07-29",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [
+      "productos médicos",
+      "ANMAT",
+      "capacitación",
+      "importación",
+      "normativa sanitaria"
+    ],
+    "titulo": "Capacitación sobre importación de productos médicos",
+    "resumen": "El CDA organiza una jornada de actualización profesional enfocada en la normativa vigente para la importación de insumos médicos. El objetivo es brindar herramientas técnicas sobre los procesos de registro y habilitación requeridos.",
+    "queSignifica": "Se recomienda revisar el cronograma de la capacitación y verificar si los procedimientos internos de importación de productos médicos cumplen con las últimas actualizaciones de ANMAT. Evaluar la participación para actualizar conocimientos sobre la normativa sanitaria específica.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42640"
+    },
+    "publicadoEn": "2026-07-23T11:46:57.950Z",
+    "actualizadoEn": "2026-07-30T11:47:59.805Z"
+  },
+  {
+    "id": "2026-07-30-publicacion-de-la-edicion-911-de-la-revista-comercio-exterior-del-cda-8a125c",
+    "slug": "publicacion-de-la-edicion-911-de-la-revista-comercio-exterior-del-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-07-29",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "CDA",
+      "comercio exterior",
+      "novedades",
+      "revista digital"
+    ],
+    "titulo": "Publicación de la edición 911 de la Revista Comercio Exterior del CDA",
+    "resumen": "El Centro Despachantes de Aduana comunica la disponibilidad de la nueva edición de su revista institucional. El material contiene información y artículos de interés sobre la actualidad del sector.",
+    "queSignifica": "Es una lectura informativa sin impacto en operaciones aduaneras. Se sugiere revisar el contenido por si existiera algún análisis técnico relevante para su operatoria habitual.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42658"
+    },
+    "publicadoEn": "2026-07-30T11:47:29.016Z",
+    "actualizadoEn": "2026-07-30T11:47:59.805Z"
+  },
+  {
+    "id": "2026-07-30-convocatoria-a-asamblea-general-extraordinaria-del-cda-4de78c",
     "slug": "convocatoria-a-asamblea-general-extraordinaria-del-cda",
     "organismo": "Aduana",
     "fecha": "2026-07-28",
@@ -32,20 +179,44 @@
     "categoria": "normativa",
     "tags": [
       "CDA",
-      "Institucional",
-      "Asamblea",
-      "Estatuto Social",
-      "Gremial"
+      "institucional",
+      "asamblea",
+      "gobernanza",
+      "gestión"
     ],
     "titulo": "Convocatoria a Asamblea General Extraordinaria del CDA",
-    "resumen": "El Centro Despachantes de Aduana convoca a sus socios a una Asamblea General Extraordinaria conforme a lo establecido en su Estatuto Social.",
-    "queSignifica": "Se recomienda a los asociados revisar el orden del día y el estatuto para verificar la modalidad de participación y los temas a tratar que incumben a la vida institucional de la entidad.",
+    "resumen": "Se convoca a los socios del Centro Despachantes de Aduana a una asamblea extraordinaria conforme a su estatuto social.",
+    "queSignifica": "Es una comunicación de carácter institucional y administrativo. Se recomienda a los socios verificar el orden del día para evaluar si existen temas de interés particular para su actividad profesional.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42621"
     },
     "publicadoEn": "2026-07-21T11:43:55.231Z",
-    "actualizadoEn": "2026-07-29T11:57:48.084Z"
+    "actualizadoEn": "2026-07-30T11:47:59.805Z"
+  },
+  {
+    "id": "2026-07-30-programa-del-inti-para-fomentar-la-exportacion-de-maquinaria-agricola-a23646",
+    "slug": "programa-del-inti-para-fomentar-la-exportacion-de-maquinaria-agricola",
+    "organismo": "INTI",
+    "fecha": "2026-07-28",
+    "impacto": "bajo",
+    "categoria": "exportacion",
+    "tags": [
+      "agrotecnología",
+      "maquinaria agrícola",
+      "promoción exportadora",
+      "bienes de capital",
+      "INTI"
+    ],
+    "titulo": "Programa del INTI para fomentar la exportación de maquinaria agrícola",
+    "resumen": "El INTI lanzó una iniciativa para vincular al sector científico-tecnológico con los fabricantes de maquinaria agrícola para mejorar su perfil exportador. La medida busca fortalecer la capacidad competitiva del sector mediante asistencia técnica.",
+    "queSignifica": "Es una noticia de carácter institucional sin efectos operativos inmediatos. Se sugiere a las empresas del sector contactar al INTI para conocer posibles asistencias técnicas, certificaciones o programas de mejora de calidad disponibles para sus procesos de exportación.",
+    "fuente": {
+      "nombre": "INTI – Noticias",
+      "url": "https://www.argentina.gob.ar/noticias/una-ronda-tecnica-para-impulsar-la-exportacion-de-la-agrotecnologia"
+    },
+    "publicadoEn": "2026-07-29T11:57:43.040Z",
+    "actualizadoEn": "2026-07-30T11:47:59.805Z"
   },
   {
     "id": "2026-07-29-capacitacion-sobre-alternativas-operativas-para-socios-del-cda-2085ba",
@@ -72,28 +243,75 @@
     "actualizadoEn": "2026-07-29T11:57:48.084Z"
   },
   {
-    "id": "2026-07-29-lanzamiento-del-programa-inti-para-fortalecer-la-exportacion-de-maquinaria-agric-f9ebc8",
-    "slug": "lanzamiento-del-programa-inti-para-fortalecer-la-exportacion-de-maquinaria-agric",
-    "organismo": "INTI",
-    "fecha": "2026-07-28",
+    "id": "2026-07-30-invitacion-a-la-3ra-edicion-de-los-desayunos-de-trabajo-del-cda-db9193",
+    "slug": "invitacion-a-la-3ra-edicion-de-los-desayunos-de-trabajo-del-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-07-27",
     "impacto": "bajo",
-    "categoria": "exportacion",
+    "categoria": "normativa",
     "tags": [
-      "maquinaria agrícola",
-      "agrotecnología",
-      "promoción exportaciones",
-      "INTI",
-      "competitividad"
+      "capacitación",
+      "actualidad",
+      "CDA",
+      "comercio exterior"
     ],
-    "titulo": "Lanzamiento del programa INTI para fortalecer la exportación de maquinaria agrícola",
-    "resumen": "El INTI presentó un programa de vinculación técnica destinado a mejorar el desarrollo y la competitividad internacional del sector de maquinaria agrícola nacional.",
-    "queSignifica": "Es una noticia de carácter institucional; los exportadores del sector deben revisar si pueden aprovechar las nuevas asistencias técnicas disponibles para mejorar estándares de calidad y homologaciones en destino.",
+    "titulo": "Invitación a la 3ra edición de los Desayunos de Trabajo del CDA",
+    "resumen": "El Centro Despachantes de Aduana convoca a sus asociados a un encuentro informativo y de actualización profesional.",
+    "queSignifica": "Esta es una instancia de capacitación institucional. Se recomienda verificar si la temática a tratar es de interés para su perfil operativo o administrativo.",
     "fuente": {
-      "nombre": "INTI – Noticias",
-      "url": "https://www.argentina.gob.ar/noticias/una-ronda-tecnica-para-impulsar-la-exportacion-de-la-agrotecnologia"
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42644"
     },
-    "publicadoEn": "2026-07-29T11:57:43.040Z",
-    "actualizadoEn": "2026-07-29T11:57:48.084Z"
+    "publicadoEn": "2026-07-23T11:47:02.961Z",
+    "actualizadoEn": "2026-07-30T11:47:59.805Z"
+  },
+  {
+    "id": "2026-07-30-decomiso-de-frutas-sin-certificacion-fitosanitaria-por-senasa-en-corrientes-3a3223",
+    "slug": "decomiso-de-frutas-sin-certificacion-fitosanitaria-por-senasa-en-corrientes",
+    "organismo": "SENASA",
+    "fecha": "2026-07-27",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "SENASA",
+      "fitosanitario",
+      "documentación comercial",
+      "transporte de cargas",
+      "control aduanero"
+    ],
+    "titulo": "Decomiso de frutas sin certificación fitosanitaria por SENASA en Corrientes",
+    "resumen": "SENASA procedió a la desnaturalización de 9 toneladas de frutas por falta de acreditación de origen y documentación sanitaria obligatoria.",
+    "queSignifica": "Es recomendable asegurar que toda carga cuente con la documentación fitosanitaria de tránsito vigente y verificable para evitar intervenciones de SENASA y pérdidas de mercadería durante el transporte.",
+    "fuente": {
+      "nombre": "SENASA Comunica",
+      "url": "https://www.argentina.gob.ar/noticias/corrientes-se-evito-transporte-de-casi-9-toneladas-de-frutas-que-carecian-de-garantias"
+    },
+    "publicadoEn": "2026-07-28T11:53:20.772Z",
+    "actualizadoEn": "2026-07-30T11:47:59.805Z"
+  },
+  {
+    "id": "2026-07-30-prohibicion-absoluta-de-medicamentos-con-acetanilida-d247f2",
+    "slug": "prohibicion-absoluta-de-medicamentos-con-acetanilida",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-07-27",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "ANMAT",
+      "prohibición",
+      "productos farmacéuticos",
+      "control de mercadería",
+      "seguridad sanitaria"
+    ],
+    "titulo": "Prohibición absoluta de medicamentos con ACETANILIDA",
+    "resumen": "La ANMAT suspende la elaboración, comercialización e importación de todo medicamento que contenga el principio activo ACETANILIDA. Esta medida implica una prohibición total de ingreso al país de productos que posean dicho componente.",
+    "queSignifica": "El importador debe verificar la composición de sus productos y revisar los registros sanitarios vigentes para evitar infracciones. Se sugiere auditar el stock en aduana o depósito y consultar con el área de asuntos regulatorios antes de iniciar cualquier trámite de destinación.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-suspende-la-elaboracion-comercializacion-importacion-y-uso-de-medicamentos-que"
+    },
+    "publicadoEn": "2026-07-27T12:53:47.063Z",
+    "actualizadoEn": "2026-07-30T11:47:59.805Z"
   },
   {
     "id": "2026-07-29-implementacion-del-certificado-de-origen-digital-y-liberacion-de-garantias-03bce6",
@@ -168,101 +386,6 @@
     },
     "normativaRef": "Comunicación \"A\" 8460/2026",
     "publicadoEn": "2026-07-29T11:57:07.362Z",
-    "actualizadoEn": "2026-07-29T11:57:48.084Z"
-  },
-  {
-    "id": "2026-07-29-tercera-edicion-de-los-desayunos-de-trabajo-organizados-por-el-cda-3abdf1",
-    "slug": "tercera-edicion-de-los-desayunos-de-trabajo-organizados-por-el-cda",
-    "organismo": "Aduana",
-    "fecha": "2026-07-27",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "capacitación",
-      "actualización profesional",
-      "comercio exterior",
-      "despachante de aduana"
-    ],
-    "titulo": "Tercera edición de los Desayunos de Trabajo organizados por el CDA",
-    "resumen": "El CDA convoca a sus asociados a participar en un ciclo de desayunos de trabajo destinado a la actualización profesional. La actividad tiene un carácter netamente informativo e institucional.",
-    "queSignifica": "Se sugiere a los profesionales verificar el cronograma y la temática de la capacitación si desean participar para actualizarse sobre novedades del sector. No implica modificaciones en la operatoria aduanera vigente.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42644"
-    },
-    "publicadoEn": "2026-07-23T11:47:02.961Z",
-    "actualizadoEn": "2026-07-29T11:57:48.084Z"
-  },
-  {
-    "id": "2026-07-29-capacitacion-sobre-normativa-en-importacion-de-productos-medicos-b99409",
-    "slug": "capacitacion-sobre-normativa-en-importacion-de-productos-medicos",
-    "organismo": "Aduana",
-    "fecha": "2026-07-27",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "productos medicos",
-      "capacitacion",
-      "comex",
-      "cda",
-      "importacion"
-    ],
-    "titulo": "Capacitación sobre normativa en importación de productos médicos",
-    "resumen": "El Centro Despachantes de Aduana anuncia una jornada de actualización profesional sobre la importación de insumos médicos. El contenido se enfoca en brindar herramientas informativas para los asociados.",
-    "queSignifica": "Se sugiere verificar la agenda de la capacitación para actualizarse sobre los requisitos técnicos de ANMAT. Se recomienda revisar el cronograma del CDA para evaluar si la temática aporta valor a su operativa habitual.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42640"
-    },
-    "publicadoEn": "2026-07-23T11:46:57.950Z",
-    "actualizadoEn": "2026-07-29T11:57:48.084Z"
-  },
-  {
-    "id": "2026-07-29-decomiso-de-mercaderia-fruti-horticola-por-falta-de-documentacion-fitosanitaria--c69b97",
-    "slug": "decomiso-de-mercaderia-fruti-horticola-por-falta-de-documentacion-fitosanitaria-",
-    "organismo": "SENASA",
-    "fecha": "2026-07-27",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "SENASA",
-      "fitosanitario",
-      "documentación comercial",
-      "transporte",
-      "control fronterizo"
-    ],
-    "titulo": "Decomiso de mercadería fruti-hortícola por falta de documentación fitosanitaria en Corrientes",
-    "resumen": "SENASA desnaturalizó casi 9 toneladas de sandías y melones debido a la ausencia de certificados que acrediten su origen y estatus fitosanitario.",
-    "queSignifica": "Es vital revisar que toda mercadería cuente con el Documento de Tránsito Vegetal (DTV-e) y certificados de origen vigentes antes de iniciar el despacho. Se recomienda verificar la trazabilidad de la carga para evitar sanciones y el decomiso de la mercadería por parte de las autoridades de control.",
-    "fuente": {
-      "nombre": "SENASA Comunica",
-      "url": "https://www.argentina.gob.ar/noticias/corrientes-se-evito-transporte-de-casi-9-toneladas-de-frutas-que-carecian-de-garantias"
-    },
-    "publicadoEn": "2026-07-28T11:53:20.772Z",
-    "actualizadoEn": "2026-07-29T11:57:48.084Z"
-  },
-  {
-    "id": "2026-07-29-prohibicion-de-importacion-y-comercializacion-de-medicamentos-con-acetanilida-492e15",
-    "slug": "prohibicion-de-importacion-y-comercializacion-de-medicamentos-con-acetanilida",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-07-27",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "ANMAT",
-      "prohibición",
-      "productos farmacéuticos",
-      "intervención aduanera",
-      "gestión de riesgo"
-    ],
-    "titulo": "Prohibición de importación y comercialización de medicamentos con Acetanilida",
-    "resumen": "ANMAT dictó la suspensión total de la elaboración, importación y uso de especialidades medicinales que contengan el principio activo Acetanilida. La medida implica la baja inmediata de su autorización para el ingreso al territorio aduanero.",
-    "queSignifica": "El importador debe verificar el listado de composición de sus productos ante el departamento técnico. Se recomienda suspender cualquier gestión de despacho en curso para mercadería con dicho componente y consultar con el responsable técnico ante la ANMAT para evitar el bloqueo del trámite.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-suspende-la-elaboracion-comercializacion-importacion-y-uso-de-medicamentos-que"
-    },
-    "publicadoEn": "2026-07-27T12:53:47.063Z",
     "actualizadoEn": "2026-07-29T11:57:48.084Z"
   },
   {
@@ -692,78 +815,6 @@
       "url": "https://www.argentina.gob.ar/noticias/cuyo-inscripcion-en-el-smr-para-comercializar-uva-fresca-en-el-mercado-interno-yo-exportar"
     },
     "publicadoEn": "2026-07-17T11:17:47.071Z",
-    "actualizadoEn": "2026-07-17T11:17:57.509Z"
-  },
-  {
-    "id": "2026-07-17-cierre-de-oficinas-del-cda-por-jornada-institucional-el-15-de-julio-84a607",
-    "slug": "cierre-de-oficinas-del-cda-por-jornada-institucional-el-15-de-julio",
-    "organismo": "Aduana",
-    "fecha": "2026-07-15",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "CDA",
-      "gestión administrativa",
-      "operatividad",
-      "trámites",
-      "atención al público"
-    ],
-    "titulo": "Cierre de oficinas del CDA por jornada institucional el 15 de julio",
-    "resumen": "El Centro de Despachantes de Aduana informa que no brindará atención presencial el miércoles 15 de julio por motivos institucionales.",
-    "queSignifica": "Se recomienda prever la gestión de trámites administrativos ante la entidad para fechas anteriores o posteriores, verificando si este cierre afecta alguna solicitud en curso.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42635"
-    },
-    "publicadoEn": "2026-07-16T11:28:18.198Z",
-    "actualizadoEn": "2026-07-17T11:17:57.509Z"
-  },
-  {
-    "id": "2026-07-17-actualizacion-de-valores-para-servicios-extraordinarios-aduaneros-adb1cc",
-    "slug": "actualizacion-de-valores-para-servicios-extraordinarios-aduaneros",
-    "organismo": "Aduana",
-    "fecha": "2026-07-15",
-    "impacto": "medio",
-    "categoria": "normativa",
-    "tags": [
-      "servicios extraordinarios",
-      "tasas aduaneras",
-      "costos operativos",
-      "DGA",
-      "aranceles"
-    ],
-    "titulo": "Actualización de valores para servicios extraordinarios aduaneros",
-    "resumen": "La normativa establece una adecuación en las tasas aplicables a los servicios extraordinarios prestados por la Dirección General de Aduanas. Esta medida ajusta los costos operativos por la intervención del servicio aduanero fuera de los horarios o lugares habituales.",
-    "queSignifica": "Se sugiere verificar la nueva estructura de costos en el sistema para ajustar las previsiones presupuestarias de sus operaciones. Recomendamos revisar con su despachante cómo este incremento impacta específicamente en los costos operativos de sus próximas destinaciones.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42636"
-    },
-    "publicadoEn": "2026-07-16T11:28:23.215Z",
-    "actualizadoEn": "2026-07-17T11:17:57.509Z"
-  },
-  {
-    "id": "2026-07-17-exportacion-de-carne-caprina-a-oman-cumplimiento-de-protocolos-sanitarios-de-sen-7fc403",
-    "slug": "exportacion-de-carne-caprina-a-oman-cumplimiento-de-protocolos-sanitarios-de-sen",
-    "organismo": "SENASA",
-    "fecha": "2026-07-15",
-    "impacto": "bajo",
-    "categoria": "exportacion",
-    "tags": [
-      "exportación",
-      "productos cárnicos",
-      "sanidad animal",
-      "certificación fitosanitaria",
-      "mercado destino"
-    ],
-    "titulo": "Exportación de carne caprina a Omán: cumplimiento de protocolos sanitarios de SENASA",
-    "resumen": "SENASA realizó la fiscalización sanitaria para el envío de más de 20 toneladas de carne caprina hacia Omán. La operación cumple con las exigencias sanitarias específicas del país de destino.",
-    "queSignifica": "Es un reporte de cumplimiento operativo exitoso. Los exportadores del sector deben revisar periódicamente las exigencias sanitarias actualizadas de los países de destino en la plataforma de SENASA para asegurar la conformidad de sus embarques.",
-    "fuente": {
-      "nombre": "SENASA Comunica",
-      "url": "https://www.argentina.gob.ar/noticias/chaco-exportacion-de-mas-de-20-toneladas-de-carne-caprina-con-destino-oman"
-    },
-    "publicadoEn": "2026-07-16T11:28:58.210Z",
     "actualizadoEn": "2026-07-17T11:17:57.509Z"
   }
 ]
