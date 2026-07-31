@@ -1,55 +1,79 @@
 [
   {
-    "id": "2026-07-30-actualizacion-del-tipo-de-cambio-oficial-del-bcra-5bcfde",
-    "slug": "actualizacion-del-tipo-de-cambio-oficial-del-bcra",
+    "id": "2026-07-31-actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc-e89795",
+    "slug": "actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc",
     "organismo": "BCRA",
-    "fecha": "2026-07-30",
-    "impacto": "medio",
+    "fecha": "2026-07-31",
+    "impacto": "bajo",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "Tipo de cambio",
-      "Liquidación de divisas",
+      "Tipo de Cambio",
       "BCRA",
+      "Divisas",
       "Comercio Exterior"
     ],
-    "titulo": "Actualización del tipo de cambio oficial del BCRA",
-    "resumen": "Se informa el valor de referencia del tipo de cambio oficial para el día 29 de julio de 2026 en el Mercado Único y Libre de Cambios (MULC).",
-    "queSignifica": "Utilice este valor de referencia para el cálculo de costos operativos y proyecciones de flujo de fondos. Se sugiere verificar con su entidad bancaria la aplicación específica de este tipo de cambio según la modalidad de pago o cobro de su operación.",
+    "titulo": "Actualización de la cotización oficial del dólar en el MULC",
+    "resumen": "El BCRA ha publicado el tipo de cambio oficial de referencia para las operaciones en el Mercado Único y Libre de Cambios con fecha 30 de julio de 2026.",
+    "queSignifica": "Es un dato informativo de referencia para el cálculo de costos y obligaciones. Se sugiere verificar esta cotización al momento de liquidar operaciones o gestionar pagos de comercio exterior con su entidad bancaria.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-07-30T11:47:59.805Z"
+    "actualizadoEn": "2026-07-31T11:54:30.765Z"
   },
   {
-    "id": "2026-07-30-actualizacion-de-normativa-cambiaria-del-bcra-comunicacion-a-84582026-225e3b",
-    "slug": "actualizacion-de-normativa-cambiaria-del-bcra-comunicacion-a-84582026",
+    "id": "2026-07-31-capacitacion-sobre-normativa-en-la-importacion-de-productos-medicos-0379d9",
+    "slug": "capacitacion-sobre-normativa-en-la-importacion-de-productos-medicos",
+    "organismo": "Aduana",
+    "fecha": "2026-07-31",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [
+      "productos médicos",
+      "ANMAT",
+      "capacitación",
+      "importación",
+      "comercio exterior"
+    ],
+    "titulo": "Capacitación sobre normativa en la importación de productos médicos",
+    "resumen": "El Centro Despachantes de Aduana organiza una instancia de formación profesional sobre el marco normativo aplicable a la importación de productos médicos.",
+    "queSignifica": "Se sugiere revisar el cronograma y temario de la capacitación para actualizar conocimientos sobre las intervenciones de ANMAT. Se recomienda evaluar la pertinencia de la actividad según el perfil de productos y las exigencias de registro vigentes.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42640"
+    },
+    "publicadoEn": "2026-07-23T11:46:57.950Z",
+    "actualizadoEn": "2026-07-31T11:54:30.765Z"
+  },
+  {
+    "id": "2026-07-31-actualizacion-de-normativa-cambiaria-del-bcra-comunicacion-a-8458-28e7c9",
+    "slug": "actualizacion-de-normativa-cambiaria-del-bcra-comunicacion-a-8458",
     "organismo": "BCRA",
     "fecha": "2026-07-30",
     "impacto": "alto",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "Acceso al Mercado de Cambios",
       "BCRA",
-      "Pagos al exterior",
-      "Regulaciones cambiarias"
+      "Giros al exterior",
+      "Acceso a divisas",
+      "Importaciones"
     ],
-    "titulo": "Actualización de normativa cambiaria del BCRA (Comunicación A 8458/2026)",
-    "resumen": "La norma establece modificaciones en el acceso al Mercado Único y Libre de Cambios (MULC) para operaciones de comercio exterior. Define nuevas condiciones y requisitos para la liquidación o giro de divisas según el tipo de operación.",
-    "queSignifica": "Debe revisar el cumplimiento de las nuevas condiciones cambiarias frente a su entidad financiera para evitar bloqueos en los giros. Se sugiere validar con el departamento contable o bancario el encuadre normativo de cada operación pendiente antes de cursar pagos.",
+    "titulo": "Actualización de normativa cambiaria del BCRA (Comunicación A 8458)",
+    "resumen": "La norma establece modificaciones en las condiciones de acceso al Mercado Único y Libre de Cambios para operaciones de comercio exterior. Define nuevos requisitos o procedimientos para la liquidación o pago de divisas.",
+    "queSignifica": "Es necesario verificar el cumplimiento de las nuevas condiciones de acceso antes de cursar pagos. Se sugiere consultar con el oficial de cuenta de su entidad bancaria para validar si su operación se encuentra alcanzada por las restricciones o cambios procedimentales.",
     "fuente": {
       "nombre": "Boletín Oficial de la República Argentina",
       "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/345214/20260730"
     },
     "normativaRef": "Comunicación \"A\" 8458/2026",
     "publicadoEn": "2026-07-30T11:47:03.450Z",
-    "actualizadoEn": "2026-07-30T11:47:59.805Z"
+    "actualizadoEn": "2026-07-31T11:54:30.765Z"
   },
   {
-    "id": "2026-07-30-prorroga-de-vigencia-para-la-garantia-de-actuacion-de-operadores-de-comercio-ext-122d83",
+    "id": "2026-07-31-prorroga-de-vigencia-para-la-garantia-de-actuacion-de-operadores-de-comercio-ext-239b7b",
     "slug": "prorroga-de-vigencia-para-la-garantia-de-actuacion-de-operadores-de-comercio-ext",
     "organismo": "ARCA",
     "fecha": "2026-07-29",
@@ -60,118 +84,94 @@
       "solvencia económica",
       "operadores de comercio exterior",
       "ARCA",
-      "despachante"
+      "SIM"
     ],
     "titulo": "Prórroga de vigencia para la garantía de actuación de operadores de comercio exterior",
-    "resumen": "La resolución extiende el plazo de validez de la solvencia económica acreditada a través de la garantía de actuación ante el organismo.",
-    "queSignifica": "Debe revisar el estado de su garantía en el sistema y verificar si el vencimiento original fue alcanzado por esta prórroga. Se recomienda consultar con su despachante el impacto específico en su legajo para evitar posibles bloqueos operativos.",
+    "resumen": "La norma extiende el plazo de validez de la solvencia económica acreditada a través de la garantía de actuación ante el servicio aduanero.",
+    "queSignifica": "Debe verificar en el Sistema Informático Malvina (SIM) la nueva fecha de vencimiento de su garantía para asegurar la continuidad operativa. Se recomienda revisar su perfil en el portal de ARCA para confirmar que la prórroga se encuentre correctamente aplicada y no presente errores de sistema.",
     "fuente": {
       "nombre": "Boletín Oficial de la República Argentina",
       "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/345089/20260729"
     },
     "normativaRef": "Resolución General 5881/2026",
     "publicadoEn": "2026-07-30T11:47:08.661Z",
-    "actualizadoEn": "2026-07-30T11:47:59.805Z"
+    "actualizadoEn": "2026-07-31T11:54:30.765Z"
   },
   {
-    "id": "2026-07-30-actualizacion-de-normas-cambiarias-para-acceso-al-mulc-por-el-bcra-894aad",
-    "slug": "actualizacion-de-normas-cambiarias-para-acceso-al-mulc-por-el-bcra",
+    "id": "2026-07-31-actualizacion-del-marco-regulatorio-para-el-mercado-unico-y-libre-de-cambios-f2a4a0",
+    "slug": "actualizacion-del-marco-regulatorio-para-el-mercado-unico-y-libre-de-cambios",
     "organismo": "BCRA",
     "fecha": "2026-07-29",
     "impacto": "alto",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "acceso al mercado de cambios",
-      "pagos al exterior",
-      "giro de divisas",
-      "operaciones cambiarias"
+      "BCRA",
+      "Cambios",
+      "Liquidación",
+      "Operaciones de Cambio"
     ],
-    "titulo": "Actualización de normas cambiarias para acceso al MULC por el BCRA",
-    "resumen": "La comunicación establece nuevas pautas y requisitos operativos para el acceso al mercado de cambios para operaciones de comercio exterior. Define condiciones específicas para el giro de divisas asociadas a pagos de bienes y servicios.",
-    "queSignifica": "Debe revisar con su entidad bancaria la aplicación específica de esta normativa a sus operaciones pendientes de pago. Se sugiere verificar si los giros programados cumplen con los nuevos requisitos formales exigidos por la autoridad monetaria.",
+    "titulo": "Actualización del marco regulatorio para el Mercado Único y Libre de Cambios",
+    "resumen": "La norma establece nuevos lineamientos operativos para el acceso y liquidación de divisas en el mercado cambiario oficial. Modifica los procedimientos vigentes para la gestión de pagos al exterior y el ingreso de cobranzas.",
+    "queSignifica": "Debe revisar la estructura de sus operaciones cambiarias pendientes para validar si los nuevos requisitos técnicos afectan el cumplimiento de sus compromisos. Se recomienda auditar las carpetas de seguimiento y consultar con su entidad bancaria sobre la aplicación específica de esta regulación a sus operaciones en curso.",
     "fuente": {
       "nombre": "Boletín Oficial de la República Argentina",
       "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/345116/20260729"
     },
     "normativaRef": "Comunicación \"A\" 8454/2026",
     "publicadoEn": "2026-07-30T11:47:13.780Z",
-    "actualizadoEn": "2026-07-30T11:47:59.805Z"
+    "actualizadoEn": "2026-07-31T11:54:30.765Z"
   },
   {
-    "id": "2026-07-30-actualizacion-de-normas-sobre-el-acceso-al-mercado-de-cambios-para-operaciones-d-e47805",
-    "slug": "actualizacion-de-normas-sobre-el-acceso-al-mercado-de-cambios-para-operaciones-d",
+    "id": "2026-07-31-actualizacion-de-normas-cambiarias-sobre-acceso-al-mercado-de-cambios-2e9a0d",
+    "slug": "actualizacion-de-normas-cambiarias-sobre-acceso-al-mercado-de-cambios",
     "organismo": "BCRA",
     "fecha": "2026-07-29",
     "impacto": "alto",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "acceso a divisas",
-      "operaciones cambiarias",
-      "bcra",
-      "regimen cambiario"
+      "BCRA",
+      "giro de divisas",
+      "cambiario",
+      "comercio exterior"
     ],
-    "titulo": "Actualización de normas sobre el acceso al mercado de cambios para operaciones de comercio exterior",
-    "resumen": "La Comunicación A 8457 introduce modificaciones en los requisitos y condiciones para el acceso al mercado libre de cambios (MULC). La norma ajusta la normativa vigente que regula los pagos de importaciones y el ingreso de divisas por exportaciones.",
-    "queSignifica": "Debe verificar si la nueva normativa altera los plazos o condiciones de su operación actual de pago o cobro. Se sugiere auditar el cumplimiento de los nuevos requisitos cambiarios con su entidad financiera antes de cursar cualquier operación.",
+    "titulo": "Actualización de normas cambiarias sobre acceso al mercado de cambios",
+    "resumen": "La Comunicación A 8457 establece nuevas condiciones operativas para el acceso al Mercado Único y Libre de Cambios. Define plazos y requisitos específicos para el curso de operaciones de pago al exterior.",
+    "queSignifica": "Es necesario verificar inmediatamente con el departamento de comercio exterior de su entidad bancaria si las operaciones vigentes encuadran en las nuevas disposiciones. Se recomienda revisar la documentación de respaldo para evitar demoras en los giros de divisas.",
     "fuente": {
       "nombre": "Boletín Oficial de la República Argentina",
       "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/345117/20260729"
     },
     "normativaRef": "Comunicación \"A\" 8457/2026",
     "publicadoEn": "2026-07-30T11:47:18.818Z",
-    "actualizadoEn": "2026-07-30T11:47:59.805Z"
+    "actualizadoEn": "2026-07-31T11:54:30.765Z"
   },
   {
-    "id": "2026-07-30-capacitacion-sobre-importacion-de-productos-medicos-ceef0e",
-    "slug": "capacitacion-sobre-importacion-de-productos-medicos",
-    "organismo": "Aduana",
-    "fecha": "2026-07-29",
-    "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [
-      "productos médicos",
-      "ANMAT",
-      "capacitación",
-      "importación",
-      "normativa sanitaria"
-    ],
-    "titulo": "Capacitación sobre importación de productos médicos",
-    "resumen": "El CDA organiza una jornada de actualización profesional enfocada en la normativa vigente para la importación de insumos médicos. El objetivo es brindar herramientas técnicas sobre los procesos de registro y habilitación requeridos.",
-    "queSignifica": "Se recomienda revisar el cronograma de la capacitación y verificar si los procedimientos internos de importación de productos médicos cumplen con las últimas actualizaciones de ANMAT. Evaluar la participación para actualizar conocimientos sobre la normativa sanitaria específica.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42640"
-    },
-    "publicadoEn": "2026-07-23T11:46:57.950Z",
-    "actualizadoEn": "2026-07-30T11:47:59.805Z"
-  },
-  {
-    "id": "2026-07-30-publicacion-de-la-edicion-911-de-la-revista-comercio-exterior-del-cda-8a125c",
-    "slug": "publicacion-de-la-edicion-911-de-la-revista-comercio-exterior-del-cda",
+    "id": "2026-07-31-publicacion-de-la-edicion-n-911-de-la-revista-comercio-exterior-del-cda-540954",
+    "slug": "publicacion-de-la-edicion-n-911-de-la-revista-comercio-exterior-del-cda",
     "organismo": "Aduana",
     "fecha": "2026-07-29",
     "impacto": "bajo",
     "categoria": "normativa",
     "tags": [
       "CDA",
-      "comercio exterior",
-      "novedades",
-      "revista digital"
+      "capacitación",
+      "actualidad",
+      "comercio exterior"
     ],
-    "titulo": "Publicación de la edición 911 de la Revista Comercio Exterior del CDA",
-    "resumen": "El Centro Despachantes de Aduana comunica la disponibilidad de la nueva edición de su revista institucional. El material contiene información y artículos de interés sobre la actualidad del sector.",
-    "queSignifica": "Es una lectura informativa sin impacto en operaciones aduaneras. Se sugiere revisar el contenido por si existiera algún análisis técnico relevante para su operatoria habitual.",
+    "titulo": "Publicación de la edición Nº 911 de la Revista Comercio Exterior del CDA",
+    "resumen": "El CDA ha publicado la nueva edición de su revista institucional para acceso de sus asociados. Este material contiene información general sobre el sector y novedades del ámbito aduanero.",
+    "queSignifica": "Se trata de un comunicado informativo sin impacto operativo. Se recomienda consultar la publicación para mantenerse actualizado sobre novedades técnicas o artículos de interés profesional.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42658"
     },
     "publicadoEn": "2026-07-30T11:47:29.016Z",
-    "actualizadoEn": "2026-07-30T11:47:59.805Z"
+    "actualizadoEn": "2026-07-31T11:54:30.765Z"
   },
   {
-    "id": "2026-07-30-convocatoria-a-asamblea-general-extraordinaria-del-cda-4de78c",
+    "id": "2026-07-31-convocatoria-a-asamblea-general-extraordinaria-del-cda-c3f0fe",
     "slug": "convocatoria-a-asamblea-general-extraordinaria-del-cda",
     "organismo": "Aduana",
     "fecha": "2026-07-28",
@@ -179,44 +179,44 @@
     "categoria": "normativa",
     "tags": [
       "CDA",
-      "institucional",
-      "asamblea",
-      "gobernanza",
-      "gestión"
+      "Asamblea General",
+      "Estatuto Social",
+      "Gremial",
+      "Institucional"
     ],
     "titulo": "Convocatoria a Asamblea General Extraordinaria del CDA",
-    "resumen": "Se convoca a los socios del Centro Despachantes de Aduana a una asamblea extraordinaria conforme a su estatuto social.",
-    "queSignifica": "Es una comunicación de carácter institucional y administrativo. Se recomienda a los socios verificar el orden del día para evaluar si existen temas de interés particular para su actividad profesional.",
+    "resumen": "El Centro Despachantes de Aduana convoca a sus socios a una Asamblea General Extraordinaria según su estatuto social.",
+    "queSignifica": "Es una comunicación de carácter institucional y gremial sin impacto directo en la operativa aduanera diaria. Se recomienda a los socios verificar el temario de la convocatoria en el sitio oficial del CDA para conocer los asuntos a tratar.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42621"
     },
     "publicadoEn": "2026-07-21T11:43:55.231Z",
-    "actualizadoEn": "2026-07-30T11:47:59.805Z"
+    "actualizadoEn": "2026-07-31T11:54:30.765Z"
   },
   {
-    "id": "2026-07-30-programa-del-inti-para-fomentar-la-exportacion-de-maquinaria-agricola-a23646",
-    "slug": "programa-del-inti-para-fomentar-la-exportacion-de-maquinaria-agricola",
+    "id": "2026-07-31-programa-del-inti-para-el-desarrollo-y-promocion-de-maquinaria-agricola-de-expor-f05a1c",
+    "slug": "programa-del-inti-para-el-desarrollo-y-promocion-de-maquinaria-agricola-de-expor",
     "organismo": "INTI",
     "fecha": "2026-07-28",
     "impacto": "bajo",
     "categoria": "exportacion",
     "tags": [
-      "agrotecnología",
       "maquinaria agrícola",
-      "promoción exportadora",
-      "bienes de capital",
-      "INTI"
+      "exportación",
+      "agrotecnología",
+      "INTI",
+      "promoción comercial"
     ],
-    "titulo": "Programa del INTI para fomentar la exportación de maquinaria agrícola",
-    "resumen": "El INTI lanzó una iniciativa para vincular al sector científico-tecnológico con los fabricantes de maquinaria agrícola para mejorar su perfil exportador. La medida busca fortalecer la capacidad competitiva del sector mediante asistencia técnica.",
-    "queSignifica": "Es una noticia de carácter institucional sin efectos operativos inmediatos. Se sugiere a las empresas del sector contactar al INTI para conocer posibles asistencias técnicas, certificaciones o programas de mejora de calidad disponibles para sus procesos de exportación.",
+    "titulo": "Programa del INTI para el desarrollo y promoción de maquinaria agrícola de exportación",
+    "resumen": "El INTI lanzó una iniciativa para vincular el sistema científico con fabricantes locales de maquinaria agrícola, buscando potenciar la competitividad exportadora del sector.",
+    "queSignifica": "Esta medida es informativa y de perfil institucional. Se recomienda a las empresas del sector contactar al INTI para evaluar si su producción califica para los nuevos programas de asistencia técnica o certificación de calidad.",
     "fuente": {
       "nombre": "INTI – Noticias",
       "url": "https://www.argentina.gob.ar/noticias/una-ronda-tecnica-para-impulsar-la-exportacion-de-la-agrotecnologia"
     },
     "publicadoEn": "2026-07-29T11:57:43.040Z",
-    "actualizadoEn": "2026-07-30T11:47:59.805Z"
+    "actualizadoEn": "2026-07-31T11:54:30.765Z"
   },
   {
     "id": "2026-07-29-capacitacion-sobre-alternativas-operativas-para-socios-del-cda-2085ba",
@@ -702,119 +702,5 @@
     },
     "publicadoEn": "2026-07-20T12:12:01.256Z",
     "actualizadoEn": "2026-07-20T12:12:16.728Z"
-  },
-  {
-    "id": "2026-07-17-campana-de-aporte-solidario-para-socios-vitalicios-del-cda-78d864",
-    "slug": "campana-de-aporte-solidario-para-socios-vitalicios-del-cda",
-    "organismo": "Aduana",
-    "fecha": "2026-07-16",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "CDA",
-      "institucional",
-      "socio vitalicio",
-      "comercio exterior"
-    ],
-    "titulo": "Campaña de aporte solidario para socios vitalicios del CDA",
-    "resumen": "El Centro Despachantes de Aduana solicita a sus socios vitalicios un aporte económico voluntario destinado al sostenimiento institucional.",
-    "queSignifica": "Es una comunicación de carácter institucional y opcional. Se sugiere revisar la comunicación interna del CDA por si usted es socio vitalicio, ya que no afecta la operatoria aduanera ni los trámites de comercio exterior.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42521"
-    },
-    "publicadoEn": "2026-07-05T04:12:00.332Z",
-    "actualizadoEn": "2026-07-17T11:17:57.509Z"
-  },
-  {
-    "id": "2026-07-17-comunicado-institucional-del-cda-por-fallecimiento-4e7fa7",
-    "slug": "comunicado-institucional-del-cda-por-fallecimiento",
-    "organismo": "Aduana",
-    "fecha": "2026-07-16",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "institucional",
-      "comunicado"
-    ],
-    "titulo": "Comunicado institucional del CDA por fallecimiento",
-    "resumen": "El Centro Despachantes de Aduana expresa sus condolencias por el fallecimiento del padre de una autoridad de la institución.",
-    "queSignifica": "Esta información es de carácter institucional y no afecta los procesos operativos, aduaneros o cambiarios del comercio exterior.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42638"
-    },
-    "publicadoEn": "2026-07-17T11:17:11.860Z",
-    "actualizadoEn": "2026-07-17T11:17:57.509Z"
-  },
-  {
-    "id": "2026-07-17-noticia-institucional-fallecimiento-del-socio-carlos-onco-d84f7d",
-    "slug": "noticia-institucional-fallecimiento-del-socio-carlos-onco",
-    "organismo": "Aduana",
-    "fecha": "2026-07-16",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "institucional",
-      "comunidad profesional",
-      "despachante de aduana"
-    ],
-    "titulo": "Noticia institucional: Fallecimiento del socio Carlos Onco",
-    "resumen": "El Centro Despachantes de Aduana informa el fallecimiento de uno de sus socios vitalicios.",
-    "queSignifica": "Es una comunicación de carácter institucional y no requiere ninguna acción operativa o de gestión ante organismos oficiales por parte de los operadores de comercio exterior.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42639"
-    },
-    "publicadoEn": "2026-07-17T11:17:16.776Z",
-    "actualizadoEn": "2026-07-17T11:17:57.509Z"
-  },
-  {
-    "id": "2026-07-17-convocatoria-a-asamblea-extraordinaria-del-centro-despachantes-de-aduana-e14f84",
-    "slug": "convocatoria-a-asamblea-extraordinaria-del-centro-despachantes-de-aduana",
-    "organismo": "Aduana",
-    "fecha": "2026-07-16",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "CDA",
-      "gremial",
-      "asamblea",
-      "comercio exterior",
-      "institucional"
-    ],
-    "titulo": "Convocatoria a Asamblea Extraordinaria del Centro Despachantes de Aduana",
-    "resumen": "El CDA ha comunicado la realización de una Asamblea Extraordinaria para sus asociados el día 5 de agosto. Se trata de un evento de carácter institucional y gremial.",
-    "queSignifica": "Esta novedad no impacta en la operatoria aduanera ni en el flujo de mercaderías. Se sugiere revisar el cronograma del evento si desea participar en la gestión de la entidad.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42629"
-    },
-    "publicadoEn": "2026-07-17T11:17:21.570Z",
-    "actualizadoEn": "2026-07-17T11:17:57.509Z"
-  },
-  {
-    "id": "2026-07-17-inscripcion-obligatoria-en-el-smr-para-exportar-uvas-frescas-a-brasil-a9453c",
-    "slug": "inscripcion-obligatoria-en-el-smr-para-exportar-uvas-frescas-a-brasil",
-    "organismo": "SENASA",
-    "fecha": "2026-07-16",
-    "impacto": "medio",
-    "categoria": "exportacion",
-    "tags": [
-      "SENASA",
-      "SMR",
-      "uva fresca",
-      "protocolo fitosanitario",
-      "exportación"
-    ],
-    "titulo": "Inscripción obligatoria en el SMR para exportar uvas frescas a Brasil",
-    "resumen": "Los productores de uva de San Juan y Mendoza deben registrarse en el protocolo del SENASA antes del 15 de agosto para habilitar la comercialización a mercado interno y exportación a Brasil.",
-    "queSignifica": "Los exportadores deben verificar que sus proveedores estén debidamente inscriptos en el Sistema de Monitoreo y Registro (SMR). Se sugiere auditar el cumplimiento del productor antes de la carga para evitar bloqueos fitosanitarios en destino.",
-    "fuente": {
-      "nombre": "SENASA Comunica",
-      "url": "https://www.argentina.gob.ar/noticias/cuyo-inscripcion-en-el-smr-para-comercializar-uva-fresca-en-el-mercado-interno-yo-exportar"
-    },
-    "publicadoEn": "2026-07-17T11:17:47.071Z",
-    "actualizadoEn": "2026-07-17T11:17:57.509Z"
   }
 ]
