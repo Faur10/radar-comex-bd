@@ -1,31 +1,78 @@
 [
   {
-    "id": "2026-07-31-actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc-e89795",
-    "slug": "actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc",
+    "id": "2026-08-03-actualizacion-del-tipo-de-cambio-oficial-del-mulc-al-31-de-julio-de-2026-23b9ce",
+    "slug": "actualizacion-del-tipo-de-cambio-oficial-del-mulc-al-31-de-julio-de-2026",
     "organismo": "BCRA",
-    "fecha": "2026-07-31",
-    "impacto": "bajo",
+    "fecha": "2026-08-03",
+    "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "Tipo de Cambio",
-      "BCRA",
-      "Divisas",
-      "Comercio Exterior"
+      "tipo de cambio",
+      "operaciones cambiarias",
+      "divisas",
+      "BCRA"
     ],
-    "titulo": "Actualización de la cotización oficial del dólar en el MULC",
-    "resumen": "El BCRA ha publicado el tipo de cambio oficial de referencia para las operaciones en el Mercado Único y Libre de Cambios con fecha 30 de julio de 2026.",
-    "queSignifica": "Es un dato informativo de referencia para el cálculo de costos y obligaciones. Se sugiere verificar esta cotización al momento de liquidar operaciones o gestionar pagos de comercio exterior con su entidad bancaria.",
+    "titulo": "Actualización del tipo de cambio oficial del MULC al 31 de julio de 2026",
+    "resumen": "El BCRA ha oficializado el tipo de cambio de referencia para el Mercado Único y Libre de Cambios en 1044.70 pesos por dólar estadounidense. Esta cotización refleja la valoración oficial utilizada para las liquidaciones y pagos de operaciones de comercio exterior.",
+    "queSignifica": "Verifique que esta cotización sea la aplicada en sus liquidaciones de divisas y pagos de importaciones ante su entidad bancaria. Se recomienda auditar los cierres de cambio del día para asegurar la correcta imputación de los costos financieros de sus operaciones.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-07-31T11:54:30.765Z"
+    "actualizadoEn": "2026-08-03T12:52:47.059Z"
   },
   {
-    "id": "2026-07-31-capacitacion-sobre-normativa-en-la-importacion-de-productos-medicos-0379d9",
-    "slug": "capacitacion-sobre-normativa-en-la-importacion-de-productos-medicos",
+    "id": "2026-08-03-inscripcion-en-renspa-para-exportadores-fruticolas-de-rio-negro-y-neuquen-783bb6",
+    "slug": "inscripcion-en-renspa-para-exportadores-fruticolas-de-rio-negro-y-neuquen",
+    "organismo": "SENASA",
+    "fecha": "2026-08-03",
+    "impacto": "medio",
+    "categoria": "exportacion",
+    "tags": [
+      "SENASA",
+      "RENSPA",
+      "Trazabilidad",
+      "Fruta",
+      "Exportación"
+    ],
+    "titulo": "Inscripción en RENSPA para exportadores frutícolas de Río Negro y Neuquén",
+    "resumen": "Los productores frutícolas de Río Negro y Neuquén deben realizar su inscripción o actualización en el RENSPA y programas de exportación durante agosto. El trámite se gestiona vía autogestión en el sistema de trazabilidad del SENASA mediante clave fiscal.",
+    "queSignifica": "Verifique el estado de su inscripción en el sistema del SENASA para evitar contingencias en la obtención de certificados fitosanitarios. Se recomienda revisar la vigencia de sus habilitaciones para asegurar la continuidad de las operaciones de exportación durante la temporada.",
+    "fuente": {
+      "nombre": "SENASA Comunica",
+      "url": "https://www.argentina.gob.ar/noticias/inscripcion-en-renspa-y-programas-de-exportacion-para-productores-fruticolas-de-rio-negro-y"
+    },
+    "publicadoEn": "2026-08-03T12:52:36.464Z",
+    "actualizadoEn": "2026-08-03T12:52:47.059Z"
+  },
+  {
+    "id": "2026-08-03-invitacion-a-la-3ra-edicion-de-los-desayunos-de-trabajo-del-cda-e27cb5",
+    "slug": "invitacion-a-la-3ra-edicion-de-los-desayunos-de-trabajo-del-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-07-31",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "capacitación",
+      "profesionalización",
+      "comercio exterior",
+      "actualización"
+    ],
+    "titulo": "Invitación a la 3ra edición de los Desayunos de Trabajo del CDA",
+    "resumen": "El CDA organiza un evento de encuentro y capacitación para sus asociados a nivel nacional.",
+    "queSignifica": "Esta noticia es de carácter institucional y no afecta la operatividad aduanera. Se recomienda consultar el cronograma del evento si desea participar en instancias de actualización profesional.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42644"
+    },
+    "publicadoEn": "2026-07-23T11:47:02.961Z",
+    "actualizadoEn": "2026-08-03T12:52:47.059Z"
+  },
+  {
+    "id": "2026-08-03-capacitacion-sobre-importacion-de-productos-medicos-33e332",
+    "slug": "capacitacion-sobre-importacion-de-productos-medicos",
     "organismo": "Aduana",
     "fecha": "2026-07-31",
     "impacto": "bajo",
@@ -33,19 +80,43 @@
     "tags": [
       "productos médicos",
       "ANMAT",
-      "capacitación",
       "importación",
+      "capacitación",
       "comercio exterior"
     ],
-    "titulo": "Capacitación sobre normativa en la importación de productos médicos",
-    "resumen": "El Centro Despachantes de Aduana organiza una instancia de formación profesional sobre el marco normativo aplicable a la importación de productos médicos.",
-    "queSignifica": "Se sugiere revisar el cronograma y temario de la capacitación para actualizar conocimientos sobre las intervenciones de ANMAT. Se recomienda evaluar la pertinencia de la actividad según el perfil de productos y las exigencias de registro vigentes.",
+    "titulo": "Capacitación sobre importación de productos médicos",
+    "resumen": "El Centro Despachantes de Aduana organiza una jornada de actualización profesional sobre la normativa vigente para la importación de insumos y dispositivos médicos.",
+    "queSignifica": "Se recomienda participar o revisar el material de la capacitación para actualizar conocimientos sobre los requerimientos y trámites ante la ANMAT. Verifique siempre los registros y certificados técnicos específicos de sus productos antes de realizar nuevas operaciones.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42640"
     },
     "publicadoEn": "2026-07-23T11:46:57.950Z",
-    "actualizadoEn": "2026-07-31T11:54:30.765Z"
+    "actualizadoEn": "2026-08-03T12:52:47.059Z"
+  },
+  {
+    "id": "2026-08-03-refuerzo-de-controles-zoofitosanitarios-en-pasos-fronterizos-de-chaco-y-formosa-a7cf5c",
+    "slug": "refuerzo-de-controles-zoofitosanitarios-en-pasos-fronterizos-de-chaco-y-formosa",
+    "organismo": "SENASA",
+    "fecha": "2026-07-31",
+    "impacto": "medio",
+    "categoria": "logistica",
+    "tags": [
+      "senasa",
+      "zoofitosanitario",
+      "controles en frontera",
+      "fiscalización",
+      "cumplimiento"
+    ],
+    "titulo": "Refuerzo de controles zoofitosanitarios en pasos fronterizos de Chaco y Formosa",
+    "resumen": "SENASA intensificó los controles de fiscalización zoofitosanitaria en puntos de ingreso y rutas de las provincias de Chaco y Formosa.",
+    "queSignifica": "Se recomienda revisar la documentación sanitaria de sus mercaderías y asegurar el cumplimiento de las normativas vigentes en estos puntos de control para evitar demoras en el despacho o retenciones.",
+    "fuente": {
+      "nombre": "SENASA Comunica",
+      "url": "https://www.argentina.gob.ar/noticias/se-fortalecen-los-controles-zoofitosanitarios-en-las-provincias-de-chaco-y-formosa"
+    },
+    "publicadoEn": "2026-08-03T12:52:41.755Z",
+    "actualizadoEn": "2026-08-03T12:52:47.059Z"
   },
   {
     "id": "2026-07-31-actualizacion-de-normativa-cambiaria-del-bcra-comunicacion-a-8458-28e7c9",
@@ -241,29 +312,6 @@
     },
     "publicadoEn": "2026-07-27T12:53:15.182Z",
     "actualizadoEn": "2026-07-29T11:57:48.084Z"
-  },
-  {
-    "id": "2026-07-30-invitacion-a-la-3ra-edicion-de-los-desayunos-de-trabajo-del-cda-db9193",
-    "slug": "invitacion-a-la-3ra-edicion-de-los-desayunos-de-trabajo-del-cda",
-    "organismo": "Aduana",
-    "fecha": "2026-07-27",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "capacitación",
-      "actualidad",
-      "CDA",
-      "comercio exterior"
-    ],
-    "titulo": "Invitación a la 3ra edición de los Desayunos de Trabajo del CDA",
-    "resumen": "El Centro Despachantes de Aduana convoca a sus asociados a un encuentro informativo y de actualización profesional.",
-    "queSignifica": "Esta es una instancia de capacitación institucional. Se recomienda verificar si la temática a tratar es de interés para su perfil operativo o administrativo.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42644"
-    },
-    "publicadoEn": "2026-07-23T11:47:02.961Z",
-    "actualizadoEn": "2026-07-30T11:47:59.805Z"
   },
   {
     "id": "2026-07-30-decomiso-de-frutas-sin-certificacion-fitosanitaria-por-senasa-en-corrientes-3a3223",
@@ -678,29 +726,5 @@
     "normativaRef": "Comunicación \"A\" 8453/2026",
     "publicadoEn": "2026-07-20T12:11:55.929Z",
     "actualizadoEn": "2026-07-22T11:44:11.923Z"
-  },
-  {
-    "id": "2026-07-20-habilitacion-de-tres-frigorificos-argentinos-para-exportar-carne-a-china-c20874",
-    "slug": "habilitacion-de-tres-frigorificos-argentinos-para-exportar-carne-a-china",
-    "organismo": "SENASA",
-    "fecha": "2026-07-17",
-    "impacto": "medio",
-    "categoria": "exportacion",
-    "tags": [
-      "carne bovina",
-      "GACC",
-      "habilitación sanitaria",
-      "certificación de origen",
-      "mercado chino"
-    ],
-    "titulo": "Habilitación de tres frigoríficos argentinos para exportar carne a China",
-    "resumen": "El GACC de China autorizó a tres establecimientos cárnicos ubicados en Córdoba, Salta y Buenos Aires para exportar sus productos a dicho destino tras gestiones del SENASA.",
-    "queSignifica": "Los exportadores interesados deben verificar en el portal del SENASA si sus plantas están incluidas en la nómina actualizada y revisar el cumplimiento de los protocolos sanitarios específicos exigidos por las autoridades aduaneras chinas.",
-    "fuente": {
-      "nombre": "SENASA Comunica",
-      "url": "https://www.argentina.gob.ar/noticias/china-habilito-frigorificos-argentinos-para-exportar-carne-ese-destino"
-    },
-    "publicadoEn": "2026-07-20T12:12:01.256Z",
-    "actualizadoEn": "2026-07-20T12:12:16.728Z"
   }
 ]
