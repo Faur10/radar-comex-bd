@@ -1,31 +1,103 @@
 [
   {
-    "id": "2026-08-03-actualizacion-del-tipo-de-cambio-oficial-del-mulc-al-31-de-julio-de-2026-23b9ce",
-    "slug": "actualizacion-del-tipo-de-cambio-oficial-del-mulc-al-31-de-julio-de-2026",
+    "id": "2026-08-04-actualizacion-del-tipo-de-cambio-de-referencia-del-bcra-para-el-mulc-945b54",
+    "slug": "actualizacion-del-tipo-de-cambio-de-referencia-del-bcra-para-el-mulc",
     "organismo": "BCRA",
-    "fecha": "2026-08-03",
+    "fecha": "2026-08-04",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "tipo de cambio",
-      "operaciones cambiarias",
-      "divisas",
-      "BCRA"
+      "Tipo de Cambio",
+      "BCRA",
+      "Cambiario",
+      "Comercio Exterior"
     ],
-    "titulo": "Actualización del tipo de cambio oficial del MULC al 31 de julio de 2026",
-    "resumen": "El BCRA ha oficializado el tipo de cambio de referencia para el Mercado Único y Libre de Cambios en 1044.70 pesos por dólar estadounidense. Esta cotización refleja la valoración oficial utilizada para las liquidaciones y pagos de operaciones de comercio exterior.",
-    "queSignifica": "Verifique que esta cotización sea la aplicada en sus liquidaciones de divisas y pagos de importaciones ante su entidad bancaria. Se recomienda auditar los cierres de cambio del día para asegurar la correcta imputación de los costos financieros de sus operaciones.",
+    "titulo": "Actualización del tipo de cambio de referencia del BCRA para el MULC",
+    "resumen": "Se establece el valor oficial del dólar estadounidense en el Mercado Único y Libre de Cambios para la fecha indicada. Esta cifra constituye la referencia para la liquidación y pago de operaciones comerciales.",
+    "queSignifica": "El importador o exportador debe utilizar este valor como referencia para el cálculo de costos operativos y proyecciones de flujo de fondos. Se sugiere verificar con la entidad bancaria interviniente el tipo de cambio efectivo aplicable a su operación específica.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-08-03T12:52:47.059Z"
+    "actualizadoEn": "2026-08-04T11:59:23.713Z"
   },
   {
-    "id": "2026-08-03-inscripcion-en-renspa-para-exportadores-fruticolas-de-rio-negro-y-neuquen-783bb6",
-    "slug": "inscripcion-en-renspa-para-exportadores-fruticolas-de-rio-negro-y-neuquen",
+    "id": "2026-08-04-reglamentacion-del-regimen-de-envios-postales-con-finalidad-comercial-517f81",
+    "slug": "reglamentacion-del-regimen-de-envios-postales-con-finalidad-comercial",
+    "organismo": "ARCA",
+    "fecha": "2026-08-03",
+    "impacto": "medio",
+    "categoria": "exportacion",
+    "tags": [
+      "envíos postales",
+      "exportación comercial",
+      "régimen simplificado",
+      "ARCA",
+      "despacho de exportación"
+    ],
+    "titulo": "Reglamentación del régimen de envíos postales con finalidad comercial",
+    "resumen": "La resolución establece el marco operativo y los requisitos para realizar exportaciones con fines comerciales a través del régimen de envíos postales. Define las pautas aduaneras para el despacho de mercancías bajo esta modalidad específica.",
+    "queSignifica": "Es necesario verificar si sus operaciones comerciales actuales se encuadran en los límites y requisitos de esta nueva reglamentación postal. Se sugiere consultar con su despachante de aduanas la viabilidad técnica y documental antes de realizar el próximo envío.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/345323/20260803"
+    },
+    "normativaRef": "Resolución General 5886/2026",
+    "publicadoEn": "2026-08-04T11:59:03.034Z",
+    "actualizadoEn": "2026-08-04T11:59:23.713Z"
+  },
+  {
+    "id": "2026-08-04-participacion-del-cda-en-expo-logisti-k-2026-04150f",
+    "slug": "participacion-del-cda-en-expo-logisti-k-2026",
+    "organismo": "Aduana",
+    "fecha": "2026-08-03",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "CDA",
+      "logistica",
+      "comercio exterior",
+      "networking",
+      "feria internacional"
+    ],
+    "titulo": "Participación del CDA en EXPO LOGISTI-K 2026",
+    "resumen": "El CDA ha confirmado su presencia en la 16ª edición de la Exposición Internacional de Logística. Se trata de un evento informativo y de vinculación para los profesionales del sector.",
+    "queSignifica": "Es una noticia de carácter institucional sin impacto operativo inmediato. Se sugiere a los asociados mantenerse atentos a futuras comunicaciones para conocer si habrá espacios de asesoramiento técnico durante la feria.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42634"
+    },
+    "publicadoEn": "2026-07-21T11:43:50.081Z",
+    "actualizadoEn": "2026-08-04T11:59:23.713Z"
+  },
+  {
+    "id": "2026-08-04-disponibilidad-de-espacios-de-coworking-para-asociados-del-cda-b17c03",
+    "slug": "disponibilidad-de-espacios-de-coworking-para-asociados-del-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-08-03",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "CDA",
+      "espacio de trabajo",
+      "servicios asociados",
+      "gestión aduanera"
+    ],
+    "titulo": "Disponibilidad de espacios de coworking para asociados del CDA",
+    "resumen": "El Centro Despachantes de Aduana comunica la disponibilidad de oficinas equipadas para el uso de sus asociados.",
+    "queSignifica": "Es una novedad de índole institucional. Se sugiere verificar en la web del CDA las condiciones de uso y disponibilidad en caso de requerir espacios físicos para reuniones o gestiones.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42526"
+    },
+    "publicadoEn": "2026-08-04T11:59:13.440Z",
+    "actualizadoEn": "2026-08-04T11:59:23.713Z"
+  },
+  {
+    "id": "2026-08-04-autogestion-de-inscripcion-en-renspa-para-productores-fruticolas-de-rio-negro-y--ee8abe",
+    "slug": "autogestion-de-inscripcion-en-renspa-para-productores-fruticolas-de-rio-negro-y-",
     "organismo": "SENASA",
     "fecha": "2026-08-03",
     "impacto": "medio",
@@ -33,19 +105,19 @@
     "tags": [
       "SENASA",
       "RENSPA",
-      "Trazabilidad",
-      "Fruta",
-      "Exportación"
+      "Trazabilidad Frutícola",
+      "Exportación",
+      "Certificación Fitosanitaria"
     ],
-    "titulo": "Inscripción en RENSPA para exportadores frutícolas de Río Negro y Neuquén",
-    "resumen": "Los productores frutícolas de Río Negro y Neuquén deben realizar su inscripción o actualización en el RENSPA y programas de exportación durante agosto. El trámite se gestiona vía autogestión en el sistema de trazabilidad del SENASA mediante clave fiscal.",
-    "queSignifica": "Verifique el estado de su inscripción en el sistema del SENASA para evitar contingencias en la obtención de certificados fitosanitarios. Se recomienda revisar la vigencia de sus habilitaciones para asegurar la continuidad de las operaciones de exportación durante la temporada.",
+    "titulo": "Autogestión de inscripción en Renspa para productores frutícolas de Río Negro y Neuquén",
+    "resumen": "Los productores frutícolas de Río Negro y Neuquén pueden realizar la inscripción en el Renspa y adherir a programas de exportación mediante autogestión en el sistema SIGT durante agosto.",
+    "queSignifica": "Los exportadores deben verificar que sus productores proveedores hayan regularizado esta inscripción para evitar trabas en la emisión de certificados fitosanitarios. Se sugiere confirmar el estado de alta en el sistema SIGT antes de programar embarques.",
     "fuente": {
       "nombre": "SENASA Comunica",
       "url": "https://www.argentina.gob.ar/noticias/inscripcion-en-renspa-y-programas-de-exportacion-para-productores-fruticolas-de-rio-negro-y"
     },
     "publicadoEn": "2026-08-03T12:52:36.464Z",
-    "actualizadoEn": "2026-08-03T12:52:47.059Z"
+    "actualizadoEn": "2026-08-04T11:59:23.713Z"
   },
   {
     "id": "2026-08-03-invitacion-a-la-3ra-edicion-de-los-desayunos-de-trabajo-del-cda-e27cb5",
@@ -556,175 +628,5 @@
     "normativaRef": "Comunicación \"A\" 8455/2026",
     "publicadoEn": "2026-07-21T11:43:24.411Z",
     "actualizadoEn": "2026-07-23T11:47:38.371Z"
-  },
-  {
-    "id": "2026-07-23-implementacion-de-nuevo-sistema-de-acceso-remoto-al-sistema-informatico-malvina-f36c69",
-    "slug": "implementacion-de-nuevo-sistema-de-acceso-remoto-al-sistema-informatico-malvina",
-    "organismo": "Aduana",
-    "fecha": "2026-07-20",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "SIM",
-      "Malvina",
-      "acceso remoto",
-      "conectividad",
-      "ADUANA"
-    ],
-    "titulo": "Implementación de nuevo sistema de acceso remoto al Sistema Informático Malvina",
-    "resumen": "El CDA habilita una nueva modalidad de conexión al SIM para facilitar la gestión operativa desde ubicaciones externas.",
-    "queSignifica": "Se sugiere revisar los requerimientos técnicos y de seguridad informáticos del CDA para evaluar su implementación. Verifique con su departamento de IT la compatibilidad con los protocolos de seguridad de su empresa.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42462"
-    },
-    "publicadoEn": "2026-07-21T11:43:45.140Z",
-    "actualizadoEn": "2026-07-23T11:47:38.371Z"
-  },
-  {
-    "id": "2026-07-23-participacion-del-cda-en-la-feria-expo-logisti-k-2026-d761ed",
-    "slug": "participacion-del-cda-en-la-feria-expo-logisti-k-2026",
-    "organismo": "Aduana",
-    "fecha": "2026-07-20",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "CDA",
-      "LOGISTI-K",
-      "Eventos",
-      "Comercio Exterior"
-    ],
-    "titulo": "Participación del CDA en la feria EXPO LOGISTI-K 2026",
-    "resumen": "El Centro de Despachantes de Aduana anuncia su presencia institucional en la 16ª edición de la feria de logística.",
-    "queSignifica": "Es una comunicación meramente institucional; no requiere ninguna acción operativa ni modificación en los procedimientos aduaneros vigentes.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42634"
-    },
-    "publicadoEn": "2026-07-21T11:43:50.081Z",
-    "actualizadoEn": "2026-07-23T11:47:38.371Z"
-  },
-  {
-    "id": "2026-07-23-prohibicion-de-comercializacion-y-uso-del-lote-falsificado-de-dysport-500-ipsen-e96a76",
-    "slug": "prohibicion-de-comercializacion-y-uso-del-lote-falsificado-de-dysport-500-ipsen",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-07-20",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "ANMAT",
-      "productos farmacéuticos",
-      "prohibición de comercialización",
-      "control sanitario",
-      "mercadería falsificada"
-    ],
-    "titulo": "Prohibición de comercialización y uso del lote falsificado de Dysport 500 IPSEN",
-    "resumen": "La ANMAT ha dispuesto la prohibición de comercialización y uso de un lote específico del producto Dysport 500 IPSEN por tratarse de una unidad falsificada.",
-    "queSignifica": "Se recomienda verificar de inmediato el stock, inventarios y despachos en curso para asegurar que no contengan el lote afectado. Ante cualquier duda, consulte con su departamento de asuntos regulatorios o el área de control de calidad antes de liberar mercadería.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-un-lote-falsificado-del-producto-dysport-500-ipsen"
-    },
-    "publicadoEn": "2026-07-20T12:12:06.348Z",
-    "actualizadoEn": "2026-07-23T11:47:38.371Z"
-  },
-  {
-    "id": "2026-07-23-anmat-prohibe-la-comercializacion-de-protectores-solares-marcas-karite-kiss-beau-20817f",
-    "slug": "anmat-prohibe-la-comercializacion-de-protectores-solares-marcas-karite-kiss-beau",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-07-20",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "ANMAT",
-      "prohibición comercialización",
-      "productos cosméticos",
-      "seguridad sanitaria",
-      "control aduanero"
-    ],
-    "titulo": "ANMAT prohíbe la comercialización de protectores solares marcas Karité, Kiss Beauty y Miss Vanesa",
-    "resumen": "La norma establece la prohibición del uso, comercialización y distribución en todo el territorio nacional de lotes específicos de protectores solares de las marcas indicadas. La medida se fundamenta en la falta de registro sanitario y de condiciones de seguridad requeridas.",
-    "queSignifica": "El importador debe verificar el inventario de mercadería en stock o en tránsito para asegurar que no contenga los productos alcanzados por esta restricción. Se sugiere consultar la base de datos de ANMAT y realizar un bloqueo preventivo en el sistema para evitar infracciones aduaneras o de comercialización.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-distintos-protectores-solares-de-las-marcas-karite-kiss-beauty-y-miss-vanesa"
-    },
-    "publicadoEn": "2026-07-20T12:12:11.593Z",
-    "actualizadoEn": "2026-07-23T11:47:38.371Z"
-  },
-  {
-    "id": "2026-07-22-prorroga-para-la-presentacion-y-pago-del-impuesto-a-las-ganancias-periodo-2025-d4e9dd",
-    "slug": "prorroga-para-la-presentacion-y-pago-del-impuesto-a-las-ganancias-periodo-2025",
-    "organismo": "ARCA",
-    "fecha": "2026-07-20",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "impuesto a las ganancias",
-      "fiscal",
-      "ddjj",
-      "arca",
-      "contribuyente"
-    ],
-    "titulo": "Prórroga para la presentación y pago del Impuesto a las Ganancias periodo 2025",
-    "resumen": "La normativa establece un calendario excepcional con plazos especiales para la presentación de la declaración jurada y el ingreso del saldo del Impuesto a las Ganancias del periodo fiscal 2025.",
-    "queSignifica": "Se recomienda revisar el nuevo calendario de vencimientos con su contador para evitar multas. Verifique si su CUIT está alcanzado por estas fechas especiales en los sistemas de ARCA.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/344534/20260720"
-    },
-    "normativaRef": "Resolución General 5876/2026",
-    "publicadoEn": "2026-07-20T12:11:45.865Z",
-    "actualizadoEn": "2026-07-22T11:44:11.923Z"
-  },
-  {
-    "id": "2026-07-22-actualizacion-de-normas-de-acceso-al-mercado-de-cambios-por-bcra-062c6a",
-    "slug": "actualizacion-de-normas-de-acceso-al-mercado-de-cambios-por-bcra",
-    "organismo": "BCRA",
-    "fecha": "2026-07-20",
-    "impacto": "alto",
-    "categoria": "normativa",
-    "tags": [
-      "BCRA",
-      "MULC",
-      "Acceso al Mercado de Cambios",
-      "Pagos al exterior",
-      "Comunicación A 8452"
-    ],
-    "titulo": "Actualización de normas de acceso al mercado de cambios por BCRA",
-    "resumen": "La normativa establece nuevos requisitos y condiciones para el acceso al Mercado Único y Libre de Cambios (MULC) para operaciones de comercio exterior. Ajusta las condiciones de pago y plazos aplicables según la tipología de las operaciones cursadas.",
-    "queSignifica": "Debe revisar el texto completo de la comunicación para identificar si sus operaciones pendientes de pago cumplen con los nuevos plazos y requisitos documentales. Se recomienda validar con su entidad bancaria la aplicabilidad de esta norma a sus giros en curso antes de intentar cualquier transacción.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/344557/20260720"
-    },
-    "normativaRef": "Comunicación \"A\" 8452/2026",
-    "publicadoEn": "2026-07-20T12:11:50.830Z",
-    "actualizadoEn": "2026-07-22T11:44:11.923Z"
-  },
-  {
-    "id": "2026-07-22-actualizacion-de-normas-cambiarias-sobre-acceso-al-mercado-libre-de-cambios-fc320a",
-    "slug": "actualizacion-de-normas-cambiarias-sobre-acceso-al-mercado-libre-de-cambios",
-    "organismo": "BCRA",
-    "fecha": "2026-07-20",
-    "impacto": "alto",
-    "categoria": "normativa",
-    "tags": [
-      "BCRA",
-      "MULC",
-      "Acceso a divisas",
-      "Pago de importaciones",
-      "Comunicación A"
-    ],
-    "titulo": "Actualización de normas cambiarias sobre acceso al Mercado Libre de Cambios",
-    "resumen": "La norma establece nuevos lineamientos operativos para el acceso al mercado de cambios relacionados con el pago de obligaciones comerciales. Modifica las condiciones procedimentales para la cancelación de giros al exterior.",
-    "queSignifica": "Es necesario revisar el cumplimiento de los nuevos requisitos documentales y plazos exigidos por el BCRA antes de programar cualquier giro. Se recomienda consultar con su entidad financiera y su asesor legal para verificar cómo esta normativa impacta en sus operaciones en curso.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/344558/20260720"
-    },
-    "normativaRef": "Comunicación \"A\" 8453/2026",
-    "publicadoEn": "2026-07-20T12:11:55.929Z",
-    "actualizadoEn": "2026-07-22T11:44:11.923Z"
   }
 ]
