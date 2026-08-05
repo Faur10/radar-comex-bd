@@ -1,27 +1,145 @@
 [
   {
-    "id": "2026-08-04-actualizacion-del-tipo-de-cambio-de-referencia-del-bcra-para-el-mulc-945b54",
-    "slug": "actualizacion-del-tipo-de-cambio-de-referencia-del-bcra-para-el-mulc",
+    "id": "2026-08-05-actualizacion-del-tipo-de-cambio-oficial-del-bcra-2c5a06",
+    "slug": "actualizacion-del-tipo-de-cambio-oficial-del-bcra",
     "organismo": "BCRA",
-    "fecha": "2026-08-04",
+    "fecha": "2026-08-05",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "Tipo de Cambio",
-      "BCRA",
-      "Cambiario",
-      "Comercio Exterior"
+      "tipo de cambio",
+      "divisas",
+      "comercio exterior",
+      "operaciones cambiarias"
     ],
-    "titulo": "Actualización del tipo de cambio de referencia del BCRA para el MULC",
-    "resumen": "Se establece el valor oficial del dólar estadounidense en el Mercado Único y Libre de Cambios para la fecha indicada. Esta cifra constituye la referencia para la liquidación y pago de operaciones comerciales.",
-    "queSignifica": "El importador o exportador debe utilizar este valor como referencia para el cálculo de costos operativos y proyecciones de flujo de fondos. Se sugiere verificar con la entidad bancaria interviniente el tipo de cambio efectivo aplicable a su operación específica.",
+    "titulo": "Actualización del tipo de cambio oficial del BCRA",
+    "resumen": "Se informa el valor del tipo de cambio oficial del MULC vigente para la fecha indicada. Este valor es la referencia para la liquidación de divisas en operaciones de comercio exterior.",
+    "queSignifica": "Se recomienda verificar el tipo de cambio oficial al momento de realizar el cierre de cambio o liquidación de divisas. Es prudente validar la aplicación de este valor en las carpetas de seguimiento cambiario con su entidad bancaria.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-08-04T11:59:23.713Z"
+    "actualizadoEn": "2026-08-05T11:53:57.142Z"
+  },
+  {
+    "id": "2026-08-05-convocatoria-del-cda-a-las-actividades-por-el-dia-del-despachante-de-aduana-a41b5f",
+    "slug": "convocatoria-del-cda-a-las-actividades-por-el-dia-del-despachante-de-aduana",
+    "organismo": "Aduana",
+    "fecha": "2026-08-04",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "institucional",
+      "capacitacion",
+      "comercio exterior",
+      "despachante",
+      "cda"
+    ],
+    "titulo": "Convocatoria del CDA a las actividades por el Día del Despachante de Aduana",
+    "resumen": "El Centro Despachantes de Aduana organiza eventos y actividades con motivo de la celebración del Día del Despachante.",
+    "queSignifica": "Es una comunicación meramente institucional sin impacto en la operatoria de comercio exterior; se recomienda consultar los canales oficiales del CDA para obtener el cronograma de actividades.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42667"
+    },
+    "publicadoEn": "2026-08-05T11:53:32.158Z",
+    "actualizadoEn": "2026-08-05T11:53:57.142Z"
+  },
+  {
+    "id": "2026-08-05-3ra-edicion-de-los-desayunos-de-trabajo-del-cda-09f4ec",
+    "slug": "3ra-edicion-de-los-desayunos-de-trabajo-del-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-08-04",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "capacitación",
+      "actualidad aduanera",
+      "profesionalización",
+      "comercio exterior"
+    ],
+    "titulo": "3ra edición de los Desayunos de Trabajo del CDA",
+    "resumen": "El Centro Despachantes de Aduana convoca a sus asociados a un espacio de encuentro y actualización profesional.",
+    "queSignifica": "Se sugiere revisar la agenda del evento para evaluar la relevancia de los temas a tratar en la operatoria diaria del estudio.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42644"
+    },
+    "publicadoEn": "2026-07-23T11:47:02.961Z",
+    "actualizadoEn": "2026-08-05T11:53:57.142Z"
+  },
+  {
+    "id": "2026-08-05-participacion-del-cda-en-la-feria-expo-logisti-k-2026-28798d",
+    "slug": "participacion-del-cda-en-la-feria-expo-logisti-k-2026",
+    "organismo": "Aduana",
+    "fecha": "2026-08-03",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "LOGISTI-K",
+      "CDA",
+      "comercio exterior",
+      "cadena de suministro",
+      "feria internacional"
+    ],
+    "titulo": "Participación del CDA en la feria EXPO LOGISTI-K 2026",
+    "resumen": "El CDA ha anunciado su presencia institucional en la 16ª edición de la Exposición Internacional de Logística. Se trata de un evento enfocado en la actualización y vinculación del sector logístico.",
+    "queSignifica": "Es una noticia de carácter institucional sin impacto operativo directo. Se sugiere revisar la agenda de la exposición si se tiene interés en actualizar conocimientos sobre tendencias logísticas.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42634"
+    },
+    "publicadoEn": "2026-07-21T11:43:50.081Z",
+    "actualizadoEn": "2026-08-05T11:53:57.142Z"
+  },
+  {
+    "id": "2026-08-05-servicio-de-coworking-para-asociados-del-centro-despachantes-de-aduana-fe89bf",
+    "slug": "servicio-de-coworking-para-asociados-del-centro-despachantes-de-aduana",
+    "organismo": "Aduana",
+    "fecha": "2026-08-03",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "CDA",
+      "espacio de trabajo",
+      "servicios al asociado",
+      "infraestructura"
+    ],
+    "titulo": "Servicio de coworking para asociados del Centro Despachantes de Aduana",
+    "resumen": "El CDA recuerda la disponibilidad de espacios de oficina para sus asociados.",
+    "queSignifica": "Es una comunicación meramente institucional sobre servicios internos. Se recomienda verificar los términos y disponibilidad en el sitio oficial del CDA si requiere espacio físico operativo.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42526"
+    },
+    "publicadoEn": "2026-08-04T11:59:13.440Z",
+    "actualizadoEn": "2026-08-05T11:53:57.142Z"
+  },
+  {
+    "id": "2026-08-05-autogestion-de-inscripcion-en-renspa-y-programas-de-exportacion-fruticola-152d03",
+    "slug": "autogestion-de-inscripcion-en-renspa-y-programas-de-exportacion-fruticola",
+    "organismo": "SENASA",
+    "fecha": "2026-08-03",
+    "impacto": "medio",
+    "categoria": "exportacion",
+    "tags": [
+      "SENASA",
+      "Trazabilidad",
+      "RENSPA",
+      "Fruta",
+      "Exportación"
+    ],
+    "titulo": "Autogestión de inscripción en RENSPA y programas de exportación frutícola",
+    "resumen": "Los productores frutícolas de Río Negro y Neuquén deben inscribirse o actualizar sus registros a través del sistema SIGTRA de SENASA durante agosto.",
+    "queSignifica": "Verifique que su inscripción en RENSPA y los registros de programas de exportación estén vigentes en el SIGTRA antes de programar embarques. Asegúrese de contar con clave fiscal habilitada para gestionar estas actualizaciones.",
+    "fuente": {
+      "nombre": "SENASA Comunica",
+      "url": "https://www.argentina.gob.ar/noticias/inscripcion-en-renspa-y-programas-de-exportacion-para-productores-fruticolas-de-rio-negro-y"
+    },
+    "publicadoEn": "2026-08-03T12:52:36.464Z",
+    "actualizadoEn": "2026-08-05T11:53:57.142Z"
   },
   {
     "id": "2026-08-04-reglamentacion-del-regimen-de-envios-postales-con-finalidad-comercial-517f81",
@@ -47,100 +165,6 @@
     "normativaRef": "Resolución General 5886/2026",
     "publicadoEn": "2026-08-04T11:59:03.034Z",
     "actualizadoEn": "2026-08-04T11:59:23.713Z"
-  },
-  {
-    "id": "2026-08-04-participacion-del-cda-en-expo-logisti-k-2026-04150f",
-    "slug": "participacion-del-cda-en-expo-logisti-k-2026",
-    "organismo": "Aduana",
-    "fecha": "2026-08-03",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "CDA",
-      "logistica",
-      "comercio exterior",
-      "networking",
-      "feria internacional"
-    ],
-    "titulo": "Participación del CDA en EXPO LOGISTI-K 2026",
-    "resumen": "El CDA ha confirmado su presencia en la 16ª edición de la Exposición Internacional de Logística. Se trata de un evento informativo y de vinculación para los profesionales del sector.",
-    "queSignifica": "Es una noticia de carácter institucional sin impacto operativo inmediato. Se sugiere a los asociados mantenerse atentos a futuras comunicaciones para conocer si habrá espacios de asesoramiento técnico durante la feria.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42634"
-    },
-    "publicadoEn": "2026-07-21T11:43:50.081Z",
-    "actualizadoEn": "2026-08-04T11:59:23.713Z"
-  },
-  {
-    "id": "2026-08-04-disponibilidad-de-espacios-de-coworking-para-asociados-del-cda-b17c03",
-    "slug": "disponibilidad-de-espacios-de-coworking-para-asociados-del-cda",
-    "organismo": "Aduana",
-    "fecha": "2026-08-03",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "CDA",
-      "espacio de trabajo",
-      "servicios asociados",
-      "gestión aduanera"
-    ],
-    "titulo": "Disponibilidad de espacios de coworking para asociados del CDA",
-    "resumen": "El Centro Despachantes de Aduana comunica la disponibilidad de oficinas equipadas para el uso de sus asociados.",
-    "queSignifica": "Es una novedad de índole institucional. Se sugiere verificar en la web del CDA las condiciones de uso y disponibilidad en caso de requerir espacios físicos para reuniones o gestiones.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42526"
-    },
-    "publicadoEn": "2026-08-04T11:59:13.440Z",
-    "actualizadoEn": "2026-08-04T11:59:23.713Z"
-  },
-  {
-    "id": "2026-08-04-autogestion-de-inscripcion-en-renspa-para-productores-fruticolas-de-rio-negro-y--ee8abe",
-    "slug": "autogestion-de-inscripcion-en-renspa-para-productores-fruticolas-de-rio-negro-y-",
-    "organismo": "SENASA",
-    "fecha": "2026-08-03",
-    "impacto": "medio",
-    "categoria": "exportacion",
-    "tags": [
-      "SENASA",
-      "RENSPA",
-      "Trazabilidad Frutícola",
-      "Exportación",
-      "Certificación Fitosanitaria"
-    ],
-    "titulo": "Autogestión de inscripción en Renspa para productores frutícolas de Río Negro y Neuquén",
-    "resumen": "Los productores frutícolas de Río Negro y Neuquén pueden realizar la inscripción en el Renspa y adherir a programas de exportación mediante autogestión en el sistema SIGT durante agosto.",
-    "queSignifica": "Los exportadores deben verificar que sus productores proveedores hayan regularizado esta inscripción para evitar trabas en la emisión de certificados fitosanitarios. Se sugiere confirmar el estado de alta en el sistema SIGT antes de programar embarques.",
-    "fuente": {
-      "nombre": "SENASA Comunica",
-      "url": "https://www.argentina.gob.ar/noticias/inscripcion-en-renspa-y-programas-de-exportacion-para-productores-fruticolas-de-rio-negro-y"
-    },
-    "publicadoEn": "2026-08-03T12:52:36.464Z",
-    "actualizadoEn": "2026-08-04T11:59:23.713Z"
-  },
-  {
-    "id": "2026-08-03-invitacion-a-la-3ra-edicion-de-los-desayunos-de-trabajo-del-cda-e27cb5",
-    "slug": "invitacion-a-la-3ra-edicion-de-los-desayunos-de-trabajo-del-cda",
-    "organismo": "Aduana",
-    "fecha": "2026-07-31",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "capacitación",
-      "profesionalización",
-      "comercio exterior",
-      "actualización"
-    ],
-    "titulo": "Invitación a la 3ra edición de los Desayunos de Trabajo del CDA",
-    "resumen": "El CDA organiza un evento de encuentro y capacitación para sus asociados a nivel nacional.",
-    "queSignifica": "Esta noticia es de carácter institucional y no afecta la operatividad aduanera. Se recomienda consultar el cronograma del evento si desea participar en instancias de actualización profesional.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42644"
-    },
-    "publicadoEn": "2026-07-23T11:47:02.961Z",
-    "actualizadoEn": "2026-08-03T12:52:47.059Z"
   },
   {
     "id": "2026-08-03-capacitacion-sobre-importacion-de-productos-medicos-33e332",
@@ -603,30 +627,5 @@
     },
     "publicadoEn": "2026-07-23T11:47:22.885Z",
     "actualizadoEn": "2026-07-24T11:38:32.188Z"
-  },
-  {
-    "id": "2026-07-23-actualizacion-sobre-acceso-al-mercado-unico-y-libre-de-cambios-para-operaciones--50622a",
-    "slug": "actualizacion-sobre-acceso-al-mercado-unico-y-libre-de-cambios-para-operaciones-",
-    "organismo": "BCRA",
-    "fecha": "2026-07-21",
-    "impacto": "alto",
-    "categoria": "normativa",
-    "tags": [
-      "MULC",
-      "Acceso a divisas",
-      "BCRA",
-      "Pagos al exterior",
-      "Comunicación A"
-    ],
-    "titulo": "Actualización sobre acceso al Mercado Único y Libre de Cambios para operaciones de comercio exterior",
-    "resumen": "La norma establece nuevos lineamientos para el acceso al mercado de cambios para el pago de obligaciones vinculadas a operaciones de comercio exterior. Define condiciones específicas de cumplimiento documental y plazos para la cancelación de compromisos con el exterior.",
-    "queSignifica": "Debe revisar el estado de sus operaciones pendientes de pago y verificar la normativa de acceso al MULC para asegurar el cumplimiento de las nuevas condiciones. Se sugiere consultar con su entidad bancaria para validar si sus operaciones específicas requieren adecuaciones adicionales antes de ejecutar el giro de divisas.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/344667/20260721"
-    },
-    "normativaRef": "Comunicación \"A\" 8455/2026",
-    "publicadoEn": "2026-07-21T11:43:24.411Z",
-    "actualizadoEn": "2026-07-23T11:47:38.371Z"
   }
 ]
