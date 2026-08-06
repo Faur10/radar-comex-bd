@@ -1,145 +1,266 @@
 [
   {
-    "id": "2026-08-05-actualizacion-del-tipo-de-cambio-oficial-del-bcra-2c5a06",
-    "slug": "actualizacion-del-tipo-de-cambio-oficial-del-bcra",
+    "id": "2026-08-06-actualizacion-del-tipo-de-cambio-de-referencia-del-bcra-para-operaciones-mulc-55d286",
+    "slug": "actualizacion-del-tipo-de-cambio-de-referencia-del-bcra-para-operaciones-mulc",
     "organismo": "BCRA",
-    "fecha": "2026-08-05",
+    "fecha": "2026-08-06",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
       "tipo de cambio",
       "divisas",
-      "comercio exterior",
+      "BCRA",
       "operaciones cambiarias"
     ],
-    "titulo": "Actualización del tipo de cambio oficial del BCRA",
-    "resumen": "Se informa el valor del tipo de cambio oficial del MULC vigente para la fecha indicada. Este valor es la referencia para la liquidación de divisas en operaciones de comercio exterior.",
-    "queSignifica": "Se recomienda verificar el tipo de cambio oficial al momento de realizar el cierre de cambio o liquidación de divisas. Es prudente validar la aplicación de este valor en las carpetas de seguimiento cambiario con su entidad bancaria.",
+    "titulo": "Actualización del tipo de cambio de referencia del BCRA para operaciones MULC",
+    "resumen": "El BCRA ha fijado el tipo de cambio oficial para el Mercado Único y Libre de Cambios (MULC) en 1056.68 pesos por dólar estadounidense para la fecha indicada.",
+    "queSignifica": "Verifique este valor al momento de realizar sus liquidaciones o pagos de divisas en el MULC. Se sugiere revisar la aplicación de este tipo de cambio en sus registros contables y operativas bancarias vigentes.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-08-05T11:53:57.142Z"
+    "actualizadoEn": "2026-08-06T11:59:29.412Z"
   },
   {
-    "id": "2026-08-05-convocatoria-del-cda-a-las-actividades-por-el-dia-del-despachante-de-aduana-a41b5f",
-    "slug": "convocatoria-del-cda-a-las-actividades-por-el-dia-del-despachante-de-aduana",
+    "id": "2026-08-06-convocatoria-a-asamblea-general-extraordinaria-del-cda-fac02c",
+    "slug": "convocatoria-a-asamblea-general-extraordinaria-del-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-08-06",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "CDA",
+      "Institucional",
+      "Gremial",
+      "Estatuto Social",
+      "Asamblea"
+    ],
+    "titulo": "Convocatoria a Asamblea General Extraordinaria del CDA",
+    "resumen": "Se informa la convocatoria a los socios del Centro Despachantes de Aduana para la celebración de una Asamblea General Extraordinaria conforme a sus estatutos.",
+    "queSignifica": "Es una comunicación de carácter institucional y gremial. Se sugiere a los asociados verificar el orden del día publicado para determinar si existen temas que requieran su participación o representación.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42621"
+    },
+    "publicadoEn": "2026-07-21T11:43:55.231Z",
+    "actualizadoEn": "2026-08-06T11:59:29.412Z"
+  },
+  {
+    "id": "2026-08-06-anmat-prohibe-la-comercializacion-de-tres-lotes-especificos-del-medicamento-zetr-5bbaba",
+    "slug": "anmat-prohibe-la-comercializacion-de-tres-lotes-especificos-del-medicamento-zetr",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-08-06",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "ANMAT",
+      "control sanitario",
+      "medicamentos",
+      "bloqueo de mercadería",
+      "seguridad regulatoria"
+    ],
+    "titulo": "ANMAT prohíbe la comercialización de tres lotes específicos del medicamento ZETROTRAX",
+    "resumen": "La normativa ordena el retiro del mercado y prohíbe la comercialización de tres lotes identificados del fármaco ZETROTRAX por irregularidades detectadas. La medida rige en todo el territorio nacional.",
+    "queSignifica": "Debe verificar inmediatamente el stock o los embarques en tránsito para identificar si coinciden con los lotes afectados. Se recomienda suspender cualquier gestión de despacho o comercialización de dichos lotes y consultar con el servicio técnico de la firma importadora para determinar el curso de acción.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-tres-lotes-del-medicamento-zetrotrax"
+    },
+    "publicadoEn": "2026-08-06T11:59:18.989Z",
+    "actualizadoEn": "2026-08-06T11:59:29.412Z"
+  },
+  {
+    "id": "2026-08-06-prohibicion-de-comercializacion-y-uso-de-lotes-especificos-de-gramon-millet-sa-4f3d88",
+    "slug": "prohibicion-de-comercializacion-y-uso-de-lotes-especificos-de-gramon-millet-sa",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-08-06",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "ANMAT",
+      "intervención",
+      "productos farmacéuticos",
+      "control sanitario",
+      "prohibición"
+    ],
+    "titulo": "Prohibición de comercialización y uso de lotes específicos de Gramon Millet S.A.",
+    "resumen": "La ANMAT prohibió la comercialización y uso en todo el país de dos lotes de medicamentos antiinflamatorios de la firma Gramon Millet S.A. por irregularidades detectadas.",
+    "queSignifica": "Se debe verificar de inmediato el stock y los despachos en curso para identificar si los números de lote coinciden con la normativa, evitando su comercialización o ingreso a plaza hasta obtener precisiones de la autoridad sanitaria.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-dos-lotes-de-medicamentos-desinflamantes-de-la-firma-gramon-millet-sa"
+    },
+    "publicadoEn": "2026-08-06T11:59:24.355Z",
+    "actualizadoEn": "2026-08-06T11:59:29.412Z"
+  },
+  {
+    "id": "2026-08-06-actualizacion-de-normas-cambiarias-para-el-acceso-al-mulc-fbb41d",
+    "slug": "actualizacion-de-normas-cambiarias-para-el-acceso-al-mulc",
+    "organismo": "BCRA",
+    "fecha": "2026-08-05",
+    "impacto": "alto",
+    "categoria": "normativa",
+    "tags": [
+      "MULC",
+      "Acceso a divisas",
+      "BCRA",
+      "Pagos al exterior",
+      "Liquidación de divisas"
+    ],
+    "titulo": "Actualización de normas cambiarias para el acceso al MULC",
+    "resumen": "La comunicación establece nuevas condiciones y requisitos procedimentales para el acceso al Mercado Único y Libre de Cambios. Modifica los criterios vigentes para el cursado de pagos por operaciones de comercio exterior.",
+    "queSignifica": "Es necesario verificar con su entidad bancaria si las operaciones en curso cumplen con los nuevos requisitos documentales o las restricciones impuestas por la normativa. Se sugiere realizar una auditoría inmediata sobre la documentación respaldatoria antes de cursar cualquier pago.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/345443/20260805"
+    },
+    "normativaRef": "Comunicación \"A\" 8463/2026",
+    "publicadoEn": "2026-08-06T11:58:37.892Z",
+    "actualizadoEn": "2026-08-06T11:59:29.412Z"
+  },
+  {
+    "id": "2026-08-06-decomiso-de-carga-vegetal-por-falta-de-documentacion-fitosanitaria-en-chaco-b951b5",
+    "slug": "decomiso-de-carga-vegetal-por-falta-de-documentacion-fitosanitaria-en-chaco",
+    "organismo": "SENASA",
+    "fecha": "2026-08-05",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "fitosanitario",
+      "SENASA",
+      "control aduanero",
+      "documentacion",
+      "transporte"
+    ],
+    "titulo": "Decomiso de carga vegetal por falta de documentación fitosanitaria en Chaco",
+    "resumen": "El SENASA procedió a la desnaturalización de 16 toneladas de papas transportadas sin la documentación sanitaria exigible. La medida busca prevenir la dispersión de plagas y proteger el estatus fitosanitario nacional.",
+    "queSignifica": "Se sugiere verificar la vigencia de toda la documentación sanitaria y los permisos de tránsito federal previo al inicio de cualquier operación logística. Asegúrese de contar con los certificados correspondientes para evitar incautaciones por incumplimiento de normativas de control vegetal.",
+    "fuente": {
+      "nombre": "SENASA Comunica",
+      "url": "https://www.argentina.gob.ar/noticias/chaco-se-detectaron-16-toneladas-de-papas-transportadas-sin-documentacion-sanitaria"
+    },
+    "publicadoEn": "2026-08-06T11:59:08.764Z",
+    "actualizadoEn": "2026-08-06T11:59:29.412Z"
+  },
+  {
+    "id": "2026-08-06-convocatoria-del-cda-por-el-dia-del-despachante-de-aduana-a8463a",
+    "slug": "convocatoria-del-cda-por-el-dia-del-despachante-de-aduana",
     "organismo": "Aduana",
     "fecha": "2026-08-04",
     "impacto": "bajo",
     "categoria": "normativa",
     "tags": [
-      "institucional",
+      "CDA",
+      "gremial",
       "capacitacion",
-      "comercio exterior",
-      "despachante",
-      "cda"
+      "comercio exterior"
     ],
-    "titulo": "Convocatoria del CDA a las actividades por el Día del Despachante de Aduana",
-    "resumen": "El Centro Despachantes de Aduana organiza eventos y actividades con motivo de la celebración del Día del Despachante.",
-    "queSignifica": "Es una comunicación meramente institucional sin impacto en la operatoria de comercio exterior; se recomienda consultar los canales oficiales del CDA para obtener el cronograma de actividades.",
+    "titulo": "Convocatoria del CDA por el Día del Despachante de Aduana",
+    "resumen": "El Centro Despachantes de Aduana convoca a sus asociados a participar en las actividades organizadas por su día institucional.",
+    "queSignifica": "Esta comunicación es de carácter institucional y no afecta la operativa aduanera. Se sugiere verificar el cronograma de actividades en los canales oficiales del CDA por si surgieran cierres administrativos excepcionales.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42667"
     },
     "publicadoEn": "2026-08-05T11:53:32.158Z",
-    "actualizadoEn": "2026-08-05T11:53:57.142Z"
+    "actualizadoEn": "2026-08-06T11:59:29.412Z"
   },
   {
-    "id": "2026-08-05-3ra-edicion-de-los-desayunos-de-trabajo-del-cda-09f4ec",
-    "slug": "3ra-edicion-de-los-desayunos-de-trabajo-del-cda",
+    "id": "2026-08-06-invitacion-a-la-3ra-edicion-de-los-desayunos-de-trabajo-del-cda-801f91",
+    "slug": "invitacion-a-la-3ra-edicion-de-los-desayunos-de-trabajo-del-cda",
     "organismo": "Aduana",
     "fecha": "2026-08-04",
     "impacto": "bajo",
     "categoria": "normativa",
     "tags": [
       "capacitación",
-      "actualidad aduanera",
       "profesionalización",
+      "actualización",
       "comercio exterior"
     ],
-    "titulo": "3ra edición de los Desayunos de Trabajo del CDA",
-    "resumen": "El Centro Despachantes de Aduana convoca a sus asociados a un espacio de encuentro y actualización profesional.",
-    "queSignifica": "Se sugiere revisar la agenda del evento para evaluar la relevancia de los temas a tratar en la operatoria diaria del estudio.",
+    "titulo": "Invitación a la 3ra edición de los Desayunos de Trabajo del CDA",
+    "resumen": "El Centro Despachantes de Aduana convoca a sus asociados a una nueva instancia de encuentro y actualización profesional.",
+    "queSignifica": "Se recomienda a los asociados verificar el temario de la convocatoria para evaluar su interés en la actualización profesional, sin impacto en la operatividad de sus destinaciones.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42644"
     },
     "publicadoEn": "2026-07-23T11:47:02.961Z",
-    "actualizadoEn": "2026-08-05T11:53:57.142Z"
+    "actualizadoEn": "2026-08-06T11:59:29.412Z"
   },
   {
-    "id": "2026-08-05-participacion-del-cda-en-la-feria-expo-logisti-k-2026-28798d",
-    "slug": "participacion-del-cda-en-la-feria-expo-logisti-k-2026",
+    "id": "2026-08-06-participacion-del-cda-en-la-16-exposicion-internacional-expo-logisti-k-71e48e",
+    "slug": "participacion-del-cda-en-la-16-exposicion-internacional-expo-logisti-k",
     "organismo": "Aduana",
     "fecha": "2026-08-03",
     "impacto": "bajo",
     "categoria": "logistica",
     "tags": [
-      "LOGISTI-K",
       "CDA",
+      "logística",
       "comercio exterior",
-      "cadena de suministro",
-      "feria internacional"
+      "feria internacional",
+      "networking"
     ],
-    "titulo": "Participación del CDA en la feria EXPO LOGISTI-K 2026",
-    "resumen": "El CDA ha anunciado su presencia institucional en la 16ª edición de la Exposición Internacional de Logística. Se trata de un evento enfocado en la actualización y vinculación del sector logístico.",
-    "queSignifica": "Es una noticia de carácter institucional sin impacto operativo directo. Se sugiere revisar la agenda de la exposición si se tiene interés en actualizar conocimientos sobre tendencias logísticas.",
+    "titulo": "Participación del CDA en la 16ª Exposición Internacional EXPO LOGISTI-K",
+    "resumen": "El Centro de Despachantes de Aduana anuncia su presencia institucional en la próxima edición de EXPO LOGISTI-K. El evento busca promover el intercambio profesional y la actualización en soluciones logísticas.",
+    "queSignifica": "Esta información es de carácter institucional y no afecta la operatividad aduanera. Se recomienda a los asociados verificar el calendario de actividades de la exposición si desean participar o asistir.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42634"
     },
     "publicadoEn": "2026-07-21T11:43:50.081Z",
-    "actualizadoEn": "2026-08-05T11:53:57.142Z"
+    "actualizadoEn": "2026-08-06T11:59:29.412Z"
   },
   {
-    "id": "2026-08-05-servicio-de-coworking-para-asociados-del-centro-despachantes-de-aduana-fe89bf",
-    "slug": "servicio-de-coworking-para-asociados-del-centro-despachantes-de-aduana",
+    "id": "2026-08-06-disponibilidad-de-espacios-de-coworking-para-asociados-del-cda-deb72e",
+    "slug": "disponibilidad-de-espacios-de-coworking-para-asociados-del-cda",
     "organismo": "Aduana",
     "fecha": "2026-08-03",
     "impacto": "bajo",
     "categoria": "logistica",
     "tags": [
       "CDA",
-      "espacio de trabajo",
-      "servicios al asociado",
-      "infraestructura"
+      "infraestructura",
+      "servicios",
+      "gestión operativa",
+      "oficinas"
     ],
-    "titulo": "Servicio de coworking para asociados del Centro Despachantes de Aduana",
-    "resumen": "El CDA recuerda la disponibilidad de espacios de oficina para sus asociados.",
-    "queSignifica": "Es una comunicación meramente institucional sobre servicios internos. Se recomienda verificar los términos y disponibilidad en el sitio oficial del CDA si requiere espacio físico operativo.",
+    "titulo": "Disponibilidad de espacios de coworking para asociados del CDA",
+    "resumen": "El Centro Despachantes de Aduana informa la disponibilidad de espacios de trabajo compartido para sus asociados.",
+    "queSignifica": "Esta información es de carácter institucional y no afecta los procedimientos operativos ni aduaneros. Se sugiere revisar los términos y condiciones de uso del espacio en el portal del CDA en caso de requerir instalaciones para el desarrollo de sus tareas.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42526"
     },
     "publicadoEn": "2026-08-04T11:59:13.440Z",
-    "actualizadoEn": "2026-08-05T11:53:57.142Z"
+    "actualizadoEn": "2026-08-06T11:59:29.412Z"
   },
   {
-    "id": "2026-08-05-autogestion-de-inscripcion-en-renspa-y-programas-de-exportacion-fruticola-152d03",
-    "slug": "autogestion-de-inscripcion-en-renspa-y-programas-de-exportacion-fruticola",
+    "id": "2026-08-06-autogestion-de-inscripcion-en-renspa-para-productores-fruticolas-de-rio-negro-y--46bab4",
+    "slug": "autogestion-de-inscripcion-en-renspa-para-productores-fruticolas-de-rio-negro-y-",
     "organismo": "SENASA",
     "fecha": "2026-08-03",
     "impacto": "medio",
     "categoria": "exportacion",
     "tags": [
       "SENASA",
-      "Trazabilidad",
       "RENSPA",
+      "Trazabilidad",
       "Fruta",
       "Exportación"
     ],
-    "titulo": "Autogestión de inscripción en RENSPA y programas de exportación frutícola",
-    "resumen": "Los productores frutícolas de Río Negro y Neuquén deben inscribirse o actualizar sus registros a través del sistema SIGTRA de SENASA durante agosto.",
-    "queSignifica": "Verifique que su inscripción en RENSPA y los registros de programas de exportación estén vigentes en el SIGTRA antes de programar embarques. Asegúrese de contar con clave fiscal habilitada para gestionar estas actualizaciones.",
+    "titulo": "Autogestión de inscripción en RENSPA para productores frutícolas de Río Negro y Neuquén",
+    "resumen": "Se habilita el proceso de autogestión para la inscripción y actualización en el RENSPA y programas de exportación durante agosto. El trámite se formaliza a través del sistema SIGTRA de SENASA mediante clave fiscal.",
+    "queSignifica": "Los exportadores frutícolas de la región deben verificar que sus proveedores mantengan vigente la inscripción en el sistema para evitar demoras en la emisión de certificados fitosanitarios. Se recomienda revisar el estado del registro de los productores asociados antes de iniciar operaciones de exportación.",
     "fuente": {
       "nombre": "SENASA Comunica",
       "url": "https://www.argentina.gob.ar/noticias/inscripcion-en-renspa-y-programas-de-exportacion-para-productores-fruticolas-de-rio-negro-y"
     },
     "publicadoEn": "2026-08-03T12:52:36.464Z",
-    "actualizadoEn": "2026-08-05T11:53:57.142Z"
+    "actualizadoEn": "2026-08-06T11:59:29.412Z"
   },
   {
     "id": "2026-08-04-reglamentacion-del-regimen-de-envios-postales-con-finalidad-comercial-517f81",
@@ -335,30 +456,6 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42658"
     },
     "publicadoEn": "2026-07-30T11:47:29.016Z",
-    "actualizadoEn": "2026-07-31T11:54:30.765Z"
-  },
-  {
-    "id": "2026-07-31-convocatoria-a-asamblea-general-extraordinaria-del-cda-c3f0fe",
-    "slug": "convocatoria-a-asamblea-general-extraordinaria-del-cda",
-    "organismo": "Aduana",
-    "fecha": "2026-07-28",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "CDA",
-      "Asamblea General",
-      "Estatuto Social",
-      "Gremial",
-      "Institucional"
-    ],
-    "titulo": "Convocatoria a Asamblea General Extraordinaria del CDA",
-    "resumen": "El Centro Despachantes de Aduana convoca a sus socios a una Asamblea General Extraordinaria según su estatuto social.",
-    "queSignifica": "Es una comunicación de carácter institucional y gremial sin impacto directo en la operativa aduanera diaria. Se recomienda a los socios verificar el temario de la convocatoria en el sitio oficial del CDA para conocer los asuntos a tratar.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42621"
-    },
-    "publicadoEn": "2026-07-21T11:43:55.231Z",
     "actualizadoEn": "2026-07-31T11:54:30.765Z"
   },
   {
@@ -602,30 +699,6 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42646"
     },
     "publicadoEn": "2026-07-24T11:38:16.682Z",
-    "actualizadoEn": "2026-07-24T11:38:32.188Z"
-  },
-  {
-    "id": "2026-07-24-refuerzo-de-controles-sanitarios-en-aeropuerto-cordoba-0d4212",
-    "slug": "refuerzo-de-controles-sanitarios-en-aeropuerto-cordoba",
-    "organismo": "SENASA",
-    "fecha": "2026-07-22",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "SENASA",
-      "fitozoosanitario",
-      "controles aduaneros",
-      "mercaderia prohibida",
-      "seguridad fronteriza"
-    ],
-    "titulo": "Refuerzo de controles sanitarios en Aeropuerto Córdoba",
-    "resumen": "El SENASA intensificó los controles de equipaje y carga en el Aeropuerto de Córdoba para evitar el ingreso de productos prohibidos. La medida busca proteger el estatus fitozoosanitario nacional mediante el decomiso de mercadería no autorizada.",
-    "queSignifica": "Se sugiere verificar que todas las cargas con productos de origen animal o vegetal cuenten con la certificación sanitaria correspondiente. Ante la duda, revise la normativa vigente de SENASA sobre prohibiciones de ingreso para evitar demoras o decomisos en terminales aeroportuarias.",
-    "fuente": {
-      "nombre": "SENASA Comunica",
-      "url": "https://www.argentina.gob.ar/noticias/controles-sanitarios-en-el-aeropuerto-internacional-cordoba-en-el-primer-semestre-2026"
-    },
-    "publicadoEn": "2026-07-23T11:47:22.885Z",
     "actualizadoEn": "2026-07-24T11:38:32.188Z"
   }
 ]
