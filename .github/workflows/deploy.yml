@@ -1,0 +1,48 @@
+name: Deploy sitio a hosting (cPanel)
+
+# Se dispara con cualquier push manual a main, y también cuando termina el
+# job diario del radar (radar.yml). Nota: el push que hace radar.yml usa
+# GITHUB_TOKEN, y GitHub no deja que ese tipo de push dispare otros workflows
+# por "on: push" — por eso se usa workflow_run como disparador adicional.
+on:
+  push:
+    branches: [main]
+  workflow_run:
+    workflows: ["Radar COMEX BD – Actualización diaria (L-V)"]
+    types: [completed]
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    name: Build export estático y subir por FTP
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
+
+    steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Configurar Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Instalar dependencias
+        run: npm ci
+
+      - name: Build export estático (carpeta out/)
+        run: npm run build
+
+      - name: Subir out/ al hosting vía FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftps
+          local-dir: ./out/
+          server-dir: ./
