@@ -1,9 +1,9 @@
 [
   {
-    "id": "2026-08-06-actualizacion-del-tipo-de-cambio-de-referencia-del-bcra-para-operaciones-mulc-55d286",
-    "slug": "actualizacion-del-tipo-de-cambio-de-referencia-del-bcra-para-operaciones-mulc",
+    "id": "2026-08-07-actualizacion-de-la-cotizacion-de-referencia-del-dolar-oficial-mulc-5f6cd8",
+    "slug": "actualizacion-de-la-cotizacion-de-referencia-del-dolar-oficial-mulc",
     "organismo": "BCRA",
-    "fecha": "2026-08-06",
+    "fecha": "2026-08-07",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
@@ -11,20 +11,66 @@
       "tipo de cambio",
       "divisas",
       "BCRA",
-      "operaciones cambiarias"
+      "cotización"
     ],
-    "titulo": "Actualización del tipo de cambio de referencia del BCRA para operaciones MULC",
-    "resumen": "El BCRA ha fijado el tipo de cambio oficial para el Mercado Único y Libre de Cambios (MULC) en 1056.68 pesos por dólar estadounidense para la fecha indicada.",
-    "queSignifica": "Verifique este valor al momento de realizar sus liquidaciones o pagos de divisas en el MULC. Se sugiere revisar la aplicación de este tipo de cambio en sus registros contables y operativas bancarias vigentes.",
+    "titulo": "Actualización de la cotización de referencia del dólar oficial MULC",
+    "resumen": "El BCRA establece el valor diario del dólar oficial para las operaciones cursadas a través del Mercado Único y Libre de Cambios.",
+    "queSignifica": "Debe utilizar esta cotización para actualizar sus proyecciones de costos y proformas. Se sugiere revisar la concordancia de este valor con la liquidación de sus operaciones bancarias vigentes.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-08-06T11:59:29.412Z"
+    "actualizadoEn": "2026-08-07T10:45:16.407Z"
   },
   {
-    "id": "2026-08-06-convocatoria-a-asamblea-general-extraordinaria-del-cda-fac02c",
+    "id": "2026-08-07-nueva-asesoria-especializada-en-seguros-para-socios-del-cda-07cb38",
+    "slug": "nueva-asesoria-especializada-en-seguros-para-socios-del-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-08-06",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "seguro de transporte",
+      "gestión de riesgos",
+      "despachante de aduana",
+      "asesoría técnica",
+      "comercio exterior"
+    ],
+    "titulo": "Nueva asesoría especializada en seguros para socios del CDA",
+    "resumen": "El Centro Despachantes de Aduana habilitó un nuevo canal de asesoramiento técnico sobre seguros.",
+    "queSignifica": "Se recomienda evaluar el alcance de este nuevo servicio para consultar dudas sobre pólizas y coberturas en sus operaciones. Verifique si sus pólizas vigentes se ajustan a los riesgos actuales de su carga.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42619"
+    },
+    "publicadoEn": "2026-08-07T10:44:40.816Z",
+    "actualizadoEn": "2026-08-07T10:45:16.407Z"
+  },
+  {
+    "id": "2026-08-07-actividades-por-el-dia-del-despachante-de-aduana-ad6b47",
+    "slug": "actividades-por-el-dia-del-despachante-de-aduana",
+    "organismo": "Aduana",
+    "fecha": "2026-08-06",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "CDA",
+      "institucional",
+      "comunidad profesional"
+    ],
+    "titulo": "Actividades por el Día del Despachante de Aduana",
+    "resumen": "El CDA convoca a sus asociados a participar de las actividades programadas en conmemoración del Día del Despachante de Aduana.",
+    "queSignifica": "Es una comunicación meramente institucional sin impacto en la operatoria de comercio exterior; se sugiere consultar el sitio oficial del CDA por si existiera alguna restricción horaria o atención reducida en dichas fechas.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42667"
+    },
+    "publicadoEn": "2026-08-05T11:53:32.158Z",
+    "actualizadoEn": "2026-08-07T10:45:16.407Z"
+  },
+  {
+    "id": "2026-08-07-convocatoria-a-asamblea-general-extraordinaria-del-cda-b01cb7",
     "slug": "convocatoria-a-asamblea-general-extraordinaria-del-cda",
     "organismo": "Aduana",
     "fecha": "2026-08-06",
@@ -32,96 +78,95 @@
     "categoria": "normativa",
     "tags": [
       "CDA",
-      "Institucional",
-      "Gremial",
-      "Estatuto Social",
-      "Asamblea"
+      "institucional",
+      "asamblea",
+      "gestión gremial"
     ],
     "titulo": "Convocatoria a Asamblea General Extraordinaria del CDA",
-    "resumen": "Se informa la convocatoria a los socios del Centro Despachantes de Aduana para la celebración de una Asamblea General Extraordinaria conforme a sus estatutos.",
-    "queSignifica": "Es una comunicación de carácter institucional y gremial. Se sugiere a los asociados verificar el orden del día publicado para determinar si existen temas que requieran su participación o representación.",
+    "resumen": "El Centro Despachantes de Aduana convoca a sus socios a una Asamblea General Extraordinaria según el estatuto vigente.",
+    "queSignifica": "Se recomienda a los socios verificar el orden del día y participar si les interesa la gestión gremial, ya que no impacta directamente en las operaciones aduaneras diarias.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42621"
     },
     "publicadoEn": "2026-07-21T11:43:55.231Z",
-    "actualizadoEn": "2026-08-06T11:59:29.412Z"
+    "actualizadoEn": "2026-08-07T10:45:16.407Z"
   },
   {
-    "id": "2026-08-06-anmat-prohibe-la-comercializacion-de-tres-lotes-especificos-del-medicamento-zetr-5bbaba",
-    "slug": "anmat-prohibe-la-comercializacion-de-tres-lotes-especificos-del-medicamento-zetr",
+    "id": "2026-08-07-anmat-prohibe-comercializacion-y-uso-de-tres-lotes-del-medicamento-zetrotrax-90a181",
+    "slug": "anmat-prohibe-comercializacion-y-uso-de-tres-lotes-del-medicamento-zetrotrax",
     "organismo": "ANMAT / INAL",
     "fecha": "2026-08-06",
     "impacto": "alto",
     "categoria": "importacion",
     "tags": [
       "ANMAT",
-      "control sanitario",
+      "bloqueo aduanero",
+      "seguridad sanitaria",
       "medicamentos",
-      "bloqueo de mercadería",
-      "seguridad regulatoria"
+      "interdicción"
     ],
-    "titulo": "ANMAT prohíbe la comercialización de tres lotes específicos del medicamento ZETROTRAX",
-    "resumen": "La normativa ordena el retiro del mercado y prohíbe la comercialización de tres lotes identificados del fármaco ZETROTRAX por irregularidades detectadas. La medida rige en todo el territorio nacional.",
-    "queSignifica": "Debe verificar inmediatamente el stock o los embarques en tránsito para identificar si coinciden con los lotes afectados. Se recomienda suspender cualquier gestión de despacho o comercialización de dichos lotes y consultar con el servicio técnico de la firma importadora para determinar el curso de acción.",
+    "titulo": "ANMAT prohíbe comercialización y uso de tres lotes del medicamento ZETROTRAX",
+    "resumen": "La medida dispone el retiro del mercado y la prohibición de uso y comercialización de tres lotes específicos del producto ZETROTRAX debido a irregularidades detectadas. La resolución obliga al cese inmediato de la distribución de las partidas afectadas.",
+    "queSignifica": "Debe verificar urgentemente el stock de su depósito y el estado de los despachos en curso para identificar si posee alguno de los lotes afectados. Se recomienda realizar una revisión exhaustiva de la trazabilidad y, ante cualquier coincidencia, abstenerse de cualquier movimiento aduanero o comercial hasta obtener instrucciones precisas de la autoridad.",
     "fuente": {
       "nombre": "ANMAT – Alertas",
       "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-tres-lotes-del-medicamento-zetrotrax"
     },
     "publicadoEn": "2026-08-06T11:59:18.989Z",
-    "actualizadoEn": "2026-08-06T11:59:29.412Z"
+    "actualizadoEn": "2026-08-07T10:45:16.407Z"
   },
   {
-    "id": "2026-08-06-prohibicion-de-comercializacion-y-uso-de-lotes-especificos-de-gramon-millet-sa-4f3d88",
-    "slug": "prohibicion-de-comercializacion-y-uso-de-lotes-especificos-de-gramon-millet-sa",
+    "id": "2026-08-07-anmat-prohibe-la-comercializacion-de-dos-lotes-de-desinflamantes-de-gramon-mille-75a70d",
+    "slug": "anmat-prohibe-la-comercializacion-de-dos-lotes-de-desinflamantes-de-gramon-mille",
     "organismo": "ANMAT / INAL",
     "fecha": "2026-08-06",
     "impacto": "alto",
     "categoria": "importacion",
     "tags": [
       "ANMAT",
-      "intervención",
+      "retirada de mercado",
       "productos farmacéuticos",
       "control sanitario",
-      "prohibición"
+      "gestión de riesgos"
     ],
-    "titulo": "Prohibición de comercialización y uso de lotes específicos de Gramon Millet S.A.",
-    "resumen": "La ANMAT prohibió la comercialización y uso en todo el país de dos lotes de medicamentos antiinflamatorios de la firma Gramon Millet S.A. por irregularidades detectadas.",
-    "queSignifica": "Se debe verificar de inmediato el stock y los despachos en curso para identificar si los números de lote coinciden con la normativa, evitando su comercialización o ingreso a plaza hasta obtener precisiones de la autoridad sanitaria.",
+    "titulo": "ANMAT prohíbe la comercialización de dos lotes de desinflamantes de Gramon Millet S.A.",
+    "resumen": "La autoridad regulatoria dispuso el retiro del mercado y la prohibición de comercializar dos lotes específicos de medicamentos antiinflamatorios producidos por la firma Gramon Millet S.A. debido a irregularidades detectadas.",
+    "queSignifica": "Los importadores o distribuidores que operen con esta línea deben verificar inmediatamente si poseen unidades de los lotes afectados en stock o en tránsito, bloqueando su comercialización y consultando con la firma los pasos para la devolución o destrucción según protocolo de ANMAT.",
     "fuente": {
       "nombre": "ANMAT – Alertas",
       "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-dos-lotes-de-medicamentos-desinflamantes-de-la-firma-gramon-millet-sa"
     },
     "publicadoEn": "2026-08-06T11:59:24.355Z",
-    "actualizadoEn": "2026-08-06T11:59:29.412Z"
+    "actualizadoEn": "2026-08-07T10:45:16.407Z"
   },
   {
-    "id": "2026-08-06-actualizacion-de-normas-cambiarias-para-el-acceso-al-mulc-fbb41d",
-    "slug": "actualizacion-de-normas-cambiarias-para-el-acceso-al-mulc",
+    "id": "2026-08-07-actualizacion-de-normas-sobre-acceso-al-mercado-de-cambios-8e7601",
+    "slug": "actualizacion-de-normas-sobre-acceso-al-mercado-de-cambios",
     "organismo": "BCRA",
     "fecha": "2026-08-05",
     "impacto": "alto",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "Acceso a divisas",
+      "acceso al mercado de cambios",
       "BCRA",
-      "Pagos al exterior",
-      "Liquidación de divisas"
+      "pagos al exterior",
+      "normativa cambiaria"
     ],
-    "titulo": "Actualización de normas cambiarias para el acceso al MULC",
-    "resumen": "La comunicación establece nuevas condiciones y requisitos procedimentales para el acceso al Mercado Único y Libre de Cambios. Modifica los criterios vigentes para el cursado de pagos por operaciones de comercio exterior.",
-    "queSignifica": "Es necesario verificar con su entidad bancaria si las operaciones en curso cumplen con los nuevos requisitos documentales o las restricciones impuestas por la normativa. Se sugiere realizar una auditoría inmediata sobre la documentación respaldatoria antes de cursar cualquier pago.",
+    "titulo": "Actualización de normas sobre acceso al mercado de cambios",
+    "resumen": "La Comunicación A 8463 establece nuevas disposiciones sobre el acceso y la liquidación de divisas en el MULC. Regula las condiciones operativas para el pago de obligaciones con el exterior.",
+    "queSignifica": "Debe revisar el alcance de la norma frente a su perfil de cliente y las operaciones pendientes de pago. Se recomienda validar con su entidad bancaria la documentación exigible para dar curso a las transferencias según este nuevo marco.",
     "fuente": {
       "nombre": "Boletín Oficial de la República Argentina",
       "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/345443/20260805"
     },
     "normativaRef": "Comunicación \"A\" 8463/2026",
     "publicadoEn": "2026-08-06T11:58:37.892Z",
-    "actualizadoEn": "2026-08-06T11:59:29.412Z"
+    "actualizadoEn": "2026-08-07T10:45:16.407Z"
   },
   {
-    "id": "2026-08-06-decomiso-de-carga-vegetal-por-falta-de-documentacion-fitosanitaria-en-chaco-b951b5",
+    "id": "2026-08-07-decomiso-de-carga-vegetal-por-falta-de-documentacion-fitosanitaria-en-chaco-a1d6aa",
     "slug": "decomiso-de-carga-vegetal-por-falta-de-documentacion-fitosanitaria-en-chaco",
     "organismo": "SENASA",
     "fecha": "2026-08-05",
@@ -130,65 +175,42 @@
     "tags": [
       "fitosanitario",
       "SENASA",
-      "control aduanero",
-      "documentacion",
-      "transporte"
+      "documentación de transporte",
+      "barreras zoofitosanitarias",
+      "inspección"
     ],
     "titulo": "Decomiso de carga vegetal por falta de documentación fitosanitaria en Chaco",
-    "resumen": "El SENASA procedió a la desnaturalización de 16 toneladas de papas transportadas sin la documentación sanitaria exigible. La medida busca prevenir la dispersión de plagas y proteger el estatus fitosanitario nacional.",
-    "queSignifica": "Se sugiere verificar la vigencia de toda la documentación sanitaria y los permisos de tránsito federal previo al inicio de cualquier operación logística. Asegúrese de contar con los certificados correspondientes para evitar incautaciones por incumplimiento de normativas de control vegetal.",
+    "resumen": "El SENASA procedió a la desnaturalización de 16 toneladas de papa por incumplir con las normas de traslado y sanidad. La medida busca resguardar el estatus fitosanitario ante el movimiento de productos regulados.",
+    "queSignifica": "Se recomienda verificar siempre la vigencia de los certificados fitosanitarios y las guías de tránsito para mercaderías sujetas a control del SENASA. Asegúrese de que toda la documentación de respaldo acompañe la carga para evitar decomisos o sanciones durante el transporte.",
     "fuente": {
       "nombre": "SENASA Comunica",
       "url": "https://www.argentina.gob.ar/noticias/chaco-se-detectaron-16-toneladas-de-papas-transportadas-sin-documentacion-sanitaria"
     },
     "publicadoEn": "2026-08-06T11:59:08.764Z",
-    "actualizadoEn": "2026-08-06T11:59:29.412Z"
+    "actualizadoEn": "2026-08-07T10:45:16.407Z"
   },
   {
-    "id": "2026-08-06-convocatoria-del-cda-por-el-dia-del-despachante-de-aduana-a8463a",
-    "slug": "convocatoria-del-cda-por-el-dia-del-despachante-de-aduana",
-    "organismo": "Aduana",
-    "fecha": "2026-08-04",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "CDA",
-      "gremial",
-      "capacitacion",
-      "comercio exterior"
-    ],
-    "titulo": "Convocatoria del CDA por el Día del Despachante de Aduana",
-    "resumen": "El Centro Despachantes de Aduana convoca a sus asociados a participar en las actividades organizadas por su día institucional.",
-    "queSignifica": "Esta comunicación es de carácter institucional y no afecta la operativa aduanera. Se sugiere verificar el cronograma de actividades en los canales oficiales del CDA por si surgieran cierres administrativos excepcionales.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42667"
-    },
-    "publicadoEn": "2026-08-05T11:53:32.158Z",
-    "actualizadoEn": "2026-08-06T11:59:29.412Z"
-  },
-  {
-    "id": "2026-08-06-invitacion-a-la-3ra-edicion-de-los-desayunos-de-trabajo-del-cda-801f91",
-    "slug": "invitacion-a-la-3ra-edicion-de-los-desayunos-de-trabajo-del-cda",
+    "id": "2026-08-07-3ra-edicion-de-los-desayunos-de-trabajo-del-cda-ae8c92",
+    "slug": "3ra-edicion-de-los-desayunos-de-trabajo-del-cda",
     "organismo": "Aduana",
     "fecha": "2026-08-04",
     "impacto": "bajo",
     "categoria": "normativa",
     "tags": [
       "capacitación",
-      "profesionalización",
-      "actualización",
+      "actualización profesional",
+      "CDA",
       "comercio exterior"
     ],
-    "titulo": "Invitación a la 3ra edición de los Desayunos de Trabajo del CDA",
-    "resumen": "El Centro Despachantes de Aduana convoca a sus asociados a una nueva instancia de encuentro y actualización profesional.",
-    "queSignifica": "Se recomienda a los asociados verificar el temario de la convocatoria para evaluar su interés en la actualización profesional, sin impacto en la operatividad de sus destinaciones.",
+    "titulo": "3ra edición de los Desayunos de Trabajo del CDA",
+    "resumen": "El Centro Despachantes de Aduana organiza un encuentro para debatir temas actuales de la profesión.",
+    "queSignifica": "Es una instancia de capacitación institucional. Se recomienda revisar el cronograma por si se abordan actualizaciones normativas de interés para su operativa.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42644"
     },
     "publicadoEn": "2026-07-23T11:47:02.961Z",
-    "actualizadoEn": "2026-08-06T11:59:29.412Z"
+    "actualizadoEn": "2026-08-07T10:45:16.407Z"
   },
   {
     "id": "2026-08-06-participacion-del-cda-en-la-16-exposicion-internacional-expo-logisti-k-71e48e",
@@ -652,53 +674,5 @@
     },
     "publicadoEn": "2026-07-17T11:17:01.820Z",
     "actualizadoEn": "2026-07-27T12:54:04.117Z"
-  },
-  {
-    "id": "2026-07-24-campana-de-vacunacion-contra-la-gripe-para-socios-del-cda-738685",
-    "slug": "campana-de-vacunacion-contra-la-gripe-para-socios-del-cda",
-    "organismo": "Aduana",
-    "fecha": "2026-07-23",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "institucional",
-      "salud",
-      "despachantes",
-      "operatividad",
-      "gestión"
-    ],
-    "titulo": "Campaña de vacunación contra la gripe para socios del CDA",
-    "resumen": "El CDA informa sobre la implementación de una campaña de vacunación para sus socios fruto de gestiones institucionales. Se trata de una comunicación de carácter prestacional y no regulatoria.",
-    "queSignifica": "Es una acción orientada al bienestar de los socios; no implica cambios en procedimientos aduaneros. Se recomienda verificar los canales de comunicación del CDA para conocer los requisitos de acceso a la vacunación.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42410"
-    },
-    "publicadoEn": "2026-07-24T11:38:11.705Z",
-    "actualizadoEn": "2026-07-24T11:38:32.188Z"
-  },
-  {
-    "id": "2026-07-24-informe-del-indec-sobre-el-intercambio-comercial-argentino-de-junio-2026-96e60e",
-    "slug": "informe-del-indec-sobre-el-intercambio-comercial-argentino-de-junio-2026",
-    "organismo": "Aduana",
-    "fecha": "2026-07-23",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "comercio exterior",
-      "estadística",
-      "intercambio comercial",
-      "INDEC",
-      "indicadores"
-    ],
-    "titulo": "Informe del INDEC sobre el intercambio comercial argentino de junio 2026",
-    "resumen": "El informe presenta los índices de precios y cantidades del comercio exterior correspondientes al mes de junio de 2026. Se detallan las variaciones en las operaciones de exportación e importación del país.",
-    "queSignifica": "Es un reporte estadístico de carácter informativo que no modifica procedimientos aduaneros. Se recomienda revisar los datos para el análisis de mercado y la proyección estratégica de sus operaciones.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42646"
-    },
-    "publicadoEn": "2026-07-24T11:38:16.682Z",
-    "actualizadoEn": "2026-07-24T11:38:32.188Z"
   }
 ]
