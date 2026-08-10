@@ -1,27 +1,192 @@
 [
   {
-    "id": "2026-08-07-actualizacion-de-la-cotizacion-de-referencia-del-dolar-oficial-mulc-5f6cd8",
-    "slug": "actualizacion-de-la-cotizacion-de-referencia-del-dolar-oficial-mulc",
+    "id": "2026-08-10-actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc-9dc58b",
+    "slug": "actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc",
     "organismo": "BCRA",
-    "fecha": "2026-08-07",
+    "fecha": "2026-08-10",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
       "tipo de cambio",
       "divisas",
-      "BCRA",
-      "cotización"
+      "operaciones cambiarias",
+      "BCRA"
     ],
-    "titulo": "Actualización de la cotización de referencia del dólar oficial MULC",
-    "resumen": "El BCRA establece el valor diario del dólar oficial para las operaciones cursadas a través del Mercado Único y Libre de Cambios.",
-    "queSignifica": "Debe utilizar esta cotización para actualizar sus proyecciones de costos y proformas. Se sugiere revisar la concordancia de este valor con la liquidación de sus operaciones bancarias vigentes.",
+    "titulo": "Actualización de la cotización oficial del dólar en el MULC",
+    "resumen": "El BCRA establece el tipo de cambio oficial para las operaciones cursadas a través del Mercado Único y Libre de Cambios (MULC) al 7 de agosto de 2026.",
+    "queSignifica": "Verifique el valor informado al liquidar divisas o cancelar pagos al exterior. Se recomienda revisar la posición cambiaria de cada operación para asegurar la correcta conversión de los montos a ingresar o egresar.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-08-07T10:45:16.407Z"
+    "actualizadoEn": "2026-08-10T11:01:35.860Z"
+  },
+  {
+    "id": "2026-08-10-invitacion-a-la-celebracion-del-114-aniversario-del-centro-despachantes-de-aduan-6b1cba",
+    "slug": "invitacion-a-la-celebracion-del-114-aniversario-del-centro-despachantes-de-aduan",
+    "organismo": "Aduana",
+    "fecha": "2026-08-07",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "institucional",
+      "CDA",
+      "evento",
+      "novedad gremial"
+    ],
+    "titulo": "Invitación a la celebración del 114° aniversario del Centro Despachantes de Aduana",
+    "resumen": "El CDA convoca a sus asociados a participar de los eventos conmemorativos por el aniversario de la institución.",
+    "queSignifica": "Es una comunicación institucional sin impacto operativo en la gestión aduanera. Se sugiere verificar el cronograma de actividades en el portal del CDA si desea participar.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42684"
+    },
+    "publicadoEn": "2026-08-10T11:00:59.425Z",
+    "actualizadoEn": "2026-08-10T11:01:35.860Z"
+  },
+  {
+    "id": "2026-08-10-convocatoria-del-cda-por-el-dia-del-despachante-de-aduana-f13c57",
+    "slug": "convocatoria-del-cda-por-el-dia-del-despachante-de-aduana",
+    "organismo": "Aduana",
+    "fecha": "2026-08-07",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "institucional",
+      "capacitación",
+      "comunidad profesional"
+    ],
+    "titulo": "Convocatoria del CDA por el Día del Despachante de Aduana",
+    "resumen": "El Centro Despachantes de Aduana organiza actividades conmemorativas para sus asociados.",
+    "queSignifica": "Se trata de un evento institucional sin impacto operativo. Se sugiere revisar el cronograma de actividades publicado en el sitio oficial del CDA por posibles modificaciones en la atención administrativa.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42667"
+    },
+    "publicadoEn": "2026-08-05T11:53:32.158Z",
+    "actualizadoEn": "2026-08-10T11:01:35.860Z"
+  },
+  {
+    "id": "2026-08-10-actualizacion-de-aranceles-por-servicios-de-inspeccion-y-control-de-senasa-0c101b",
+    "slug": "actualizacion-de-aranceles-por-servicios-de-inspeccion-y-control-de-senasa",
+    "organismo": "Secretaría de Agricultura, Ganadería y Pesca",
+    "fecha": "2026-08-07",
+    "impacto": "medio",
+    "categoria": "importacion",
+    "tags": [
+      "SENASA",
+      "Aranceles",
+      "Costos Aduaneros",
+      "Certificaciones",
+      "SAGPA"
+    ],
+    "titulo": "Actualización de aranceles por servicios de inspección y control de SENASA",
+    "resumen": "La resolución establece una modificación en los aranceles vigentes por los servicios prestados por SENASA en el marco del comercio exterior de alimentos.",
+    "queSignifica": "El operador debe verificar si sus posiciones arancelarias presentan cambios en los costos de intervención del organismo. Se recomienda auditar las proyecciones de gastos de nacionalización para contemplar estos ajustes en los nuevos trámites.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42683"
+    },
+    "publicadoEn": "2026-08-10T11:01:09.626Z",
+    "actualizadoEn": "2026-08-10T11:01:35.860Z"
+  },
+  {
+    "id": "2026-08-10-nuevo-acuerdo-automotriz-argentina-ecuador-ajuste-de-aranceles-47828b",
+    "slug": "nuevo-acuerdo-automotriz-argentina-ecuador-ajuste-de-aranceles",
+    "organismo": "Aduana",
+    "fecha": "2026-08-07",
+    "impacto": "medio",
+    "categoria": "normativa",
+    "tags": [
+      "acuerdo automotriz",
+      "aranceles",
+      "ACE",
+      "autopartes",
+      "origen"
+    ],
+    "titulo": "Nuevo acuerdo automotriz Argentina-Ecuador: ajuste de aranceles",
+    "resumen": "Se establecen nuevos gravámenes preferenciales del 10% para vehículos a combustión y 0% para autopartes y vehículos de nuevas tecnologías entre ambos países.",
+    "queSignifica": "Se sugiere verificar la posición arancelaria y el cumplimiento de los requisitos de origen para aplicar las nuevas preferencias arancelarias. Es recomendable auditar los Certificados de Origen correspondientes para asegurar la correcta liquidación de tributos en sus operaciones.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42680"
+    },
+    "publicadoEn": "2026-08-10T11:01:14.719Z",
+    "actualizadoEn": "2026-08-10T11:01:35.860Z"
+  },
+  {
+    "id": "2026-08-10-primera-exportacion-de-brochetas-de-langostino-a-ee-uu-via-chile-b81167",
+    "slug": "primera-exportacion-de-brochetas-de-langostino-a-ee-uu-via-chile",
+    "organismo": "SENASA",
+    "fecha": "2026-08-07",
+    "impacto": "bajo",
+    "categoria": "exportacion",
+    "tags": [
+      "exportación",
+      "productos pesqueros",
+      "certificación fitosanitaria",
+      "tránsito aduanero",
+      "acceso a mercados"
+    ],
+    "titulo": "Primera exportación de brochetas de langostino a EE. UU. vía Chile",
+    "resumen": "Se oficializó el primer envío de brochetas de langostino argentino hacia Jacksonville, Estados Unidos, consolidando una ruta logística a través de Chile con fiscalización del SENASA.",
+    "queSignifica": "Para exportadores del sector, se sugiere revisar los requisitos fitosanitarios específicos para productos procesados de mar y verificar la viabilidad operativa de las rutas de tránsito terrestre para cumplir con las exigencias de admisibilidad del país de destino.",
+    "fuente": {
+      "nombre": "SENASA Comunica",
+      "url": "https://www.argentina.gob.ar/noticias/se-certifico-la-primera-exportacion-de-brochetas-de-langostino-hacia-los-estados-unidos"
+    },
+    "publicadoEn": "2026-08-10T11:01:20.367Z",
+    "actualizadoEn": "2026-08-10T11:01:35.860Z"
+  },
+  {
+    "id": "2026-08-10-retiro-del-mercado-y-prohibicion-de-venta-de-producto-sellos-fucus-d3e06c",
+    "slug": "retiro-del-mercado-y-prohibicion-de-venta-de-producto-sellos-fucus",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-08-07",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "ANMAT",
+      "prohibición de comercialización",
+      "retiro de mercado",
+      "control sanitario",
+      "SIM"
+    ],
+    "titulo": "Retiro del mercado y prohibición de venta de producto SELLOS FUCUS",
+    "resumen": "La ANMAT dispuso el retiro preventivo y la prohibición de comercialización de todos los lotes del producto SELLOS FUCUS por irregularidades en su registro y seguridad.",
+    "queSignifica": "Verifique si cuenta con stock del producto y bloquee su despacho o comercialización de inmediato. Se sugiere auditar el inventario y consultar con su departamento legal o técnico para coordinar la devolución al proveedor.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/retiro-del-mercado-de-todos-los-lotes-del-producto-sellos-fucus"
+    },
+    "publicadoEn": "2026-08-10T11:01:25.521Z",
+    "actualizadoEn": "2026-08-10T11:01:35.860Z"
+  },
+  {
+    "id": "2026-08-10-anmat-prohibe-la-comercializacion-y-uso-de-diversos-productos-medicos-8afd90",
+    "slug": "anmat-prohibe-la-comercializacion-y-uso-de-diversos-productos-medicos",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-08-07",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "productos médicos",
+      "prohibición comercialización",
+      "seguridad sanitaria",
+      "fiscalización",
+      "SIM"
+    ],
+    "titulo": "ANMAT prohíbe la comercialización y uso de diversos productos médicos",
+    "resumen": "La medida establece la prohibición del uso, distribución y comercialización de productos médicos específicos por carecer de registro sanitario o presentar irregularidades. Se ordena el retiro inmediato del mercado nacional.",
+    "queSignifica": "Es imperativo verificar si su empresa tiene en stock o en tránsito los ítems alcanzados por la disposición vigente. Se recomienda auditar las partidas y consultar el listado oficial en la web de ANMAT para evitar bloqueos en el despacho o sanciones ante eventuales inspecciones.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-diferentes-productos-medicos-de-distintas-marcas"
+    },
+    "publicadoEn": "2026-08-10T11:01:30.542Z",
+    "actualizadoEn": "2026-08-10T11:01:35.860Z"
   },
   {
     "id": "2026-08-07-nueva-asesoria-especializada-en-seguros-para-socios-del-cda-07cb38",
@@ -45,28 +210,6 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42619"
     },
     "publicadoEn": "2026-08-07T10:44:40.816Z",
-    "actualizadoEn": "2026-08-07T10:45:16.407Z"
-  },
-  {
-    "id": "2026-08-07-actividades-por-el-dia-del-despachante-de-aduana-ad6b47",
-    "slug": "actividades-por-el-dia-del-despachante-de-aduana",
-    "organismo": "Aduana",
-    "fecha": "2026-08-06",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "CDA",
-      "institucional",
-      "comunidad profesional"
-    ],
-    "titulo": "Actividades por el Día del Despachante de Aduana",
-    "resumen": "El CDA convoca a sus asociados a participar de las actividades programadas en conmemoración del Día del Despachante de Aduana.",
-    "queSignifica": "Es una comunicación meramente institucional sin impacto en la operatoria de comercio exterior; se sugiere consultar el sitio oficial del CDA por si existiera alguna restricción horaria o atención reducida en dichas fechas.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42667"
-    },
-    "publicadoEn": "2026-08-05T11:53:32.158Z",
     "actualizadoEn": "2026-08-07T10:45:16.407Z"
   },
   {
@@ -650,29 +793,5 @@
     "normativaRef": "Comunicación \"A\" 8460/2026",
     "publicadoEn": "2026-07-29T11:57:07.362Z",
     "actualizadoEn": "2026-07-29T11:57:48.084Z"
-  },
-  {
-    "id": "2026-07-27-disponibilidad-de-ediciones-impresas-de-la-revista-comercio-exterior-del-cda-084104",
-    "slug": "disponibilidad-de-ediciones-impresas-de-la-revista-comercio-exterior-del-cda",
-    "organismo": "Aduana",
-    "fecha": "2026-07-24",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "institucional",
-      "comunicación",
-      "capacitación",
-      "CDA",
-      "profesional"
-    ],
-    "titulo": "Disponibilidad de ediciones impresas de la Revista Comercio Exterior del CDA",
-    "resumen": "El Centro Despachantes de Aduana anuncia la puesta a la venta de ejemplares impresos de su revista especializada.",
-    "queSignifica": "Es una novedad de carácter informativo y gremial sin impacto operativo en los procesos aduaneros. Se recomienda verificar los canales oficiales del CDA para consultas sobre material bibliográfico si es de su interés profesional.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42614"
-    },
-    "publicadoEn": "2026-07-17T11:17:01.820Z",
-    "actualizadoEn": "2026-07-27T12:54:04.117Z"
   }
 ]
