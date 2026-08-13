@@ -1,122 +1,262 @@
 [
   {
-    "id": "2026-08-12-actualizacion-del-tipo-de-cambio-oficial-mulc-al-11-de-agosto-de-2026-6014f9",
-    "slug": "actualizacion-del-tipo-de-cambio-oficial-mulc-al-11-de-agosto-de-2026",
+    "id": "2026-08-13-actualizacion-del-tipo-de-cambio-oficial-de-referencia-del-bcra-5a9a4c",
+    "slug": "actualizacion-del-tipo-de-cambio-oficial-de-referencia-del-bcra",
     "organismo": "BCRA",
-    "fecha": "2026-08-12",
+    "fecha": "2026-08-13",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
       "tipo de cambio",
+      "mercado de cambios",
       "divisas",
-      "operaciones cambiarias",
       "BCRA"
     ],
-    "titulo": "Actualización del tipo de cambio oficial (MULC) al 11 de agosto de 2026",
-    "resumen": "El BCRA ha fijado el tipo de cambio oficial para el Mercado Único y Libre de Cambios en 1052.14 pesos por dólar estadounidense para la fecha indicada.",
-    "queSignifica": "Verifique el valor publicado para la liquidación de divisas o pago de importaciones en su sistema contable. Sugiero consultar con su entidad bancaria para confirmar la aplicación de esta cotización en sus operaciones pendientes de curso legal.",
+    "titulo": "Actualización del tipo de cambio oficial de referencia del BCRA",
+    "resumen": "El BCRA informó la cotización del dólar en el Mercado Único y Libre de Cambios (MULC) para la fecha de referencia. Este valor sirve como base de cálculo para diversas operaciones de comercio exterior.",
+    "queSignifica": "Verifique el valor publicado frente a sus proyecciones de costos y liquidaciones pendientes. Se sugiere revisar la aplicación de este tipo de cambio según las normativas cambiarias vigentes aplicables a su operación particular.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-08-12T10:55:17.281Z"
+    "actualizadoEn": "2026-08-13T10:57:41.730Z"
   },
   {
-    "id": "2026-08-12-cronogramas-operativos-de-las-terminales-portuarias-por-feriado-b256cc",
-    "slug": "cronogramas-operativos-de-las-terminales-portuarias-por-feriado",
-    "organismo": "Aduana",
-    "fecha": "2026-08-11",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "terminales portuarias",
-      "cronograma operativo",
-      "feriado",
-      "logística portuaria",
-      "despacho"
-    ],
-    "titulo": "Cronogramas operativos de las terminales portuarias por feriado",
-    "resumen": "El comunicado detalla los horarios de atención y operatividad de las terminales portuarias durante el próximo feriado. La información sirve para coordinar turnos de retiro o ingreso de mercadería.",
-    "queSignifica": "Se recomienda revisar el cronograma específico de la terminal donde opera su carga para evitar demoras en los turnos o costos de estadía adicionales. Verifique con su transportista la disponibilidad de los servicios antes de programar cualquier movimiento.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42682"
-    },
-    "publicadoEn": "2026-08-12T10:54:47.186Z",
-    "actualizadoEn": "2026-08-12T10:55:17.281Z"
-  },
-  {
-    "id": "2026-08-12-analisis-y-perspectivas-de-la-actualidad-en-comercio-exterior-por-el-cda-f20d48",
-    "slug": "analisis-y-perspectivas-de-la-actualidad-en-comercio-exterior-por-el-cda",
-    "organismo": "Aduana",
-    "fecha": "2026-08-11",
-    "impacto": "bajo",
+    "id": "2026-08-13-actualizacion-de-las-normas-del-mercado-de-cambios-77f052",
+    "slug": "actualizacion-de-las-normas-del-mercado-de-cambios",
+    "organismo": "BCRA",
+    "fecha": "2026-08-13",
+    "impacto": "alto",
     "categoria": "normativa",
     "tags": [
-      "capacitación",
-      "actualización normativa",
-      "gestión aduanera",
-      "comercio exterior"
+      "MULC",
+      "acceso al mercado de cambios",
+      "BCRA",
+      "regulaciones cambiarias",
+      "operaciones de cambio"
     ],
-    "titulo": "Análisis y perspectivas de la actualidad en comercio exterior por el CDA",
-    "resumen": "Se trata de un reporte informativo sobre el desayuno de trabajo organizado por el CDA para analizar la coyuntura del sector.",
-    "queSignifica": "Se sugiere revisar el material oficial del CDA para identificar si se han tratado cambios regulatorios que requieran ajustar procedimientos internos, aunque el evento tiene carácter informativo.",
+    "titulo": "Actualización de las normas del mercado de cambios",
+    "resumen": "La comunicación establece modificaciones en las condiciones de acceso y operatoria en el mercado único y libre de cambios para las entidades financieras y sus clientes.",
+    "queSignifica": "Se sugiere verificar la vigencia de los permisos y condiciones para cursar pagos o liquidaciones de divisas. Es fundamental auditar el cumplimiento de los nuevos requisitos antes de iniciar cualquier operación cambiaria.",
     "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42686"
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/345911/20260813"
     },
-    "publicadoEn": "2026-08-12T10:54:52.219Z",
-    "actualizadoEn": "2026-08-12T10:55:17.281Z"
+    "normativaRef": "Comunicación \"A\" 8438/2026",
+    "publicadoEn": "2026-08-13T10:55:56.620Z",
+    "actualizadoEn": "2026-08-13T10:57:41.730Z"
   },
   {
-    "id": "2026-08-12-participacion-del-cda-en-la-expo-logisti-k-2026-957591",
-    "slug": "participacion-del-cda-en-la-expo-logisti-k-2026",
+    "id": "2026-08-13-participacion-del-cda-en-la-16-expo-logisti-k-2026-83bb7a",
+    "slug": "participacion-del-cda-en-la-16-expo-logisti-k-2026",
     "organismo": "Aduana",
-    "fecha": "2026-08-11",
+    "fecha": "2026-08-12",
     "impacto": "bajo",
     "categoria": "logistica",
     "tags": [
-      "logística",
-      "comercio exterior",
-      "capacitación",
-      "transporte",
-      "cda"
+      "CDA",
+      "LOGISTI-K",
+      "Eventos",
+      "Comercio Exterior"
     ],
-    "titulo": "Participación del CDA en la EXPO LOGISTI-K 2026",
-    "resumen": "El Centro de Despachantes de Aduana comunica su participación en la 16ª Exposición Internacional de Logística. Se trata de un evento de carácter institucional y profesional del sector.",
-    "queSignifica": "Esta información es de carácter institucional y no impacta en las operaciones aduaneras vigentes. Se sugiere revisar la agenda de la feria si busca actualizarse sobre nuevas tecnologías o servicios de logística.",
+    "titulo": "Participación del CDA en la 16ª Expo Logisti-k 2026",
+    "resumen": "El Centro de Despachantes de Aduana informa su participación institucional en la feria internacional Logisti-k.",
+    "queSignifica": "Es una novedad de carácter institucional y divulgativo. Se sugiere verificar el cronograma de actividades de la expo si se desea participar de las charlas o networking.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42634"
     },
     "publicadoEn": "2026-07-21T11:43:50.081Z",
-    "actualizadoEn": "2026-08-12T10:55:17.281Z"
+    "actualizadoEn": "2026-08-13T10:57:41.730Z"
   },
   {
-    "id": "2026-08-12-tercera-edicion-de-los-desayunos-de-trabajo-del-centro-despachantes-de-aduana-83ded8",
-    "slug": "tercera-edicion-de-los-desayunos-de-trabajo-del-centro-despachantes-de-aduana",
+    "id": "2026-08-13-invitacion-a-la-3ra-edicion-de-los-desayunos-de-trabajo-del-cda-f8d9ec",
+    "slug": "invitacion-a-la-3ra-edicion-de-los-desayunos-de-trabajo-del-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-08-12",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "capacitacion",
+      "institucional",
+      "cda",
+      "comex"
+    ],
+    "titulo": "Invitación a la 3ra edición de los Desayunos de Trabajo del CDA",
+    "resumen": "El CDA organiza una nueva instancia de capacitación y encuentro profesional para sus asociados. Se trata de un evento informativo sin impacto directo sobre la operatividad aduanera diaria.",
+    "queSignifica": "Se sugiere revisar la agenda del evento por si se tratara algún tema de actualidad operativa, aunque no representa una obligación o cambio en los procedimientos de despacho.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42644"
+    },
+    "publicadoEn": "2026-07-23T11:47:02.961Z",
+    "actualizadoEn": "2026-08-13T10:57:41.730Z"
+  },
+  {
+    "id": "2026-08-13-rosario-se-fiscalizo-primera-importacion-ingresada-por-el-aeropuerto-internacion-6a99ce",
+    "slug": "rosario-se-fiscalizo-primera-importacion-ingresada-por-el-aeropuerto-internacion",
+    "organismo": "SENASA",
+    "fecha": "2026-08-12",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "SENASA",
+      "importación"
+    ],
+    "titulo": "Rosario: Se fiscalizó primera importación ingresada por el Aeropuerto Internacional “Islas Malvinas”",
+    "resumen": "El SENASA verificó una carga de productos cárnicos procedentes de Brasil conforme a los requisitos sanitarios establecidos.",
+    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
+    "fuente": {
+      "nombre": "SENASA Comunica",
+      "url": "https://www.argentina.gob.ar/noticias/rosario-se-fiscalizo-primera-importacion-ingresada-por-el-aeropuerto-internacional-islas"
+    },
+    "publicadoEn": "2026-08-13T10:56:31.567Z",
+    "actualizadoEn": "2026-08-13T10:57:41.730Z"
+  },
+  {
+    "id": "2026-08-13-alerta-sobre-unidades-falsificadas-del-producto-medico-sculptra-07cbf5",
+    "slug": "alerta-sobre-unidades-falsificadas-del-producto-medico-sculptra",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-08-12",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "ANMAT",
+      "control sanitario",
+      "medidas cautelares",
+      "productos médicos",
+      "fiscalización"
+    ],
+    "titulo": "Alerta sobre unidades falsificadas del producto médico SCULPTRA",
+    "resumen": "La ANMAT ha detectado y notificado la circulación de unidades falsificadas del producto inyectable SCULPTRA en el mercado nacional.",
+    "queSignifica": "Se recomienda verificar exhaustivamente la trazabilidad, números de lote y canales de distribución autorizados de toda partida en curso o futura para evitar incautaciones o rechazos sanitarios en Aduana.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-advierte-sobre-unidades-falsificadas-de-sculptra-1"
+    },
+    "publicadoEn": "2026-08-13T10:57:25.114Z",
+    "actualizadoEn": "2026-08-13T10:57:41.730Z"
+  },
+  {
+    "id": "2026-08-13-retiro-del-mercado-de-lote-especifico-de-hidrocortisona-celtyc-f65f27",
+    "slug": "retiro-del-mercado-de-lote-especifico-de-hidrocortisona-celtyc",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-08-12",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "ANMAT",
+      "productos farmacéuticos",
+      "retiro de mercado",
+      "control sanitario",
+      "SIM"
+    ],
+    "titulo": "Retiro del mercado de lote específico de Hidrocortisona Celtyc",
+    "resumen": "La ANMAT ha ordenado el retiro preventivo del mercado de un lote específico del producto Hidrocortisona Celtyc debido a una alerta sanitaria. La medida exige la detención inmediata de la comercialización y distribución del lote afectado.",
+    "queSignifica": "El importador debe verificar si posee stock del lote indicado en sus depósitos y abstenerse de realizar despachos o entregas de dicho lote. Se recomienda consultar el listado oficial de la ANMAT y realizar un inventario preventivo para evitar bloqueos operativos en el sistema SIM.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/retiro-del-mercado-de-un-lote-de-hidrocortisona-celtyc"
+    },
+    "publicadoEn": "2026-08-13T10:57:31.317Z",
+    "actualizadoEn": "2026-08-13T10:57:41.730Z"
+  },
+  {
+    "id": "2026-08-13-cronograma-de-operacion-de-terminales-portuarias-durante-feriados-09b602",
+    "slug": "cronograma-de-operacion-de-terminales-portuarias-durante-feriados",
+    "organismo": "Aduana",
+    "fecha": "2026-08-11",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "cronograma",
+      "terminales portuarias",
+      "feriados",
+      "operativa",
+      "puerto"
+    ],
+    "titulo": "Cronograma de operación de terminales portuarias durante feriados",
+    "resumen": "Se comunica el esquema de atención y guardias en las distintas terminales portuarias ante la proximidad de un feriado.",
+    "queSignifica": "Se sugiere verificar el cronograma específico de la terminal donde opera su carga para evitar demoras en el retiro o ingreso de contenedores. Ante cualquier duda, consulte con su agencia marítima o depósito fiscal para confirmar la disponibilidad de turnos.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42682"
+    },
+    "publicadoEn": "2026-08-12T10:54:47.186Z",
+    "actualizadoEn": "2026-08-13T10:57:41.730Z"
+  },
+  {
+    "id": "2026-08-13-analisis-de-actualidad-y-perspectivas-en-comercio-exterior-por-el-cda-547c96",
+    "slug": "analisis-de-actualidad-y-perspectivas-en-comercio-exterior-por-el-cda",
     "organismo": "Aduana",
     "fecha": "2026-08-11",
     "impacto": "bajo",
     "categoria": "normativa",
     "tags": [
       "CDA",
-      "capacitación",
+      "capacitacion",
       "comercio exterior",
-      "despachante de aduana",
-      "actualización profesional"
+      "analisis tecnico"
     ],
-    "titulo": "Tercera edición de los Desayunos de Trabajo del Centro Despachantes de Aduana",
-    "resumen": "El CDA organiza un encuentro informativo y de capacitación destinado a sus asociados. Se trata de un evento de carácter institucional sin modificaciones operativas en el comercio exterior.",
-    "queSignifica": "Es una instancia de actualización profesional voluntaria. Se recomienda revisar el cronograma del CDA para evaluar si el temario técnico resulta relevante para su práctica profesional.",
+    "titulo": "Análisis de actualidad y perspectivas en comercio exterior por el CDA",
+    "resumen": "El CDA realizó un desayuno de trabajo para debatir el contexto normativo y operativo del comercio exterior actual.",
+    "queSignifica": "Se sugiere revisar las minutas o presentaciones del CDA para identificar posibles cambios procedimentales que pudieran afectar futuras operaciones.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42644"
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42686"
     },
-    "publicadoEn": "2026-07-23T11:47:02.961Z",
-    "actualizadoEn": "2026-08-12T10:55:17.281Z"
+    "publicadoEn": "2026-08-12T10:54:52.219Z",
+    "actualizadoEn": "2026-08-13T10:57:41.730Z"
+  },
+  {
+    "id": "2026-08-13-invitacion-a-la-celebracion-del-114-aniversario-del-cda-f43c2b",
+    "slug": "invitacion-a-la-celebracion-del-114-aniversario-del-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-08-10",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "institucional",
+      "gremial",
+      "CDA",
+      "profesional",
+      "capacitación"
+    ],
+    "titulo": "Invitación a la celebración del 114° aniversario del CDA",
+    "resumen": "El Centro Despachantes de Aduana anuncia la apertura de ventas de entradas para su evento institucional de aniversario.",
+    "queSignifica": "Se trata de un comunicado interno sin impacto operativo en la gestión aduanera. Se sugiere revisar la comunicación oficial si desea participar del evento institucional.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42684"
+    },
+    "publicadoEn": "2026-08-10T11:00:59.425Z",
+    "actualizadoEn": "2026-08-13T10:57:41.730Z"
+  },
+  {
+    "id": "2026-08-13-prohibicion-de-comercializacion-de-una-unidad-especifica-de-dermatoscopio-fotofi-fb71bd",
+    "slug": "prohibicion-de-comercializacion-de-una-unidad-especifica-de-dermatoscopio-fotofi",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-08-10",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "ANMAT",
+      "Producto Médico",
+      "Prohibición",
+      "Despacho",
+      "Control Sanitario"
+    ],
+    "titulo": "Prohibición de comercialización de una unidad específica de dermatoscopio FotoFinder",
+    "resumen": "La ANMAT prohibió el uso, comercialización y distribución de una unidad específica del dermatoscopio marca FotoFinder por irregularidades detectadas.",
+    "queSignifica": "Se sugiere verificar el número de serie de sus unidades en stock o en tránsito para asegurar que no coincida con la unidad prohibida y validar la trazabilidad del lote con el fabricante.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-una-unidad-del-producto-medico-dermatoscopio-marca-fotofinder"
+    },
+    "publicadoEn": "2026-08-11T10:44:23.581Z",
+    "actualizadoEn": "2026-08-13T10:57:41.730Z"
   },
   {
     "id": "2026-08-12-actualizacion-de-normas-sobre-acceso-al-mercado-de-cambios-y-pagos-de-comercio-e-861985",
@@ -191,54 +331,6 @@
     },
     "normativaRef": "Comunicación \"A\" 8464/2026",
     "publicadoEn": "2026-08-11T10:44:00.803Z",
-    "actualizadoEn": "2026-08-12T10:55:17.281Z"
-  },
-  {
-    "id": "2026-08-12-evento-por-el-114-aniversario-del-centro-despachantes-de-aduana-e602fb",
-    "slug": "evento-por-el-114-aniversario-del-centro-despachantes-de-aduana",
-    "organismo": "Aduana",
-    "fecha": "2026-08-10",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "institucional",
-      "CDA",
-      "profesión",
-      "eventos",
-      "capacitación"
-    ],
-    "titulo": "Evento por el 114° Aniversario del Centro Despachantes de Aduana",
-    "resumen": "El Centro Despachantes de Aduana comunica la invitación a sus asociados para el festejo de su aniversario institucional.",
-    "queSignifica": "Es un comunicado informativo de carácter social y gremial. Se recomienda consultar el sitio web del CDA para verificar detalles sobre la inscripción al evento si es de su interés profesional.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42684"
-    },
-    "publicadoEn": "2026-08-10T11:00:59.425Z",
-    "actualizadoEn": "2026-08-12T10:55:17.281Z"
-  },
-  {
-    "id": "2026-08-12-prohibicion-de-comercializacion-de-unidad-especifica-de-dermatoscopio-fotofinder-05fbdc",
-    "slug": "prohibicion-de-comercializacion-de-unidad-especifica-de-dermatoscopio-fotofinder",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-08-10",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "producto médico",
-      "ANMAT",
-      "prohibición de comercialización",
-      "despacho a plaza",
-      "control sanitario"
-    ],
-    "titulo": "Prohibición de comercialización de unidad específica de dermatoscopio FotoFinder",
-    "resumen": "La ANMAT prohibió la comercialización y uso de una unidad específica del dermatoscopio marca FotoFinder. La medida se restringe al número de serie detectado en el territorio nacional.",
-    "queSignifica": "Se sugiere verificar los números de serie del stock disponible y de los embarques en curso contra la lista de unidades observadas por ANMAT. Se recomienda contactar al fabricante o representante oficial para confirmar la trazabilidad antes de gestionar cualquier liberación o comercialización.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-una-unidad-del-producto-medico-dermatoscopio-marca-fotofinder"
-    },
-    "publicadoEn": "2026-08-11T10:44:23.581Z",
     "actualizadoEn": "2026-08-12T10:55:17.281Z"
   },
   {
@@ -671,104 +763,6 @@
     },
     "normativaRef": "Comunicación \"A\" 8458/2026",
     "publicadoEn": "2026-07-30T11:47:03.450Z",
-    "actualizadoEn": "2026-07-31T11:54:30.765Z"
-  },
-  {
-    "id": "2026-07-31-prorroga-de-vigencia-para-la-garantia-de-actuacion-de-operadores-de-comercio-ext-239b7b",
-    "slug": "prorroga-de-vigencia-para-la-garantia-de-actuacion-de-operadores-de-comercio-ext",
-    "organismo": "ARCA",
-    "fecha": "2026-07-29",
-    "impacto": "medio",
-    "categoria": "normativa",
-    "tags": [
-      "garantía de actuación",
-      "solvencia económica",
-      "operadores de comercio exterior",
-      "ARCA",
-      "SIM"
-    ],
-    "titulo": "Prórroga de vigencia para la garantía de actuación de operadores de comercio exterior",
-    "resumen": "La norma extiende el plazo de validez de la solvencia económica acreditada a través de la garantía de actuación ante el servicio aduanero.",
-    "queSignifica": "Debe verificar en el Sistema Informático Malvina (SIM) la nueva fecha de vencimiento de su garantía para asegurar la continuidad operativa. Se recomienda revisar su perfil en el portal de ARCA para confirmar que la prórroga se encuentre correctamente aplicada y no presente errores de sistema.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/345089/20260729"
-    },
-    "normativaRef": "Resolución General 5881/2026",
-    "publicadoEn": "2026-07-30T11:47:08.661Z",
-    "actualizadoEn": "2026-07-31T11:54:30.765Z"
-  },
-  {
-    "id": "2026-07-31-actualizacion-del-marco-regulatorio-para-el-mercado-unico-y-libre-de-cambios-f2a4a0",
-    "slug": "actualizacion-del-marco-regulatorio-para-el-mercado-unico-y-libre-de-cambios",
-    "organismo": "BCRA",
-    "fecha": "2026-07-29",
-    "impacto": "alto",
-    "categoria": "normativa",
-    "tags": [
-      "MULC",
-      "BCRA",
-      "Cambios",
-      "Liquidación",
-      "Operaciones de Cambio"
-    ],
-    "titulo": "Actualización del marco regulatorio para el Mercado Único y Libre de Cambios",
-    "resumen": "La norma establece nuevos lineamientos operativos para el acceso y liquidación de divisas en el mercado cambiario oficial. Modifica los procedimientos vigentes para la gestión de pagos al exterior y el ingreso de cobranzas.",
-    "queSignifica": "Debe revisar la estructura de sus operaciones cambiarias pendientes para validar si los nuevos requisitos técnicos afectan el cumplimiento de sus compromisos. Se recomienda auditar las carpetas de seguimiento y consultar con su entidad bancaria sobre la aplicación específica de esta regulación a sus operaciones en curso.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/345116/20260729"
-    },
-    "normativaRef": "Comunicación \"A\" 8454/2026",
-    "publicadoEn": "2026-07-30T11:47:13.780Z",
-    "actualizadoEn": "2026-07-31T11:54:30.765Z"
-  },
-  {
-    "id": "2026-07-31-actualizacion-de-normas-cambiarias-sobre-acceso-al-mercado-de-cambios-2e9a0d",
-    "slug": "actualizacion-de-normas-cambiarias-sobre-acceso-al-mercado-de-cambios",
-    "organismo": "BCRA",
-    "fecha": "2026-07-29",
-    "impacto": "alto",
-    "categoria": "normativa",
-    "tags": [
-      "MULC",
-      "BCRA",
-      "giro de divisas",
-      "cambiario",
-      "comercio exterior"
-    ],
-    "titulo": "Actualización de normas cambiarias sobre acceso al mercado de cambios",
-    "resumen": "La Comunicación A 8457 establece nuevas condiciones operativas para el acceso al Mercado Único y Libre de Cambios. Define plazos y requisitos específicos para el curso de operaciones de pago al exterior.",
-    "queSignifica": "Es necesario verificar inmediatamente con el departamento de comercio exterior de su entidad bancaria si las operaciones vigentes encuadran en las nuevas disposiciones. Se recomienda revisar la documentación de respaldo para evitar demoras en los giros de divisas.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/345117/20260729"
-    },
-    "normativaRef": "Comunicación \"A\" 8457/2026",
-    "publicadoEn": "2026-07-30T11:47:18.818Z",
-    "actualizadoEn": "2026-07-31T11:54:30.765Z"
-  },
-  {
-    "id": "2026-07-31-publicacion-de-la-edicion-n-911-de-la-revista-comercio-exterior-del-cda-540954",
-    "slug": "publicacion-de-la-edicion-n-911-de-la-revista-comercio-exterior-del-cda",
-    "organismo": "Aduana",
-    "fecha": "2026-07-29",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "CDA",
-      "capacitación",
-      "actualidad",
-      "comercio exterior"
-    ],
-    "titulo": "Publicación de la edición Nº 911 de la Revista Comercio Exterior del CDA",
-    "resumen": "El CDA ha publicado la nueva edición de su revista institucional para acceso de sus asociados. Este material contiene información general sobre el sector y novedades del ámbito aduanero.",
-    "queSignifica": "Se trata de un comunicado informativo sin impacto operativo. Se recomienda consultar la publicación para mantenerse actualizado sobre novedades técnicas o artículos de interés profesional.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42658"
-    },
-    "publicadoEn": "2026-07-30T11:47:29.016Z",
     "actualizadoEn": "2026-07-31T11:54:30.765Z"
   }
 ]
