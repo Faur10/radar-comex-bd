@@ -1,27 +1,121 @@
 [
   {
-    "id": "2026-08-14-actualizacion-del-tipo-de-cambio-oficial-de-referencia-del-bcra-30649b",
-    "slug": "actualizacion-del-tipo-de-cambio-oficial-de-referencia-del-bcra",
+    "id": "2026-08-17-actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc-21f2d8",
+    "slug": "actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc",
     "organismo": "BCRA",
-    "fecha": "2026-08-14",
-    "impacto": "medio",
+    "fecha": "2026-08-17",
+    "impacto": "bajo",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "tipo de cambio",
-      "divisas",
-      "operaciones cambiarias",
-      "BCRA"
+      "Tipo de cambio",
+      "BCRA",
+      "Divisas",
+      "Comex"
     ],
-    "titulo": "Actualización del tipo de cambio oficial de referencia del BCRA",
-    "resumen": "Se establece el tipo de cambio oficial para el Mercado Único y Libre de Cambios (MULC) al 13 de agosto de 2026 en 1052.90 pesos por dólar.",
-    "queSignifica": "Verifique este valor al momento de realizar pagos o cobros de operaciones de comercio exterior. Se sugiere validar con su entidad bancaria la aplicación de este tipo de cambio según la normativa cambiaria vigente para su transacción.",
+    "titulo": "Actualización de la cotización oficial del dólar en el MULC",
+    "resumen": "El BCRA ha publicado el tipo de cambio oficial de referencia para el Mercado Único y Libre de Cambios con fecha 14 de agosto de 2026.",
+    "queSignifica": "Se recomienda verificar este valor para realizar los cálculos de costos en pesos de las operaciones pendientes. Es prudente confirmar la tasa de aplicación según la normativa cambiaria vigente al momento del registro de la operación.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-08-14T10:52:24.894Z"
+    "actualizadoEn": "2026-08-17T10:25:44.664Z"
+  },
+  {
+    "id": "2026-08-17-nuevo-programa-de-referidos-del-banco-bbva-para-clientes-del-comercio-exterior-a9430e",
+    "slug": "nuevo-programa-de-referidos-del-banco-bbva-para-clientes-del-comercio-exterior",
+    "organismo": "Aduana",
+    "fecha": "2026-08-14",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "bancos",
+      "pagos aduaneros",
+      "servicios financieros",
+      "comercio exterior",
+      "beneficios"
+    ],
+    "titulo": "Nuevo programa de referidos del Banco BBVA para clientes del comercio exterior",
+    "resumen": "El CDA comunica un programa de beneficios lanzado por el Banco BBVA enfocado en operaciones aduaneras.",
+    "queSignifica": "Es una propuesta comercial bancaria sin cambios operativos. Se sugiere revisar los términos del programa con su ejecutivo de cuenta si opera con dicha entidad.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42685"
+    },
+    "publicadoEn": "2026-08-17T10:25:24.378Z",
+    "actualizadoEn": "2026-08-17T10:25:44.664Z"
+  },
+  {
+    "id": "2026-08-17-participacion-del-cda-en-expo-logisti-k-y-expo-transporte-2026-816902",
+    "slug": "participacion-del-cda-en-expo-logisti-k-y-expo-transporte-2026",
+    "organismo": "Aduana",
+    "fecha": "2026-08-14",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "Expo Logisti-k",
+      "CDA",
+      "Comercio Exterior",
+      "Logística",
+      "Networking"
+    ],
+    "titulo": "Participación del CDA en Expo Logisti-k y Expo Transporte 2026",
+    "resumen": "El Centro de Despachantes de Aduana participó en las ferias sectoriales de logística y transporte realizadas en agosto de 2026. Se trata de un evento de carácter institucional y de relacionamiento profesional.",
+    "queSignifica": "Esta novedad es de carácter informativo. Se sugiere revisar la agenda de eventos del CDA si desea participar en futuras actividades de capacitación o networking profesional.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42691"
+    },
+    "publicadoEn": "2026-08-17T10:25:29.477Z",
+    "actualizadoEn": "2026-08-17T10:25:44.664Z"
+  },
+  {
+    "id": "2026-08-17-informacion-institucional-actividades-por-el-dia-del-despachante-de-aduana-beb9db",
+    "slug": "informacion-institucional-actividades-por-el-dia-del-despachante-de-aduana",
+    "organismo": "Aduana",
+    "fecha": "2026-08-14",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "institucional",
+      "gremial",
+      "profesional",
+      "comercio exterior"
+    ],
+    "titulo": "Información institucional: Actividades por el Día del Despachante de Aduana",
+    "resumen": "El Centro Despachantes de Aduana convoca a sus asociados a participar de los eventos conmemorativos de la profesión.",
+    "queSignifica": "Esta comunicación tiene carácter informativo y no afecta la operatividad aduanera ni los procedimientos de despacho. Se sugiere revisar los canales oficiales del CDA para conocer el cronograma de actividades.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42667"
+    },
+    "publicadoEn": "2026-08-05T11:53:32.158Z",
+    "actualizadoEn": "2026-08-17T10:25:44.664Z"
+  },
+  {
+    "id": "2026-08-17-gestion-de-credenciales-psa-para-acceso-a-zonas-primarias-aeroportuarias-9cd8cc",
+    "slug": "gestion-de-credenciales-psa-para-acceso-a-zonas-primarias-aeroportuarias",
+    "organismo": "Aduana",
+    "fecha": "2026-08-14",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "PSA",
+      "Seguridad Aeroportuaria",
+      "Credenciales",
+      "Control Aduanero"
+    ],
+    "titulo": "Gestión de credenciales PSA para acceso a zonas primarias aeroportuarias",
+    "resumen": "El CDA habilita la gestión administrativa para la obtención o renovación de la credencial de la Policía de Seguridad Aeroportuaria.",
+    "queSignifica": "Si opera en recintos aeroportuarios, verifique si su personal requiere habilitación vigente y considere gestionar el trámite a través del CDA para centralizar el proceso.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=41824"
+    },
+    "publicadoEn": "2026-08-17T10:25:39.773Z",
+    "actualizadoEn": "2026-08-17T10:25:44.664Z"
   },
   {
     "id": "2026-08-14-actualizacion-de-normas-cambiarias-del-bcra-9de839",
@@ -356,28 +450,6 @@
     "normativaRef": "Comunicación \"A\" 8464/2026",
     "publicadoEn": "2026-08-11T10:44:00.803Z",
     "actualizadoEn": "2026-08-12T10:55:17.281Z"
-  },
-  {
-    "id": "2026-08-10-convocatoria-del-cda-por-el-dia-del-despachante-de-aduana-f13c57",
-    "slug": "convocatoria-del-cda-por-el-dia-del-despachante-de-aduana",
-    "organismo": "Aduana",
-    "fecha": "2026-08-07",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "institucional",
-      "capacitación",
-      "comunidad profesional"
-    ],
-    "titulo": "Convocatoria del CDA por el Día del Despachante de Aduana",
-    "resumen": "El Centro Despachantes de Aduana organiza actividades conmemorativas para sus asociados.",
-    "queSignifica": "Se trata de un evento institucional sin impacto operativo. Se sugiere revisar el cronograma de actividades publicado en el sitio oficial del CDA por posibles modificaciones en la atención administrativa.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42667"
-    },
-    "publicadoEn": "2026-08-05T11:53:32.158Z",
-    "actualizadoEn": "2026-08-10T11:01:35.860Z"
   },
   {
     "id": "2026-08-10-actualizacion-de-aranceles-por-servicios-de-inspeccion-y-control-de-senasa-0c101b",
@@ -715,53 +787,5 @@
     "normativaRef": "Resolución General 5886/2026",
     "publicadoEn": "2026-08-04T11:59:03.034Z",
     "actualizadoEn": "2026-08-04T11:59:23.713Z"
-  },
-  {
-    "id": "2026-08-03-capacitacion-sobre-importacion-de-productos-medicos-33e332",
-    "slug": "capacitacion-sobre-importacion-de-productos-medicos",
-    "organismo": "Aduana",
-    "fecha": "2026-07-31",
-    "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [
-      "productos médicos",
-      "ANMAT",
-      "importación",
-      "capacitación",
-      "comercio exterior"
-    ],
-    "titulo": "Capacitación sobre importación de productos médicos",
-    "resumen": "El Centro Despachantes de Aduana organiza una jornada de actualización profesional sobre la normativa vigente para la importación de insumos y dispositivos médicos.",
-    "queSignifica": "Se recomienda participar o revisar el material de la capacitación para actualizar conocimientos sobre los requerimientos y trámites ante la ANMAT. Verifique siempre los registros y certificados técnicos específicos de sus productos antes de realizar nuevas operaciones.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42640"
-    },
-    "publicadoEn": "2026-07-23T11:46:57.950Z",
-    "actualizadoEn": "2026-08-03T12:52:47.059Z"
-  },
-  {
-    "id": "2026-08-03-refuerzo-de-controles-zoofitosanitarios-en-pasos-fronterizos-de-chaco-y-formosa-a7cf5c",
-    "slug": "refuerzo-de-controles-zoofitosanitarios-en-pasos-fronterizos-de-chaco-y-formosa",
-    "organismo": "SENASA",
-    "fecha": "2026-07-31",
-    "impacto": "medio",
-    "categoria": "logistica",
-    "tags": [
-      "senasa",
-      "zoofitosanitario",
-      "controles en frontera",
-      "fiscalización",
-      "cumplimiento"
-    ],
-    "titulo": "Refuerzo de controles zoofitosanitarios en pasos fronterizos de Chaco y Formosa",
-    "resumen": "SENASA intensificó los controles de fiscalización zoofitosanitaria en puntos de ingreso y rutas de las provincias de Chaco y Formosa.",
-    "queSignifica": "Se recomienda revisar la documentación sanitaria de sus mercaderías y asegurar el cumplimiento de las normativas vigentes en estos puntos de control para evitar demoras en el despacho o retenciones.",
-    "fuente": {
-      "nombre": "SENASA Comunica",
-      "url": "https://www.argentina.gob.ar/noticias/se-fortalecen-los-controles-zoofitosanitarios-en-las-provincias-de-chaco-y-formosa"
-    },
-    "publicadoEn": "2026-08-03T12:52:41.755Z",
-    "actualizadoEn": "2026-08-03T12:52:47.059Z"
   }
 ]
