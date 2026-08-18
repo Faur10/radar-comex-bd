@@ -1,27 +1,52 @@
 [
   {
-    "id": "2026-08-17-actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc-21f2d8",
-    "slug": "actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc",
+    "id": "2026-08-18-actualizacion-del-tipo-de-cambio-oficial-de-referencia-del-bcra-b1dd8f",
+    "slug": "actualizacion-del-tipo-de-cambio-oficial-de-referencia-del-bcra",
     "organismo": "BCRA",
-    "fecha": "2026-08-17",
+    "fecha": "2026-08-18",
     "impacto": "bajo",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "Tipo de cambio",
-      "BCRA",
-      "Divisas",
-      "Comex"
+      "tipo de cambio",
+      "divisas",
+      "bcra",
+      "comex"
     ],
-    "titulo": "Actualización de la cotización oficial del dólar en el MULC",
-    "resumen": "El BCRA ha publicado el tipo de cambio oficial de referencia para el Mercado Único y Libre de Cambios con fecha 14 de agosto de 2026.",
-    "queSignifica": "Se recomienda verificar este valor para realizar los cálculos de costos en pesos de las operaciones pendientes. Es prudente confirmar la tasa de aplicación según la normativa cambiaria vigente al momento del registro de la operación.",
+    "titulo": "Actualización del tipo de cambio oficial de referencia del BCRA",
+    "resumen": "El BCRA ha fijado el tipo de cambio oficial para el mercado de cambios en 1053.15 pesos argentinos por dólar estadounidense para la fecha indicada.",
+    "queSignifica": "Esta cotización es de carácter informativo. Se sugiere verificar este valor en los sistemas internos de contabilidad y liquidación para asegurar la correcta valuación de sus operaciones cambiarias en curso.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-08-17T10:25:44.664Z"
+    "actualizadoEn": "2026-08-18T10:21:06.005Z"
+  },
+  {
+    "id": "2026-08-18-gestion-de-contingentes-arancelarios-mediante-vucea-2829c7",
+    "slug": "gestion-de-contingentes-arancelarios-mediante-vucea",
+    "organismo": "ARCA",
+    "fecha": "2026-08-18",
+    "impacto": "medio",
+    "categoria": "importacion",
+    "tags": [
+      "VUCEA",
+      "Contingentes Arancelarios",
+      "SIM",
+      "Acuerdos Comerciales",
+      "Importacion"
+    ],
+    "titulo": "Gestión de contingentes arancelarios mediante VUCEA",
+    "resumen": "La resolución integra la administración de contingentes arancelarios originados en acuerdos comerciales dentro del sistema VUCEA.",
+    "queSignifica": "El importador debe verificar si sus posiciones arancelarias están alcanzadas por contingentes activos. Se sugiere consultar el estado de las cuotas en VUCEA antes de oficializar la destinación para asegurar la aplicación de los beneficios arancelarios.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/345974/20260818"
+    },
+    "normativaRef": "Resolución General 5888/2026",
+    "publicadoEn": "2026-08-18T10:20:53.925Z",
+    "actualizadoEn": "2026-08-18T10:21:06.005Z"
   },
   {
     "id": "2026-08-17-nuevo-programa-de-referidos-del-banco-bbva-para-clientes-del-comercio-exterior-a9430e",
@@ -714,78 +739,5 @@
     },
     "publicadoEn": "2026-08-06T11:59:08.764Z",
     "actualizadoEn": "2026-08-07T10:45:16.407Z"
-  },
-  {
-    "id": "2026-08-06-disponibilidad-de-espacios-de-coworking-para-asociados-del-cda-deb72e",
-    "slug": "disponibilidad-de-espacios-de-coworking-para-asociados-del-cda",
-    "organismo": "Aduana",
-    "fecha": "2026-08-03",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "CDA",
-      "infraestructura",
-      "servicios",
-      "gestión operativa",
-      "oficinas"
-    ],
-    "titulo": "Disponibilidad de espacios de coworking para asociados del CDA",
-    "resumen": "El Centro Despachantes de Aduana informa la disponibilidad de espacios de trabajo compartido para sus asociados.",
-    "queSignifica": "Esta información es de carácter institucional y no afecta los procedimientos operativos ni aduaneros. Se sugiere revisar los términos y condiciones de uso del espacio en el portal del CDA en caso de requerir instalaciones para el desarrollo de sus tareas.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42526"
-    },
-    "publicadoEn": "2026-08-04T11:59:13.440Z",
-    "actualizadoEn": "2026-08-06T11:59:29.412Z"
-  },
-  {
-    "id": "2026-08-06-autogestion-de-inscripcion-en-renspa-para-productores-fruticolas-de-rio-negro-y--46bab4",
-    "slug": "autogestion-de-inscripcion-en-renspa-para-productores-fruticolas-de-rio-negro-y-",
-    "organismo": "SENASA",
-    "fecha": "2026-08-03",
-    "impacto": "medio",
-    "categoria": "exportacion",
-    "tags": [
-      "SENASA",
-      "RENSPA",
-      "Trazabilidad",
-      "Fruta",
-      "Exportación"
-    ],
-    "titulo": "Autogestión de inscripción en RENSPA para productores frutícolas de Río Negro y Neuquén",
-    "resumen": "Se habilita el proceso de autogestión para la inscripción y actualización en el RENSPA y programas de exportación durante agosto. El trámite se formaliza a través del sistema SIGTRA de SENASA mediante clave fiscal.",
-    "queSignifica": "Los exportadores frutícolas de la región deben verificar que sus proveedores mantengan vigente la inscripción en el sistema para evitar demoras en la emisión de certificados fitosanitarios. Se recomienda revisar el estado del registro de los productores asociados antes de iniciar operaciones de exportación.",
-    "fuente": {
-      "nombre": "SENASA Comunica",
-      "url": "https://www.argentina.gob.ar/noticias/inscripcion-en-renspa-y-programas-de-exportacion-para-productores-fruticolas-de-rio-negro-y"
-    },
-    "publicadoEn": "2026-08-03T12:52:36.464Z",
-    "actualizadoEn": "2026-08-06T11:59:29.412Z"
-  },
-  {
-    "id": "2026-08-04-reglamentacion-del-regimen-de-envios-postales-con-finalidad-comercial-517f81",
-    "slug": "reglamentacion-del-regimen-de-envios-postales-con-finalidad-comercial",
-    "organismo": "ARCA",
-    "fecha": "2026-08-03",
-    "impacto": "medio",
-    "categoria": "exportacion",
-    "tags": [
-      "envíos postales",
-      "exportación comercial",
-      "régimen simplificado",
-      "ARCA",
-      "despacho de exportación"
-    ],
-    "titulo": "Reglamentación del régimen de envíos postales con finalidad comercial",
-    "resumen": "La resolución establece el marco operativo y los requisitos para realizar exportaciones con fines comerciales a través del régimen de envíos postales. Define las pautas aduaneras para el despacho de mercancías bajo esta modalidad específica.",
-    "queSignifica": "Es necesario verificar si sus operaciones comerciales actuales se encuadran en los límites y requisitos de esta nueva reglamentación postal. Se sugiere consultar con su despachante de aduanas la viabilidad técnica y documental antes de realizar el próximo envío.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/345323/20260803"
-    },
-    "normativaRef": "Resolución General 5886/2026",
-    "publicadoEn": "2026-08-04T11:59:03.034Z",
-    "actualizadoEn": "2026-08-04T11:59:23.713Z"
   }
 ]
