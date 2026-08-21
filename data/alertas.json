@@ -1,98 +1,403 @@
 [
   {
-    "id": "2026-08-20-actualizacion-del-tipo-de-cambio-oficial-del-mulc-al-19-de-agosto-de-2026-dc2ac0",
-    "slug": "actualizacion-del-tipo-de-cambio-oficial-del-mulc-al-19-de-agosto-de-2026",
+    "id": "2026-08-21-actualizacion-del-tipo-de-cambio-oficial-mulc-al-20-08-2026-d7d65a",
+    "slug": "actualizacion-del-tipo-de-cambio-oficial-mulc-al-20-08-2026",
     "organismo": "BCRA",
-    "fecha": "2026-08-20",
+    "fecha": "2026-08-21",
     "impacto": "alto",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "Tipo de cambio",
+      "tipo de cambio",
+      "divisas",
       "BCRA",
-      "Cambiario",
-      "Liquidación"
+      "operaciones cambiarias"
     ],
-    "titulo": "Actualización del tipo de cambio oficial del MULC al 19 de agosto de 2026",
-    "resumen": "El BCRA establece el valor oficial del dólar estadounidense para las operaciones cursadas a través del Mercado Único y Libre de Cambios.",
-    "queSignifica": "Verifique el valor publicado para la liquidación de divisas o el pago de importaciones en su registro contable. Se recomienda validar la aplicación de este tipo de cambio en sus liquidaciones ante el banco interviniente para evitar diferencias cambiarias.",
+    "titulo": "Actualización del tipo de cambio oficial (MULC) al 20-08-2026",
+    "resumen": "El BCRA ha fijado el tipo de cambio oficial para el Mercado Único y Libre de Cambios en 1064.67 pesos por dólar estadounidense para la fecha indicada. Este valor es la referencia oficial para la liquidación de divisas y el pago de operaciones de comercio exterior.",
+    "queSignifica": "Debe verificar este valor para la correcta valuación de sus carpetas de importación o liquidaciones de exportación pendientes. Se sugiere realizar el control de los costos financieros y proyecciones cambiarias contra este tipo de cambio oficial antes de cursar cualquier pago o cobro a través del banco interviniente.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-08-20T10:23:13.642Z"
+    "actualizadoEn": "2026-08-21T10:24:27.814Z"
   },
   {
-    "id": "2026-08-20-actualizacion-de-normas-sobre-acceso-al-mercado-de-cambios-para-pagos-de-importa-8aab9f",
-    "slug": "actualizacion-de-normas-sobre-acceso-al-mercado-de-cambios-para-pagos-de-importa",
+    "id": "2026-08-21-actualizacion-de-normas-sobre-el-acceso-al-mercado-de-cambios-para-operaciones-d-cb4d4e",
+    "slug": "actualizacion-de-normas-sobre-el-acceso-al-mercado-de-cambios-para-operaciones-d",
+    "organismo": "BCRA",
+    "fecha": "2026-08-21",
+    "impacto": "alto",
+    "categoria": "normativa",
+    "tags": [
+      "BCRA",
+      "MULC",
+      "Acceso al mercado de cambios",
+      "Operaciones de cambio",
+      "Cumplimiento cambiario"
+    ],
+    "titulo": "Actualización de normas sobre el acceso al mercado de cambios para operaciones de comercio exterior",
+    "resumen": "La Comunicación A 8465 establece nuevos lineamientos operativos para el acceso al MULC por parte de importadores y exportadores. Define pautas de seguimiento y cumplimiento para las entidades financieras en el marco de sus operaciones cambiarias.",
+    "queSignifica": "Debe verificar junto a su entidad financiera si esta normativa afecta la disponibilidad de divisas o la documentación requerida para sus giros. Se sugiere auditar el cumplimiento de los plazos de ingreso o egreso de divisas conforme a esta nueva disposición antes de cursar nuevas operaciones.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/346230/20260821"
+    },
+    "normativaRef": "Comunicación \"A\" 8465/2026",
+    "publicadoEn": "2026-08-21T10:22:17.291Z",
+    "actualizadoEn": "2026-08-21T10:24:27.814Z"
+  },
+  {
+    "id": "2026-08-21-actualizacion-de-normas-cambiarias-para-el-acceso-al-mercado-libre-de-cambios-97d406",
+    "slug": "actualizacion-de-normas-cambiarias-para-el-acceso-al-mercado-libre-de-cambios",
+    "organismo": "BCRA",
+    "fecha": "2026-08-21",
+    "impacto": "alto",
+    "categoria": "normativa",
+    "tags": [
+      "MULC",
+      "BCRA",
+      "Giros al exterior",
+      "Acceso a divisas",
+      "Comercio exterior"
+    ],
+    "titulo": "Actualización de normas cambiarias para el acceso al Mercado Libre de Cambios",
+    "resumen": "La Comunicación establece nuevas condiciones operativas para el acceso al mercado de cambios para operaciones de comercio exterior. Modifica los plazos y requisitos documentales para el pago de importaciones y liquidación de divisas.",
+    "queSignifica": "Es necesario verificar el cumplimiento de los nuevos plazos y documentación de respaldo para el acceso al MULC. Se recomienda auditar las operaciones pendientes y consultar con su entidad financiera para asegurar la debida diligencia antes de cualquier giro.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/346231/20260821"
+    },
+    "normativaRef": "Comunicación \"A\" 8466/2026",
+    "publicadoEn": "2026-08-21T10:22:27.279Z",
+    "actualizadoEn": "2026-08-21T10:24:27.814Z"
+  },
+  {
+    "id": "2026-08-21-nueva-normativa-cambiaria-del-bcra-comunicacion-a-84672026-6f76cb",
+    "slug": "nueva-normativa-cambiaria-del-bcra-comunicacion-a-84672026",
     "organismo": "BCRA",
     "fecha": "2026-08-20",
     "impacto": "alto",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "Acceso al Mercado de Cambios",
-      "Pagos al Exterior",
+      "acceso al mercado",
       "BCRA",
-      "Comunicación A"
+      "operaciones cambiarias",
+      "regulación financiera"
     ],
-    "titulo": "Actualización de normas sobre acceso al mercado de cambios para pagos de importaciones",
-    "resumen": "La Comunicación A 8467 introduce modificaciones en los requisitos de acceso al MULC para la cancelación de obligaciones comerciales con el exterior. Establece nuevas condiciones de cumplimiento y presentación documental para las entidades financieras.",
-    "queSignifica": "Es necesario verificar con su entidad bancaria si las operaciones vigentes cumplen con los nuevos requisitos cambiarios. Se sugiere auditar el legajo de importación y validar la conformidad de las declaraciones ante el BCRA antes de cursar futuros giros.",
+    "titulo": "Nueva normativa cambiaria del BCRA (Comunicación A 8467/2026)",
+    "resumen": "La norma establece modificaciones en las condiciones de acceso al Mercado Único y Libre de Cambios para operaciones de comercio exterior. Define nuevos requisitos operativos para la liquidación y el pago de divisas en las transacciones internacionales.",
+    "queSignifica": "Es necesario que analice el impacto de estas restricciones en sus giros comerciales pendientes. Se recomienda verificar con su entidad bancaria la adecuación de sus declaraciones y el cumplimiento de los nuevos requisitos antes de cursar pagos.",
     "fuente": {
       "nombre": "Boletín Oficial de la República Argentina",
       "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/346169/20260820"
     },
     "normativaRef": "Comunicación \"A\" 8467/2026",
     "publicadoEn": "2026-08-20T10:22:01.635Z",
-    "actualizadoEn": "2026-08-20T10:23:13.642Z"
+    "actualizadoEn": "2026-08-21T10:24:27.814Z"
   },
   {
-    "id": "2026-08-20-evento-de-distinciones-y-celebracion-por-el-dia-del-despachante-5ecbf2",
-    "slug": "evento-de-distinciones-y-celebracion-por-el-dia-del-despachante",
+    "id": "2026-08-21-informe-institucional-sobre-el-dia-del-despachante-de-aduana-6468ab",
+    "slug": "informe-institucional-sobre-el-dia-del-despachante-de-aduana",
     "organismo": "Aduana",
-    "fecha": "2026-08-19",
+    "fecha": "2026-08-20",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "institucional",
+      "gremial",
+      "comercio exterior"
+    ],
+    "titulo": "Informe institucional sobre el Día del Despachante de Aduana",
+    "resumen": "Se trata de una nota de carácter institucional referente a la celebración del Día del Despachante de Aduana organizada por el CDA.",
+    "queSignifica": "Esta información es de carácter informativo y no altera procedimientos operativos ni normativos. Se sugiere desestimar la noticia para la gestión de sus operaciones aduaneras actuales.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42700"
+    },
+    "publicadoEn": "2026-08-21T10:22:43.562Z",
+    "actualizadoEn": "2026-08-21T10:24:27.814Z"
+  },
+  {
+    "id": "2026-08-21-programa-de-referidos-del-bbva-para-pagos-aduaneros-4ed380",
+    "slug": "programa-de-referidos-del-bbva-para-pagos-aduaneros",
+    "organismo": "Aduana",
+    "fecha": "2026-08-20",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "bancario",
+      "comercio exterior",
+      "servicios financieros",
+      "operativa aduanera"
+    ],
+    "titulo": "Programa de referidos del BBVA para pagos aduaneros",
+    "resumen": "El CDA comunica el lanzamiento de un programa de beneficios comerciales por parte del Banco BBVA para el pago de tributos aduaneros.",
+    "queSignifica": "Se sugiere revisar las condiciones comerciales y beneficios financieros ofrecidos por la entidad bancaria, evaluando su conveniencia operativa frente a otras opciones de pago habituales.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42685"
+    },
+    "publicadoEn": "2026-08-17T10:25:24.378Z",
+    "actualizadoEn": "2026-08-21T10:24:27.814Z"
+  },
+  {
+    "id": "2026-08-21-noticia-institucional-fallecimiento-del-socio-ruben-almiron-f9c854",
+    "slug": "noticia-institucional-fallecimiento-del-socio-ruben-almiron",
+    "organismo": "Aduana",
+    "fecha": "2026-08-20",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "institucional",
+      "cda",
+      "novedad"
+    ],
+    "titulo": "Noticia institucional: Fallecimiento del socio Rubén Almirón",
+    "resumen": "El Centro Despachantes de Aduana comunica el fallecimiento de uno de sus socios registrados.",
+    "queSignifica": "Esta información es de carácter estrictamente institucional y no afecta la operatividad ni el cumplimiento de las normas vigentes en comercio exterior.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42697"
+    },
+    "publicadoEn": "2026-08-19T10:21:26.565Z",
+    "actualizadoEn": "2026-08-21T10:24:27.814Z"
+  },
+  {
+    "id": "2026-08-21-convocatoria-a-actividades-por-el-dia-del-despachante-de-aduana-2026-f994aa",
+    "slug": "convocatoria-a-actividades-por-el-dia-del-despachante-de-aduana-2026",
+    "organismo": "Aduana",
+    "fecha": "2026-08-20",
     "impacto": "bajo",
     "categoria": "normativa",
     "tags": [
       "CDA",
-      "institucional",
-      "novedad"
+      "despachante",
+      "gremial",
+      "capacitacion",
+      "institucional"
     ],
-    "titulo": "Evento de Distinciones y Celebración por el Día del Despachante",
-    "resumen": "El Centro Despachantes de Aduana convoca a sus asociados a participar de las actividades programadas en el marco de la celebración del Día del Despachante.",
-    "queSignifica": "Esta comunicación tiene carácter institucional y no afecta la operativa aduanera ni los procesos de importación o exportación. Se recomienda consultar los canales oficiales del CDA solo si desea confirmar la agenda de actividades.",
+    "titulo": "Convocatoria a actividades por el Día del Despachante de Aduana 2026",
+    "resumen": "El Centro Despachantes de Aduana convoca a sus asociados a participar de las actividades programadas en conmemoración de su día.",
+    "queSignifica": "Es un aviso de carácter institucional sin efectos sobre la operatoria aduanera. Se sugiere verificar el cronograma de actividades en el portal del CDA si desea asistir.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42667"
     },
     "publicadoEn": "2026-08-05T11:53:32.158Z",
-    "actualizadoEn": "2026-08-20T10:23:13.642Z"
+    "actualizadoEn": "2026-08-21T10:24:27.814Z"
   },
   {
-    "id": "2026-08-20-nuevas-restricciones-y-controles-para-la-exportacion-de-material-militar-y-sensi-0d98d4",
-    "slug": "nuevas-restricciones-y-controles-para-la-exportacion-de-material-militar-y-sensi",
-    "organismo": "Aduana",
-    "fecha": "2026-08-19",
+    "id": "2026-08-21-anmat-prohibe-el-uso-y-comercializacion-de-equipos-medicos-alma-lasers-soprano-i-191387",
+    "slug": "anmat-prohibe-el-uso-y-comercializacion-de-equipos-medicos-alma-lasers-soprano-i",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-08-20",
     "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "ANMAT",
+      "prohibición",
+      "insumo médico",
+      "control de mercadería",
+      "comercio exterior"
+    ],
+    "titulo": "ANMAT prohíbe el uso y comercialización de equipos médicos Alma Lasers Soprano Ice",
+    "resumen": "La autoridad sanitaria dispuso la prohibición de uso, distribución y comercialización del equipo médico marca Alma Lasers modelo Soprano Ice por detectarse unidades falsificadas. La medida busca prevenir riesgos para la salud pública ante la falta de trazabilidad y certificación técnica.",
+    "queSignifica": "Se recomienda verificar inmediatamente el número de serie y la documentación de origen de cualquier equipo importado o en stock de esta marca. Ante la duda, se sugiere consultar el estado del registro sanitario ante ANMAT antes de proceder con el libramiento a plaza o comercialización.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-un-equipo-medico-de-la-marca-alma-lasers-soprano-ice"
+    },
+    "publicadoEn": "2026-08-21T10:24:18.949Z",
+    "actualizadoEn": "2026-08-21T10:24:27.814Z"
+  },
+  {
+    "id": "2026-08-21-secreto-militar-exportacion-de-material-relacionado-con-el-de122a",
+    "slug": "secreto-militar-exportacion-de-material-relacionado-con-el",
+    "organismo": "CDA",
+    "fecha": "2026-08-19",
+    "impacto": "bajo",
     "categoria": "exportacion",
     "tags": [
-      "Material Sensible",
-      "Control de Exportaciones",
-      "Decreto PEN",
-      "Seguridad Nacional",
-      "Permisos de Embarque"
+      "exportación"
     ],
-    "titulo": "Nuevas restricciones y controles para la exportación de material militar y sensible",
-    "resumen": "El Decreto 735/2026 establece nuevas condiciones y secretos para el control de exportación de material relacionado con la defensa. La norma impone restricciones estrictas sobre la documentación y aprobación necesaria para embarques de bienes estratégicos.",
-    "queSignifica": "Se recomienda verificar de inmediato si sus posiciones arancelarias están alcanzadas por la nueva restricción y consultar la viabilidad de sus permisos de embarque. Se sugiere auditar el perfil de la operación para evitar bloqueos en el SIM ante la nueva regulación de seguridad.",
+    "titulo": "Secreto Militar: Exportación de material relacionado con el",
+    "resumen": "El día 18/08/2026, el Poder Ejecutivo Nacional (PEN) publicó en el Boletín Oficial (B.O) el Decreto Nº 735 con el fin de declarar, en lo...",
+    "queSignifica": "Verificá si esta norma modifica requisitos, alícuotas o reintegros para exportaciones. Se recomienda revisar los despachos en trámite con el despachante.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42699"
     },
     "publicadoEn": "2026-08-20T10:22:18.102Z",
-    "actualizadoEn": "2026-08-20T10:23:13.642Z"
+    "actualizadoEn": "2026-08-21T10:24:27.814Z"
+  },
+  {
+    "id": "2026-08-21-apertura-de-contingentes-arancelarios-de-importacion-en-vucea-d056e7",
+    "slug": "apertura-de-contingentes-arancelarios-de-importacion-en-vucea",
+    "organismo": "ARCA",
+    "fecha": "2026-08-18",
+    "impacto": "medio",
+    "categoria": "importacion",
+    "tags": [
+      "VUCE",
+      "contingentes",
+      "aranceles",
+      "SIM",
+      "ARCA"
+    ],
+    "titulo": "Apertura de contingentes arancelarios de importación en VUCEA",
+    "resumen": "La Resolución General N° 5888 oficializa la habilitación de nuevos cupos para la importación bajo contingentes arancelarios a través de la plataforma VUCEA. Esta medida establece las condiciones y cantidades disponibles para el ejercicio vigente.",
+    "queSignifica": "El importador debe verificar en el sistema si sus posiciones arancelarias alcanzadas por la norma cuentan con cupos disponibles y revisar el cumplimiento de los requisitos técnicos exigidos. Se sugiere consultar con su despachante la aplicabilidad de estos beneficios a sus operaciones en curso.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42698"
+    },
+    "publicadoEn": "2026-08-19T10:21:20.800Z",
+    "actualizadoEn": "2026-08-21T10:24:27.814Z"
+  },
+  {
+    "id": "2026-08-21-cronogramas-de-atencion-en-terminales-portuarias-durante-feriados-765b3b",
+    "slug": "cronogramas-de-atencion-en-terminales-portuarias-durante-feriados",
+    "organismo": "Aduana",
+    "fecha": "2026-08-18",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "cronogramas",
+      "terminales portuarias",
+      "feriados",
+      "operativa",
+      "puertos"
+    ],
+    "titulo": "Cronogramas de atención en terminales portuarias durante feriados",
+    "resumen": "Se comunica el esquema de atención y funcionamiento de las terminales portuarias para las jornadas de feriado.",
+    "queSignifica": "Se sugiere revisar los cronogramas publicados por cada terminal para anticipar posibles demoras en el retiro o ingreso de contenedores. Se recomienda coordinar con los transportistas la disponibilidad de turnos para evitar sobrecostos por estadías o demoras.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42682"
+    },
+    "publicadoEn": "2026-08-12T10:54:47.186Z",
+    "actualizadoEn": "2026-08-21T10:24:27.814Z"
+  },
+  {
+    "id": "2026-08-21-cese-de-actividades-del-cda-por-feriado-del-17-de-agosto-b2fcb1",
+    "slug": "cese-de-actividades-del-cda-por-feriado-del-17-de-agosto",
+    "organismo": "Aduana",
+    "fecha": "2026-08-18",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "feriado",
+      "aduanas",
+      "operatividad",
+      "comercio exterior",
+      "gestión administrativa"
+    ],
+    "titulo": "Cese de actividades del CDA por feriado del 17 de agosto",
+    "resumen": "El Centro Despachantes de Aduana informa que su sede permanecerá cerrada el 17 de agosto de 2026 debido al feriado nacional.",
+    "queSignifica": "Se recomienda revisar si el feriado impacta en los plazos de presentación de documentación o trámites internos que requieran asistencia directa de la institución. Verifique con su despachante la disponibilidad operativa de las terminales y aduanas para operaciones urgentes.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42689"
+    },
+    "publicadoEn": "2026-08-14T10:51:43.471Z",
+    "actualizadoEn": "2026-08-21T10:24:27.814Z"
+  },
+  {
+    "id": "2026-08-21-reapertura-del-paso-internacional-cristo-redentor-217423",
+    "slug": "reapertura-del-paso-internacional-cristo-redentor",
+    "organismo": "Aduana",
+    "fecha": "2026-08-18",
+    "impacto": "medio",
+    "categoria": "logistica",
+    "tags": [
+      "Paso Cristo Redentor",
+      "Transporte Internacional",
+      "Logistica",
+      "Frontera",
+      "Cargas"
+    ],
+    "titulo": "Reapertura del Paso Internacional Cristo Redentor",
+    "resumen": "Se informa la rehabilitación del tránsito internacional en el Paso Cristo Redentor tras el cierre previo por condiciones climáticas. La operatividad se restablece para todo tipo de vehículos y cargas.",
+    "queSignifica": "Debe verificar el estado actualizado de la ruta y coordinar con los transportistas el reinicio de los movimientos de carga. Se recomienda revisar el cronograma de turnos y prioridades asignadas por la aduana de frontera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42694"
+    },
+    "publicadoEn": "2026-08-19T10:21:48.411Z",
+    "actualizadoEn": "2026-08-21T10:24:27.814Z"
+  },
+  {
+    "id": "2026-08-21-acuerdo-paritario-20262027-del-centro-despachantes-de-aduana-31910a",
+    "slug": "acuerdo-paritario-20262027-del-centro-despachantes-de-aduana",
+    "organismo": "Aduana",
+    "fecha": "2026-08-18",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "paritarias",
+      "costos laborales",
+      "CDA",
+      "recursos humanos",
+      "acuerdo salarial"
+    ],
+    "titulo": "Acuerdo paritario 2026/2027 del Centro Despachantes de Aduana",
+    "resumen": "Se formalizó el acuerdo salarial para el periodo 2026/2027 entre el CDA y los representantes gremiales.",
+    "queSignifica": "Se recomienda a los despachantes revisar las nuevas escalas salariales para actualizar sus estructuras de costos administrativos. Verifique la aplicación según la jurisdicción y el convenio colectivo vigente.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42696"
+    },
+    "publicadoEn": "2026-08-19T10:21:54.997Z",
+    "actualizadoEn": "2026-08-21T10:24:27.814Z"
+  },
+  {
+    "id": "2026-08-21-resumen-de-novedades-y-perspectivas-del-desayuno-de-trabajo-del-cda-189c97",
+    "slug": "resumen-de-novedades-y-perspectivas-del-desayuno-de-trabajo-del-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-08-18",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "capacitación",
+      "actualidad aduanera",
+      "comercio exterior",
+      "despachante de aduana",
+      "análisis normativo"
+    ],
+    "titulo": "Resumen de novedades y perspectivas del Desayuno de Trabajo del CDA",
+    "resumen": "El CDA realizó un encuentro institucional para analizar la coyuntura actual y las perspectivas del sector. Se trata de una instancia informativa sobre el escenario del comercio exterior argentino.",
+    "queSignifica": "Se sugiere revisar el material difundido por el CDA para mantenerse actualizado sobre interpretaciones técnicas. No requiere acciones operativas inmediatas en los sistemas de despacho.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42686"
+    },
+    "publicadoEn": "2026-08-12T10:54:52.219Z",
+    "actualizadoEn": "2026-08-21T10:24:27.814Z"
+  },
+  {
+    "id": "2026-08-21-analisis-sobre-el-rol-del-despachante-y-la-facilitacion-del-comercio-eafcdb",
+    "slug": "analisis-sobre-el-rol-del-despachante-y-la-facilitacion-del-comercio",
+    "organismo": "Aduana",
+    "fecha": "2026-08-18",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "despachante de aduana",
+      "comercio exterior",
+      "facilitación aduanera"
+    ],
+    "titulo": "Análisis sobre el rol del despachante y la facilitación del comercio",
+    "resumen": "El artículo reflexiona sobre el equilibrio necesario entre la celeridad en los procesos aduaneros y el cumplimiento de los controles aduaneros.",
+    "queSignifica": "Se recomienda al importador o exportador mantener actualizados sus registros y procedimientos, revisando las actualizaciones de criterios técnicos ante futuras implementaciones normativas.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42695"
+    },
+    "publicadoEn": "2026-08-19T10:22:05.921Z",
+    "actualizadoEn": "2026-08-21T10:24:27.814Z"
   },
   {
     "id": "2026-08-20-implementacion-de-contingentes-arancelarios-en-vucea-d0ddbc",
@@ -120,195 +425,6 @@
     "actualizadoEn": "2026-08-20T10:23:13.642Z"
   },
   {
-    "id": "2026-08-20-implementacion-de-contingentes-arancelarios-mediante-vucea-c5c4d8",
-    "slug": "implementacion-de-contingentes-arancelarios-mediante-vucea",
-    "organismo": "ARCA",
-    "fecha": "2026-08-18",
-    "impacto": "medio",
-    "categoria": "importacion",
-    "tags": [
-      "VUCE",
-      "Contingentes Arancelarios",
-      "Importación",
-      "SIM",
-      "Aranceles"
-    ],
-    "titulo": "Implementación de contingentes arancelarios mediante VUCEA",
-    "resumen": "La RG 5888 establece el procedimiento para la gestión de contingentes arancelarios de importación a través de la plataforma VUCE.",
-    "queSignifica": "El importador debe verificar si sus mercaderías están sujetas a cupos arancelarios y gestionar la solicitud de alícuotas preferenciales a través de VUCEA antes de la oficialización de la destinación.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42698"
-    },
-    "publicadoEn": "2026-08-19T10:21:20.800Z",
-    "actualizadoEn": "2026-08-20T10:23:13.642Z"
-  },
-  {
-    "id": "2026-08-20-noticia-institucional-fallecimiento-del-socio-ruben-almiron-61d33a",
-    "slug": "noticia-institucional-fallecimiento-del-socio-ruben-almiron",
-    "organismo": "Aduana",
-    "fecha": "2026-08-18",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "noticia institucional",
-      "gremial",
-      "CDA"
-    ],
-    "titulo": "Noticia institucional: Fallecimiento del socio Rubén Almirón",
-    "resumen": "El Centro Despachantes de Aduana informa el fallecimiento de uno de sus socios.",
-    "queSignifica": "Se trata de un comunicado institucional sin impacto en la operativa de comercio exterior ni en el cumplimiento de obligaciones aduaneras.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42697"
-    },
-    "publicadoEn": "2026-08-19T10:21:26.565Z",
-    "actualizadoEn": "2026-08-20T10:23:13.642Z"
-  },
-  {
-    "id": "2026-08-20-cronograma-de-operacion-de-terminales-portuarias-durante-feriados-b28a19",
-    "slug": "cronograma-de-operacion-de-terminales-portuarias-durante-feriados",
-    "organismo": "Aduana",
-    "fecha": "2026-08-18",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "terminales portuarias",
-      "operativa",
-      "feriado",
-      "logistica",
-      "puerto"
-    ],
-    "titulo": "Cronograma de operación de Terminales Portuarias durante feriados",
-    "resumen": "El CDA informa el esquema de trabajo y disponibilidad de las terminales portuarias para los días feriados. El objetivo es coordinar las actividades logísticas dentro del marco de los horarios especiales.",
-    "queSignifica": "Se recomienda verificar los horarios de atención específicos de la terminal donde opere su carga para evitar demoras. Sugerimos consultar con su despachante o agente de carga para confirmar la disponibilidad de turnos en las fechas indicadas.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42682"
-    },
-    "publicadoEn": "2026-08-12T10:54:47.186Z",
-    "actualizadoEn": "2026-08-20T10:23:13.642Z"
-  },
-  {
-    "id": "2026-08-20-cierre-institucional-del-cda-por-feriado-del-17-de-agosto-841356",
-    "slug": "cierre-institucional-del-cda-por-feriado-del-17-de-agosto",
-    "organismo": "Aduana",
-    "fecha": "2026-08-18",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "feriado",
-      "operativa aduanera",
-      "CDA",
-      "cronograma",
-      "despachante"
-    ],
-    "titulo": "Cierre institucional del CDA por feriado del 17 de agosto",
-    "resumen": "El Centro Despachantes de Aduana informa que suspenderá sus actividades administrativas el día 17 de agosto de 2026. La medida responde a la conmemoración del feriado nacional vigente.",
-    "queSignifica": "Se sugiere revisar el cronograma de vencimientos de operaciones y prever las gestiones documentales necesarias antes de la fecha, ya que la atención en la institución no estará disponible.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42689"
-    },
-    "publicadoEn": "2026-08-14T10:51:43.471Z",
-    "actualizadoEn": "2026-08-20T10:23:13.642Z"
-  },
-  {
-    "id": "2026-08-20-reapertura-del-paso-internacional-cristo-redentor-9ce964",
-    "slug": "reapertura-del-paso-internacional-cristo-redentor",
-    "organismo": "Aduana",
-    "fecha": "2026-08-18",
-    "impacto": "medio",
-    "categoria": "logistica",
-    "tags": [
-      "Paso Cristo Redentor",
-      "transporte internacional",
-      "logística",
-      "operativa aduanera",
-      "frontera"
-    ],
-    "titulo": "Reapertura del Paso Internacional Cristo Redentor",
-    "resumen": "Se comunica la reapertura del paso fronterizo Cristo Redentor tras las condiciones climáticas que motivaron su cierre previo.",
-    "queSignifica": "Se recomienda verificar el estado actualizado del paso y consultar con los transportistas la situación de las cargas en tránsito para coordinar el cruce de mercaderías.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42694"
-    },
-    "publicadoEn": "2026-08-19T10:21:48.411Z",
-    "actualizadoEn": "2026-08-20T10:23:13.642Z"
-  },
-  {
-    "id": "2026-08-20-acuerdo-paritario-20262027-para-el-sector-de-despachantes-de-aduana-05a6f5",
-    "slug": "acuerdo-paritario-20262027-para-el-sector-de-despachantes-de-aduana",
-    "organismo": "Aduana",
-    "fecha": "2026-08-18",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "paritarias",
-      "costos laborales",
-      "CDA",
-      "gestión administrativa",
-      "recursos humanos"
-    ],
-    "titulo": "Acuerdo paritario 2026/2027 para el sector de despachantes de aduana",
-    "resumen": "Se formalizó el acuerdo salarial correspondiente al período 2026/2027 para el personal del sector. Esta comunicación tiene carácter institucional para informar a los asociados sobre los ajustes paritarios.",
-    "queSignifica": "Se sugiere a los titulares de estudios aduaneros verificar los nuevos valores de las escalas salariales para actualizar la estructura de costos operativos. Se recomienda consultar el detalle del acuerdo para validar la aplicación de los incrementos en su nómina personal.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42696"
-    },
-    "publicadoEn": "2026-08-19T10:21:54.997Z",
-    "actualizadoEn": "2026-08-20T10:23:13.642Z"
-  },
-  {
-    "id": "2026-08-20-resumen-del-desayuno-de-trabajo-sobre-analisis-y-perspectivas-del-comercio-exter-cd55b2",
-    "slug": "resumen-del-desayuno-de-trabajo-sobre-analisis-y-perspectivas-del-comercio-exter",
-    "organismo": "Aduana",
-    "fecha": "2026-08-18",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "capacitación",
-      "actualidad aduanera",
-      "comercio exterior",
-      "gestión aduanera",
-      "CDA"
-    ],
-    "titulo": "Resumen del desayuno de trabajo sobre análisis y perspectivas del comercio exterior",
-    "resumen": "El CDA realizó un encuentro informativo para analizar el estado actual y las perspectivas del sector. Se trata de un reporte de alcance institucional sin modificaciones normativas vigentes.",
-    "queSignifica": "Se recomienda consultar los informes técnicos oficiales publicados por el CDA para mantenerse actualizado sobre interpretaciones de mercado. No implica acciones inmediatas de gestión o adecuación de operaciones.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42686"
-    },
-    "publicadoEn": "2026-08-12T10:54:52.219Z",
-    "actualizadoEn": "2026-08-20T10:23:13.642Z"
-  },
-  {
-    "id": "2026-08-20-analisis-institucional-sobre-la-facilitacion-del-comercio-exterior-31ff28",
-    "slug": "analisis-institucional-sobre-la-facilitacion-del-comercio-exterior",
-    "organismo": "Aduana",
-    "fecha": "2026-08-18",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "despachante de aduana",
-      "comercio exterior",
-      "facilitación comercial",
-      "gestión aduanera"
-    ],
-    "titulo": "Análisis institucional sobre la facilitación del comercio exterior",
-    "resumen": "El artículo aborda la importancia del rol del despachante en el equilibrio entre la agilidad operativa y el control aduanero. No establece nuevas obligaciones normativas ni cambios en la operativa vigente.",
-    "queSignifica": "Es un documento de opinión institucional sin impacto operativo inmediato. Se recomienda mantener los procedimientos actuales y monitorear la normativa vigente de ARCA ante posibles actualizaciones de gestión.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42695"
-    },
-    "publicadoEn": "2026-08-19T10:22:05.921Z",
-    "actualizadoEn": "2026-08-20T10:23:13.642Z"
-  },
-  {
     "id": "2026-08-20-evento-institucional-celebracion-del-114-aniversario-del-centro-despachantes-de--14dfb4",
     "slug": "evento-institucional-celebracion-del-114-aniversario-del-centro-despachantes-de-",
     "organismo": "Aduana",
@@ -331,30 +447,6 @@
     },
     "publicadoEn": "2026-08-10T11:00:59.425Z",
     "actualizadoEn": "2026-08-20T10:23:13.642Z"
-  },
-  {
-    "id": "2026-08-17-nuevo-programa-de-referidos-del-banco-bbva-para-clientes-del-comercio-exterior-a9430e",
-    "slug": "nuevo-programa-de-referidos-del-banco-bbva-para-clientes-del-comercio-exterior",
-    "organismo": "Aduana",
-    "fecha": "2026-08-14",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "bancos",
-      "pagos aduaneros",
-      "servicios financieros",
-      "comercio exterior",
-      "beneficios"
-    ],
-    "titulo": "Nuevo programa de referidos del Banco BBVA para clientes del comercio exterior",
-    "resumen": "El CDA comunica un programa de beneficios lanzado por el Banco BBVA enfocado en operaciones aduaneras.",
-    "queSignifica": "Es una propuesta comercial bancaria sin cambios operativos. Se sugiere revisar los términos del programa con su ejecutivo de cuenta si opera con dicha entidad.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42685"
-    },
-    "publicadoEn": "2026-08-17T10:25:24.378Z",
-    "actualizadoEn": "2026-08-17T10:25:44.664Z"
   },
   {
     "id": "2026-08-17-participacion-del-cda-en-expo-logisti-k-y-expo-transporte-2026-816902",
@@ -764,100 +856,5 @@
     },
     "publicadoEn": "2026-08-10T11:01:30.542Z",
     "actualizadoEn": "2026-08-10T11:01:35.860Z"
-  },
-  {
-    "id": "2026-08-07-nueva-asesoria-especializada-en-seguros-para-socios-del-cda-07cb38",
-    "slug": "nueva-asesoria-especializada-en-seguros-para-socios-del-cda",
-    "organismo": "Aduana",
-    "fecha": "2026-08-06",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "seguro de transporte",
-      "gestión de riesgos",
-      "despachante de aduana",
-      "asesoría técnica",
-      "comercio exterior"
-    ],
-    "titulo": "Nueva asesoría especializada en seguros para socios del CDA",
-    "resumen": "El Centro Despachantes de Aduana habilitó un nuevo canal de asesoramiento técnico sobre seguros.",
-    "queSignifica": "Se recomienda evaluar el alcance de este nuevo servicio para consultar dudas sobre pólizas y coberturas en sus operaciones. Verifique si sus pólizas vigentes se ajustan a los riesgos actuales de su carga.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42619"
-    },
-    "publicadoEn": "2026-08-07T10:44:40.816Z",
-    "actualizadoEn": "2026-08-07T10:45:16.407Z"
-  },
-  {
-    "id": "2026-08-07-convocatoria-a-asamblea-general-extraordinaria-del-cda-b01cb7",
-    "slug": "convocatoria-a-asamblea-general-extraordinaria-del-cda",
-    "organismo": "Aduana",
-    "fecha": "2026-08-06",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "CDA",
-      "institucional",
-      "asamblea",
-      "gestión gremial"
-    ],
-    "titulo": "Convocatoria a Asamblea General Extraordinaria del CDA",
-    "resumen": "El Centro Despachantes de Aduana convoca a sus socios a una Asamblea General Extraordinaria según el estatuto vigente.",
-    "queSignifica": "Se recomienda a los socios verificar el orden del día y participar si les interesa la gestión gremial, ya que no impacta directamente en las operaciones aduaneras diarias.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42621"
-    },
-    "publicadoEn": "2026-07-21T11:43:55.231Z",
-    "actualizadoEn": "2026-08-07T10:45:16.407Z"
-  },
-  {
-    "id": "2026-08-07-anmat-prohibe-comercializacion-y-uso-de-tres-lotes-del-medicamento-zetrotrax-90a181",
-    "slug": "anmat-prohibe-comercializacion-y-uso-de-tres-lotes-del-medicamento-zetrotrax",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-08-06",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "ANMAT",
-      "bloqueo aduanero",
-      "seguridad sanitaria",
-      "medicamentos",
-      "interdicción"
-    ],
-    "titulo": "ANMAT prohíbe comercialización y uso de tres lotes del medicamento ZETROTRAX",
-    "resumen": "La medida dispone el retiro del mercado y la prohibición de uso y comercialización de tres lotes específicos del producto ZETROTRAX debido a irregularidades detectadas. La resolución obliga al cese inmediato de la distribución de las partidas afectadas.",
-    "queSignifica": "Debe verificar urgentemente el stock de su depósito y el estado de los despachos en curso para identificar si posee alguno de los lotes afectados. Se recomienda realizar una revisión exhaustiva de la trazabilidad y, ante cualquier coincidencia, abstenerse de cualquier movimiento aduanero o comercial hasta obtener instrucciones precisas de la autoridad.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-tres-lotes-del-medicamento-zetrotrax"
-    },
-    "publicadoEn": "2026-08-06T11:59:18.989Z",
-    "actualizadoEn": "2026-08-07T10:45:16.407Z"
-  },
-  {
-    "id": "2026-08-07-anmat-prohibe-la-comercializacion-de-dos-lotes-de-desinflamantes-de-gramon-mille-75a70d",
-    "slug": "anmat-prohibe-la-comercializacion-de-dos-lotes-de-desinflamantes-de-gramon-mille",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-08-06",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "ANMAT",
-      "retirada de mercado",
-      "productos farmacéuticos",
-      "control sanitario",
-      "gestión de riesgos"
-    ],
-    "titulo": "ANMAT prohíbe la comercialización de dos lotes de desinflamantes de Gramon Millet S.A.",
-    "resumen": "La autoridad regulatoria dispuso el retiro del mercado y la prohibición de comercializar dos lotes específicos de medicamentos antiinflamatorios producidos por la firma Gramon Millet S.A. debido a irregularidades detectadas.",
-    "queSignifica": "Los importadores o distribuidores que operen con esta línea deben verificar inmediatamente si poseen unidades de los lotes afectados en stock o en tránsito, bloqueando su comercialización y consultando con la firma los pasos para la devolución o destrucción según protocolo de ANMAT.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-dos-lotes-de-medicamentos-desinflamantes-de-la-firma-gramon-millet-sa"
-    },
-    "publicadoEn": "2026-08-06T11:59:24.355Z",
-    "actualizadoEn": "2026-08-07T10:45:16.407Z"
   }
 ]
