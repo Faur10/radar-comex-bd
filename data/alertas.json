@@ -1,27 +1,122 @@
 [
   {
-    "id": "2026-08-21-actualizacion-del-tipo-de-cambio-oficial-mulc-al-20-08-2026-d7d65a",
-    "slug": "actualizacion-del-tipo-de-cambio-oficial-mulc-al-20-08-2026",
+    "id": "2026-08-24-actualizacion-del-tipo-de-cambio-oficial-mulc-al-21-de-agosto-de-2026-126ab7",
+    "slug": "actualizacion-del-tipo-de-cambio-oficial-mulc-al-21-de-agosto-de-2026",
     "organismo": "BCRA",
-    "fecha": "2026-08-21",
-    "impacto": "alto",
+    "fecha": "2026-08-24",
+    "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
       "tipo de cambio",
+      "operaciones cambiarias",
       "divisas",
-      "BCRA",
-      "operaciones cambiarias"
+      "cotización"
     ],
-    "titulo": "Actualización del tipo de cambio oficial (MULC) al 20-08-2026",
-    "resumen": "El BCRA ha fijado el tipo de cambio oficial para el Mercado Único y Libre de Cambios en 1064.67 pesos por dólar estadounidense para la fecha indicada. Este valor es la referencia oficial para la liquidación de divisas y el pago de operaciones de comercio exterior.",
-    "queSignifica": "Debe verificar este valor para la correcta valuación de sus carpetas de importación o liquidaciones de exportación pendientes. Se sugiere realizar el control de los costos financieros y proyecciones cambiarias contra este tipo de cambio oficial antes de cursar cualquier pago o cobro a través del banco interviniente.",
+    "titulo": "Actualización del tipo de cambio oficial (MULC) al 21 de agosto de 2026",
+    "resumen": "El BCRA ha fijado el tipo de cambio oficial de referencia para las operaciones en el Mercado Único y Libre de Cambios en 1075.98 pesos argentinos por dólar estadounidense.",
+    "queSignifica": "Verifique este valor para la liquidación de divisas o el pago de importaciones y ajuste sus proyecciones de costos. Se recomienda consultar con su entidad bancaria para confirmar la aplicabilidad de esta cotización en sus operaciones específicas.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-08-21T10:24:27.814Z"
+    "actualizadoEn": "2026-08-24T10:31:13.361Z"
+  },
+  {
+    "id": "2026-08-24-reunion-de-la-subcomision-de-tecnica-y-normativa-del-cda-64789d",
+    "slug": "reunion-de-la-subcomision-de-tecnica-y-normativa-del-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-08-21",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "CDA",
+      "capacitación",
+      "técnica",
+      "normativa"
+    ],
+    "titulo": "Reunión de la Subcomisión de Técnica y Normativa del CDA",
+    "resumen": "El CDA convoca a sus asociados a una reunión informativa para tratar aspectos de técnica y normativa aduanera.",
+    "queSignifica": "Se sugiere a los interesados revisar la agenda de la reunión y verificar si se tratarán temas de actualidad operativa que requieran ajustes en sus procedimientos habituales.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42701"
+    },
+    "publicadoEn": "2026-08-24T10:30:51.911Z",
+    "actualizadoEn": "2026-08-24T10:31:13.361Z"
+  },
+  {
+    "id": "2026-08-24-beneficio-de-descuento-en-servicios-para-socios-del-centro-despachantes-de-aduan-58633b",
+    "slug": "beneficio-de-descuento-en-servicios-para-socios-del-centro-despachantes-de-aduan",
+    "organismo": "Aduana",
+    "fecha": "2026-08-21",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "CDA",
+      "beneficios",
+      "capacitacion",
+      "despachante de aduanas",
+      "actualizacion profesional"
+    ],
+    "titulo": "Beneficio de descuento en servicios para socios del Centro Despachantes de Aduana",
+    "resumen": "El CDA comunica un beneficio exclusivo de descuento del 50% aplicable a servicios para sus asociados. La medida tiene alcance institucional y no modifica procedimientos aduaneros vigentes.",
+    "queSignifica": "Esta novedad es de carácter informativo y no altera la operatividad del comercio exterior. Se sugiere a los despachantes consultar los canales oficiales del CDA para verificar los términos y condiciones del beneficio.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42688"
+    },
+    "publicadoEn": "2026-08-24T10:30:57.479Z",
+    "actualizadoEn": "2026-08-24T10:31:13.361Z"
+  },
+  {
+    "id": "2026-08-24-informe-del-indec-sobre-el-intercambio-comercial-argentino-de-julio-2026-a06ed1",
+    "slug": "informe-del-indec-sobre-el-intercambio-comercial-argentino-de-julio-2026",
+    "organismo": "Aduana",
+    "fecha": "2026-08-21",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "comercio exterior",
+      "indices de precios",
+      "estadisticas",
+      "indec",
+      "balanza comercial"
+    ],
+    "titulo": "Informe del INDEC sobre el Intercambio Comercial Argentino de julio 2026",
+    "resumen": "El informe presenta la variación mensual de los precios y cantidades de bienes exportados e importados según datos oficiales del INDEC.",
+    "queSignifica": "Se sugiere revisar los informes para analizar tendencias de mercado y proyecciones sectoriales, ya que esta información no impacta en la operativa diaria de los despachos.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42702"
+    },
+    "publicadoEn": "2026-08-24T10:31:02.644Z",
+    "actualizadoEn": "2026-08-24T10:31:13.361Z"
+  },
+  {
+    "id": "2026-08-24-nueva-habilitacion-de-frigorifico-en-cordoba-para-exportar-carne-vacuna-a-china-9d466a",
+    "slug": "nueva-habilitacion-de-frigorifico-en-cordoba-para-exportar-carne-vacuna-a-china",
+    "organismo": "SENASA",
+    "fecha": "2026-08-21",
+    "impacto": "bajo",
+    "categoria": "exportacion",
+    "tags": [
+      "exportación carne",
+      "SENASA",
+      "habilitaciones sanitarias",
+      "China",
+      "mercado cárnico"
+    ],
+    "titulo": "Nueva habilitación de frigorífico en Córdoba para exportar carne vacuna a China",
+    "resumen": "El SENASA fiscalizó el primer envío de carne vacuna desde un establecimiento en Juárez Celman, Córdoba, hacia el mercado chino.",
+    "queSignifica": "Los exportadores del sector deben verificar la vigencia de las habilitaciones sanitarias específicas para China y consultar la normativa de SENASA para nuevas altas en el padrón de establecimientos exportadores.",
+    "fuente": {
+      "nombre": "SENASA Comunica",
+      "url": "https://www.argentina.gob.ar/noticias/cordoba-se-envio-por-primera-vez-carne-vacuna-china-desde-un-frigorifico-recientemente"
+    },
+    "publicadoEn": "2026-08-24T10:31:08.394Z",
+    "actualizadoEn": "2026-08-24T10:31:13.361Z"
   },
   {
     "id": "2026-08-21-actualizacion-de-normas-sobre-el-acceso-al-mercado-de-cambios-para-operaciones-d-cb4d4e",
@@ -736,125 +831,5 @@
     "normativaRef": "Comunicación \"A\" 8464/2026",
     "publicadoEn": "2026-08-11T10:44:00.803Z",
     "actualizadoEn": "2026-08-12T10:55:17.281Z"
-  },
-  {
-    "id": "2026-08-10-actualizacion-de-aranceles-por-servicios-de-inspeccion-y-control-de-senasa-0c101b",
-    "slug": "actualizacion-de-aranceles-por-servicios-de-inspeccion-y-control-de-senasa",
-    "organismo": "Secretaría de Agricultura, Ganadería y Pesca",
-    "fecha": "2026-08-07",
-    "impacto": "medio",
-    "categoria": "importacion",
-    "tags": [
-      "SENASA",
-      "Aranceles",
-      "Costos Aduaneros",
-      "Certificaciones",
-      "SAGPA"
-    ],
-    "titulo": "Actualización de aranceles por servicios de inspección y control de SENASA",
-    "resumen": "La resolución establece una modificación en los aranceles vigentes por los servicios prestados por SENASA en el marco del comercio exterior de alimentos.",
-    "queSignifica": "El operador debe verificar si sus posiciones arancelarias presentan cambios en los costos de intervención del organismo. Se recomienda auditar las proyecciones de gastos de nacionalización para contemplar estos ajustes en los nuevos trámites.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42683"
-    },
-    "publicadoEn": "2026-08-10T11:01:09.626Z",
-    "actualizadoEn": "2026-08-10T11:01:35.860Z"
-  },
-  {
-    "id": "2026-08-10-nuevo-acuerdo-automotriz-argentina-ecuador-ajuste-de-aranceles-47828b",
-    "slug": "nuevo-acuerdo-automotriz-argentina-ecuador-ajuste-de-aranceles",
-    "organismo": "Aduana",
-    "fecha": "2026-08-07",
-    "impacto": "medio",
-    "categoria": "normativa",
-    "tags": [
-      "acuerdo automotriz",
-      "aranceles",
-      "ACE",
-      "autopartes",
-      "origen"
-    ],
-    "titulo": "Nuevo acuerdo automotriz Argentina-Ecuador: ajuste de aranceles",
-    "resumen": "Se establecen nuevos gravámenes preferenciales del 10% para vehículos a combustión y 0% para autopartes y vehículos de nuevas tecnologías entre ambos países.",
-    "queSignifica": "Se sugiere verificar la posición arancelaria y el cumplimiento de los requisitos de origen para aplicar las nuevas preferencias arancelarias. Es recomendable auditar los Certificados de Origen correspondientes para asegurar la correcta liquidación de tributos en sus operaciones.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42680"
-    },
-    "publicadoEn": "2026-08-10T11:01:14.719Z",
-    "actualizadoEn": "2026-08-10T11:01:35.860Z"
-  },
-  {
-    "id": "2026-08-10-primera-exportacion-de-brochetas-de-langostino-a-ee-uu-via-chile-b81167",
-    "slug": "primera-exportacion-de-brochetas-de-langostino-a-ee-uu-via-chile",
-    "organismo": "SENASA",
-    "fecha": "2026-08-07",
-    "impacto": "bajo",
-    "categoria": "exportacion",
-    "tags": [
-      "exportación",
-      "productos pesqueros",
-      "certificación fitosanitaria",
-      "tránsito aduanero",
-      "acceso a mercados"
-    ],
-    "titulo": "Primera exportación de brochetas de langostino a EE. UU. vía Chile",
-    "resumen": "Se oficializó el primer envío de brochetas de langostino argentino hacia Jacksonville, Estados Unidos, consolidando una ruta logística a través de Chile con fiscalización del SENASA.",
-    "queSignifica": "Para exportadores del sector, se sugiere revisar los requisitos fitosanitarios específicos para productos procesados de mar y verificar la viabilidad operativa de las rutas de tránsito terrestre para cumplir con las exigencias de admisibilidad del país de destino.",
-    "fuente": {
-      "nombre": "SENASA Comunica",
-      "url": "https://www.argentina.gob.ar/noticias/se-certifico-la-primera-exportacion-de-brochetas-de-langostino-hacia-los-estados-unidos"
-    },
-    "publicadoEn": "2026-08-10T11:01:20.367Z",
-    "actualizadoEn": "2026-08-10T11:01:35.860Z"
-  },
-  {
-    "id": "2026-08-10-retiro-del-mercado-y-prohibicion-de-venta-de-producto-sellos-fucus-d3e06c",
-    "slug": "retiro-del-mercado-y-prohibicion-de-venta-de-producto-sellos-fucus",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-08-07",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "ANMAT",
-      "prohibición de comercialización",
-      "retiro de mercado",
-      "control sanitario",
-      "SIM"
-    ],
-    "titulo": "Retiro del mercado y prohibición de venta de producto SELLOS FUCUS",
-    "resumen": "La ANMAT dispuso el retiro preventivo y la prohibición de comercialización de todos los lotes del producto SELLOS FUCUS por irregularidades en su registro y seguridad.",
-    "queSignifica": "Verifique si cuenta con stock del producto y bloquee su despacho o comercialización de inmediato. Se sugiere auditar el inventario y consultar con su departamento legal o técnico para coordinar la devolución al proveedor.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/retiro-del-mercado-de-todos-los-lotes-del-producto-sellos-fucus"
-    },
-    "publicadoEn": "2026-08-10T11:01:25.521Z",
-    "actualizadoEn": "2026-08-10T11:01:35.860Z"
-  },
-  {
-    "id": "2026-08-10-anmat-prohibe-la-comercializacion-y-uso-de-diversos-productos-medicos-8afd90",
-    "slug": "anmat-prohibe-la-comercializacion-y-uso-de-diversos-productos-medicos",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-08-07",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "productos médicos",
-      "prohibición comercialización",
-      "seguridad sanitaria",
-      "fiscalización",
-      "SIM"
-    ],
-    "titulo": "ANMAT prohíbe la comercialización y uso de diversos productos médicos",
-    "resumen": "La medida establece la prohibición del uso, distribución y comercialización de productos médicos específicos por carecer de registro sanitario o presentar irregularidades. Se ordena el retiro inmediato del mercado nacional.",
-    "queSignifica": "Es imperativo verificar si su empresa tiene en stock o en tránsito los ítems alcanzados por la disposición vigente. Se recomienda auditar las partidas y consultar el listado oficial en la web de ANMAT para evitar bloqueos en el despacho o sanciones ante eventuales inspecciones.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-diferentes-productos-medicos-de-distintas-marcas"
-    },
-    "publicadoEn": "2026-08-10T11:01:30.542Z",
-    "actualizadoEn": "2026-08-10T11:01:35.860Z"
   }
 ]
