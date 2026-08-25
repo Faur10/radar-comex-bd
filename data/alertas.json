@@ -1,27 +1,147 @@
 [
   {
-    "id": "2026-08-24-actualizacion-del-tipo-de-cambio-oficial-mulc-al-21-de-agosto-de-2026-126ab7",
-    "slug": "actualizacion-del-tipo-de-cambio-oficial-mulc-al-21-de-agosto-de-2026",
+    "id": "2026-08-25-actualizacion-del-tipo-de-cambio-oficial-mulc-al-24-de-agosto-de-2026-e59b74",
+    "slug": "actualizacion-del-tipo-de-cambio-oficial-mulc-al-24-de-agosto-de-2026",
     "organismo": "BCRA",
-    "fecha": "2026-08-24",
+    "fecha": "2026-08-25",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "tipo de cambio",
-      "operaciones cambiarias",
-      "divisas",
-      "cotización"
+      "Tipo de cambio",
+      "BCRA",
+      "Liquidación de divisas",
+      "Comercio exterior"
     ],
-    "titulo": "Actualización del tipo de cambio oficial (MULC) al 21 de agosto de 2026",
-    "resumen": "El BCRA ha fijado el tipo de cambio oficial de referencia para las operaciones en el Mercado Único y Libre de Cambios en 1075.98 pesos argentinos por dólar estadounidense.",
-    "queSignifica": "Verifique este valor para la liquidación de divisas o el pago de importaciones y ajuste sus proyecciones de costos. Se recomienda consultar con su entidad bancaria para confirmar la aplicabilidad de esta cotización en sus operaciones específicas.",
+    "titulo": "Actualización del tipo de cambio oficial (MULC) al 24 de agosto de 2026",
+    "resumen": "El BCRA ha fijado el tipo de cambio oficial para las operaciones cursadas a través del Mercado Único y Libre de Cambios en 1078.59 pesos por dólar. Esta cifra refleja la referencia cambiaria oficial vigente para la fecha indicada.",
+    "queSignifica": "Se debe utilizar este valor como referencia para la valorización contable y operativa de las operaciones de comercio exterior. Se recomienda revisar que los sistemas internos y los pagos de derechos o servicios asociados a la operación coincidan con esta cotización oficial antes de proceder con el registro.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-08-24T10:31:13.361Z"
+    "actualizadoEn": "2026-08-25T10:24:39.341Z"
+  },
+  {
+    "id": "2026-08-25-prorroga-en-vencimientos-de-impuesto-a-las-ganancias-periodo-fiscal-2025-4a5c92",
+    "slug": "prorroga-en-vencimientos-de-impuesto-a-las-ganancias-periodo-fiscal-2025",
+    "organismo": "ARCA",
+    "fecha": "2026-08-25",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "impuesto a las ganancias",
+      "declaracion jurada",
+      "arcca",
+      "fiscalidad",
+      "cumplimiento"
+    ],
+    "titulo": "Prórroga en vencimientos de Impuesto a las Ganancias período fiscal 2025",
+    "resumen": "La norma establece un calendario especial de plazos para la presentación y pago de la declaración jurada del Impuesto a las Ganancias correspondiente al año 2025.",
+    "queSignifica": "Verifique con su departamento contable o asesor fiscal el cronograma actualizado para asegurar el cumplimiento en término. Es recomendable auditar los vencimientos internos para evitar multas por presentaciones fuera de plazo.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/346339/20260825"
+    },
+    "normativaRef": "Resolución General 5890/2026",
+    "publicadoEn": "2026-08-25T10:24:11.849Z",
+    "actualizadoEn": "2026-08-25T10:24:39.341Z"
+  },
+  {
+    "id": "2026-08-25-nuevas-opciones-de-pago-para-impuestos-en-el-departamento-tecnica-de-importacion-519950",
+    "slug": "nuevas-opciones-de-pago-para-impuestos-en-el-departamento-tecnica-de-importacion",
+    "organismo": "Aduana",
+    "fecha": "2026-08-24",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [
+      "pago",
+      "tributos",
+      "importación",
+      "gestión aduanera",
+      "TEIM"
+    ],
+    "titulo": "Nuevas opciones de pago para impuestos en el Departamento Técnica de Importación",
+    "resumen": "El CDA comunicó a sus asociados nuevas alternativas operativas para el pago de impuestos ante el Departamento Técnica de Importación (TEIM).",
+    "queSignifica": "Se sugiere revisar el comunicado oficial para identificar las nuevas modalidades disponibles. Se recomienda validar con su despachante si estos cambios impactan en la operativa actual de pago de sus operaciones.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42706"
+    },
+    "publicadoEn": "2026-08-25T10:24:17.275Z",
+    "actualizadoEn": "2026-08-25T10:24:39.341Z"
+  },
+  {
+    "id": "2026-08-25-informacion-oficial-de-aeropuertos-argentina-sobre-su-sistema-de-gestion-de-carg-aa377c",
+    "slug": "informacion-oficial-de-aeropuertos-argentina-sobre-su-sistema-de-gestion-de-carg",
+    "organismo": "Aduana",
+    "fecha": "2026-08-24",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "Aeropuertos Argentina",
+      "Cargas",
+      "Terminal de Carga",
+      "Gestión Documental"
+    ],
+    "titulo": "Información oficial de Aeropuertos Argentina sobre su sistema de gestión de cargas",
+    "resumen": "El CDA difundió un comunicado oficial emitido por Aeropuertos Argentina relativo a su sistema operativo de cargas. Se trata de una comunicación informativa sobre el funcionamiento de su plataforma digital.",
+    "queSignifica": "Se recomienda al operador verificar en la plataforma de Aeropuertos Argentina si existen cambios en el flujo de procesos o documentación. Es prudente auditar los avisos vigentes en el portal para asegurar la correcta gestión de los embarques en terminal.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42705"
+    },
+    "publicadoEn": "2026-08-25T10:24:22.521Z",
+    "actualizadoEn": "2026-08-25T10:24:39.341Z"
+  },
+  {
+    "id": "2026-08-25-apertura-de-registro-senasa-para-exportacion-de-granos-a-china-bacffd",
+    "slug": "apertura-de-registro-senasa-para-exportacion-de-granos-a-china",
+    "organismo": "SENASA",
+    "fecha": "2026-08-24",
+    "impacto": "medio",
+    "categoria": "exportacion",
+    "tags": [
+      "SENASA",
+      "exportación",
+      "China",
+      "graneles",
+      "habilitaciones"
+    ],
+    "titulo": "Apertura de registro SENASA para exportación de granos a China",
+    "resumen": "El SENASA abre el periodo de inscripción para empresas interesadas en exportar cebada, trigo, soja, sorgo y maíz al mercado chino.",
+    "queSignifica": "Las empresas deben revisar si su perfil requiere inscripción obligatoria para este destino específico antes del 6 de septiembre. Se recomienda verificar los requisitos fitosanitarios vigentes con el sector técnico del organismo.",
+    "fuente": {
+      "nombre": "SENASA Comunica",
+      "url": "https://www.argentina.gob.ar/noticias/inscripcion-para-exportadores-de-granos-de-cebada-trigo-soja-sorgo-y-maiz-china-3"
+    },
+    "publicadoEn": "2026-08-25T10:24:28.048Z",
+    "actualizadoEn": "2026-08-25T10:24:39.341Z"
+  },
+  {
+    "id": "2026-08-25-vencimiento-para-inscripcion-en-renspa-y-programas-de-exportacion-de-frutas-en-r-a20550",
+    "slug": "vencimiento-para-inscripcion-en-renspa-y-programas-de-exportacion-de-frutas-en-r",
+    "organismo": "SENASA",
+    "fecha": "2026-08-24",
+    "impacto": "alto",
+    "categoria": "exportacion",
+    "tags": [
+      "RENSPA",
+      "frutas frescas",
+      "SENASA",
+      "fitosanitario",
+      "habilitación"
+    ],
+    "titulo": "Vencimiento para inscripción en RENSPA y programas de exportación de frutas en Río Negro y Neuquén",
+    "resumen": "El SENASA establece el 31 de agosto como fecha límite para completar la inscripción en el RENSPA y adherir a los programas de exportación de frutas frescas para las provincias de Río Negro y Neuquén.",
+    "queSignifica": "Los exportadores deben verificar su estado de inscripción y adhesión para evitar bloqueos en la emisión de certificados fitosanitarios. Se recomienda gestionar las presentaciones ante SENASA con antelación para asegurar la operatividad de los embarques.",
+    "fuente": {
+      "nombre": "SENASA Comunica",
+      "url": "https://www.argentina.gob.ar/noticias/el-31-de-agosto-cierra-inscripcion-en-renspa-y-adhesion-programas-de-exportacion-de-frutas"
+    },
+    "publicadoEn": "2026-08-25T10:24:33.834Z",
+    "actualizadoEn": "2026-08-25T10:24:39.341Z"
   },
   {
     "id": "2026-08-24-reunion-de-la-subcomision-de-tecnica-y-normativa-del-cda-64789d",
@@ -732,104 +852,5 @@
     },
     "publicadoEn": "2026-07-21T11:43:50.081Z",
     "actualizadoEn": "2026-08-13T10:57:41.730Z"
-  },
-  {
-    "id": "2026-08-13-prohibicion-de-comercializacion-de-una-unidad-especifica-de-dermatoscopio-fotofi-fb71bd",
-    "slug": "prohibicion-de-comercializacion-de-una-unidad-especifica-de-dermatoscopio-fotofi",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-08-10",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "ANMAT",
-      "Producto Médico",
-      "Prohibición",
-      "Despacho",
-      "Control Sanitario"
-    ],
-    "titulo": "Prohibición de comercialización de una unidad específica de dermatoscopio FotoFinder",
-    "resumen": "La ANMAT prohibió el uso, comercialización y distribución de una unidad específica del dermatoscopio marca FotoFinder por irregularidades detectadas.",
-    "queSignifica": "Se sugiere verificar el número de serie de sus unidades en stock o en tránsito para asegurar que no coincida con la unidad prohibida y validar la trazabilidad del lote con el fabricante.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-una-unidad-del-producto-medico-dermatoscopio-marca-fotofinder"
-    },
-    "publicadoEn": "2026-08-11T10:44:23.581Z",
-    "actualizadoEn": "2026-08-13T10:57:41.730Z"
-  },
-  {
-    "id": "2026-08-12-actualizacion-de-normas-sobre-acceso-al-mercado-de-cambios-y-pagos-de-comercio-e-861985",
-    "slug": "actualizacion-de-normas-sobre-acceso-al-mercado-de-cambios-y-pagos-de-comercio-e",
-    "organismo": "BCRA",
-    "fecha": "2026-08-10",
-    "impacto": "alto",
-    "categoria": "normativa",
-    "tags": [
-      "BCRA",
-      "MULC",
-      "Acceso al Mercado de Cambios",
-      "Pagos al exterior",
-      "Política monetaria"
-    ],
-    "titulo": "Actualización de normas sobre acceso al mercado de cambios y pagos de comercio exterior",
-    "resumen": "La Comunicación A 8461 establece nuevas pautas operativas para el acceso al mercado libre de cambios por parte de los operadores de comercio exterior. Define procedimientos específicos para la liquidación de divisas y el cumplimiento de requisitos cambiarios vigentes.",
-    "queSignifica": "Es necesario verificar el estado de los pendientes operativos y consultar con la entidad financiera interviniente para validar si la nueva normativa impacta sobre las operaciones en curso. Se recomienda auditar la documentación respaldatoria antes de realizar nuevos giros al exterior.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/345747/20260810"
-    },
-    "normativaRef": "Comunicación \"A\" 8461/2026",
-    "publicadoEn": "2026-08-11T10:43:50.087Z",
-    "actualizadoEn": "2026-08-12T10:55:17.281Z"
-  },
-  {
-    "id": "2026-08-12-actualizacion-de-normas-operativas-del-bcra-sobre-el-acceso-al-mercado-de-cambio-fee017",
-    "slug": "actualizacion-de-normas-operativas-del-bcra-sobre-el-acceso-al-mercado-de-cambio",
-    "organismo": "BCRA",
-    "fecha": "2026-08-10",
-    "impacto": "alto",
-    "categoria": "normativa",
-    "tags": [
-      "BCRA",
-      "MULC",
-      "Acceso al Mercado de Cambios",
-      "Pagos al exterior",
-      "Cumplimiento cambiario"
-    ],
-    "titulo": "Actualización de normas operativas del BCRA sobre el acceso al mercado de cambios",
-    "resumen": "La Comunicación establece nuevas condiciones o requisitos para el acceso a divisas a través del MULC. Regula la operatoria cambiaria aplicable a las operaciones de comercio exterior.",
-    "queSignifica": "Es necesario verificar si las nuevas condiciones impactan en sus pagos pendientes o futuros. Se sugiere auditar el encuadre normativo de sus carpetas de importación/exportación con su entidad financiera antes de cursar nuevas transferencias.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/345748/20260810"
-    },
-    "normativaRef": "Comunicación \"A\" 8462/2026",
-    "publicadoEn": "2026-08-11T10:43:55.353Z",
-    "actualizadoEn": "2026-08-12T10:55:17.281Z"
-  },
-  {
-    "id": "2026-08-12-actualizacion-de-normas-cambiarias-para-operaciones-en-el-mulc-fe2441",
-    "slug": "actualizacion-de-normas-cambiarias-para-operaciones-en-el-mulc",
-    "organismo": "BCRA",
-    "fecha": "2026-08-10",
-    "impacto": "alto",
-    "categoria": "normativa",
-    "tags": [
-      "MULC",
-      "acceso a divisas",
-      "BCRA",
-      "pagos al exterior",
-      "normativa cambiaria"
-    ],
-    "titulo": "Actualización de normas cambiarias para operaciones en el MULC",
-    "resumen": "La comunicación establece modificaciones en el acceso al mercado de cambios para operaciones de comercio exterior. Define nuevas pautas y requisitos documentales para la cancelación de obligaciones con el exterior.",
-    "queSignifica": "Se recomienda revisar el cumplimiento de las nuevas exigencias documentales y plazos de acceso según su posición arancelaria. Verifique con su entidad bancaria si sus operaciones pendientes requieren adecuaciones bajo el nuevo marco vigente.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/345749/20260810"
-    },
-    "normativaRef": "Comunicación \"A\" 8464/2026",
-    "publicadoEn": "2026-08-11T10:44:00.803Z",
-    "actualizadoEn": "2026-08-12T10:55:17.281Z"
   }
 ]
