@@ -1,27 +1,27 @@
 [
   {
-    "id": "2026-08-25-actualizacion-del-tipo-de-cambio-oficial-mulc-al-24-de-agosto-de-2026-e59b74",
-    "slug": "actualizacion-del-tipo-de-cambio-oficial-mulc-al-24-de-agosto-de-2026",
+    "id": "2026-08-26-actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc-72fc2a",
+    "slug": "actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc",
     "organismo": "BCRA",
-    "fecha": "2026-08-25",
+    "fecha": "2026-08-26",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "Tipo de cambio",
-      "BCRA",
-      "Liquidación de divisas",
-      "Comercio exterior"
+      "tipo de cambio",
+      "divisas",
+      "comex",
+      "bcra"
     ],
-    "titulo": "Actualización del tipo de cambio oficial (MULC) al 24 de agosto de 2026",
-    "resumen": "El BCRA ha fijado el tipo de cambio oficial para las operaciones cursadas a través del Mercado Único y Libre de Cambios en 1078.59 pesos por dólar. Esta cifra refleja la referencia cambiaria oficial vigente para la fecha indicada.",
-    "queSignifica": "Se debe utilizar este valor como referencia para la valorización contable y operativa de las operaciones de comercio exterior. Se recomienda revisar que los sistemas internos y los pagos de derechos o servicios asociados a la operación coincidan con esta cotización oficial antes de proceder con el registro.",
+    "titulo": "Actualización de la cotización oficial del dólar en el MULC",
+    "resumen": "Se informa el valor del tipo de cambio oficial del BCRA para el día 25 de agosto de 2026. Este valor sirve como referencia para la liquidación de divisas y el pago de operaciones de comercio exterior.",
+    "queSignifica": "Debe utilizar este valor como referencia para el cálculo de costos operativos, liquidación de exportaciones y pago de importaciones. Se recomienda verificar la vigencia de este tipo de cambio en su sistema interno de gestión financiera antes de realizar cualquier operación cambiaria.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-08-25T10:24:39.341Z"
+    "actualizadoEn": "2026-08-26T10:27:51.045Z"
   },
   {
     "id": "2026-08-25-prorroga-en-vencimientos-de-impuesto-a-las-ganancias-periodo-fiscal-2025-4a5c92",
@@ -49,79 +49,80 @@
     "actualizadoEn": "2026-08-25T10:24:39.341Z"
   },
   {
-    "id": "2026-08-25-nuevas-opciones-de-pago-para-impuestos-en-el-departamento-tecnica-de-importacion-519950",
-    "slug": "nuevas-opciones-de-pago-para-impuestos-en-el-departamento-tecnica-de-importacion",
+    "id": "2026-08-26-nuevas-opciones-de-pago-para-tributos-aduaneros-via-de-teim-4468f9",
+    "slug": "nuevas-opciones-de-pago-para-tributos-aduaneros-via-de-teim",
     "organismo": "Aduana",
     "fecha": "2026-08-24",
     "impacto": "bajo",
-    "categoria": "importacion",
+    "categoria": "normativa",
     "tags": [
-      "pago",
-      "tributos",
-      "importación",
+      "pago de tributos",
+      "DE TEIM",
       "gestión aduanera",
-      "TEIM"
+      "importación",
+      "AFIP"
     ],
-    "titulo": "Nuevas opciones de pago para impuestos en el Departamento Técnica de Importación",
-    "resumen": "El CDA comunicó a sus asociados nuevas alternativas operativas para el pago de impuestos ante el Departamento Técnica de Importación (TEIM).",
-    "queSignifica": "Se sugiere revisar el comunicado oficial para identificar las nuevas modalidades disponibles. Se recomienda validar con su despachante si estos cambios impactan en la operativa actual de pago de sus operaciones.",
+    "titulo": "Nuevas opciones de pago para tributos aduaneros vía DE TEIM",
+    "resumen": "El Departamento Técnica de Importación informa sobre las modalidades habilitadas para el pago de impuestos aduaneros a través de canales electrónicos.",
+    "queSignifica": "Se recomienda revisar el instructivo difundido para verificar si las nuevas opciones de pago afectan el flujo operativo actual de sus destinaciones. Se sugiere validar la vigencia de los medios de pago con su entidad bancaria antes de realizar nuevas presentaciones.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42706"
     },
     "publicadoEn": "2026-08-25T10:24:17.275Z",
-    "actualizadoEn": "2026-08-25T10:24:39.341Z"
+    "actualizadoEn": "2026-08-26T10:27:51.045Z"
   },
   {
-    "id": "2026-08-25-informacion-oficial-de-aeropuertos-argentina-sobre-su-sistema-de-gestion-de-carg-aa377c",
-    "slug": "informacion-oficial-de-aeropuertos-argentina-sobre-su-sistema-de-gestion-de-carg",
+    "id": "2026-08-26-actualizacion-sobre-el-sistema-de-turnos-en-aeropuertos-argentina-b6f138",
+    "slug": "actualizacion-sobre-el-sistema-de-turnos-en-aeropuertos-argentina",
     "organismo": "Aduana",
     "fecha": "2026-08-24",
     "impacto": "bajo",
     "categoria": "logistica",
     "tags": [
-      "Aeropuertos Argentina",
-      "Cargas",
-      "Terminal de Carga",
-      "Gestión Documental"
+      "aeropuertos argentina",
+      "carga aérea",
+      "sistema de turnos",
+      "logística",
+      "terminal de cargas"
     ],
-    "titulo": "Información oficial de Aeropuertos Argentina sobre su sistema de gestión de cargas",
-    "resumen": "El CDA difundió un comunicado oficial emitido por Aeropuertos Argentina relativo a su sistema operativo de cargas. Se trata de una comunicación informativa sobre el funcionamiento de su plataforma digital.",
-    "queSignifica": "Se recomienda al operador verificar en la plataforma de Aeropuertos Argentina si existen cambios en el flujo de procesos o documentación. Es prudente auditar los avisos vigentes en el portal para asegurar la correcta gestión de los embarques en terminal.",
+    "titulo": "Actualización sobre el sistema de turnos en Aeropuertos Argentina",
+    "resumen": "El CDA comunica información oficial emitida por Aeropuertos Argentina respecto a la gestión y operativa de su sistema de turnos para cargas.",
+    "queSignifica": "Se sugiere verificar las novedades en el sistema de turnos de la terminal aeroportuaria para asegurar la correcta programación de retiros o ingresos de mercadería, evitando posibles demoras logísticas.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42705"
     },
     "publicadoEn": "2026-08-25T10:24:22.521Z",
-    "actualizadoEn": "2026-08-25T10:24:39.341Z"
+    "actualizadoEn": "2026-08-26T10:27:51.045Z"
   },
   {
-    "id": "2026-08-25-apertura-de-registro-senasa-para-exportacion-de-granos-a-china-bacffd",
-    "slug": "apertura-de-registro-senasa-para-exportacion-de-granos-a-china",
+    "id": "2026-08-26-apertura-de-registro-senasa-para-exportar-granos-a-china-eb0e69",
+    "slug": "apertura-de-registro-senasa-para-exportar-granos-a-china",
     "organismo": "SENASA",
     "fecha": "2026-08-24",
-    "impacto": "medio",
+    "impacto": "alto",
     "categoria": "exportacion",
     "tags": [
       "SENASA",
-      "exportación",
+      "Protocolo fitosanitario",
       "China",
-      "graneles",
-      "habilitaciones"
+      "Registros",
+      "Granos"
     ],
-    "titulo": "Apertura de registro SENASA para exportación de granos a China",
-    "resumen": "El SENASA abre el periodo de inscripción para empresas interesadas en exportar cebada, trigo, soja, sorgo y maíz al mercado chino.",
-    "queSignifica": "Las empresas deben revisar si su perfil requiere inscripción obligatoria para este destino específico antes del 6 de septiembre. Se recomienda verificar los requisitos fitosanitarios vigentes con el sector técnico del organismo.",
+    "titulo": "Apertura de registro SENASA para exportar granos a China",
+    "resumen": "El SENASA habilitó el periodo de inscripción para empresas interesadas en exportar trigo, cebada, soja, sorgo y maíz al mercado chino.",
+    "queSignifica": "Los exportadores deben verificar si su empresa cumple con los requisitos fitosanitarios específicos y completar la solicitud en el SENASA antes del 6 de septiembre. Se recomienda revisar los protocolos vigentes para China para asegurar la viabilidad de la operatoria.",
     "fuente": {
       "nombre": "SENASA Comunica",
       "url": "https://www.argentina.gob.ar/noticias/inscripcion-para-exportadores-de-granos-de-cebada-trigo-soja-sorgo-y-maiz-china-3"
     },
     "publicadoEn": "2026-08-25T10:24:28.048Z",
-    "actualizadoEn": "2026-08-25T10:24:39.341Z"
+    "actualizadoEn": "2026-08-26T10:27:51.045Z"
   },
   {
-    "id": "2026-08-25-vencimiento-para-inscripcion-en-renspa-y-programas-de-exportacion-de-frutas-en-r-a20550",
-    "slug": "vencimiento-para-inscripcion-en-renspa-y-programas-de-exportacion-de-frutas-en-r",
+    "id": "2026-08-26-fecha-limite-3108-para-inscripcion-en-renspa-y-programas-de-exportacion-de-fruta-d37ae8",
+    "slug": "fecha-limite-3108-para-inscripcion-en-renspa-y-programas-de-exportacion-de-fruta",
     "organismo": "SENASA",
     "fecha": "2026-08-24",
     "impacto": "alto",
@@ -130,18 +131,18 @@
       "RENSPA",
       "frutas frescas",
       "SENASA",
-      "fitosanitario",
+      "barreras fitosanitarias",
       "habilitación"
     ],
-    "titulo": "Vencimiento para inscripción en RENSPA y programas de exportación de frutas en Río Negro y Neuquén",
-    "resumen": "El SENASA establece el 31 de agosto como fecha límite para completar la inscripción en el RENSPA y adherir a los programas de exportación de frutas frescas para las provincias de Río Negro y Neuquén.",
-    "queSignifica": "Los exportadores deben verificar su estado de inscripción y adhesión para evitar bloqueos en la emisión de certificados fitosanitarios. Se recomienda gestionar las presentaciones ante SENASA con antelación para asegurar la operatividad de los embarques.",
+    "titulo": "Fecha límite 31/08 para inscripción en RENSPA y programas de exportación de frutas en Río y Neuquén",
+    "resumen": "SENASA establece el vencimiento para el registro productivo y la adhesión a protocolos de exportación para frutas frescas en las provincias de Río Negro y Neuquén.",
+    "queSignifica": "Los exportadores deben verificar que sus proveedores estén debidamente inscriptos en el RENSPA y adheridos a los programas específicos antes de la fecha límite para evitar impedimentos en la emisión de certificados fitosanitarios.",
     "fuente": {
       "nombre": "SENASA Comunica",
       "url": "https://www.argentina.gob.ar/noticias/el-31-de-agosto-cierra-inscripcion-en-renspa-y-adhesion-programas-de-exportacion-de-frutas"
     },
     "publicadoEn": "2026-08-25T10:24:33.834Z",
-    "actualizadoEn": "2026-08-25T10:24:39.341Z"
+    "actualizadoEn": "2026-08-26T10:27:51.045Z"
   },
   {
     "id": "2026-08-24-reunion-de-la-subcomision-de-tecnica-y-normativa-del-cda-64789d",
