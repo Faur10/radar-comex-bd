@@ -1,128 +1,268 @@
 [
   {
-    "id": "2026-08-26-actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc-72fc2a",
+    "id": "2026-08-27-actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc-7cf8f0",
     "slug": "actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc",
     "organismo": "BCRA",
-    "fecha": "2026-08-26",
+    "fecha": "2026-08-27",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
       "tipo de cambio",
       "divisas",
-      "comex",
-      "bcra"
+      "operaciones cambiarias",
+      "BCRA"
     ],
     "titulo": "Actualización de la cotización oficial del dólar en el MULC",
-    "resumen": "Se informa el valor del tipo de cambio oficial del BCRA para el día 25 de agosto de 2026. Este valor sirve como referencia para la liquidación de divisas y el pago de operaciones de comercio exterior.",
-    "queSignifica": "Debe utilizar este valor como referencia para el cálculo de costos operativos, liquidación de exportaciones y pago de importaciones. Se recomienda verificar la vigencia de este tipo de cambio en su sistema interno de gestión financiera antes de realizar cualquier operación cambiaria.",
+    "resumen": "Se establece el tipo de cambio oficial del BCRA para operaciones en el Mercado Único y Libre de Cambios con fecha 27 de agosto de 2026.",
+    "queSignifica": "Debe utilizar esta cotización para el cálculo de costos de liquidación de divisas o pago de importaciones. Se recomienda verificar este valor oficial con su entidad bancaria antes de cursar cualquier orden de pago o liquidación.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-08-26T10:27:51.045Z"
+    "actualizadoEn": "2026-08-27T20:06:31.609Z"
   },
   {
-    "id": "2026-08-25-prorroga-en-vencimientos-de-impuesto-a-las-ganancias-periodo-fiscal-2025-4a5c92",
-    "slug": "prorroga-en-vencimientos-de-impuesto-a-las-ganancias-periodo-fiscal-2025",
+    "id": "2026-08-27-comunicado-por-el-fallecimiento-del-socio-enrique-carlos-quincke-28eb69",
+    "slug": "comunicado-por-el-fallecimiento-del-socio-enrique-carlos-quincke",
+    "organismo": "Aduana",
+    "fecha": "2026-08-27",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "institucional",
+      "novedades gremiales"
+    ],
+    "titulo": "Comunicado por el fallecimiento del socio Enrique Carlos Quincke",
+    "resumen": "El Centro Despachantes de Aduana informa el fallecimiento del socio Nº 2163, Enrique Carlos Quincke.",
+    "queSignifica": "Se trata de una comunicación institucional interna sin impacto en la operativa aduanera. Se sugiere tomar conocimiento de la misma por cortesía profesional.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42721"
+    },
+    "publicadoEn": "2026-08-27T20:05:10.402Z",
+    "actualizadoEn": "2026-08-27T20:06:31.609Z"
+  },
+  {
+    "id": "2026-08-27-nuevas-opciones-de-acceso-remoto-a-la-plataforma-sim-provistas-por-el-cda-a903f1",
+    "slug": "nuevas-opciones-de-acceso-remoto-a-la-plataforma-sim-provistas-por-el-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-08-27",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "SIM",
+      "CDA",
+      "acceso remoto",
+      "conectividad",
+      "gestión aduanera"
+    ],
+    "titulo": "Nuevas opciones de acceso remoto a la plataforma SIM provistas por el CDA",
+    "resumen": "El CDA habilita un nuevo servicio de conexión al sistema SIM para facilitar el acceso remoto con asistencia técnica.",
+    "queSignifica": "Se sugiere evaluar la conveniencia técnica de esta alternativa si su operativa requiere movilidad o soporte externo. Verifique los protocolos de seguridad de su empresa antes de migrar sus métodos de acceso al sistema.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42462"
+    },
+    "publicadoEn": "2026-08-27T20:05:16.377Z",
+    "actualizadoEn": "2026-08-27T20:06:31.609Z"
+  },
+  {
+    "id": "2026-08-27-refuerzo-en-fiscalizacion-de-productos-hospederos-de-la-mosca-de-la-fruta-b8c06d",
+    "slug": "refuerzo-en-fiscalizacion-de-productos-hospederos-de-la-mosca-de-la-fruta",
+    "organismo": "SENASA",
+    "fecha": "2026-08-27",
+    "impacto": "medio",
+    "categoria": "logistica",
+    "tags": [
+      "SENASA",
+      "productos hospederos",
+      "barreras fitosanitarias",
+      "transporte",
+      "fiscalización"
+    ],
+    "titulo": "Refuerzo en fiscalización de productos hospederos de la mosca de la fruta",
+    "resumen": "El SENASA detectó transporte irregular de productos agrícolas hacia áreas protegidas sin cumplir con los protocolos fitosanitarios requeridos. El organismo intensificará los controles de carga y ocultamiento en el tránsito federal.",
+    "queSignifica": "Verifique que toda mercadería vegetal de riesgo cuente con el Certificado Fitosanitario y cumpla con los tratamientos exigidos para el ingreso a áreas protegidas. Se recomienda auditar la documentación y el estado de la carga antes de iniciar el tránsito para evitar incautaciones.",
+    "fuente": {
+      "nombre": "SENASA Comunica",
+      "url": "https://www.argentina.gob.ar/noticias/transporte-irregular-de-mas-de-3-ton-de-productos-hospederos-de-moscas-de-la-fruta"
+    },
+    "publicadoEn": "2026-08-27T20:05:41.578Z",
+    "actualizadoEn": "2026-08-27T20:06:31.609Z"
+  },
+  {
+    "id": "2026-08-27-anmat-prohibe-la-comercializacion-y-uso-de-un-lote-especifico-de-solucion-inyect-f16875",
+    "slug": "anmat-prohibe-la-comercializacion-y-uso-de-un-lote-especifico-de-solucion-inyect",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-08-27",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "ANMAT",
+      "prohibición comercialización",
+      "productos médicos",
+      "control aduanero",
+      "cumplimiento normativo"
+    ],
+    "titulo": "ANMAT prohíbe la comercialización y uso de un lote específico de solución inyectable HESSICO",
+    "resumen": "La medida establece la prohibición de comercialización y uso del lote N° 230704 del producto HESSICO / HIDROXIETILALMIDON 6 G %.",
+    "queSignifica": "Verifique el stock en depósito fiscal o nacionalizado para identificar el lote afectado. Ante cualquier coincidencia, se recomienda suspender su comercialización y consultar con la dirección técnica de la empresa antes de iniciar trámites aduaneros o logísticos con dicho producto.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-un-lote-del-producto-hessico-hidroxietilalmidon-6-g-solucion-inyectable"
+    },
+    "publicadoEn": "2026-08-27T20:06:21.146Z",
+    "actualizadoEn": "2026-08-27T20:06:31.609Z"
+  },
+  {
+    "id": "2026-08-27-prohibicion-de-comercializacion-y-uso-de-lotes-especificos-del-medicamento-yecta-a924ce",
+    "slug": "prohibicion-de-comercializacion-y-uso-de-lotes-especificos-del-medicamento-yecta",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-08-27",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "ANMAT",
+      "prohibición",
+      "medicamentos",
+      "control sanitario",
+      "comercio exterior"
+    ],
+    "titulo": "Prohibición de comercialización y uso de lotes específicos del medicamento YECTAFER/HIERRO 5%",
+    "resumen": "La ANMAT prohibió la comercialización, distribución y uso de los lotes específicos del producto YECTAFER/HIERRO 5% debido a irregularidades detectadas. La medida busca prevenir riesgos sanitarios asociados a unidades que no cumplen con los estándares vigentes.",
+    "queSignifica": "Los importadores y operadores deben verificar inmediatamente si poseen stock de los lotes afectados para proceder con su bloqueo preventivo. Se sugiere revisar la base de datos de inventario y consultar con el departamento de Asuntos Regulatorios para asegurar el cumplimiento con la disposición de la ANMAT.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-dos-lotes-del-medicamento-yectaferhierro-5"
+    },
+    "publicadoEn": "2026-08-27T20:06:26.379Z",
+    "actualizadoEn": "2026-08-27T20:06:31.609Z"
+  },
+  {
+    "id": "2026-08-27-participacion-del-cda-en-la-ronda-de-negocios-avellaneda-2026-e6efa9",
+    "slug": "participacion-del-cda-en-la-ronda-de-negocios-avellaneda-2026",
+    "organismo": "Aduana",
+    "fecha": "2026-08-26",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "CDA",
+      "Ronda de negocios",
+      "Comercio exterior",
+      "Networking"
+    ],
+    "titulo": "Participación del CDA en la Ronda de Negocios Avellaneda 2026",
+    "resumen": "El CDA participará de la Ronda de Negocios Avellaneda 2026 para fomentar vínculos comerciales. Se trata de un evento de carácter institucional y de networking profesional.",
+    "queSignifica": "Es una instancia de carácter informativo y relacional. Se sugiere revisar la agenda del evento por si desea participar para explorar nuevos contactos comerciales o proveedores estratégicos.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42716"
+    },
+    "publicadoEn": "2026-08-27T20:05:22.676Z",
+    "actualizadoEn": "2026-08-27T20:06:31.609Z"
+  },
+  {
+    "id": "2026-08-27-prorroga-en-vencimientos-de-declaraciones-juradas-de-impuesto-a-las-ganancias-20-e5ada0",
+    "slug": "prorroga-en-vencimientos-de-declaraciones-juradas-de-impuesto-a-las-ganancias-20",
     "organismo": "ARCA",
     "fecha": "2026-08-25",
     "impacto": "bajo",
     "categoria": "normativa",
     "tags": [
       "impuesto a las ganancias",
-      "declaracion jurada",
-      "arcca",
-      "fiscalidad",
-      "cumplimiento"
+      "ddjj",
+      "periodo fiscal 2025",
+      "ar-ca",
+      "obligaciones impositivas"
     ],
-    "titulo": "Prórroga en vencimientos de Impuesto a las Ganancias período fiscal 2025",
-    "resumen": "La norma establece un calendario especial de plazos para la presentación y pago de la declaración jurada del Impuesto a las Ganancias correspondiente al año 2025.",
-    "queSignifica": "Verifique con su departamento contable o asesor fiscal el cronograma actualizado para asegurar el cumplimiento en término. Es recomendable auditar los vencimientos internos para evitar multas por presentaciones fuera de plazo.",
+    "titulo": "Prórroga en vencimientos de declaraciones juradas de Impuesto a las Ganancias 2025",
+    "resumen": "La resolución establece un calendario de plazos especiales para la presentación de DDJJ y el pago del Impuesto a las Ganancias correspondiente al periodo fiscal 2025.",
+    "queSignifica": "Debe revisar el nuevo calendario de vencimientos junto a su asesor contable para ajustar el flujo de fondos. Verifique si su empresa se encuentra alcanzada por las nuevas fechas de presentación para evitar sanciones administrativas.",
     "fuente": {
       "nombre": "Boletín Oficial de la República Argentina",
       "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/346339/20260825"
     },
     "normativaRef": "Resolución General 5890/2026",
     "publicadoEn": "2026-08-25T10:24:11.849Z",
-    "actualizadoEn": "2026-08-25T10:24:39.341Z"
+    "actualizadoEn": "2026-08-27T20:06:31.609Z"
   },
   {
-    "id": "2026-08-26-nuevas-opciones-de-pago-para-tributos-aduaneros-via-de-teim-4468f9",
-    "slug": "nuevas-opciones-de-pago-para-tributos-aduaneros-via-de-teim",
+    "id": "2026-08-27-nuevas-opciones-de-pago-de-impuestos-informadas-por-el-cda-1dc038",
+    "slug": "nuevas-opciones-de-pago-de-impuestos-informadas-por-el-cda",
     "organismo": "Aduana",
     "fecha": "2026-08-24",
     "impacto": "bajo",
     "categoria": "normativa",
     "tags": [
-      "pago de tributos",
-      "DE TEIM",
-      "gestión aduanera",
-      "importación",
-      "AFIP"
+      "pago de impuestos",
+      "aduanas",
+      "gestión operativa",
+      "CDA",
+      "tributos aduaneros"
     ],
-    "titulo": "Nuevas opciones de pago para tributos aduaneros vía DE TEIM",
-    "resumen": "El Departamento Técnica de Importación informa sobre las modalidades habilitadas para el pago de impuestos aduaneros a través de canales electrónicos.",
-    "queSignifica": "Se recomienda revisar el instructivo difundido para verificar si las nuevas opciones de pago afectan el flujo operativo actual de sus destinaciones. Se sugiere validar la vigencia de los medios de pago con su entidad bancaria antes de realizar nuevas presentaciones.",
+    "titulo": "Nuevas opciones de pago de impuestos informadas por el CDA",
+    "resumen": "El CDA comunicó a sus asociados detalles sobre las modalidades habilitadas por el Departamento Técnica de Importación para el pago de tributos aduaneros.",
+    "queSignifica": "Se sugiere verificar las opciones de pago disponibles en los canales oficiales y consultar con su despachante de aduanas si estas modalidades afectan los procedimientos habituales de cancelación de obligaciones.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42706"
     },
     "publicadoEn": "2026-08-25T10:24:17.275Z",
-    "actualizadoEn": "2026-08-26T10:27:51.045Z"
+    "actualizadoEn": "2026-08-27T20:06:31.609Z"
   },
   {
-    "id": "2026-08-26-actualizacion-sobre-el-sistema-de-turnos-en-aeropuertos-argentina-b6f138",
-    "slug": "actualizacion-sobre-el-sistema-de-turnos-en-aeropuertos-argentina",
+    "id": "2026-08-27-actualizacion-sobre-el-sistema-de-carga-de-aeropuertos-argentina-cd5bab",
+    "slug": "actualizacion-sobre-el-sistema-de-carga-de-aeropuertos-argentina",
     "organismo": "Aduana",
     "fecha": "2026-08-24",
     "impacto": "bajo",
     "categoria": "logistica",
     "tags": [
-      "aeropuertos argentina",
-      "carga aérea",
-      "sistema de turnos",
-      "logística",
-      "terminal de cargas"
+      "Aeropuertos Argentina",
+      "cargas",
+      "terminal aeroportuaria",
+      "gestión documental",
+      "logística aérea"
     ],
-    "titulo": "Actualización sobre el sistema de turnos en Aeropuertos Argentina",
-    "resumen": "El CDA comunica información oficial emitida por Aeropuertos Argentina respecto a la gestión y operativa de su sistema de turnos para cargas.",
-    "queSignifica": "Se sugiere verificar las novedades en el sistema de turnos de la terminal aeroportuaria para asegurar la correcta programación de retiros o ingresos de mercadería, evitando posibles demoras logísticas.",
+    "titulo": "Actualización sobre el sistema de carga de Aeropuertos Argentina",
+    "resumen": "Se comunica información oficial emitida por Aeropuertos Argentina respecto al funcionamiento de su sistema de gestión de cargas. La notificación tiene carácter informativo sobre procedimientos operativos en terminales.",
+    "queSignifica": "Se recomienda revisar el comunicado oficial a través de los canales del CDA para verificar si existen actualizaciones en los procedimientos de retiro o gestión de carga. Es aconsejable validar si estos cambios impactan en la operatividad diaria de su terminal.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42705"
     },
     "publicadoEn": "2026-08-25T10:24:22.521Z",
-    "actualizadoEn": "2026-08-26T10:27:51.045Z"
+    "actualizadoEn": "2026-08-27T20:06:31.609Z"
   },
   {
-    "id": "2026-08-26-apertura-de-registro-senasa-para-exportar-granos-a-china-eb0e69",
-    "slug": "apertura-de-registro-senasa-para-exportar-granos-a-china",
+    "id": "2026-08-27-inscripcion-para-exportadores-de-granos-a-china-ante-senasa-4e28c1",
+    "slug": "inscripcion-para-exportadores-de-granos-a-china-ante-senasa",
     "organismo": "SENASA",
     "fecha": "2026-08-24",
-    "impacto": "alto",
+    "impacto": "medio",
     "categoria": "exportacion",
     "tags": [
       "SENASA",
-      "Protocolo fitosanitario",
+      "exportación",
       "China",
-      "Registros",
-      "Granos"
+      "trámites fitosanitarios",
+      "granos"
     ],
-    "titulo": "Apertura de registro SENASA para exportar granos a China",
-    "resumen": "El SENASA habilitó el periodo de inscripción para empresas interesadas en exportar trigo, cebada, soja, sorgo y maíz al mercado chino.",
-    "queSignifica": "Los exportadores deben verificar si su empresa cumple con los requisitos fitosanitarios específicos y completar la solicitud en el SENASA antes del 6 de septiembre. Se recomienda revisar los protocolos vigentes para China para asegurar la viabilidad de la operatoria.",
+    "titulo": "Inscripción para exportadores de granos a China ante SENASA",
+    "resumen": "El SENASA habilitó el período de inscripción obligatorio para empresas que busquen exportar trigo, soja, maíz, sorgo y cebada al mercado chino.",
+    "queSignifica": "Verifique si su empresa cuenta con la habilitación vigente para este destino y asegúrese de presentar la solicitud dentro del plazo estipulado entre el 24 de agosto y el 6 de septiembre.",
     "fuente": {
       "nombre": "SENASA Comunica",
       "url": "https://www.argentina.gob.ar/noticias/inscripcion-para-exportadores-de-granos-de-cebada-trigo-soja-sorgo-y-maiz-china-3"
     },
     "publicadoEn": "2026-08-25T10:24:28.048Z",
-    "actualizadoEn": "2026-08-26T10:27:51.045Z"
+    "actualizadoEn": "2026-08-27T20:06:31.609Z"
   },
   {
-    "id": "2026-08-26-fecha-limite-3108-para-inscripcion-en-renspa-y-programas-de-exportacion-de-fruta-d37ae8",
-    "slug": "fecha-limite-3108-para-inscripcion-en-renspa-y-programas-de-exportacion-de-fruta",
+    "id": "2026-08-27-fecha-limite-31-de-agosto-para-inscripcion-en-renspa-y-programas-de-exportacion--0ec47b",
+    "slug": "fecha-limite-31-de-agosto-para-inscripcion-en-renspa-y-programas-de-exportacion-",
     "organismo": "SENASA",
     "fecha": "2026-08-24",
     "impacto": "alto",
@@ -134,15 +274,15 @@
       "barreras fitosanitarias",
       "habilitación"
     ],
-    "titulo": "Fecha límite 31/08 para inscripción en RENSPA y programas de exportación de frutas en Río y Neuquén",
-    "resumen": "SENASA establece el vencimiento para el registro productivo y la adhesión a protocolos de exportación para frutas frescas en las provincias de Río Negro y Neuquén.",
-    "queSignifica": "Los exportadores deben verificar que sus proveedores estén debidamente inscriptos en el RENSPA y adheridos a los programas específicos antes de la fecha límite para evitar impedimentos en la emisión de certificados fitosanitarios.",
+    "titulo": "Fecha límite 31 de agosto para inscripción en RENSPA y programas de exportación de frutas",
+    "resumen": "El SENASA establece el cierre del plazo para la inscripción en el RENSPA y la adhesión a programas de exportación de frutas frescas para las provincias de Río Negro y Neuquén.",
+    "queSignifica": "Los exportadores frutícolas deben verificar su estado de inscripción y adhesión a programas fitosanitarios; de no regularizar su situación ante el SENASA, podrían verse imposibilitados de exportar tras el vencimiento del plazo.",
     "fuente": {
       "nombre": "SENASA Comunica",
       "url": "https://www.argentina.gob.ar/noticias/el-31-de-agosto-cierra-inscripcion-en-renspa-y-adhesion-programas-de-exportacion-de-frutas"
     },
     "publicadoEn": "2026-08-25T10:24:33.834Z",
-    "actualizadoEn": "2026-08-26T10:27:51.045Z"
+    "actualizadoEn": "2026-08-27T20:06:31.609Z"
   },
   {
     "id": "2026-08-24-reunion-de-la-subcomision-de-tecnica-y-normativa-del-cda-64789d",
@@ -735,123 +875,5 @@
     "normativaRef": "Comunicación \"A\" 8438/2026",
     "publicadoEn": "2026-08-13T10:55:56.620Z",
     "actualizadoEn": "2026-08-14T10:52:24.894Z"
-  },
-  {
-    "id": "2026-08-14-tercera-edicion-de-los-desayunos-de-trabajo-del-cda-4a4e22",
-    "slug": "tercera-edicion-de-los-desayunos-de-trabajo-del-cda",
-    "organismo": "Aduana",
-    "fecha": "2026-08-12",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "capacitación",
-      "despachante",
-      "actualización profesional",
-      "cda"
-    ],
-    "titulo": "Tercera edición de los Desayunos de Trabajo del CDA",
-    "resumen": "El CDA organiza un encuentro informativo y de capacitación para sus asociados en todo el país.",
-    "queSignifica": "Se sugiere revisar la agenda del evento para evaluar si los temas a tratar impactan en la operatoria actual de su cartera de clientes.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42644"
-    },
-    "publicadoEn": "2026-07-23T11:47:02.961Z",
-    "actualizadoEn": "2026-08-14T10:52:24.894Z"
-  },
-  {
-    "id": "2026-08-14-habilitacion-operativa-para-importaciones-aereas-en-el-aeropuerto-de-rosario-3ab813",
-    "slug": "habilitacion-operativa-para-importaciones-aereas-en-el-aeropuerto-de-rosario",
-    "organismo": "SENASA",
-    "fecha": "2026-08-12",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "SENASA",
-      "productos cárnicos",
-      "habilitación aduanera",
-      "aeropuerto",
-      "control sanitario"
-    ],
-    "titulo": "Habilitación operativa para importaciones aéreas en el Aeropuerto de Rosario",
-    "resumen": "El SENASA realizó la primera fiscalización de productos cárnicos importados vía aérea en el Aeropuerto Internacional Islas Malvinas. Se confirma la operatividad del recinto para el ingreso de mercadería de origen animal bajo control sanitario.",
-    "queSignifica": "Esta noticia confirma la disponibilidad de una nueva vía logística para importaciones. Se recomienda a los operadores consultar con su agente de carga si su posición arancelaria y tipo de producto cuentan con las habilitaciones sanitarias específicas para este punto de ingreso antes de programar futuros embarques.",
-    "fuente": {
-      "nombre": "SENASA Comunica",
-      "url": "https://www.argentina.gob.ar/noticias/rosario-se-fiscalizo-primera-importacion-ingresada-por-el-aeropuerto-internacional-islas"
-    },
-    "publicadoEn": "2026-08-13T10:56:31.567Z",
-    "actualizadoEn": "2026-08-14T10:52:24.894Z"
-  },
-  {
-    "id": "2026-08-14-alerta-sobre-deteccion-de-unidades-falsificadas-del-producto-medico-sculptra-85e800",
-    "slug": "alerta-sobre-deteccion-de-unidades-falsificadas-del-producto-medico-sculptra",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-08-12",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "ANMAT",
-      "productos médicos",
-      "importación",
-      "fiscalización",
-      "seguridad sanitaria"
-    ],
-    "titulo": "Alerta sobre detección de unidades falsificadas del producto médico SCULPTRA",
-    "resumen": "La ANMAT ha detectado y alertado sobre la comercialización de unidades falsificadas del producto inyectable SCULPTRA. Se advierte sobre los riesgos de seguridad y calidad asociados a estos artículos.",
-    "queSignifica": "Se recomienda a los importadores verificar exhaustivamente la trazabilidad, los canales de compra y la documentación de origen de cada lote antes de cualquier gestión de ingreso o despacho. Ante la detección de unidades sospechosas, se debe suspender la operación y realizar la consulta formal ante la autoridad sanitaria.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-advierte-sobre-unidades-falsificadas-de-sculptra-1"
-    },
-    "publicadoEn": "2026-08-13T10:57:25.114Z",
-    "actualizadoEn": "2026-08-14T10:52:24.894Z"
-  },
-  {
-    "id": "2026-08-14-retiro-preventivo-del-mercado-de-lote-especifico-de-hidrocortisona-celtyc-7e50df",
-    "slug": "retiro-preventivo-del-mercado-de-lote-especifico-de-hidrocortisona-celtyc",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-08-12",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "ANMAT",
-      "fármacos",
-      "retiro de mercado",
-      "seguridad sanitaria",
-      "control de calidad"
-    ],
-    "titulo": "Retiro preventivo del mercado de lote específico de Hidrocortisona Celtyc",
-    "resumen": "La ANMAT ordenó el retiro del mercado de un lote específico del producto Hidrocortisona Celtyc debido a irregularidades detectadas. La medida busca prevenir riesgos para la salud pública garantizando la trazabilidad y seguridad del producto.",
-    "queSignifica": "El importador debe verificar si posee stock del lote afectado para proceder al bloqueo y retiro preventivo de las unidades. Se recomienda realizar una auditoría de inventarios y consultar con el servicio técnico de ANMAT sobre los pasos administrativos para el recupero.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/retiro-del-mercado-de-un-lote-de-hidrocortisona-celtyc"
-    },
-    "publicadoEn": "2026-08-13T10:57:31.317Z",
-    "actualizadoEn": "2026-08-14T10:52:24.894Z"
-  },
-  {
-    "id": "2026-08-13-participacion-del-cda-en-la-16-expo-logisti-k-2026-83bb7a",
-    "slug": "participacion-del-cda-en-la-16-expo-logisti-k-2026",
-    "organismo": "Aduana",
-    "fecha": "2026-08-12",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "CDA",
-      "LOGISTI-K",
-      "Eventos",
-      "Comercio Exterior"
-    ],
-    "titulo": "Participación del CDA en la 16ª Expo Logisti-k 2026",
-    "resumen": "El Centro de Despachantes de Aduana informa su participación institucional en la feria internacional Logisti-k.",
-    "queSignifica": "Es una novedad de carácter institucional y divulgativo. Se sugiere verificar el cronograma de actividades de la expo si se desea participar de las charlas o networking.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42634"
-    },
-    "publicadoEn": "2026-07-21T11:43:50.081Z",
-    "actualizadoEn": "2026-08-13T10:57:41.730Z"
   }
 ]
