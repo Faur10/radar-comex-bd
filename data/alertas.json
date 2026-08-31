@@ -1,78 +1,149 @@
 [
   {
-    "id": "2026-08-28-actualizacion-del-tipo-de-cambio-oficial-de-referencia-del-bcra-f6e5a0",
-    "slug": "actualizacion-del-tipo-de-cambio-oficial-de-referencia-del-bcra",
+    "id": "2026-08-31-actualizacion-diaria-del-tipo-de-cambio-oficial-de-referencia-del-bcra-4a6717",
+    "slug": "actualizacion-diaria-del-tipo-de-cambio-oficial-de-referencia-del-bcra",
     "organismo": "BCRA",
-    "fecha": "2026-08-28",
-    "impacto": "medio",
+    "fecha": "2026-08-31",
+    "impacto": "bajo",
     "categoria": "normativa",
     "tags": [
       "MULC",
       "tipo de cambio",
       "divisas",
-      "operaciones cambiarias",
-      "BCRA"
+      "mercado cambiario"
     ],
-    "titulo": "Actualización del tipo de cambio oficial de referencia del BCRA",
-    "resumen": "Se establece el tipo de cambio oficial para el Mercado Único y Libre de Cambios (MULC) vigente a la fecha.",
-    "queSignifica": "Debe utilizar este valor como referencia para la liquidación de divisas o el pago de obligaciones en moneda extranjera. Se sugiere verificar su impacto en las proyecciones de costos y en el cierre de operaciones cambiarias pendientes.",
+    "titulo": "Actualización diaria del tipo de cambio oficial de referencia del BCRA",
+    "resumen": "Se informa la cotización oficial del dólar en el Mercado Único y Libre de Cambios (MULC) para la fecha indicada. Esta cifra refleja el valor de referencia establecido por la autoridad monetaria para operaciones de comercio exterior.",
+    "queSignifica": "Utilice este valor de referencia para el cálculo de costos operativos, proyecciones financieras o liquidaciones de divisas. Se sugiere verificar este valor en el sistema contable propio y consultar con su entidad bancaria para confirmar la cotización aplicada a su operación específica.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-08-28T21:03:49.675Z"
+    "actualizadoEn": "2026-08-31T17:20:33.879Z"
   },
   {
-    "id": "2026-08-28-celebracion-del-114-aniversario-del-centro-de-despachantes-de-aduana-5cf39e",
-    "slug": "celebracion-del-114-aniversario-del-centro-de-despachantes-de-aduana",
+    "id": "2026-08-31-actualizacion-del-procedimiento-para-la-modificacion-de-destinaciones-de-exporta-4134a9",
+    "slug": "actualizacion-del-procedimiento-para-la-modificacion-de-destinaciones-de-exporta",
+    "organismo": "ARCA",
+    "fecha": "2026-08-31",
+    "impacto": "medio",
+    "categoria": "exportacion",
+    "tags": [
+      "SIM",
+      "Declaración de Exportación",
+      "Destinación",
+      "Modificación",
+      "Aduana"
+    ],
+    "titulo": "Actualización del procedimiento para la modificación de destinaciones de exportación",
+    "resumen": "La norma ajusta los mecanismos y requisitos operativos para solicitar modificaciones en las declaraciones de exportación ante el sistema informático aduanero.",
+    "queSignifica": "Se recomienda revisar los nuevos lineamientos operativos en el manual del Sistema Malvina para asegurar que cualquier solicitud de modificación de datos en curso cumpla con los nuevos requisitos formales vigentes.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/346596/20260831"
+    },
+    "normativaRef": "Resolución General 5891/2026",
+    "publicadoEn": "2026-08-31T17:19:56.360Z",
+    "actualizadoEn": "2026-08-31T17:20:33.879Z"
+  },
+  {
+    "id": "2026-08-31-digitalizacion-de-tramites-para-importar-lineas-de-produccion-usadas-via-vuce-b93cb3",
+    "slug": "digitalizacion-de-tramites-para-importar-lineas-de-produccion-usadas-via-vuce",
+    "organismo": "ARCA",
+    "fecha": "2026-08-31",
+    "impacto": "medio",
+    "categoria": "importacion",
+    "tags": [
+      "VUCE",
+      "bienes usados",
+      "lineas de produccion",
+      "despacho de importacion",
+      "tramitacion digital"
+    ],
+    "titulo": "Digitalización de trámites para importar líneas de producción usadas vía VUCE",
+    "resumen": "La normativa integra la gestión de importación de líneas de producción usadas a la Ventanilla Única de Comercio Exterior (VUCE) bajo las disposiciones del decreto vigente.",
+    "queSignifica": "El importador debe verificar si sus bienes encuadran en el régimen y gestionar la documentación técnica a través de la plataforma VUCE antes de la oficialización. Se recomienda revisar el estado de los permisos específicos según el tipo de maquinaria para asegurar la trazabilidad del proceso.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/346597/20260831"
+    },
+    "normativaRef": "Resolución General 5892/2026",
+    "publicadoEn": "2026-08-31T17:20:03.050Z",
+    "actualizadoEn": "2026-08-31T17:20:33.879Z"
+  },
+  {
+    "id": "2026-08-31-nuevas-directivas-tecnicas-para-la-importacion-de-juguetes-f7ec9b",
+    "slug": "nuevas-directivas-tecnicas-para-la-importacion-de-juguetes",
+    "organismo": "Aduana",
+    "fecha": "2026-08-31",
+    "impacto": "medio",
+    "categoria": "importacion",
+    "tags": [
+      "juguetes",
+      "seguridad eléctrica",
+      "tramites",
+      "importación",
+      "normativa técnica"
+    ],
+    "titulo": "Nuevas directivas técnicas para la importación de juguetes",
+    "resumen": "El Departamento Técnica de Importación comunica criterios actualizados para el ingreso de juguetes al país.",
+    "queSignifica": "Se recomienda verificar el estado de las certificaciones de seguridad correspondientes ante los organismos técnicos. Sugerimos revisar con su despachante los requisitos vigentes antes de realizar cualquier embarque.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42732"
+    },
+    "publicadoEn": "2026-08-31T17:20:09.736Z",
+    "actualizadoEn": "2026-08-31T17:20:33.879Z"
+  },
+  {
+    "id": "2026-08-31-aniversario-114-del-centro-de-despachantes-de-aduana-213c2b",
+    "slug": "aniversario-114-del-centro-de-despachantes-de-aduana",
     "organismo": "Aduana",
     "fecha": "2026-08-28",
     "impacto": "bajo",
     "categoria": "normativa",
     "tags": [
       "CDA",
-      "despachante",
-      "profesión",
+      "institucional",
       "comercio exterior"
     ],
-    "titulo": "Celebración del 114° aniversario del Centro de Despachantes de Aduana",
-    "resumen": "El CDA conmemoró su 114° aniversario y el Día del Despachante de Aduana en un acto institucional.",
-    "queSignifica": "Es una noticia de carácter institucional. No requiere acciones operativas ni cambios en la gestión de sus destinaciones aduaneras.",
+    "titulo": "Aniversario 114° del Centro de Despachantes de Aduana",
+    "resumen": "El CDA conmemoró su 114° aniversario y el Día del Despachante de Aduana mediante un evento institucional.",
+    "queSignifica": "Esta noticia es de carácter institucional y no genera cambios operativos, procedimentales ni regulatorios para las operaciones de comercio exterior. Se recomienda desestimar cualquier acción correctiva en el sistema informático o en la documentación de embarque.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42722"
     },
     "publicadoEn": "2026-08-28T21:02:51.514Z",
-    "actualizadoEn": "2026-08-28T21:03:49.675Z"
+    "actualizadoEn": "2026-08-31T17:20:33.879Z"
   },
   {
-    "id": "2026-08-28-reunion-institucional-entre-el-cda-y-autoridades-de-apm-terminals-5c8650",
-    "slug": "reunion-institucional-entre-el-cda-y-autoridades-de-apm-terminals",
+    "id": "2026-08-31-reunion-de-trabajo-entre-el-cda-y-apm-terminals-sobre-operativa-portuaria-71e8e7",
+    "slug": "reunion-de-trabajo-entre-el-cda-y-apm-terminals-sobre-operativa-portuaria",
     "organismo": "Aduana",
     "fecha": "2026-08-28",
     "impacto": "bajo",
     "categoria": "logistica",
     "tags": [
       "APM Terminals",
-      "logística portuaria",
-      "gestión operativa",
-      "puerto Buenos Aires",
+      "Terminal 4",
+      "gestión logística",
       "comercio exterior"
     ],
-    "titulo": "Reunión institucional entre el CDA y autoridades de APM Terminals",
-    "resumen": "Se llevó a cabo una reunión de gestión entre el CDA y la terminal portuaria para tratar temas operativos. El encuentro se enfocó en el intercambio institucional y la mejora en la fluidez de los procesos logísticos.",
-    "queSignifica": "Esta es una noticia informativa sin impacto operativo inmediato. Se recomienda a los operadores monitorear futuros comunicados del CDA ante posibles cambios en los procedimientos de recepción o entrega de mercadería en dicha terminal.",
+    "titulo": "Reunión de trabajo entre el CDA y APM Terminals sobre operativa portuaria",
+    "resumen": "El CDA mantuvo un encuentro con APM Terminals para tratar temas operativos y de gestión en la terminal. Se trata de un acercamiento institucional para coordinar mejoras en los procesos logísticos.",
+    "queSignifica": "Esta noticia es informativa y no requiere acciones inmediatas. Se sugiere monitorear si surgen cambios en los procedimientos de recepción o retiro de mercadería en la terminal.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42726"
     },
     "publicadoEn": "2026-08-28T21:02:57.918Z",
-    "actualizadoEn": "2026-08-28T21:03:49.675Z"
+    "actualizadoEn": "2026-08-31T17:20:33.879Z"
   },
   {
-    "id": "2026-08-28-actualizacion-de-aranceles-y-topes-en-tramites-de-importacion-ante-anmat-d85ee4",
-    "slug": "actualizacion-de-aranceles-y-topes-en-tramites-de-importacion-ante-anmat",
+    "id": "2026-08-31-actualizacion-de-aranceles-y-procedimientos-de-anmat-para-operaciones-de-comerci-a1ad9a",
+    "slug": "actualizacion-de-aranceles-y-procedimientos-de-anmat-para-operaciones-de-comerci",
     "organismo": "ANMAT / INAL",
     "fecha": "2026-08-28",
     "impacto": "medio",
@@ -80,19 +151,19 @@
     "tags": [
       "ANMAT",
       "aranceles",
-      "gestión documental",
       "trámites",
-      "VUCE"
+      "comercio exterior",
+      "regulaciones"
     ],
-    "titulo": "Actualización de aranceles y topes en trámites de importación ante ANMAT",
-    "resumen": "La norma ajusta los valores arancelarios y fija topes máximos para las operaciones de comercio exterior bajo órbita de ANMAT.",
-    "queSignifica": "Se sugiere revisar los costos operativos y verificar si las nuevas estructuras de aranceles afectan las declaraciones juradas o trámites pendientes en curso.",
+    "titulo": "Actualización de aranceles y procedimientos de ANMAT para operaciones de comercio exterior",
+    "resumen": "La norma establece nuevos topes máximos en las operaciones de comercio exterior y ajusta el esquema arancelario vigente. Esta medida impacta directamente en la gestión de trámites ante el organismo.",
+    "queSignifica": "Se recomienda revisar el nuevo cuadro tarifario y los topes aplicables a sus operaciones para ajustar la proyección de costos. Verifique con su despachante la incidencia de estos cambios en sus trámites pendientes ante la ANMAT.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42725"
     },
     "publicadoEn": "2026-08-28T21:03:03.993Z",
-    "actualizadoEn": "2026-08-28T21:03:49.675Z"
+    "actualizadoEn": "2026-08-31T17:20:33.879Z"
   },
   {
     "id": "2026-08-28-comunicado-institucional-por-el-fallecimiento-del-socio-enrique-carlos-quincke-a39831",
@@ -875,52 +946,5 @@
     },
     "publicadoEn": "2026-08-10T11:00:59.425Z",
     "actualizadoEn": "2026-08-20T10:23:13.642Z"
-  },
-  {
-    "id": "2026-08-17-participacion-del-cda-en-expo-logisti-k-y-expo-transporte-2026-816902",
-    "slug": "participacion-del-cda-en-expo-logisti-k-y-expo-transporte-2026",
-    "organismo": "Aduana",
-    "fecha": "2026-08-14",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "Expo Logisti-k",
-      "CDA",
-      "Comercio Exterior",
-      "Logística",
-      "Networking"
-    ],
-    "titulo": "Participación del CDA en Expo Logisti-k y Expo Transporte 2026",
-    "resumen": "El Centro de Despachantes de Aduana participó en las ferias sectoriales de logística y transporte realizadas en agosto de 2026. Se trata de un evento de carácter institucional y de relacionamiento profesional.",
-    "queSignifica": "Esta novedad es de carácter informativo. Se sugiere revisar la agenda de eventos del CDA si desea participar en futuras actividades de capacitación o networking profesional.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42691"
-    },
-    "publicadoEn": "2026-08-17T10:25:29.477Z",
-    "actualizadoEn": "2026-08-17T10:25:44.664Z"
-  },
-  {
-    "id": "2026-08-17-gestion-de-credenciales-psa-para-acceso-a-zonas-primarias-aeroportuarias-9cd8cc",
-    "slug": "gestion-de-credenciales-psa-para-acceso-a-zonas-primarias-aeroportuarias",
-    "organismo": "Aduana",
-    "fecha": "2026-08-14",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "PSA",
-      "Seguridad Aeroportuaria",
-      "Credenciales",
-      "Control Aduanero"
-    ],
-    "titulo": "Gestión de credenciales PSA para acceso a zonas primarias aeroportuarias",
-    "resumen": "El CDA habilita la gestión administrativa para la obtención o renovación de la credencial de la Policía de Seguridad Aeroportuaria.",
-    "queSignifica": "Si opera en recintos aeroportuarios, verifique si su personal requiere habilitación vigente y considere gestionar el trámite a través del CDA para centralizar el proceso.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=41824"
-    },
-    "publicadoEn": "2026-08-17T10:25:39.773Z",
-    "actualizadoEn": "2026-08-17T10:25:44.664Z"
   }
 ]
