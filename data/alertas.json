@@ -1,100 +1,148 @@
 [
   {
-    "id": "2026-08-31-actualizacion-diaria-del-tipo-de-cambio-oficial-de-referencia-del-bcra-4a6717",
-    "slug": "actualizacion-diaria-del-tipo-de-cambio-oficial-de-referencia-del-bcra",
+    "id": "2026-09-01-actualizacion-del-tipo-de-cambio-oficial-mulc-al-31-de-agosto-de-2026-770672",
+    "slug": "actualizacion-del-tipo-de-cambio-oficial-mulc-al-31-de-agosto-de-2026",
     "organismo": "BCRA",
-    "fecha": "2026-08-31",
-    "impacto": "bajo",
+    "fecha": "2026-09-01",
+    "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
       "tipo de cambio",
       "divisas",
-      "mercado cambiario"
+      "operaciones cambiarias",
+      "BCRA"
     ],
-    "titulo": "Actualización diaria del tipo de cambio oficial de referencia del BCRA",
-    "resumen": "Se informa la cotización oficial del dólar en el Mercado Único y Libre de Cambios (MULC) para la fecha indicada. Esta cifra refleja el valor de referencia establecido por la autoridad monetaria para operaciones de comercio exterior.",
-    "queSignifica": "Utilice este valor de referencia para el cálculo de costos operativos, proyecciones financieras o liquidaciones de divisas. Se sugiere verificar este valor en el sistema contable propio y consultar con su entidad bancaria para confirmar la cotización aplicada a su operación específica.",
+    "titulo": "Actualización del tipo de cambio oficial (MULC) al 31 de agosto de 2026",
+    "resumen": "El BCRA establece la cotización oficial del dólar estadounidense para operaciones cursadas a través del Mercado Único y Libre de Cambios.",
+    "queSignifica": "Debe verificar este valor para realizar sus proyecciones de costos cambiarios. Se sugiere consultar con su entidad bancaria para confirmar la aplicabilidad de esta tasa en las liquidaciones pendientes.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-08-31T17:20:33.879Z"
+    "actualizadoEn": "2026-09-01T14:26:48.258Z"
   },
   {
-    "id": "2026-08-31-actualizacion-del-procedimiento-para-la-modificacion-de-destinaciones-de-exporta-4134a9",
+    "id": "2026-09-01-comunicado-institucional-por-el-fallecimiento-del-socio-enrique-carlos-quincke-26335a",
+    "slug": "comunicado-institucional-por-el-fallecimiento-del-socio-enrique-carlos-quincke",
+    "organismo": "Aduana",
+    "fecha": "2026-09-01",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "institucional",
+      "gremial",
+      "novedades",
+      "cda"
+    ],
+    "titulo": "Comunicado institucional por el fallecimiento del socio Enrique Carlos Quincke",
+    "resumen": "El Centro Despachantes de Aduana informa el fallecimiento de un socio vitalicio de la institución.",
+    "queSignifica": "Se trata de una comunicación de carácter institucional y gremial sin impacto operativo en las destinaciones aduaneras. Se sugiere tomar conocimiento de la novedad institucional sin requerir acciones técnicas adicionales.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42721"
+    },
+    "publicadoEn": "2026-08-27T20:05:10.402Z",
+    "actualizadoEn": "2026-09-01T14:26:48.258Z"
+  },
+  {
+    "id": "2026-09-01-el-cda-participara-en-la-ronda-de-negocios-avellaneda-2026-818c56",
+    "slug": "el-cda-participara-en-la-ronda-de-negocios-avellaneda-2026",
+    "organismo": "Aduana",
+    "fecha": "2026-09-01",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "CDA",
+      "Ronda de Negocios",
+      "Comercio Exterior",
+      "Networking",
+      "Promoción"
+    ],
+    "titulo": "El CDA participará en la Ronda de Negocios Avellaneda 2026",
+    "resumen": "El Centro Despachantes de Aduana anunció su participación institucional en la próxima Ronda de Negocios a realizarse en Avellaneda. El evento busca fomentar la vinculación comercial y el networking entre los diversos actores del sector.",
+    "queSignifica": "Es una instancia informativa sin impacto operativo directo en la operatoria aduanera. Se recomienda a los interesados consultar el cronograma del evento si desean fortalecer vínculos comerciales o asistir a las jornadas de actualización.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42716"
+    },
+    "publicadoEn": "2026-08-27T20:05:22.676Z",
+    "actualizadoEn": "2026-09-01T14:26:48.258Z"
+  },
+  {
+    "id": "2026-09-01-actualizacion-del-procedimiento-para-la-modificacion-de-destinaciones-de-exporta-b60792",
     "slug": "actualizacion-del-procedimiento-para-la-modificacion-de-destinaciones-de-exporta",
     "organismo": "ARCA",
     "fecha": "2026-08-31",
     "impacto": "medio",
     "categoria": "exportacion",
     "tags": [
+      "exportacion",
+      "destinacion",
+      "modificacion",
       "SIM",
-      "Declaración de Exportación",
-      "Destinación",
-      "Modificación",
-      "Aduana"
+      "aduana"
     ],
     "titulo": "Actualización del procedimiento para la modificación de destinaciones de exportación",
-    "resumen": "La norma ajusta los mecanismos y requisitos operativos para solicitar modificaciones en las declaraciones de exportación ante el sistema informático aduanero.",
-    "queSignifica": "Se recomienda revisar los nuevos lineamientos operativos en el manual del Sistema Malvina para asegurar que cualquier solicitud de modificación de datos en curso cumpla con los nuevos requisitos formales vigentes.",
+    "resumen": "La norma ajusta los mecanismos procedimentales para solicitar modificaciones en las destinaciones de exportación ya oficializadas ante la Aduana.",
+    "queSignifica": "Se recomienda revisar el procedimiento administrativo detallado en la norma para evaluar si aplica a sus operaciones en curso. Verifique con su despachante los nuevos requisitos documentales antes de solicitar cambios en las declaraciones de exportación.",
     "fuente": {
       "nombre": "Boletín Oficial de la República Argentina",
       "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/346596/20260831"
     },
     "normativaRef": "Resolución General 5891/2026",
     "publicadoEn": "2026-08-31T17:19:56.360Z",
-    "actualizadoEn": "2026-08-31T17:20:33.879Z"
+    "actualizadoEn": "2026-09-01T14:26:48.258Z"
   },
   {
-    "id": "2026-08-31-digitalizacion-de-tramites-para-importar-lineas-de-produccion-usadas-via-vuce-b93cb3",
-    "slug": "digitalizacion-de-tramites-para-importar-lineas-de-produccion-usadas-via-vuce",
+    "id": "2026-09-01-reglamentacion-del-regimen-de-importacion-de-lineas-de-produccion-usadas-via-vuc-774ea2",
+    "slug": "reglamentacion-del-regimen-de-importacion-de-lineas-de-produccion-usadas-via-vuc",
     "organismo": "ARCA",
     "fecha": "2026-08-31",
     "impacto": "medio",
     "categoria": "importacion",
     "tags": [
-      "VUCE",
-      "bienes usados",
-      "lineas de produccion",
-      "despacho de importacion",
-      "tramitacion digital"
+      "VUCEA",
+      "Lineas de produccion",
+      "Bienes usados",
+      "Despacho de aduana",
+      "Gestion documental"
     ],
-    "titulo": "Digitalización de trámites para importar líneas de producción usadas vía VUCE",
-    "resumen": "La normativa integra la gestión de importación de líneas de producción usadas a la Ventanilla Única de Comercio Exterior (VUCE) bajo las disposiciones del decreto vigente.",
-    "queSignifica": "El importador debe verificar si sus bienes encuadran en el régimen y gestionar la documentación técnica a través de la plataforma VUCE antes de la oficialización. Se recomienda revisar el estado de los permisos específicos según el tipo de maquinaria para asegurar la trazabilidad del proceso.",
+    "titulo": "Reglamentación del régimen de importación de líneas de producción usadas vía VUCEA",
+    "resumen": "La norma establece el procedimiento administrativo ante la VUCEA para la importación de líneas de producción usadas, bajo los términos del Decreto correspondiente.",
+    "queSignifica": "El importador debe verificar si su operación se encuadra en este régimen y gestionar los certificados a través de la plataforma VUCEA. Se recomienda revisar la normativa específica y el alcance de la línea de producción antes de iniciar el trámite de importación.",
     "fuente": {
       "nombre": "Boletín Oficial de la República Argentina",
       "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/346597/20260831"
     },
     "normativaRef": "Resolución General 5892/2026",
     "publicadoEn": "2026-08-31T17:20:03.050Z",
-    "actualizadoEn": "2026-08-31T17:20:33.879Z"
+    "actualizadoEn": "2026-09-01T14:26:48.258Z"
   },
   {
-    "id": "2026-08-31-nuevas-directivas-tecnicas-para-la-importacion-de-juguetes-f7ec9b",
-    "slug": "nuevas-directivas-tecnicas-para-la-importacion-de-juguetes",
+    "id": "2026-09-01-requerimientos-tecnicos-para-la-importacion-de-juguetes-1b2614",
+    "slug": "requerimientos-tecnicos-para-la-importacion-de-juguetes",
     "organismo": "Aduana",
     "fecha": "2026-08-31",
     "impacto": "medio",
     "categoria": "importacion",
     "tags": [
       "juguetes",
+      "seguridad del juguete",
       "seguridad eléctrica",
-      "tramites",
-      "importación",
-      "normativa técnica"
+      "normativa técnica",
+      "importación"
     ],
-    "titulo": "Nuevas directivas técnicas para la importación de juguetes",
-    "resumen": "El Departamento Técnica de Importación comunica criterios actualizados para el ingreso de juguetes al país.",
-    "queSignifica": "Se recomienda verificar el estado de las certificaciones de seguridad correspondientes ante los organismos técnicos. Sugerimos revisar con su despachante los requisitos vigentes antes de realizar cualquier embarque.",
+    "titulo": "Requerimientos técnicos para la importación de juguetes",
+    "resumen": "Se comunica la actualización de criterios o procedimientos específicos para el ingreso de juguetes al mercado argentino.",
+    "queSignifica": "Debe revisar la documentación técnica, certificaciones de seguridad y cumplimiento de normativas de etiquetado vigentes para evitar demoras en la nacionalización.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42732"
     },
     "publicadoEn": "2026-08-31T17:20:09.736Z",
-    "actualizadoEn": "2026-08-31T17:20:33.879Z"
+    "actualizadoEn": "2026-09-01T14:26:48.258Z"
   },
   {
     "id": "2026-08-31-aniversario-114-del-centro-de-despachantes-de-aduana-213c2b",
@@ -164,28 +212,6 @@
     },
     "publicadoEn": "2026-08-28T21:03:03.993Z",
     "actualizadoEn": "2026-08-31T17:20:33.879Z"
-  },
-  {
-    "id": "2026-08-28-comunicado-institucional-por-el-fallecimiento-del-socio-enrique-carlos-quincke-a39831",
-    "slug": "comunicado-institucional-por-el-fallecimiento-del-socio-enrique-carlos-quincke",
-    "organismo": "Aduana",
-    "fecha": "2026-08-27",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "institucional",
-      "comunicado",
-      "cda"
-    ],
-    "titulo": "Comunicado institucional por el fallecimiento del socio Enrique Carlos Quincke",
-    "resumen": "El Centro Despachantes de Aduana informa el fallecimiento de un socio vitalicio de la institución.",
-    "queSignifica": "Se trata de una noticia institucional sin impacto en la operatividad aduanera. No se requiere ninguna acción por parte del importador o exportador.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42721"
-    },
-    "publicadoEn": "2026-08-27T20:05:10.402Z",
-    "actualizadoEn": "2026-08-28T21:03:49.675Z"
   },
   {
     "id": "2026-08-28-nuevo-servicio-de-conectividad-remota-para-el-sistema-informatico-malvina-sim-5fb69b",
@@ -281,29 +307,6 @@
       "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-dos-lotes-del-medicamento-yectaferhierro-5"
     },
     "publicadoEn": "2026-08-27T20:06:26.379Z",
-    "actualizadoEn": "2026-08-28T21:03:49.675Z"
-  },
-  {
-    "id": "2026-08-28-participacion-del-cda-en-la-ronda-de-negocios-avellaneda-2026-881158",
-    "slug": "participacion-del-cda-en-la-ronda-de-negocios-avellaneda-2026",
-    "organismo": "Aduana",
-    "fecha": "2026-08-26",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "CDA",
-      "Ronda de Negocios",
-      "Comercio Exterior",
-      "Networking"
-    ],
-    "titulo": "Participación del CDA en la Ronda de Negocios Avellaneda 2026",
-    "resumen": "El Centro Despachantes de Aduana confirmó su asistencia a la Ronda de Negocios Avellaneda 2026. Se trata de un evento de carácter institucional para la vinculación de actores del sector.",
-    "queSignifica": "Esta noticia es de carácter informativo. Se sugiere revisar la agenda del evento en caso de tener interés profesional en generar redes de contacto o participar en actividades de networking.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42716"
-    },
-    "publicadoEn": "2026-08-27T20:05:22.676Z",
     "actualizadoEn": "2026-08-28T21:03:49.675Z"
   },
   {
