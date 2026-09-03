@@ -1,55 +1,148 @@
 [
   {
-    "id": "2026-09-02-actualizacion-de-la-cotizacion-del-dolar-oficial-en-el-mulc-4a1ef6",
-    "slug": "actualizacion-de-la-cotizacion-del-dolar-oficial-en-el-mulc",
+    "id": "2026-09-03-actualizacion-diaria-del-tipo-de-cambio-oficial-mulc-69b0f7",
+    "slug": "actualizacion-diaria-del-tipo-de-cambio-oficial-mulc",
     "organismo": "BCRA",
-    "fecha": "2026-09-02",
-    "impacto": "medio",
+    "fecha": "2026-09-03",
+    "impacto": "bajo",
     "categoria": "normativa",
     "tags": [
       "MULC",
       "tipo de cambio",
-      "divisas",
-      "operaciones cambiarias",
-      "BCRA"
+      "BCRA",
+      "operaciones cambiarias"
     ],
-    "titulo": "Actualización de la cotización del dólar oficial en el MULC",
-    "resumen": "Se informa la cotización oficial del dólar estadounidense en el Mercado Único y Libre de Cambios para la fecha indicada. Esta cifra es la referencia base para la liquidación de divisas y el pago de operaciones de comercio exterior.",
-    "queSignifica": "Verificar este valor oficial para la liquidación de sus operaciones cambiarias y cálculo de costos. Se recomienda consultar con su entidad bancaria para confirmar la aplicabilidad de esta cotización en los cierres de cambio del día.",
+    "titulo": "Actualización diaria del tipo de cambio oficial (MULC)",
+    "resumen": "El Banco Central informó la cotización oficial del dólar en el mercado único y libre de cambios para la fecha indicada.",
+    "queSignifica": "Utilice esta referencia para la proyección de costos y valoraciones aduaneras. Se recomienda verificar esta cotización en el sistema bancario al momento de cursar cualquier pago o liquidación.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-09-02T14:00:10.703Z"
+    "actualizadoEn": "2026-09-03T14:03:28.100Z"
   },
   {
-    "id": "2026-09-02-reunion-de-coordinacion-operativa-entre-el-cda-y-el-deposito-fiscal-ge-576368",
+    "id": "2026-09-03-anmat-prohibe-comercializacion-y-uso-de-un-lote-especifico-del-producto-questran-54392e",
+    "slug": "anmat-prohibe-comercializacion-y-uso-de-un-lote-especifico-del-producto-questran",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-09-03",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "ANMAT",
+      "productos farmacéuticos",
+      "bloqueo de mercadería",
+      "control de calidad",
+      "intervención de aduana"
+    ],
+    "titulo": "ANMAT prohíbe comercialización y uso de un lote específico del producto QUESTRAN",
+    "resumen": "Se ordena la prohibición de uso, comercialización y distribución de un lote específico de Questran por detectarse irregularidades. La medida busca prevenir riesgos para la salud pública tras el retiro preventivo del producto.",
+    "queSignifica": "El importador debe verificar inmediatamente el stock disponible para identificar si el lote afectado se encuentra en sus depósitos o en proceso de despacho. Se recomienda bloquear preventivamente dicho lote en el sistema y consultar con el servicio técnico del fabricante para determinar los pasos a seguir ante la autoridad sanitaria.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-el-uso-comercializacion-y-distribucion-de-un-lote-del-producto-questran"
+    },
+    "publicadoEn": "2026-09-03T14:03:04.498Z",
+    "actualizadoEn": "2026-09-03T14:03:28.100Z"
+  },
+  {
+    "id": "2026-09-03-anmat-prohibe-la-comercializacion-y-uso-de-un-lote-especifico-del-producto-medic-8e5557",
+    "slug": "anmat-prohibe-la-comercializacion-y-uso-de-un-lote-especifico-del-producto-medic",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-09-03",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "producto médico",
+      "ANMAT",
+      "prohibición de comercialización",
+      "control sanitario",
+      "despacho de aduana"
+    ],
+    "titulo": "ANMAT prohíbe la comercialización y uso de un lote específico del producto médico SCULPTRA",
+    "resumen": "La autoridad sanitaria dispuso la prohibición de uso, distribución y comercialización de un lote determinado del producto Sculptra por irregularidades detectadas. La medida busca evitar riesgos sanitarios al retirar unidades no conformes del mercado.",
+    "queSignifica": "Verifique el número de lote de su stock y de cualquier embarque en curso contra la lista de prohibidos emitida por ANMAT. Se recomienda contactar al titular del registro (Galderma) para confirmar el estado de su mercadería antes de proceder con el libramiento a plaza.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-un-lote-del-producto-medico-sculptrar-de-la-firma-galderma"
+    },
+    "publicadoEn": "2026-09-03T14:03:12.224Z",
+    "actualizadoEn": "2026-09-03T14:03:28.100Z"
+  },
+  {
+    "id": "2026-09-03-participacion-del-cda-en-la-ronda-de-negocios-avellaneda-2026-6bfc56",
+    "slug": "participacion-del-cda-en-la-ronda-de-negocios-avellaneda-2026",
+    "organismo": "Aduana",
+    "fecha": "2026-09-02",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "ronda de negocios",
+      "networking",
+      "comercio exterior",
+      "vinculación comercial"
+    ],
+    "titulo": "Participación del CDA en la Ronda de Negocios Avellaneda 2026",
+    "resumen": "El Centro Despachantes de Aduana confirmó su asistencia al evento de vinculación comercial a realizarse en Avellaneda.",
+    "queSignifica": "Se trata de una noticia institucional sin impacto operativo. Se sugiere revisar la agenda del evento en caso de interés en generar contactos comerciales o profesionales.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42716"
+    },
+    "publicadoEn": "2026-08-27T20:05:22.676Z",
+    "actualizadoEn": "2026-09-03T14:03:28.100Z"
+  },
+  {
+    "id": "2026-09-03-actualizacion-en-los-criterios-para-la-presentacion-de-certificados-senasa-7b1276",
+    "slug": "actualizacion-en-los-criterios-para-la-presentacion-de-certificados-senasa",
+    "organismo": "SENASA",
+    "fecha": "2026-09-02",
+    "impacto": "medio",
+    "categoria": "logistica",
+    "tags": [
+      "SENASA",
+      "Certificados",
+      "VUCE",
+      "Despacho",
+      "Documentación"
+    ],
+    "titulo": "Actualización en los criterios para la presentación de certificados SENASA",
+    "resumen": "SENASA modificó el procedimiento administrativo para la presentación de certificados sanitarios o fitosanitarios. El cambio busca optimizar la gestión documental ante el organismo.",
+    "queSignifica": "Debe verificar en la plataforma VUCE si sus presentaciones en curso requieren ajustes según el nuevo criterio. Se recomienda auditar los procesos de carga documental para evitar posibles demoras en la intervención de la mercadería.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42739"
+    },
+    "publicadoEn": "2026-09-03T14:02:34.982Z",
+    "actualizadoEn": "2026-09-03T14:03:28.100Z"
+  },
+  {
+    "id": "2026-09-03-reunion-de-coordinacion-operativa-entre-el-cda-y-el-deposito-fiscal-ge-8241ab",
     "slug": "reunion-de-coordinacion-operativa-entre-el-cda-y-el-deposito-fiscal-ge",
     "organismo": "Aduana",
     "fecha": "2026-09-01",
     "impacto": "bajo",
     "categoria": "logistica",
     "tags": [
-      "depósito fiscal",
+      "deposito fiscal",
       "operativa aduanera",
       "CDA",
-      "logística portuaria",
-      "gestión aduanera"
+      "comercio exterior"
     ],
     "titulo": "Reunión de coordinación operativa entre el CDA y el Depósito Fiscal GE",
-    "resumen": "Representantes del CDA se reunieron con autoridades del Depósito Fiscal GE para tratar cuestiones operativas generales. El encuentro busca optimizar los circuitos de despacho y la gestión de la carga en dichas instalaciones.",
-    "queSignifica": "Se recomienda a los operadores revisar el estado de sus operaciones en dicho depósito para detectar posibles demoras operativas. Manténgase atento a futuros comunicados del CDA que puedan detallar procedimientos específicos acordados en la mesa de trabajo.",
+    "resumen": "Se realizó un encuentro institucional para coordinar aspectos operativos y procedimentales entre el Centro Despachantes de Aduana y el depósito fiscal mencionado.",
+    "queSignifica": "Se sugiere a los operadores verificar si existen cambios en los turnos, requisitos de ingreso o trámites específicos en dicho depósito antes de programar nuevas operaciones logísticas.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42736"
     },
     "publicadoEn": "2026-09-02T13:59:39.525Z",
-    "actualizadoEn": "2026-09-02T14:00:10.703Z"
+    "actualizadoEn": "2026-09-03T14:03:28.100Z"
   },
   {
-    "id": "2026-09-02-comunicado-institucional-fallecimiento-del-socio-enrique-carlos-quincke-a33644",
-    "slug": "comunicado-institucional-fallecimiento-del-socio-enrique-carlos-quincke",
+    "id": "2026-09-03-fallecimiento-del-socio-vitalicio-enrique-carlos-quincke-86b70e",
+    "slug": "fallecimiento-del-socio-vitalicio-enrique-carlos-quincke",
     "organismo": "Aduana",
     "fecha": "2026-09-01",
     "impacto": "bajo",
@@ -58,57 +151,63 @@
       "institucional",
       "novedad gremial"
     ],
-    "titulo": "Comunicado institucional: Fallecimiento del socio Enrique Carlos Quincke",
-    "resumen": "El Centro Despachantes de Aduana comunica el fallecimiento de un asociado de la institución.",
-    "queSignifica": "Esta información es de carácter institucional y no afecta la operatividad aduanera ni los procedimientos de comercio exterior.",
+    "titulo": "Fallecimiento del socio vitalicio Enrique Carlos Quincke",
+    "resumen": "El Centro Despachantes de Aduana comunica el fallecimiento del socio Nº 2163, Enrique Carlos Quincke.",
+    "queSignifica": "Se trata de un comunicado institucional sin impacto en la operatividad aduanera, por lo que no requiere ninguna acción sobre sus despachos.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42721"
     },
     "publicadoEn": "2026-08-27T20:05:10.402Z",
-    "actualizadoEn": "2026-09-02T14:00:10.703Z"
+    "actualizadoEn": "2026-09-03T14:03:28.100Z"
   },
   {
-    "id": "2026-09-02-participacion-del-cda-en-la-ronda-de-negocios-avellaneda-2026-35871c",
-    "slug": "participacion-del-cda-en-la-ronda-de-negocios-avellaneda-2026",
-    "organismo": "Aduana",
-    "fecha": "2026-09-01",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "CDA",
-      "Ronda de Negocios",
-      "Comercio Exterior",
-      "Networking",
-      "Promoción"
-    ],
-    "titulo": "Participación del CDA en la Ronda de Negocios Avellaneda 2026",
-    "resumen": "El Centro Despachantes de Aduana anuncia su participación institucional en la Ronda de Negocios a realizarse en Avellaneda. Se trata de un evento de networking destinado a fomentar el vínculo entre operadores del sector.",
-    "queSignifica": "Es una noticia de carácter institucional sin impacto operativo directo. Se sugiere revisar la agenda del evento en caso de tener interés en participar para fortalecer redes de contacto profesional.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42716"
-    },
-    "publicadoEn": "2026-08-27T20:05:22.676Z",
-    "actualizadoEn": "2026-09-02T14:00:10.703Z"
-  },
-  {
-    "id": "2026-09-02-retiro-del-mercado-de-todos-los-lotes-del-producto-fructines-fenolftaleina-0120--10e01f",
+    "id": "2026-09-03-retiro-del-mercado-de-todos-los-lotes-del-producto-fructines-fenolftaleina-0120--412235",
     "slug": "retiro-del-mercado-de-todos-los-lotes-del-producto-fructines-fenolftaleina-0120-",
     "organismo": "ANMAT / INAL",
     "fecha": "2026-09-01",
     "impacto": "alto",
-    "categoria": "logistica",
-    "tags": [],
-    "titulo": "Retiro del mercado de todos los lotes del producto “FRUCTINES / FENOLFTALEÍNA 0,120 g”",
-    "resumen": "Retiro del mercado de todos los lotes del producto “FRUCTINES / FENOLFTALEÍNA 0,120 g”",
-    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
+    "categoria": "importacion",
+    "tags": [
+      "ANMAT",
+      "prohibición",
+      "retiro de mercado",
+      "farmacéuticos",
+      "seguridad sanitaria"
+    ],
+    "titulo": "Retiro del mercado de todos los lotes del producto Fructines / Fenolftaleína 0,120 g",
+    "resumen": "La ANMAT ha ordenado el retiro preventivo y la prohibición de comercialización de todos los lotes del producto mencionado. La medida responde a una disposición sanitaria de cumplimiento obligatorio.",
+    "queSignifica": "Los importadores y distribuidores deben verificar sus stocks y bloquear inmediatamente cualquier unidad de este producto para evitar su comercialización. Se recomienda revisar el inventario y coordinar con el organismo la disposición final o el procedimiento de retiro correspondiente.",
     "fuente": {
       "nombre": "ANMAT – Alertas",
       "url": "https://www.argentina.gob.ar/noticias/retiro-del-mercado-de-todos-los-lotes-del-producto-fructines-fenolftaleina-0120-g"
     },
     "publicadoEn": "2026-09-02T14:00:05.010Z",
-    "actualizadoEn": "2026-09-02T14:00:10.703Z"
+    "actualizadoEn": "2026-09-03T14:03:28.100Z"
+  },
+  {
+    "id": "2026-09-03-nuevas-pautas-para-la-importacion-de-juguetes-fbec67",
+    "slug": "nuevas-pautas-para-la-importacion-de-juguetes",
+    "organismo": "Aduana",
+    "fecha": "2026-08-31",
+    "impacto": "medio",
+    "categoria": "importacion",
+    "tags": [
+      "juguetes",
+      "seguridad",
+      "certificación",
+      "técnica de importación",
+      "SIM"
+    ],
+    "titulo": "Nuevas pautas para la importación de juguetes",
+    "resumen": "Se establecen precisiones operativas para la gestión de importaciones de juguetes según el Departamento Técnica de Importación.",
+    "queSignifica": "Se recomienda revisar el correo institucional del CDA y verificar el cumplimiento de los reglamentos técnicos vigentes para evitar demoras en la oficialización de los despachos.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42732"
+    },
+    "publicadoEn": "2026-08-31T17:20:09.736Z",
+    "actualizadoEn": "2026-09-03T14:03:28.100Z"
   },
   {
     "id": "2026-09-02-actualizacion-de-procedimientos-para-la-modificacion-de-destinaciones-de-exporta-b075fa",
@@ -158,30 +257,6 @@
     },
     "normativaRef": "Resolución General 5892/2026",
     "publicadoEn": "2026-08-31T17:20:03.050Z",
-    "actualizadoEn": "2026-09-02T14:00:10.703Z"
-  },
-  {
-    "id": "2026-09-02-nuevas-exigencias-operativas-para-la-importacion-de-juguetes-3db183",
-    "slug": "nuevas-exigencias-operativas-para-la-importacion-de-juguetes",
-    "organismo": "Aduana",
-    "fecha": "2026-08-31",
-    "impacto": "medio",
-    "categoria": "importacion",
-    "tags": [
-      "juguetes",
-      "seguridad",
-      "certificaciones",
-      "reglamento tecnico",
-      "importaciones"
-    ],
-    "titulo": "Nuevas exigencias operativas para la importación de juguetes",
-    "resumen": "Se establecen precisiones técnicas para la gestión de las importaciones de juguetes ante el Departamento Técnica de Importación.",
-    "queSignifica": "Se recomienda revisar la comunicación interna del CDA para verificar si los juguetes a importar requieren adecuaciones documentales adicionales. Consulte con su despachante la vigencia de sus certificaciones de seguridad antes de oficializar el despacho.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42732"
-    },
-    "publicadoEn": "2026-08-31T17:20:09.736Z",
     "actualizadoEn": "2026-09-02T14:00:10.703Z"
   },
   {
@@ -753,26 +828,6 @@
       "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-un-equipo-medico-de-la-marca-alma-lasers-soprano-ice"
     },
     "publicadoEn": "2026-08-21T10:24:18.949Z",
-    "actualizadoEn": "2026-08-21T10:24:27.814Z"
-  },
-  {
-    "id": "2026-08-21-secreto-militar-exportacion-de-material-relacionado-con-el-de122a",
-    "slug": "secreto-militar-exportacion-de-material-relacionado-con-el",
-    "organismo": "CDA",
-    "fecha": "2026-08-19",
-    "impacto": "bajo",
-    "categoria": "exportacion",
-    "tags": [
-      "exportación"
-    ],
-    "titulo": "Secreto Militar: Exportación de material relacionado con el",
-    "resumen": "El día 18/08/2026, el Poder Ejecutivo Nacional (PEN) publicó en el Boletín Oficial (B.O) el Decreto Nº 735 con el fin de declarar, en lo...",
-    "queSignifica": "Verificá si esta norma modifica requisitos, alícuotas o reintegros para exportaciones. Se recomienda revisar los despachos en trámite con el despachante.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42699"
-    },
-    "publicadoEn": "2026-08-20T10:22:18.102Z",
     "actualizadoEn": "2026-08-21T10:24:27.814Z"
   }
 ]
