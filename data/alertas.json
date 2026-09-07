@@ -1,27 +1,68 @@
 [
   {
-    "id": "2026-09-04-actualizacion-del-tipo-de-cambio-oficial-del-bcra-al-03092026-21b3ac",
-    "slug": "actualizacion-del-tipo-de-cambio-oficial-del-bcra-al-03092026",
+    "id": "2026-09-07-actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc-d156d3",
+    "slug": "actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc",
     "organismo": "BCRA",
-    "fecha": "2026-09-04",
+    "fecha": "2026-09-07",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
       "tipo de cambio",
       "divisas",
-      "operaciones cambiarias",
-      "BCRA"
+      "cotización",
+      "operaciones cambiarias"
     ],
-    "titulo": "Actualización del tipo de cambio oficial del BCRA al 03/09/2026",
-    "resumen": "Se establece el tipo de cambio de referencia del Mercado Único y Libre de Cambios (MULC) en 1086.51 pesos por dólar estadounidense para la fecha indicada. Esta cifra es utilizada para la liquidación de divisas y el cálculo de obligaciones comerciales.",
-    "queSignifica": "Verifique que sus sistemas contables y de gestión de costos utilicen esta cotización oficial para el cierre de operaciones. Se sugiere validar con su entidad bancaria si este valor aplica a sus liquidaciones pendientes o pagos programados.",
+    "titulo": "Actualización de la cotización oficial del dólar en el MULC",
+    "resumen": "El Banco Central de la República Argentina informó la cotización oficial del dólar en el Mercado Único y Libre de Cambios para la fecha indicada.",
+    "queSignifica": "Se recomienda verificar este valor para realizar los cálculos de costos de nacionalización o liquidación de divisas. Es prudente confirmar la tasa aplicable con su entidad bancaria antes de cerrar cualquier operación de pago o cobro en moneda extranjera.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-09-04T13:55:51.621Z"
+    "actualizadoEn": "2026-09-07T15:26:43.872Z"
+  },
+  {
+    "id": "2026-09-07-participacion-institucional-del-cda-en-la-ronda-de-negocios-avellaneda-2026-79d811",
+    "slug": "participacion-institucional-del-cda-en-la-ronda-de-negocios-avellaneda-2026",
+    "organismo": "Aduana",
+    "fecha": "2026-09-04",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "comercio exterior",
+      "ronda de negocios",
+      "relaciones institucionales",
+      "promoción exportadora"
+    ],
+    "titulo": "Participación institucional del CDA en la Ronda de Negocios Avellaneda 2026",
+    "resumen": "El CDA participó de un evento de vinculación comercial orientado a fomentar la actividad del sector. Se trató de una jornada de relacionamiento y networking sin modificaciones en el marco regulatorio.",
+    "queSignifica": "Esta información es de carácter institucional y no impacta en la operatividad aduanera. Se sugiere verificar el cronograma de eventos del CDA si busca ampliar su red de contactos comerciales.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42741"
+    },
+    "publicadoEn": "2026-09-07T15:25:49.106Z",
+    "actualizadoEn": "2026-09-07T15:26:43.872Z"
+  },
+  {
+    "id": "2026-09-07-correo-electronico-de-teim-ley-24196-regimen-minero-27cbcb",
+    "slug": "correo-electronico-de-teim-ley-24196-regimen-minero",
+    "organismo": "CDA",
+    "fecha": "2026-09-04",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "Correo Electrónico (DE TEIM): Ley 24.196 - Régimen Minero",
+    "resumen": "El Centro Despachantes de Aduana (CDA) informa a sus asociados que, por medio de un correo electrónico, el Departamento Técnica de Importa...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42745"
+    },
+    "publicadoEn": "2026-09-07T15:25:54.432Z",
+    "actualizadoEn": "2026-09-07T15:26:43.872Z"
   },
   {
     "id": "2026-09-04-participacion-del-cda-en-la-ronda-de-negocios-avellaneda-2026-c34ee8",
@@ -534,150 +575,5 @@
     },
     "publicadoEn": "2026-08-25T10:24:33.834Z",
     "actualizadoEn": "2026-08-27T20:06:31.609Z"
-  },
-  {
-    "id": "2026-08-24-reunion-de-la-subcomision-de-tecnica-y-normativa-del-cda-64789d",
-    "slug": "reunion-de-la-subcomision-de-tecnica-y-normativa-del-cda",
-    "organismo": "Aduana",
-    "fecha": "2026-08-21",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "CDA",
-      "capacitación",
-      "técnica",
-      "normativa"
-    ],
-    "titulo": "Reunión de la Subcomisión de Técnica y Normativa del CDA",
-    "resumen": "El CDA convoca a sus asociados a una reunión informativa para tratar aspectos de técnica y normativa aduanera.",
-    "queSignifica": "Se sugiere a los interesados revisar la agenda de la reunión y verificar si se tratarán temas de actualidad operativa que requieran ajustes en sus procedimientos habituales.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42701"
-    },
-    "publicadoEn": "2026-08-24T10:30:51.911Z",
-    "actualizadoEn": "2026-08-24T10:31:13.361Z"
-  },
-  {
-    "id": "2026-08-24-beneficio-de-descuento-en-servicios-para-socios-del-centro-despachantes-de-aduan-58633b",
-    "slug": "beneficio-de-descuento-en-servicios-para-socios-del-centro-despachantes-de-aduan",
-    "organismo": "Aduana",
-    "fecha": "2026-08-21",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "CDA",
-      "beneficios",
-      "capacitacion",
-      "despachante de aduanas",
-      "actualizacion profesional"
-    ],
-    "titulo": "Beneficio de descuento en servicios para socios del Centro Despachantes de Aduana",
-    "resumen": "El CDA comunica un beneficio exclusivo de descuento del 50% aplicable a servicios para sus asociados. La medida tiene alcance institucional y no modifica procedimientos aduaneros vigentes.",
-    "queSignifica": "Esta novedad es de carácter informativo y no altera la operatividad del comercio exterior. Se sugiere a los despachantes consultar los canales oficiales del CDA para verificar los términos y condiciones del beneficio.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42688"
-    },
-    "publicadoEn": "2026-08-24T10:30:57.479Z",
-    "actualizadoEn": "2026-08-24T10:31:13.361Z"
-  },
-  {
-    "id": "2026-08-24-informe-del-indec-sobre-el-intercambio-comercial-argentino-de-julio-2026-a06ed1",
-    "slug": "informe-del-indec-sobre-el-intercambio-comercial-argentino-de-julio-2026",
-    "organismo": "Aduana",
-    "fecha": "2026-08-21",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "comercio exterior",
-      "indices de precios",
-      "estadisticas",
-      "indec",
-      "balanza comercial"
-    ],
-    "titulo": "Informe del INDEC sobre el Intercambio Comercial Argentino de julio 2026",
-    "resumen": "El informe presenta la variación mensual de los precios y cantidades de bienes exportados e importados según datos oficiales del INDEC.",
-    "queSignifica": "Se sugiere revisar los informes para analizar tendencias de mercado y proyecciones sectoriales, ya que esta información no impacta en la operativa diaria de los despachos.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42702"
-    },
-    "publicadoEn": "2026-08-24T10:31:02.644Z",
-    "actualizadoEn": "2026-08-24T10:31:13.361Z"
-  },
-  {
-    "id": "2026-08-24-nueva-habilitacion-de-frigorifico-en-cordoba-para-exportar-carne-vacuna-a-china-9d466a",
-    "slug": "nueva-habilitacion-de-frigorifico-en-cordoba-para-exportar-carne-vacuna-a-china",
-    "organismo": "SENASA",
-    "fecha": "2026-08-21",
-    "impacto": "bajo",
-    "categoria": "exportacion",
-    "tags": [
-      "exportación carne",
-      "SENASA",
-      "habilitaciones sanitarias",
-      "China",
-      "mercado cárnico"
-    ],
-    "titulo": "Nueva habilitación de frigorífico en Córdoba para exportar carne vacuna a China",
-    "resumen": "El SENASA fiscalizó el primer envío de carne vacuna desde un establecimiento en Juárez Celman, Córdoba, hacia el mercado chino.",
-    "queSignifica": "Los exportadores del sector deben verificar la vigencia de las habilitaciones sanitarias específicas para China y consultar la normativa de SENASA para nuevas altas en el padrón de establecimientos exportadores.",
-    "fuente": {
-      "nombre": "SENASA Comunica",
-      "url": "https://www.argentina.gob.ar/noticias/cordoba-se-envio-por-primera-vez-carne-vacuna-china-desde-un-frigorifico-recientemente"
-    },
-    "publicadoEn": "2026-08-24T10:31:08.394Z",
-    "actualizadoEn": "2026-08-24T10:31:13.361Z"
-  },
-  {
-    "id": "2026-08-21-actualizacion-de-normas-sobre-el-acceso-al-mercado-de-cambios-para-operaciones-d-cb4d4e",
-    "slug": "actualizacion-de-normas-sobre-el-acceso-al-mercado-de-cambios-para-operaciones-d",
-    "organismo": "BCRA",
-    "fecha": "2026-08-21",
-    "impacto": "alto",
-    "categoria": "normativa",
-    "tags": [
-      "BCRA",
-      "MULC",
-      "Acceso al mercado de cambios",
-      "Operaciones de cambio",
-      "Cumplimiento cambiario"
-    ],
-    "titulo": "Actualización de normas sobre el acceso al mercado de cambios para operaciones de comercio exterior",
-    "resumen": "La Comunicación A 8465 establece nuevos lineamientos operativos para el acceso al MULC por parte de importadores y exportadores. Define pautas de seguimiento y cumplimiento para las entidades financieras en el marco de sus operaciones cambiarias.",
-    "queSignifica": "Debe verificar junto a su entidad financiera si esta normativa afecta la disponibilidad de divisas o la documentación requerida para sus giros. Se sugiere auditar el cumplimiento de los plazos de ingreso o egreso de divisas conforme a esta nueva disposición antes de cursar nuevas operaciones.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/346230/20260821"
-    },
-    "normativaRef": "Comunicación \"A\" 8465/2026",
-    "publicadoEn": "2026-08-21T10:22:17.291Z",
-    "actualizadoEn": "2026-08-21T10:24:27.814Z"
-  },
-  {
-    "id": "2026-08-21-actualizacion-de-normas-cambiarias-para-el-acceso-al-mercado-libre-de-cambios-97d406",
-    "slug": "actualizacion-de-normas-cambiarias-para-el-acceso-al-mercado-libre-de-cambios",
-    "organismo": "BCRA",
-    "fecha": "2026-08-21",
-    "impacto": "alto",
-    "categoria": "normativa",
-    "tags": [
-      "MULC",
-      "BCRA",
-      "Giros al exterior",
-      "Acceso a divisas",
-      "Comercio exterior"
-    ],
-    "titulo": "Actualización de normas cambiarias para el acceso al Mercado Libre de Cambios",
-    "resumen": "La Comunicación establece nuevas condiciones operativas para el acceso al mercado de cambios para operaciones de comercio exterior. Modifica los plazos y requisitos documentales para el pago de importaciones y liquidación de divisas.",
-    "queSignifica": "Es necesario verificar el cumplimiento de los nuevos plazos y documentación de respaldo para el acceso al MULC. Se recomienda auditar las operaciones pendientes y consultar con su entidad financiera para asegurar la debida diligencia antes de cualquier giro.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/346231/20260821"
-    },
-    "normativaRef": "Comunicación \"A\" 8466/2026",
-    "publicadoEn": "2026-08-21T10:22:27.279Z",
-    "actualizadoEn": "2026-08-21T10:24:27.814Z"
   }
 ]
