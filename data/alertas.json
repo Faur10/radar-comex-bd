@@ -1,27 +1,46 @@
 [
   {
-    "id": "2026-09-07-actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc-d156d3",
-    "slug": "actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc",
+    "id": "2026-09-08-bcra-tipo-de-cambio-mulc-del-dia-b0c151",
+    "slug": "bcra-tipo-de-cambio-mulc-del-dia",
     "organismo": "BCRA",
-    "fecha": "2026-09-07",
-    "impacto": "medio",
+    "fecha": "2026-09-08",
+    "impacto": "alto",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "tipo de cambio",
-      "divisas",
-      "cotización",
-      "operaciones cambiarias"
+      "tipo de cambio"
     ],
-    "titulo": "Actualización de la cotización oficial del dólar en el MULC",
-    "resumen": "El Banco Central de la República Argentina informó la cotización oficial del dólar en el Mercado Único y Libre de Cambios para la fecha indicada.",
-    "queSignifica": "Se recomienda verificar este valor para realizar los cálculos de costos de nacionalización o liquidación de divisas. Es prudente confirmar la tasa aplicable con su entidad bancaria antes de cerrar cualquier operación de pago o cobro en moneda extranjera.",
+    "titulo": "BCRA – Tipo de Cambio MULC del día",
+    "resumen": "Tipo de Cambio MULC ($ por USD): 1091.15 — al 2026-09-07",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-09-07T15:26:43.872Z"
+    "actualizadoEn": "2026-09-08T14:03:20.424Z"
+  },
+  {
+    "id": "2026-09-08-recordatorio-sobre-el-aporte-solidario-para-socios-vitalicios-del-cda-84e414",
+    "slug": "recordatorio-sobre-el-aporte-solidario-para-socios-vitalicios-del-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-09-07",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "institucional",
+      "cda",
+      "gestión administrativa"
+    ],
+    "titulo": "Recordatorio sobre el aporte solidario para socios vitalicios del CDA",
+    "resumen": "El Centro Despachantes de Aduana solicita la continuidad del aporte solidario a sus socios vitalicios.",
+    "queSignifica": "Es una comunicación institucional interna de la entidad. Se sugiere revisar los canales oficiales del CDA por si el socio tuviera cuotas pendientes de regularización.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42521"
+    },
+    "publicadoEn": "2026-09-08T14:03:15.315Z",
+    "actualizadoEn": "2026-09-08T14:03:20.424Z"
   },
   {
     "id": "2026-09-07-participacion-institucional-del-cda-en-la-ronda-de-negocios-avellaneda-2026-79d811",
@@ -478,102 +497,6 @@
     },
     "normativaRef": "Resolución General 5890/2026",
     "publicadoEn": "2026-08-25T10:24:11.849Z",
-    "actualizadoEn": "2026-08-27T20:06:31.609Z"
-  },
-  {
-    "id": "2026-08-27-nuevas-opciones-de-pago-de-impuestos-informadas-por-el-cda-1dc038",
-    "slug": "nuevas-opciones-de-pago-de-impuestos-informadas-por-el-cda",
-    "organismo": "Aduana",
-    "fecha": "2026-08-24",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "pago de impuestos",
-      "aduanas",
-      "gestión operativa",
-      "CDA",
-      "tributos aduaneros"
-    ],
-    "titulo": "Nuevas opciones de pago de impuestos informadas por el CDA",
-    "resumen": "El CDA comunicó a sus asociados detalles sobre las modalidades habilitadas por el Departamento Técnica de Importación para el pago de tributos aduaneros.",
-    "queSignifica": "Se sugiere verificar las opciones de pago disponibles en los canales oficiales y consultar con su despachante de aduanas si estas modalidades afectan los procedimientos habituales de cancelación de obligaciones.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42706"
-    },
-    "publicadoEn": "2026-08-25T10:24:17.275Z",
-    "actualizadoEn": "2026-08-27T20:06:31.609Z"
-  },
-  {
-    "id": "2026-08-27-actualizacion-sobre-el-sistema-de-carga-de-aeropuertos-argentina-cd5bab",
-    "slug": "actualizacion-sobre-el-sistema-de-carga-de-aeropuertos-argentina",
-    "organismo": "Aduana",
-    "fecha": "2026-08-24",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "Aeropuertos Argentina",
-      "cargas",
-      "terminal aeroportuaria",
-      "gestión documental",
-      "logística aérea"
-    ],
-    "titulo": "Actualización sobre el sistema de carga de Aeropuertos Argentina",
-    "resumen": "Se comunica información oficial emitida por Aeropuertos Argentina respecto al funcionamiento de su sistema de gestión de cargas. La notificación tiene carácter informativo sobre procedimientos operativos en terminales.",
-    "queSignifica": "Se recomienda revisar el comunicado oficial a través de los canales del CDA para verificar si existen actualizaciones en los procedimientos de retiro o gestión de carga. Es aconsejable validar si estos cambios impactan en la operatividad diaria de su terminal.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42705"
-    },
-    "publicadoEn": "2026-08-25T10:24:22.521Z",
-    "actualizadoEn": "2026-08-27T20:06:31.609Z"
-  },
-  {
-    "id": "2026-08-27-inscripcion-para-exportadores-de-granos-a-china-ante-senasa-4e28c1",
-    "slug": "inscripcion-para-exportadores-de-granos-a-china-ante-senasa",
-    "organismo": "SENASA",
-    "fecha": "2026-08-24",
-    "impacto": "medio",
-    "categoria": "exportacion",
-    "tags": [
-      "SENASA",
-      "exportación",
-      "China",
-      "trámites fitosanitarios",
-      "granos"
-    ],
-    "titulo": "Inscripción para exportadores de granos a China ante SENASA",
-    "resumen": "El SENASA habilitó el período de inscripción obligatorio para empresas que busquen exportar trigo, soja, maíz, sorgo y cebada al mercado chino.",
-    "queSignifica": "Verifique si su empresa cuenta con la habilitación vigente para este destino y asegúrese de presentar la solicitud dentro del plazo estipulado entre el 24 de agosto y el 6 de septiembre.",
-    "fuente": {
-      "nombre": "SENASA Comunica",
-      "url": "https://www.argentina.gob.ar/noticias/inscripcion-para-exportadores-de-granos-de-cebada-trigo-soja-sorgo-y-maiz-china-3"
-    },
-    "publicadoEn": "2026-08-25T10:24:28.048Z",
-    "actualizadoEn": "2026-08-27T20:06:31.609Z"
-  },
-  {
-    "id": "2026-08-27-fecha-limite-31-de-agosto-para-inscripcion-en-renspa-y-programas-de-exportacion--0ec47b",
-    "slug": "fecha-limite-31-de-agosto-para-inscripcion-en-renspa-y-programas-de-exportacion-",
-    "organismo": "SENASA",
-    "fecha": "2026-08-24",
-    "impacto": "alto",
-    "categoria": "exportacion",
-    "tags": [
-      "RENSPA",
-      "frutas frescas",
-      "SENASA",
-      "barreras fitosanitarias",
-      "habilitación"
-    ],
-    "titulo": "Fecha límite 31 de agosto para inscripción en RENSPA y programas de exportación de frutas",
-    "resumen": "El SENASA establece el cierre del plazo para la inscripción en el RENSPA y la adhesión a programas de exportación de frutas frescas para las provincias de Río Negro y Neuquén.",
-    "queSignifica": "Los exportadores frutícolas deben verificar su estado de inscripción y adhesión a programas fitosanitarios; de no regularizar su situación ante el SENASA, podrían verse imposibilitados de exportar tras el vencimiento del plazo.",
-    "fuente": {
-      "nombre": "SENASA Comunica",
-      "url": "https://www.argentina.gob.ar/noticias/el-31-de-agosto-cierra-inscripcion-en-renspa-y-adhesion-programas-de-exportacion-de-frutas"
-    },
-    "publicadoEn": "2026-08-25T10:24:33.834Z",
     "actualizadoEn": "2026-08-27T20:06:31.609Z"
   }
 ]
