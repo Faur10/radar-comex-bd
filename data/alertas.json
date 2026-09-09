@@ -1,46 +1,99 @@
 [
   {
-    "id": "2026-09-08-bcra-tipo-de-cambio-mulc-del-dia-b0c151",
-    "slug": "bcra-tipo-de-cambio-mulc-del-dia",
+    "id": "2026-09-09-referencia-oficial-del-tipo-de-cambio-mulc-277f59",
+    "slug": "referencia-oficial-del-tipo-de-cambio-mulc",
     "organismo": "BCRA",
-    "fecha": "2026-09-08",
-    "impacto": "alto",
+    "fecha": "2026-09-09",
+    "impacto": "bajo",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "tipo de cambio"
+      "tipo de cambio",
+      "divisas",
+      "operaciones cambiarias",
+      "BCRA"
     ],
-    "titulo": "BCRA – Tipo de Cambio MULC del día",
-    "resumen": "Tipo de Cambio MULC ($ por USD): 1091.15 — al 2026-09-07",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
+    "titulo": "Referencia oficial del tipo de cambio MULC",
+    "resumen": "Se comunica la cotización oficial del tipo de cambio aplicable a operaciones del Mercado Único y Libre de Cambios para la fecha indicada.",
+    "queSignifica": "Es una referencia informativa para el cálculo de costos y proyecciones financieras. Se sugiere verificar con su entidad bancaria el tipo de cambio efectivo aplicable a su operación específica antes de cursar pagos o cobros.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-09-08T14:03:20.424Z"
+    "actualizadoEn": "2026-09-09T14:04:45.714Z"
   },
   {
-    "id": "2026-09-08-recordatorio-sobre-el-aporte-solidario-para-socios-vitalicios-del-cda-84e414",
-    "slug": "recordatorio-sobre-el-aporte-solidario-para-socios-vitalicios-del-cda",
+    "id": "2026-09-09-actualizacion-de-normas-sobre-el-acceso-al-mercado-unico-y-libre-de-cambios-78961c",
+    "slug": "actualizacion-de-normas-sobre-el-acceso-al-mercado-unico-y-libre-de-cambios",
+    "organismo": "BCRA",
+    "fecha": "2026-09-09",
+    "impacto": "alto",
+    "categoria": "normativa",
+    "tags": [
+      "MULC",
+      "BCRA",
+      "Acceso al mercado de cambios",
+      "Regulaciones cambiarias",
+      "Comercio exterior"
+    ],
+    "titulo": "Actualización de normas sobre el acceso al Mercado Único y Libre de Cambios",
+    "resumen": "La Comunicación A 8476 establece nuevas pautas y condiciones para el acceso a divisas a través del sistema MULC para operaciones de comercio exterior. Esta normativa ajusta los mecanismos vigentes para la liquidación de cobros y pagos de operaciones internacionales.",
+    "queSignifica": "Se recomienda auditar la documentación respaldatoria de las operaciones en curso y consultar con su entidad bancaria para verificar si las nuevas condiciones impactan en su flujo de pagos o cobros. Evalúe con su departamento contable o despachante la aplicabilidad de estos cambios a su posición cambiaria específica.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/347186/20260909"
+    },
+    "normativaRef": "Comunicación \"A\" 8476/2026",
+    "publicadoEn": "2026-09-09T14:04:20.104Z",
+    "actualizadoEn": "2026-09-09T14:04:45.714Z"
+  },
+  {
+    "id": "2026-09-09-charla-informativa-sobre-normativas-de-senasa-organizada-por-el-cda-c3208f",
+    "slug": "charla-informativa-sobre-normativas-de-senasa-organizada-por-el-cda",
+    "organismo": "SENASA",
+    "fecha": "2026-09-08",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "SENASA",
+      "Capacitación",
+      "Sanidad Vegetal",
+      "Sanidad Animal",
+      "Comercio Exterior"
+    ],
+    "titulo": "Charla informativa sobre normativas de SENASA organizada por el CDA",
+    "resumen": "Se convoca a los asociados a una charla informativa brindada por SENASA sobre el Decreto 697/2024.",
+    "queSignifica": "Se sugiere verificar el alcance del decreto y evaluar la conveniencia de asistir para actualizar conocimientos sobre los procedimientos vigentes ante el organismo.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42749"
+    },
+    "publicadoEn": "2026-09-09T14:04:25.805Z",
+    "actualizadoEn": "2026-09-09T14:04:45.714Z"
+  },
+  {
+    "id": "2026-09-09-recordatorio-sobre-el-aporte-solidario-de-socios-vitalicios-del-cda-10b3a2",
+    "slug": "recordatorio-sobre-el-aporte-solidario-de-socios-vitalicios-del-cda",
     "organismo": "Aduana",
     "fecha": "2026-09-07",
     "impacto": "bajo",
     "categoria": "normativa",
     "tags": [
+      "CDA",
       "institucional",
-      "cda",
-      "gestión administrativa"
+      "socios vitalicios",
+      "comercio exterior"
     ],
-    "titulo": "Recordatorio sobre el aporte solidario para socios vitalicios del CDA",
-    "resumen": "El Centro Despachantes de Aduana solicita la continuidad del aporte solidario a sus socios vitalicios.",
-    "queSignifica": "Es una comunicación institucional interna de la entidad. Se sugiere revisar los canales oficiales del CDA por si el socio tuviera cuotas pendientes de regularización.",
+    "titulo": "Recordatorio sobre el aporte solidario de socios vitalicios del CDA",
+    "resumen": "El CDA solicita a sus socios vitalicios la continuidad de sus aportes voluntarios para el sostenimiento institucional.",
+    "queSignifica": "Es una comunicación meramente institucional sin impacto en la operativa aduanera o de comercio exterior. Se recomienda desestimar para la gestión de despachos, siendo un tema de índole asociativa interna.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42521"
     },
     "publicadoEn": "2026-09-08T14:03:15.315Z",
-    "actualizadoEn": "2026-09-08T14:03:20.424Z"
+    "actualizadoEn": "2026-09-09T14:04:45.714Z"
   },
   {
     "id": "2026-09-07-participacion-institucional-del-cda-en-la-ronda-de-negocios-avellaneda-2026-79d811",
@@ -473,30 +526,5 @@
     },
     "publicadoEn": "2026-08-27T20:06:26.379Z",
     "actualizadoEn": "2026-08-28T21:03:49.675Z"
-  },
-  {
-    "id": "2026-08-27-prorroga-en-vencimientos-de-declaraciones-juradas-de-impuesto-a-las-ganancias-20-e5ada0",
-    "slug": "prorroga-en-vencimientos-de-declaraciones-juradas-de-impuesto-a-las-ganancias-20",
-    "organismo": "ARCA",
-    "fecha": "2026-08-25",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "impuesto a las ganancias",
-      "ddjj",
-      "periodo fiscal 2025",
-      "ar-ca",
-      "obligaciones impositivas"
-    ],
-    "titulo": "Prórroga en vencimientos de declaraciones juradas de Impuesto a las Ganancias 2025",
-    "resumen": "La resolución establece un calendario de plazos especiales para la presentación de DDJJ y el pago del Impuesto a las Ganancias correspondiente al periodo fiscal 2025.",
-    "queSignifica": "Debe revisar el nuevo calendario de vencimientos junto a su asesor contable para ajustar el flujo de fondos. Verifique si su empresa se encuentra alcanzada por las nuevas fechas de presentación para evitar sanciones administrativas.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/346339/20260825"
-    },
-    "normativaRef": "Resolución General 5890/2026",
-    "publicadoEn": "2026-08-25T10:24:11.849Z",
-    "actualizadoEn": "2026-08-27T20:06:31.609Z"
   }
 ]
