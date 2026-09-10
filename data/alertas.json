@@ -1,10 +1,10 @@
 [
   {
-    "id": "2026-09-09-referencia-oficial-del-tipo-de-cambio-mulc-277f59",
-    "slug": "referencia-oficial-del-tipo-de-cambio-mulc",
+    "id": "2026-09-10-actualizacion-de-la-cotizacion-del-dolar-oficial-mulc-3a9890",
+    "slug": "actualizacion-de-la-cotizacion-del-dolar-oficial-mulc",
     "organismo": "BCRA",
-    "fecha": "2026-09-09",
-    "impacto": "bajo",
+    "fecha": "2026-09-10",
+    "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
@@ -13,19 +13,66 @@
       "operaciones cambiarias",
       "BCRA"
     ],
-    "titulo": "Referencia oficial del tipo de cambio MULC",
-    "resumen": "Se comunica la cotización oficial del tipo de cambio aplicable a operaciones del Mercado Único y Libre de Cambios para la fecha indicada.",
-    "queSignifica": "Es una referencia informativa para el cálculo de costos y proyecciones financieras. Se sugiere verificar con su entidad bancaria el tipo de cambio efectivo aplicable a su operación específica antes de cursar pagos o cobros.",
+    "titulo": "Actualización de la cotización del dólar oficial MULC",
+    "resumen": "Se establece el tipo de cambio oficial de referencia para el Mercado Único y Libre de Cambios con vigencia al 9 de septiembre de 2026. Esta cifra determina la base de cálculo para las liquidaciones y pagos de operaciones de comercio exterior.",
+    "queSignifica": "Verifique este valor al momento de realizar el cierre de operaciones de cambio para asegurar la correcta liquidación de sus divisas. Se recomienda auditar la aplicación de este tipo de cambio según la normativa cambiaria vigente para su posición arancelaria.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-09-09T14:04:45.714Z"
+    "actualizadoEn": "2026-09-10T14:00:01.818Z"
   },
   {
-    "id": "2026-09-09-actualizacion-de-normas-sobre-el-acceso-al-mercado-unico-y-libre-de-cambios-78961c",
-    "slug": "actualizacion-de-normas-sobre-el-acceso-al-mercado-unico-y-libre-de-cambios",
+    "id": "2026-09-10-charla-informativa-sobre-normativa-senasa-organizada-por-el-cda-6d7e24",
+    "slug": "charla-informativa-sobre-normativa-senasa-organizada-por-el-cda",
+    "organismo": "SENASA",
+    "fecha": "2026-09-10",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "SENASA",
+      "capacitacion",
+      "sanidad",
+      "comercio exterior"
+    ],
+    "titulo": "Charla informativa sobre normativa SENASA organizada por el CDA",
+    "resumen": "Se convoca a una sesión informativa sobre procedimientos y normativas vigentes del SENASA.",
+    "queSignifica": "Se sugiere revisar el cronograma de la charla para evaluar si los cambios normativos impactan en sus operaciones, ya que es una instancia de actualización técnica.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42749"
+    },
+    "publicadoEn": "2026-09-09T14:04:25.805Z",
+    "actualizadoEn": "2026-09-10T14:00:01.818Z"
+  },
+  {
+    "id": "2026-09-10-digitalizacion-de-resoluciones-y-cet-a-traves-de-vucea-a17fdd",
+    "slug": "digitalizacion-de-resoluciones-y-cet-a-traves-de-vucea",
+    "organismo": "ARCA",
+    "fecha": "2026-09-10",
+    "impacto": "medio",
+    "categoria": "normativa",
+    "tags": [
+      "VUCEA",
+      "SIM",
+      "Gestión Documental",
+      "Procedimiento Aduanero",
+      "Comercio Exterior"
+    ],
+    "titulo": "Digitalización de resoluciones y CET a través de VUCEA",
+    "resumen": "La normativa integra las resoluciones aprobatorias y el Certificado de Exención de Tributos (CET) al sistema de Ventanilla Única de Comercio Exterior.",
+    "queSignifica": "Verifique si sus trámites requieren el uso de CET o resoluciones alcanzadas para gestionar su carga a través de la plataforma VUCEA. Se recomienda revisar el estado de sus presentaciones en el SIM para asegurar la correcta vinculación con la nueva integración operativa.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42730"
+    },
+    "publicadoEn": "2026-09-10T13:59:51.110Z",
+    "actualizadoEn": "2026-09-10T14:00:01.818Z"
+  },
+  {
+    "id": "2026-09-10-actualizacion-de-normas-cambiarias-bcra-sobre-acceso-al-mercado-de-cambios-3b4e6a",
+    "slug": "actualizacion-de-normas-cambiarias-bcra-sobre-acceso-al-mercado-de-cambios",
     "organismo": "BCRA",
     "fecha": "2026-09-09",
     "impacto": "alto",
@@ -33,48 +80,24 @@
     "tags": [
       "MULC",
       "BCRA",
-      "Acceso al mercado de cambios",
-      "Regulaciones cambiarias",
-      "Comercio exterior"
+      "Acceso a Divisas",
+      "Pagos al Exterior",
+      "Comex"
     ],
-    "titulo": "Actualización de normas sobre el acceso al Mercado Único y Libre de Cambios",
-    "resumen": "La Comunicación A 8476 establece nuevas pautas y condiciones para el acceso a divisas a través del sistema MULC para operaciones de comercio exterior. Esta normativa ajusta los mecanismos vigentes para la liquidación de cobros y pagos de operaciones internacionales.",
-    "queSignifica": "Se recomienda auditar la documentación respaldatoria de las operaciones en curso y consultar con su entidad bancaria para verificar si las nuevas condiciones impactan en su flujo de pagos o cobros. Evalúe con su departamento contable o despachante la aplicabilidad de estos cambios a su posición cambiaria específica.",
+    "titulo": "Actualización de normas cambiarias BCRA sobre acceso al mercado de cambios",
+    "resumen": "La Comunicación A 8476 establece modificaciones en el acceso al Mercado Único y Libre de Cambios para operaciones de comercio exterior. Define nuevos lineamientos operativos para la liquidación de divisas y el cumplimiento de plazos para giros al exterior.",
+    "queSignifica": "Es necesario verificar con su entidad bancaria la adecuación de sus operaciones vigentes a esta normativa. Se recomienda auditar la documentación respaldatoria para asegurar el cumplimiento de las nuevas exigencias de acceso al MULC.",
     "fuente": {
       "nombre": "Boletín Oficial de la República Argentina",
       "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/347186/20260909"
     },
     "normativaRef": "Comunicación \"A\" 8476/2026",
     "publicadoEn": "2026-09-09T14:04:20.104Z",
-    "actualizadoEn": "2026-09-09T14:04:45.714Z"
+    "actualizadoEn": "2026-09-10T14:00:01.818Z"
   },
   {
-    "id": "2026-09-09-charla-informativa-sobre-normativas-de-senasa-organizada-por-el-cda-c3208f",
-    "slug": "charla-informativa-sobre-normativas-de-senasa-organizada-por-el-cda",
-    "organismo": "SENASA",
-    "fecha": "2026-09-08",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "SENASA",
-      "Capacitación",
-      "Sanidad Vegetal",
-      "Sanidad Animal",
-      "Comercio Exterior"
-    ],
-    "titulo": "Charla informativa sobre normativas de SENASA organizada por el CDA",
-    "resumen": "Se convoca a los asociados a una charla informativa brindada por SENASA sobre el Decreto 697/2024.",
-    "queSignifica": "Se sugiere verificar el alcance del decreto y evaluar la conveniencia de asistir para actualizar conocimientos sobre los procedimientos vigentes ante el organismo.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42749"
-    },
-    "publicadoEn": "2026-09-09T14:04:25.805Z",
-    "actualizadoEn": "2026-09-09T14:04:45.714Z"
-  },
-  {
-    "id": "2026-09-09-recordatorio-sobre-el-aporte-solidario-de-socios-vitalicios-del-cda-10b3a2",
-    "slug": "recordatorio-sobre-el-aporte-solidario-de-socios-vitalicios-del-cda",
+    "id": "2026-09-10-recordatorio-de-aporte-solidario-para-socios-vitalicios-del-cda-cdbab6",
+    "slug": "recordatorio-de-aporte-solidario-para-socios-vitalicios-del-cda",
     "organismo": "Aduana",
     "fecha": "2026-09-07",
     "impacto": "bajo",
@@ -85,15 +108,15 @@
       "socios vitalicios",
       "comercio exterior"
     ],
-    "titulo": "Recordatorio sobre el aporte solidario de socios vitalicios del CDA",
-    "resumen": "El CDA solicita a sus socios vitalicios la continuidad de sus aportes voluntarios para el sostenimiento institucional.",
-    "queSignifica": "Es una comunicación meramente institucional sin impacto en la operativa aduanera o de comercio exterior. Se recomienda desestimar para la gestión de despachos, siendo un tema de índole asociativa interna.",
+    "titulo": "Recordatorio de aporte solidario para socios vitalicios del CDA",
+    "resumen": "El Centro Despachantes de Aduana solicita la colaboración económica de sus socios vitalicios para el sostenimiento institucional.",
+    "queSignifica": "Es una comunicación de índole interna y gremial sin impacto operativo en la gestión aduanera. Se sugiere verificar el estado de cuenta si usted es socio vitalicio, aunque no afecta el despacho de mercaderías.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42521"
     },
     "publicadoEn": "2026-09-08T14:03:15.315Z",
-    "actualizadoEn": "2026-09-09T14:04:45.714Z"
+    "actualizadoEn": "2026-09-10T14:00:01.818Z"
   },
   {
     "id": "2026-09-07-participacion-institucional-del-cda-en-la-ronda-de-negocios-avellaneda-2026-79d811",
