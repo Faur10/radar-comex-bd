@@ -1,27 +1,102 @@
 [
   {
-    "id": "2026-09-10-actualizacion-de-la-cotizacion-del-dolar-oficial-mulc-3a9890",
-    "slug": "actualizacion-de-la-cotizacion-del-dolar-oficial-mulc",
+    "id": "2026-09-11-actualizacion-del-tipo-de-cambio-oficial-del-bcra-al-10092026-392e69",
+    "slug": "actualizacion-del-tipo-de-cambio-oficial-del-bcra-al-10092026",
     "organismo": "BCRA",
-    "fecha": "2026-09-10",
+    "fecha": "2026-09-11",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
       "tipo de cambio",
       "divisas",
-      "operaciones cambiarias",
+      "cierre de cambio",
       "BCRA"
     ],
-    "titulo": "Actualización de la cotización del dólar oficial MULC",
-    "resumen": "Se establece el tipo de cambio oficial de referencia para el Mercado Único y Libre de Cambios con vigencia al 9 de septiembre de 2026. Esta cifra determina la base de cálculo para las liquidaciones y pagos de operaciones de comercio exterior.",
-    "queSignifica": "Verifique este valor al momento de realizar el cierre de operaciones de cambio para asegurar la correcta liquidación de sus divisas. Se recomienda auditar la aplicación de este tipo de cambio según la normativa cambiaria vigente para su posición arancelaria.",
+    "titulo": "Actualización del tipo de cambio oficial del BCRA al 10/09/2026",
+    "resumen": "El BCRA ha fijado el tipo de cambio oficial para el mercado único y libre de cambios en 1084,06 pesos argentinos por dólar estadounidense. Esta cotización oficial sirve de referencia para las liquidaciones y pagos de operaciones de comercio exterior.",
+    "queSignifica": "Se recomienda revisar el impacto de esta cotización en la proyección de sus costos operativos y en la valuación de sus cierres de cambio. Verifique con su entidad bancaria la aplicación de este valor en las operaciones pendientes de liquidación o pago.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-09-10T14:00:01.818Z"
+    "actualizadoEn": "2026-09-11T13:59:19.709Z"
+  },
+  {
+    "id": "2026-09-11-procedimiento-de-importacion-para-pilas-y-baterias-bajo-ley-26184-e11219",
+    "slug": "procedimiento-de-importacion-para-pilas-y-baterias-bajo-ley-26184",
+    "organismo": "ARCA",
+    "fecha": "2026-09-11",
+    "impacto": "medio",
+    "categoria": "importacion",
+    "tags": [
+      "pilas",
+      "baterías",
+      "Ley 26.184",
+      "SIM",
+      "seguridad eléctrica"
+    ],
+    "titulo": "Procedimiento de importación para pilas y baterías bajo Ley 26.184",
+    "resumen": "La norma establece las condiciones y controles específicos para la importación definitiva o temporal de pilas y baterías primarias conforme a la Ley 26.184.",
+    "queSignifica": "El importador debe revisar si sus productos cumplen con los requisitos de composición y certificación exigidos por la ley. Se recomienda verificar la vigencia de los certificados de seguridad eléctrica antes de oficializar la destinación en el sistema Malvina.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/347316/20260911"
+    },
+    "normativaRef": "Resolución General 5895/2026",
+    "publicadoEn": "2026-09-11T13:58:33.023Z",
+    "actualizadoEn": "2026-09-11T13:59:19.709Z"
+  },
+  {
+    "id": "2026-09-11-actualizacion-sobre-acceso-al-mercado-unico-y-libre-de-cambios-mulc-be6486",
+    "slug": "actualizacion-sobre-acceso-al-mercado-unico-y-libre-de-cambios-mulc",
+    "organismo": "BCRA",
+    "fecha": "2026-09-10",
+    "impacto": "alto",
+    "categoria": "normativa",
+    "tags": [
+      "BCRA",
+      "MULC",
+      "Acceso al Mercado de Cambios",
+      "Operaciones de Cambio",
+      "Comunicación A"
+    ],
+    "titulo": "Actualización sobre acceso al Mercado Único y Libre de Cambios (MULC)",
+    "resumen": "La Comunicación 'A' 8473 establece nuevas disposiciones operativas para el acceso a divisas mediante el MULC. Regula las condiciones de pago y plazos aplicables para operaciones de comercio exterior.",
+    "queSignifica": "Es necesario que revise junto a su entidad financiera si las operaciones pendientes cumplen con los nuevos plazos y requisitos documentales exigidos. Se sugiere verificar el impacto específico en sus giros de divisas antes de confirmar nuevas operaciones de pago al exterior.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/347247/20260910"
+    },
+    "normativaRef": "Comunicación \"A\" 8473/2026",
+    "publicadoEn": "2026-09-11T13:58:42.991Z",
+    "actualizadoEn": "2026-09-11T13:59:19.709Z"
+  },
+  {
+    "id": "2026-09-11-actualizacion-de-las-normas-sobre-el-acceso-al-mercado-unico-y-libre-de-cambios-d16f4a",
+    "slug": "actualizacion-de-las-normas-sobre-el-acceso-al-mercado-unico-y-libre-de-cambios",
+    "organismo": "BCRA",
+    "fecha": "2026-09-10",
+    "impacto": "alto",
+    "categoria": "normativa",
+    "tags": [
+      "MULC",
+      "Acceso al Mercado de Cambios",
+      "Pagos al exterior",
+      "BCRA",
+      "Normativa cambiaria"
+    ],
+    "titulo": "Actualización de las normas sobre el acceso al Mercado Único y Libre de Cambios",
+    "resumen": "La norma establece nuevas condiciones y requisitos para el acceso a divisas mediante el mercado cambiario oficial. Modifica los criterios de conformidad previa y plazos para cursar pagos de operaciones de comercio exterior.",
+    "queSignifica": "Es imperativo que revise con su entidad bancaria la aplicación de esta norma a sus operaciones pendientes o futuras. Se recomienda verificar los nuevos requisitos documentales y plazos de acceso antes de comprometer nuevos pagos.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/347248/20260910"
+    },
+    "normativaRef": "Comunicación \"A\" 8478/2026",
+    "publicadoEn": "2026-09-11T13:58:50.917Z",
+    "actualizadoEn": "2026-09-11T13:59:19.709Z"
   },
   {
     "id": "2026-09-10-charla-informativa-sobre-normativa-senasa-organizada-por-el-cda-6d7e24",
@@ -71,29 +146,29 @@
     "actualizadoEn": "2026-09-10T14:00:01.818Z"
   },
   {
-    "id": "2026-09-10-actualizacion-de-normas-cambiarias-bcra-sobre-acceso-al-mercado-de-cambios-3b4e6a",
-    "slug": "actualizacion-de-normas-cambiarias-bcra-sobre-acceso-al-mercado-de-cambios",
+    "id": "2026-09-11-actualizacion-de-normas-sobre-acceso-al-mercado-unico-y-libre-de-cambios-bfd502",
+    "slug": "actualizacion-de-normas-sobre-acceso-al-mercado-unico-y-libre-de-cambios",
     "organismo": "BCRA",
     "fecha": "2026-09-09",
     "impacto": "alto",
     "categoria": "normativa",
     "tags": [
       "MULC",
+      "acceso al mercado",
+      "pago de importaciones",
       "BCRA",
-      "Acceso a Divisas",
-      "Pagos al Exterior",
-      "Comex"
+      "giro de divisas"
     ],
-    "titulo": "Actualización de normas cambiarias BCRA sobre acceso al mercado de cambios",
-    "resumen": "La Comunicación A 8476 establece modificaciones en el acceso al Mercado Único y Libre de Cambios para operaciones de comercio exterior. Define nuevos lineamientos operativos para la liquidación de divisas y el cumplimiento de plazos para giros al exterior.",
-    "queSignifica": "Es necesario verificar con su entidad bancaria la adecuación de sus operaciones vigentes a esta normativa. Se recomienda auditar la documentación respaldatoria para asegurar el cumplimiento de las nuevas exigencias de acceso al MULC.",
+    "titulo": "Actualización de normas sobre acceso al Mercado Único y Libre de Cambios",
+    "resumen": "La norma establece nuevos requisitos y condiciones para el acceso al MULC por parte de las entidades financieras y sus clientes. Modifica los procedimientos vigentes para la liquidación de operaciones de comercio exterior.",
+    "queSignifica": "Debe revisar con su entidad bancaria la documentación respaldatoria exigida para nuevas operaciones de giro de divisas. Se recomienda verificar si su operatoria actual cumple con los nuevos plazos y declaraciones juradas estipuladas por esta comunicación.",
     "fuente": {
       "nombre": "Boletín Oficial de la República Argentina",
       "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/347186/20260909"
     },
     "normativaRef": "Comunicación \"A\" 8476/2026",
     "publicadoEn": "2026-09-09T14:04:20.104Z",
-    "actualizadoEn": "2026-09-10T14:00:01.818Z"
+    "actualizadoEn": "2026-09-11T13:59:19.709Z"
   },
   {
     "id": "2026-09-10-recordatorio-de-aporte-solidario-para-socios-vitalicios-del-cda-cdbab6",
@@ -453,101 +528,5 @@
     },
     "publicadoEn": "2026-08-28T21:03:03.993Z",
     "actualizadoEn": "2026-08-31T17:20:33.879Z"
-  },
-  {
-    "id": "2026-08-28-nuevo-servicio-de-conectividad-remota-para-el-sistema-informatico-malvina-sim-5fb69b",
-    "slug": "nuevo-servicio-de-conectividad-remota-para-el-sistema-informatico-malvina-sim",
-    "organismo": "Aduana",
-    "fecha": "2026-08-27",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "SIM",
-      "Malvina",
-      "Acceso remoto",
-      "CDA",
-      "Infraestructura tecnológica"
-    ],
-    "titulo": "Nuevo servicio de conectividad remota para el Sistema Informático Malvina (SIM)",
-    "resumen": "El CDA presenta una solución de acceso remoto para operar el SIM, buscando facilitar la conectividad y soporte técnico para los despachantes.",
-    "queSignifica": "Se sugiere evaluar esta opción técnica si requiere mejorar la estabilidad o la movilidad de su conexión al SIM. Verifique con su departamento de sistemas la compatibilidad y seguridad de esta herramienta frente a sus accesos actuales.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42462"
-    },
-    "publicadoEn": "2026-08-27T20:05:16.377Z",
-    "actualizadoEn": "2026-08-28T21:03:49.675Z"
-  },
-  {
-    "id": "2026-08-28-refuerzo-en-controles-fitosanitarios-para-transporte-de-productos-hospederos-943083",
-    "slug": "refuerzo-en-controles-fitosanitarios-para-transporte-de-productos-hospederos",
-    "organismo": "SENASA",
-    "fecha": "2026-08-27",
-    "impacto": "medio",
-    "categoria": "logistica",
-    "tags": [
-      "SENASA",
-      "productos hospederos",
-      "barreras fitosanitarias",
-      "transporte",
-      "inspección"
-    ],
-    "titulo": "Refuerzo en controles fitosanitarios para transporte de productos hospederos",
-    "resumen": "El SENASA detectó el transporte irregular de productos hospederos de moscas de la fruta hacia áreas protegidas. Se incrementarán las inspecciones para verificar el cumplimiento de los requisitos fitosanitarios.",
-    "queSignifica": "Es recomendable revisar la documentación fitosanitaria y los permisos de tránsito para mercaderías hospederas. Verifique que la carga cumpla estrictamente con las normativas vigentes para evitar retenciones o decomisos en operativos de control.",
-    "fuente": {
-      "nombre": "SENASA Comunica",
-      "url": "https://www.argentina.gob.ar/noticias/transporte-irregular-de-mas-de-3-ton-de-productos-hospederos-de-moscas-de-la-fruta"
-    },
-    "publicadoEn": "2026-08-27T20:05:41.578Z",
-    "actualizadoEn": "2026-08-28T21:03:49.675Z"
-  },
-  {
-    "id": "2026-08-28-prohibicion-de-comercializacion-y-uso-de-lote-especifico-de-hessico-hidroxietila-9b022b",
-    "slug": "prohibicion-de-comercializacion-y-uso-de-lote-especifico-de-hessico-hidroxietila",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-08-27",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "ANMAT",
-      "productos médicos",
-      "retiro de mercado",
-      "control sanitario",
-      "SIM"
-    ],
-    "titulo": "Prohibición de comercialización y uso de lote específico de HESSICO (Hidroxietilalmidón)",
-    "resumen": "La ANMAT ordenó el retiro del mercado y la prohibición de uso de un lote específico de la solución inyectable HESSICO. La medida busca prevenir riesgos sanitarios asociados a dicha partida.",
-    "queSignifica": "El importador debe verificar inmediatamente si posee stock del lote afectado en sus depósitos o en tránsito. Se recomienda realizar una auditoría de inventario y contactar al servicio aduanero para bloquear cualquier despacho relacionado con dicha partida hasta recibir instrucciones específicas.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-un-lote-del-producto-hessico-hidroxietilalmidon-6-g-solucion-inyectable"
-    },
-    "publicadoEn": "2026-08-27T20:06:21.146Z",
-    "actualizadoEn": "2026-08-28T21:03:49.675Z"
-  },
-  {
-    "id": "2026-08-28-prohibicion-de-comercializacion-de-dos-lotes-del-medicamento-yectaferhierro-5-25dc4e",
-    "slug": "prohibicion-de-comercializacion-de-dos-lotes-del-medicamento-yectaferhierro-5",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-08-27",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "ANMAT",
-      "prohibición",
-      "medicamentos",
-      "seguridad sanitaria",
-      "control aduanero"
-    ],
-    "titulo": "Prohibición de comercialización de dos lotes del medicamento Yectafer/Hierro 5%",
-    "resumen": "La ANMAT dispuso el retiro preventivo y prohibición de comercialización de dos lotes específicos del producto Yectafer/Hierro 5% por irregularidades detectadas.",
-    "queSignifica": "El importador debe verificar el stock en depósito fiscal o comercial para identificar si posee los lotes afectados y consultar con su asesor legal o técnico para el bloqueo preventivo y disposición final según la normativa vigente.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-dos-lotes-del-medicamento-yectaferhierro-5"
-    },
-    "publicadoEn": "2026-08-27T20:06:26.379Z",
-    "actualizadoEn": "2026-08-28T21:03:49.675Z"
   }
 ]
