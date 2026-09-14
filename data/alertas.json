@@ -1,27 +1,130 @@
 [
   {
-    "id": "2026-09-11-actualizacion-del-tipo-de-cambio-oficial-del-bcra-al-10092026-392e69",
-    "slug": "actualizacion-del-tipo-de-cambio-oficial-del-bcra-al-10092026",
+    "id": "2026-09-14-actualizacion-del-tipo-de-cambio-oficial-de-referencia-del-bcra-e25ebd",
+    "slug": "actualizacion-del-tipo-de-cambio-oficial-de-referencia-del-bcra",
     "organismo": "BCRA",
-    "fecha": "2026-09-11",
+    "fecha": "2026-09-14",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
       "tipo de cambio",
       "divisas",
-      "cierre de cambio",
-      "BCRA"
+      "BCRA",
+      "liquidación"
     ],
-    "titulo": "Actualización del tipo de cambio oficial del BCRA al 10/09/2026",
-    "resumen": "El BCRA ha fijado el tipo de cambio oficial para el mercado único y libre de cambios en 1084,06 pesos argentinos por dólar estadounidense. Esta cotización oficial sirve de referencia para las liquidaciones y pagos de operaciones de comercio exterior.",
-    "queSignifica": "Se recomienda revisar el impacto de esta cotización en la proyección de sus costos operativos y en la valuación de sus cierres de cambio. Verifique con su entidad bancaria la aplicación de este valor en las operaciones pendientes de liquidación o pago.",
+    "titulo": "Actualización del tipo de cambio oficial de referencia del BCRA",
+    "resumen": "El BCRA fijó el tipo de cambio oficial para el día 2026-09-11 en 1082.35 pesos por dólar. Este valor sirve como referencia para las operaciones cursadas a través del Mercado Único y Libre de Cambios.",
+    "queSignifica": "Debe verificar que este valor coincida con la cotización aplicada en su operación cambiaria vigente. Se sugiere confirmar con su entidad financiera la correcta liquidación según el cronograma de pago o cobro de su operación.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-09-11T13:59:19.709Z"
+    "actualizadoEn": "2026-09-14T16:06:17.954Z"
+  },
+  {
+    "id": "2026-09-14-beneficio-exclusivo-para-socios-del-cda-20-de-descuento-en-0230b5",
+    "slug": "beneficio-exclusivo-para-socios-del-cda-20-de-descuento-en",
+    "organismo": "CDA",
+    "fecha": "2026-09-11",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "Beneficio exclusivo para socios del CDA: 20% de descuento en",
+    "resumen": "El Centro Despachantes de Aduana (CDA) informa a sus asociados que podrán acceder a un 20% de descuento en las propuestas de capacitación ...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42742"
+    },
+    "publicadoEn": "2026-09-14T16:05:33.046Z",
+    "actualizadoEn": "2026-09-14T16:06:17.954Z"
+  },
+  {
+    "id": "2026-09-14-reunion-informativa-de-la-subcomision-de-tecnica-y-normativa-del-cda-47049e",
+    "slug": "reunion-informativa-de-la-subcomision-de-tecnica-y-normativa-del-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-09-11",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "CDA",
+      "asesoramiento",
+      "técnica aduanera",
+      "actualización normativa"
+    ],
+    "titulo": "Reunión informativa de la Subcomisión de Técnica y Normativa del CDA",
+    "resumen": "El Centro Despachantes de Aduana convoca a una reunión técnica para tratar novedades y consultas del sector.",
+    "queSignifica": "Se recomienda verificar la agenda del evento y evaluar si los temas a tratar impactan en la operativa diaria de sus destinaciones. Es aconsejable asistir o revisar el acta posterior para identificar posibles cambios procedimentales.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42758"
+    },
+    "publicadoEn": "2026-09-14T16:05:38.422Z",
+    "actualizadoEn": "2026-09-14T16:06:17.954Z"
+  },
+  {
+    "id": "2026-09-14-vucea-incorporacion-de-las-resoluciones-aprobatorias-y-cet-2b8b81",
+    "slug": "vucea-incorporacion-de-las-resoluciones-aprobatorias-y-cet",
+    "organismo": "CDA",
+    "fecha": "2026-09-11",
+    "impacto": "alto",
+    "categoria": "normativa",
+    "tags": [
+      "ARCA"
+    ],
+    "titulo": "VUCEA: incorporación de las resoluciones aprobatorias y CET",
+    "resumen": "La Resolución General ARCA Nº 5892, publicada el día 31 de agosto, incorpora al Régimen Nacional de Ventanilla Única de Comercio Exteri...",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42730"
+    },
+    "publicadoEn": "2026-09-10T13:59:51.110Z",
+    "actualizadoEn": "2026-09-14T16:06:17.954Z"
+  },
+  {
+    "id": "2026-09-14-charla-informativa-sobre-normativas-y-procedimientos-ante-el-senasa-c9dac2",
+    "slug": "charla-informativa-sobre-normativas-y-procedimientos-ante-el-senasa",
+    "organismo": "SENASA",
+    "fecha": "2026-09-11",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "SENASA",
+      "capacitacion",
+      "comercio exterior",
+      "normativa sanitaria",
+      "gestion operativa"
+    ],
+    "titulo": "Charla informativa sobre normativas y procedimientos ante el SENASA",
+    "resumen": "El Centro Despachantes de Aduana convoca a una charla informativa brindada por el SENASA.",
+    "queSignifica": "Se recomienda a los operadores verificar la convocatoria para actualizar criterios sobre trámites sanitarios, aunque la asistencia no altera las operaciones vigentes.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42749"
+    },
+    "publicadoEn": "2026-09-09T14:04:25.805Z",
+    "actualizadoEn": "2026-09-14T16:06:17.954Z"
+  },
+  {
+    "id": "2026-09-14-retiro-del-mercado-de-un-lote-de-emotival-c96306",
+    "slug": "retiro-del-mercado-de-un-lote-de-emotival",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-09-11",
+    "impacto": "alto",
+    "categoria": "logistica",
+    "tags": [],
+    "titulo": "RETIRO DEL MERCADO DE UN LOTE DE EMOTIVAL",
+    "resumen": "RETIRO DEL MERCADO DE UN LOTE DE EMOTIVAL",
+    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/retiro-del-mercado-de-un-lote-de-emotival"
+    },
+    "publicadoEn": "2026-09-14T16:06:00.978Z",
+    "actualizadoEn": "2026-09-14T16:06:17.954Z"
   },
   {
     "id": "2026-09-11-procedimiento-de-importacion-para-pilas-y-baterias-bajo-ley-26184-e11219",
@@ -97,53 +200,6 @@
     "normativaRef": "Comunicación \"A\" 8478/2026",
     "publicadoEn": "2026-09-11T13:58:50.917Z",
     "actualizadoEn": "2026-09-11T13:59:19.709Z"
-  },
-  {
-    "id": "2026-09-10-charla-informativa-sobre-normativa-senasa-organizada-por-el-cda-6d7e24",
-    "slug": "charla-informativa-sobre-normativa-senasa-organizada-por-el-cda",
-    "organismo": "SENASA",
-    "fecha": "2026-09-10",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "SENASA",
-      "capacitacion",
-      "sanidad",
-      "comercio exterior"
-    ],
-    "titulo": "Charla informativa sobre normativa SENASA organizada por el CDA",
-    "resumen": "Se convoca a una sesión informativa sobre procedimientos y normativas vigentes del SENASA.",
-    "queSignifica": "Se sugiere revisar el cronograma de la charla para evaluar si los cambios normativos impactan en sus operaciones, ya que es una instancia de actualización técnica.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42749"
-    },
-    "publicadoEn": "2026-09-09T14:04:25.805Z",
-    "actualizadoEn": "2026-09-10T14:00:01.818Z"
-  },
-  {
-    "id": "2026-09-10-digitalizacion-de-resoluciones-y-cet-a-traves-de-vucea-a17fdd",
-    "slug": "digitalizacion-de-resoluciones-y-cet-a-traves-de-vucea",
-    "organismo": "ARCA",
-    "fecha": "2026-09-10",
-    "impacto": "medio",
-    "categoria": "normativa",
-    "tags": [
-      "VUCEA",
-      "SIM",
-      "Gestión Documental",
-      "Procedimiento Aduanero",
-      "Comercio Exterior"
-    ],
-    "titulo": "Digitalización de resoluciones y CET a través de VUCEA",
-    "resumen": "La normativa integra las resoluciones aprobatorias y el Certificado de Exención de Tributos (CET) al sistema de Ventanilla Única de Comercio Exterior.",
-    "queSignifica": "Verifique si sus trámites requieren el uso de CET o resoluciones alcanzadas para gestionar su carga a través de la plataforma VUCEA. Se recomienda revisar el estado de sus presentaciones en el SIM para asegurar la correcta vinculación con la nueva integración operativa.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42730"
-    },
-    "publicadoEn": "2026-09-10T13:59:51.110Z",
-    "actualizadoEn": "2026-09-10T14:00:01.818Z"
   },
   {
     "id": "2026-09-11-actualizacion-de-normas-sobre-acceso-al-mercado-unico-y-libre-de-cambios-bfd502",
@@ -459,74 +515,5 @@
     "normativaRef": "Resolución General 5892/2026",
     "publicadoEn": "2026-08-31T17:20:03.050Z",
     "actualizadoEn": "2026-09-02T14:00:10.703Z"
-  },
-  {
-    "id": "2026-08-31-aniversario-114-del-centro-de-despachantes-de-aduana-213c2b",
-    "slug": "aniversario-114-del-centro-de-despachantes-de-aduana",
-    "organismo": "Aduana",
-    "fecha": "2026-08-28",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "CDA",
-      "institucional",
-      "comercio exterior"
-    ],
-    "titulo": "Aniversario 114° del Centro de Despachantes de Aduana",
-    "resumen": "El CDA conmemoró su 114° aniversario y el Día del Despachante de Aduana mediante un evento institucional.",
-    "queSignifica": "Esta noticia es de carácter institucional y no genera cambios operativos, procedimentales ni regulatorios para las operaciones de comercio exterior. Se recomienda desestimar cualquier acción correctiva en el sistema informático o en la documentación de embarque.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42722"
-    },
-    "publicadoEn": "2026-08-28T21:02:51.514Z",
-    "actualizadoEn": "2026-08-31T17:20:33.879Z"
-  },
-  {
-    "id": "2026-08-31-reunion-de-trabajo-entre-el-cda-y-apm-terminals-sobre-operativa-portuaria-71e8e7",
-    "slug": "reunion-de-trabajo-entre-el-cda-y-apm-terminals-sobre-operativa-portuaria",
-    "organismo": "Aduana",
-    "fecha": "2026-08-28",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "APM Terminals",
-      "Terminal 4",
-      "gestión logística",
-      "comercio exterior"
-    ],
-    "titulo": "Reunión de trabajo entre el CDA y APM Terminals sobre operativa portuaria",
-    "resumen": "El CDA mantuvo un encuentro con APM Terminals para tratar temas operativos y de gestión en la terminal. Se trata de un acercamiento institucional para coordinar mejoras en los procesos logísticos.",
-    "queSignifica": "Esta noticia es informativa y no requiere acciones inmediatas. Se sugiere monitorear si surgen cambios en los procedimientos de recepción o retiro de mercadería en la terminal.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42726"
-    },
-    "publicadoEn": "2026-08-28T21:02:57.918Z",
-    "actualizadoEn": "2026-08-31T17:20:33.879Z"
-  },
-  {
-    "id": "2026-08-31-actualizacion-de-aranceles-y-procedimientos-de-anmat-para-operaciones-de-comerci-a1ad9a",
-    "slug": "actualizacion-de-aranceles-y-procedimientos-de-anmat-para-operaciones-de-comerci",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-08-28",
-    "impacto": "medio",
-    "categoria": "importacion",
-    "tags": [
-      "ANMAT",
-      "aranceles",
-      "trámites",
-      "comercio exterior",
-      "regulaciones"
-    ],
-    "titulo": "Actualización de aranceles y procedimientos de ANMAT para operaciones de comercio exterior",
-    "resumen": "La norma establece nuevos topes máximos en las operaciones de comercio exterior y ajusta el esquema arancelario vigente. Esta medida impacta directamente en la gestión de trámites ante el organismo.",
-    "queSignifica": "Se recomienda revisar el nuevo cuadro tarifario y los topes aplicables a sus operaciones para ajustar la proyección de costos. Verifique con su despachante la incidencia de estos cambios en sus trámites pendientes ante la ANMAT.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42725"
-    },
-    "publicadoEn": "2026-08-28T21:03:03.993Z",
-    "actualizadoEn": "2026-08-31T17:20:33.879Z"
   }
 ]
