@@ -1,27 +1,134 @@
 [
   {
-    "id": "2026-09-14-actualizacion-del-tipo-de-cambio-oficial-de-referencia-del-bcra-e25ebd",
-    "slug": "actualizacion-del-tipo-de-cambio-oficial-de-referencia-del-bcra",
+    "id": "2026-09-15-bcra-tipo-de-cambio-mulc-del-dia-cda746",
+    "slug": "bcra-tipo-de-cambio-mulc-del-dia",
     "organismo": "BCRA",
-    "fecha": "2026-09-14",
-    "impacto": "medio",
+    "fecha": "2026-09-15",
+    "impacto": "alto",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "tipo de cambio",
-      "divisas",
-      "BCRA",
-      "liquidación"
+      "tipo de cambio"
     ],
-    "titulo": "Actualización del tipo de cambio oficial de referencia del BCRA",
-    "resumen": "El BCRA fijó el tipo de cambio oficial para el día 2026-09-11 en 1082.35 pesos por dólar. Este valor sirve como referencia para las operaciones cursadas a través del Mercado Único y Libre de Cambios.",
-    "queSignifica": "Debe verificar que este valor coincida con la cotización aplicada en su operación cambiaria vigente. Se sugiere confirmar con su entidad financiera la correcta liquidación según el cronograma de pago o cobro de su operación.",
+    "titulo": "BCRA – Tipo de Cambio MULC del día",
+    "resumen": "Tipo de Cambio MULC ($ por USD): 1076.96 — al 2026-09-14",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-09-14T16:06:17.954Z"
+    "actualizadoEn": "2026-09-15T14:36:26.454Z"
+  },
+  {
+    "id": "2026-09-15-actualizacion-de-normas-de-acceso-al-mercado-unico-y-libre-de-cambios-1e5798",
+    "slug": "actualizacion-de-normas-de-acceso-al-mercado-unico-y-libre-de-cambios",
+    "organismo": "BCRA",
+    "fecha": "2026-09-15",
+    "impacto": "alto",
+    "categoria": "normativa",
+    "tags": [
+      "MULC",
+      "acceso al mercado de cambios",
+      "BCRA",
+      "giro de divisas",
+      "operaciones cambiarias"
+    ],
+    "titulo": "Actualización de normas de acceso al Mercado Único y Libre de Cambios",
+    "resumen": "La comunicación establece nuevos lineamientos operativos para el acceso al MULC y la liquidación de divisas. Regula las condiciones de pago y cobro para operaciones de comercio exterior vinculadas al sistema financiero.",
+    "queSignifica": "Es necesario verificar con su entidad bancaria si las operaciones en curso se ven afectadas por los nuevos requisitos de conformidad. Se recomienda auditar la documentación respaldatoria antes de realizar cualquier solicitud de acceso al mercado de cambios.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/347474/20260915"
+    },
+    "normativaRef": "Comunicación \"A\" 8479/2026",
+    "publicadoEn": "2026-09-15T14:34:49.481Z",
+    "actualizadoEn": "2026-09-15T14:36:26.454Z"
+  },
+  {
+    "id": "2026-09-15-novedades-sim-manual-de-usuarios-externos-del-regimen-de-i-e91059",
+    "slug": "novedades-sim-manual-de-usuarios-externos-del-regimen-de-i",
+    "organismo": "CDA",
+    "fecha": "2026-09-15",
+    "impacto": "alto",
+    "categoria": "normativa",
+    "tags": [
+      "VUCE",
+      "SIM",
+      "ARCA"
+    ],
+    "titulo": "NOVEDADES SIM: Manual de Usuarios Externos del Régimen de I",
+    "resumen": "A través del micrositio \"VUCE - Ventanilla Única de Comercio Exterior\", la Agencia de Recaudación y Control Aduanero (ARCA) puso a dispos...",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42772"
+    },
+    "publicadoEn": "2026-09-15T14:34:54.589Z",
+    "actualizadoEn": "2026-09-15T14:36:26.454Z"
+  },
+  {
+    "id": "2026-09-15-anmat-levanto-la-inhibicion-de-importacion-dispuesta-a-la-firma-glam-distribucio-b527fa",
+    "slug": "anmat-levanto-la-inhibicion-de-importacion-dispuesta-a-la-firma-glam-distribucio",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-09-15",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "ANMAT",
+      "importación"
+    ],
+    "titulo": "ANMAT levantó la inhibición de importación dispuesta a la firma GLAM DISTRIBUCIONES S.R.L.",
+    "resumen": "ANMAT levantó la inhibición de importación dispuesta a la firma GLAM DISTRIBUCIONES S.R.L.",
+    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-levanto-la-inhibicion-de-importacion-dispuesta-la-firma-glam-distribuciones-srl"
+    },
+    "publicadoEn": "2026-09-15T14:35:35.835Z",
+    "actualizadoEn": "2026-09-15T14:36:26.454Z"
+  },
+  {
+    "id": "2026-09-15-anmat-suspende-a-ripezzi-srl-y-prohibe-el-uso-de-sus-productos-medicos-importado-3d46a0",
+    "slug": "anmat-suspende-a-ripezzi-srl-y-prohibe-el-uso-de-sus-productos-medicos-importado",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-09-15",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "Productos Médicos",
+      "Restricción Comercial",
+      "ANMAT",
+      "Bloqueo Operativo",
+      "Compliance"
+    ],
+    "titulo": "ANMAT suspende a RIPEZZI S.R.L. y prohíbe el uso de sus productos médicos importados",
+    "resumen": "La autoridad sanitaria inhabilitó a la firma RIPEZZI S.R.L. para operar y prohibió preventivamente el uso, distribución y comercialización de todos los productos médicos importados por dicha empresa.",
+    "queSignifica": "Se recomienda verificar el inventario y estado de las mercaderías asociadas a RIPEZZI S.R.L. y abstenerse de realizar nuevas operaciones de despacho o comercialización con dicha firma hasta que se aclare su situación registral.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-inhibio-las-actividades-productivas-de-la-firma-ripezzi-srl-y-prohibio-el-uso-de"
+    },
+    "publicadoEn": "2026-09-15T14:36:05.766Z",
+    "actualizadoEn": "2026-09-15T14:36:26.454Z"
+  },
+  {
+    "id": "2026-09-15-participa-de-la-reunion-de-la-subcomision-de-tecnica-y-n-8aeee7",
+    "slug": "participa-de-la-reunion-de-la-subcomision-de-tecnica-y-n",
+    "organismo": "CDA",
+    "fecha": "2026-09-14",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "Participá de la Reunión de la Subcomisión de Técnica y N",
+    "resumen": "El Centro Despachantes de Aduana (CDA) invita a sus asociados a participar de una nueva reunión de Técnica y Normativa que se llevará a c...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42758"
+    },
+    "publicadoEn": "2026-09-14T16:05:38.422Z",
+    "actualizadoEn": "2026-09-15T14:36:26.454Z"
   },
   {
     "id": "2026-09-14-beneficio-exclusivo-para-socios-del-cda-20-de-descuento-en-0230b5",
@@ -39,29 +146,6 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42742"
     },
     "publicadoEn": "2026-09-14T16:05:33.046Z",
-    "actualizadoEn": "2026-09-14T16:06:17.954Z"
-  },
-  {
-    "id": "2026-09-14-reunion-informativa-de-la-subcomision-de-tecnica-y-normativa-del-cda-47049e",
-    "slug": "reunion-informativa-de-la-subcomision-de-tecnica-y-normativa-del-cda",
-    "organismo": "Aduana",
-    "fecha": "2026-09-11",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "CDA",
-      "asesoramiento",
-      "técnica aduanera",
-      "actualización normativa"
-    ],
-    "titulo": "Reunión informativa de la Subcomisión de Técnica y Normativa del CDA",
-    "resumen": "El Centro Despachantes de Aduana convoca a una reunión técnica para tratar novedades y consultas del sector.",
-    "queSignifica": "Se recomienda verificar la agenda del evento y evaluar si los temas a tratar impactan en la operativa diaria de sus destinaciones. Es aconsejable asistir o revisar el acta posterior para identificar posibles cambios procedimentales.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42758"
-    },
-    "publicadoEn": "2026-09-14T16:05:38.422Z",
     "actualizadoEn": "2026-09-14T16:06:17.954Z"
   },
   {
@@ -441,79 +525,5 @@
     },
     "publicadoEn": "2026-09-02T14:00:05.010Z",
     "actualizadoEn": "2026-09-04T13:55:51.621Z"
-  },
-  {
-    "id": "2026-09-03-nuevas-pautas-para-la-importacion-de-juguetes-fbec67",
-    "slug": "nuevas-pautas-para-la-importacion-de-juguetes",
-    "organismo": "Aduana",
-    "fecha": "2026-08-31",
-    "impacto": "medio",
-    "categoria": "importacion",
-    "tags": [
-      "juguetes",
-      "seguridad",
-      "certificación",
-      "técnica de importación",
-      "SIM"
-    ],
-    "titulo": "Nuevas pautas para la importación de juguetes",
-    "resumen": "Se establecen precisiones operativas para la gestión de importaciones de juguetes según el Departamento Técnica de Importación.",
-    "queSignifica": "Se recomienda revisar el correo institucional del CDA y verificar el cumplimiento de los reglamentos técnicos vigentes para evitar demoras en la oficialización de los despachos.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42732"
-    },
-    "publicadoEn": "2026-08-31T17:20:09.736Z",
-    "actualizadoEn": "2026-09-03T14:03:28.100Z"
-  },
-  {
-    "id": "2026-09-02-actualizacion-de-procedimientos-para-la-modificacion-de-destinaciones-de-exporta-b075fa",
-    "slug": "actualizacion-de-procedimientos-para-la-modificacion-de-destinaciones-de-exporta",
-    "organismo": "ARCA",
-    "fecha": "2026-08-31",
-    "impacto": "medio",
-    "categoria": "exportacion",
-    "tags": [
-      "SIM",
-      "Destinación",
-      "Exportación",
-      "Modificación",
-      "Aduana"
-    ],
-    "titulo": "Actualización de procedimientos para la modificación de destinaciones de exportación",
-    "resumen": "La norma ajusta los mecanismos y trámites operativos para gestionar las modificaciones en las destinaciones de exportación dentro del Sistema Informático Malvina.",
-    "queSignifica": "Debe revisar el alcance de los cambios sobre las solicitudes de modificación en curso o futuras en el SIM. Se recomienda consultar con el servicio aduanero o su despachante sobre la aplicación inmediata de estas nuevas pautas en sus operaciones vigentes.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/346596/20260831"
-    },
-    "normativaRef": "Resolución General 5891/2026",
-    "publicadoEn": "2026-08-31T17:19:56.360Z",
-    "actualizadoEn": "2026-09-02T14:00:10.703Z"
-  },
-  {
-    "id": "2026-09-02-nuevo-procedimiento-vucea-para-la-importacion-de-lineas-de-produccion-usadas-4d2e29",
-    "slug": "nuevo-procedimiento-vucea-para-la-importacion-de-lineas-de-produccion-usadas",
-    "organismo": "ARCA",
-    "fecha": "2026-08-31",
-    "impacto": "medio",
-    "categoria": "importacion",
-    "tags": [
-      "VUCEA",
-      "Bienes Usados",
-      "Líneas de Producción",
-      "Despacho de Aduana",
-      "Certificado de Importación"
-    ],
-    "titulo": "Nuevo procedimiento VUCEA para la importación de líneas de producción usadas",
-    "resumen": "La norma establece un nuevo proceso administrativo a través de la Ventanilla Única de Comercio Exterior para la importación de líneas de producción usadas. Centraliza la gestión de autorizaciones y trámites asociados en una plataforma digital integrada.",
-    "queSignifica": "El importador debe verificar los nuevos requisitos de carga documental en el portal VUCEA antes de oficializar el despacho. Se sugiere revisar la integración del sistema con el SIM para asegurar que la tramitación de las licencias o certificados requeridos sea compatible con la nueva modalidad.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/346597/20260831"
-    },
-    "normativaRef": "Resolución General 5892/2026",
-    "publicadoEn": "2026-08-31T17:20:03.050Z",
-    "actualizadoEn": "2026-09-02T14:00:10.703Z"
   }
 ]
