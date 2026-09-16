@@ -1,134 +1,318 @@
 [
   {
-    "id": "2026-09-15-bcra-tipo-de-cambio-mulc-del-dia-cda746",
-    "slug": "bcra-tipo-de-cambio-mulc-del-dia",
+    "id": "2026-09-16-actualizacion-del-tipo-de-cambio-de-referencia-del-bcra-9b39ae",
+    "slug": "actualizacion-del-tipo-de-cambio-de-referencia-del-bcra",
     "organismo": "BCRA",
-    "fecha": "2026-09-15",
-    "impacto": "alto",
+    "fecha": "2026-09-16",
+    "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "tipo de cambio"
+      "Tipo de cambio",
+      "BCRA",
+      "Acceso al mercado de cambios",
+      "Liquidación de divisas"
     ],
-    "titulo": "BCRA – Tipo de Cambio MULC del día",
-    "resumen": "Tipo de Cambio MULC ($ por USD): 1076.96 — al 2026-09-14",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
+    "titulo": "Actualización del tipo de cambio de referencia del BCRA",
+    "resumen": "El BCRA ha fijado el tipo de cambio oficial del Mercado Único y Libre de Cambios (MULC) en 1074.13 pesos por dólar para el día 15/09/2026.",
+    "queSignifica": "Esta cotización sirve de referencia para la valoración de operaciones de comercio exterior. Se sugiere revisar que sus sistemas contables y administrativos contemplen este valor para la proyección de costos y liquidación de divisas.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-09-15T14:36:26.454Z"
+    "actualizadoEn": "2026-09-16T14:32:02.280Z"
   },
   {
-    "id": "2026-09-15-actualizacion-de-normas-de-acceso-al-mercado-unico-y-libre-de-cambios-1e5798",
-    "slug": "actualizacion-de-normas-de-acceso-al-mercado-unico-y-libre-de-cambios",
+    "id": "2026-09-16-actualizacion-de-la-nomina-de-sujetos-obligados-a-retencion-de-iva-d51672",
+    "slug": "actualizacion-de-la-nomina-de-sujetos-obligados-a-retencion-de-iva",
+    "organismo": "ARCA",
+    "fecha": "2026-09-16",
+    "impacto": "medio",
+    "categoria": "normativa",
+    "tags": [
+      "IVA",
+      "Agentes de Retención",
+      "ARCA",
+      "Impuestos",
+      "RG 2854"
+    ],
+    "titulo": "Actualización de la nómina de sujetos obligados a retención de IVA",
+    "resumen": "La norma actualiza el listado de sujetos designados como agentes de retención del Impuesto al Valor Agregado según la Resolución General N° 2.854.",
+    "queSignifica": "Verifique si su CUIT o el de sus proveedores ha sido incorporado o excluido de la nómina de agentes de retención en el sistema de ARCA. Se recomienda validar el estado fiscal en el 'Padrón de Contribuyentes' para evitar inconsistencias en el pago de tributos aduaneros.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/347519/20260916"
+    },
+    "normativaRef": "Resolución General 5897/2026",
+    "publicadoEn": "2026-09-16T14:29:57.869Z",
+    "actualizadoEn": "2026-09-16T14:32:02.280Z"
+  },
+  {
+    "id": "2026-09-16-actualizacion-de-normas-cambiarias-para-el-acceso-al-mercado-de-cambios-faccc3",
+    "slug": "actualizacion-de-normas-cambiarias-para-el-acceso-al-mercado-de-cambios",
+    "organismo": "BCRA",
+    "fecha": "2026-09-16",
+    "impacto": "alto",
+    "categoria": "normativa",
+    "tags": [
+      "MULC",
+      "BCRA",
+      "giros al exterior",
+      "acceso a divisas",
+      "operaciones cambiarias"
+    ],
+    "titulo": "Actualización de normas cambiarias para el acceso al mercado de cambios",
+    "resumen": "La Comunicación A 8481/2026 establece nuevas condiciones y requisitos para el acceso al Mercado Único y Libre de Cambios (MULC). Afecta directamente la operatoria de pagos de importaciones y otras obligaciones en moneda extranjera.",
+    "queSignifica": "Es necesario verificar con su entidad bancaria la adecuación de las operaciones en curso a los nuevos requisitos documentales y plazos exigidos. Se recomienda auditar la documentación respaldatoria antes de cursar cualquier solicitud de giro al exterior.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/347535/20260916"
+    },
+    "normativaRef": "Comunicación \"A\" 8481/2026",
+    "publicadoEn": "2026-09-16T14:30:07.666Z",
+    "actualizadoEn": "2026-09-16T14:32:02.280Z"
+  },
+  {
+    "id": "2026-09-16-suspension-de-actividades-y-comercializacion-de-ugal-farmaceutica-sa-por-anmat-1586ba",
+    "slug": "suspension-de-actividades-y-comercializacion-de-ugal-farmaceutica-sa-por-anmat",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-09-16",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "suspensión preventiva",
+      "productos farmacéuticos",
+      "registro sanitario",
+      "cumplimiento normativo",
+      "control de aduana"
+    ],
+    "titulo": "Suspensión de actividades y comercialización de UGAL FARMACÉUTICA S.A. por ANMAT",
+    "resumen": "La ANMAT ha inhabilitado a UGAL FARMACÉUTICA S.A. para producir, controlar y comercializar sus productos. Esta medida implica un cese total de sus operaciones en el ámbito sanitario nacional.",
+    "queSignifica": "Los importadores deben verificar si cuentan con productos de esta firma en stock o en tránsito, consultando el estado de sus certificados en VUCE. Se sugiere contactar a sus proveedores y revisar la validez de los registros sanitarios antes de intentar realizar cualquier despacho de importación.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-inhibio-las-actividades-productivas-de-control-de-calidad-y-comercializacion-de-ugal"
+    },
+    "publicadoEn": "2026-09-16T14:31:04.260Z",
+    "actualizadoEn": "2026-09-16T14:32:02.280Z"
+  },
+  {
+    "id": "2026-09-16-anmat-inhibe-actividades-productivas-del-laboratorio-trifarma-srl-36073c",
+    "slug": "anmat-inhibe-actividades-productivas-del-laboratorio-trifarma-srl",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-09-16",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "ANMAT",
+      "productos farmacéuticos",
+      "habilitación",
+      "bloqueo de mercado",
+      "cumplimiento aduanero"
+    ],
+    "titulo": "ANMAT inhibe actividades productivas del Laboratorio Trifarma S.R.L.",
+    "resumen": "La ANMAT ha dispuesto la inhibición de las actividades productivas de Laboratorio Trifarma S.R.L. mediante una medida de alcance sanitario.",
+    "queSignifica": "Se recomienda a importadores y operadores que posean productos de este laboratorio verificar el estado de sus registros sanitarios y consultar el sistema Malvina/VUCE antes de gestionar nuevas destinaciones. Es prudente contactar al proveedor para evaluar la continuidad de los suministros en curso.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-inhibio-las-actividades-productivas-del-laboratorio-trifarma-srl"
+    },
+    "publicadoEn": "2026-09-16T14:31:09.760Z",
+    "actualizadoEn": "2026-09-16T14:32:02.280Z"
+  },
+  {
+    "id": "2026-09-16-prohibicion-de-comercializacion-y-uso-de-equipos-medicos-de-alta-frecuencia-marc-ea2c44",
+    "slug": "prohibicion-de-comercializacion-y-uso-de-equipos-medicos-de-alta-frecuencia-marc",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-09-16",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "prohibición",
+      "ANMAT",
+      "equipo médico",
+      "restricción no arancelaria",
+      "baja de registro"
+    ],
+    "titulo": "Prohibición de comercialización y uso de equipos médicos de alta frecuencia marca TEXEL",
+    "resumen": "La ANMAT ha prohibido el uso, distribución y comercialización de todas las series de equipos médicos de alta frecuencia fabricados por la marca TEXEL. La medida responde a una disposición de control sanitario sobre productos médicos.",
+    "queSignifica": "Si usted tiene operaciones de importación o stock vigente de esta marca, verifique inmediatamente su estado registral y evite la destinación aduanera de estos bienes. Consulte con el servicio técnico y el área de asuntos regulatorios para evaluar la disposición de las unidades en existencias.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-todas-las-series-de-equipo-medico-de-alta-frecuencia-de-la-marca-texel"
+    },
+    "publicadoEn": "2026-09-16T14:31:16.926Z",
+    "actualizadoEn": "2026-09-16T14:32:02.280Z"
+  },
+  {
+    "id": "2026-09-16-actualizacion-de-normas-del-bcra-sobre-el-acceso-al-mercado-de-cambios-440b84",
+    "slug": "actualizacion-de-normas-del-bcra-sobre-el-acceso-al-mercado-de-cambios",
     "organismo": "BCRA",
     "fecha": "2026-09-15",
     "impacto": "alto",
     "categoria": "normativa",
     "tags": [
-      "MULC",
-      "acceso al mercado de cambios",
       "BCRA",
-      "giro de divisas",
-      "operaciones cambiarias"
+      "MULC",
+      "Acceso al mercado de cambios",
+      "Comunicación A",
+      "Política cambiaria"
     ],
-    "titulo": "Actualización de normas de acceso al Mercado Único y Libre de Cambios",
-    "resumen": "La comunicación establece nuevos lineamientos operativos para el acceso al MULC y la liquidación de divisas. Regula las condiciones de pago y cobro para operaciones de comercio exterior vinculadas al sistema financiero.",
-    "queSignifica": "Es necesario verificar con su entidad bancaria si las operaciones en curso se ven afectadas por los nuevos requisitos de conformidad. Se recomienda auditar la documentación respaldatoria antes de realizar cualquier solicitud de acceso al mercado de cambios.",
+    "titulo": "Actualización de normas del BCRA sobre el acceso al mercado de cambios",
+    "resumen": "La Comunicación 'A' 8479 establece nuevas disposiciones operativas vinculadas al acceso al mercado de cambios para operaciones de comercio exterior. La norma ajusta los procedimientos vigentes que regulan los giros de divisas y la presentación de documentación de respaldo ante entidades financieras.",
+    "queSignifica": "Es necesario verificar con su entidad bancaria cómo esta norma impacta en sus operaciones pendientes de liquidación o pago. Se recomienda revisar los nuevos requisitos de conformidad y plazos de acceso para evitar demoras en las transferencias al exterior.",
     "fuente": {
       "nombre": "Boletín Oficial de la República Argentina",
       "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/347474/20260915"
     },
     "normativaRef": "Comunicación \"A\" 8479/2026",
     "publicadoEn": "2026-09-15T14:34:49.481Z",
-    "actualizadoEn": "2026-09-15T14:36:26.454Z"
+    "actualizadoEn": "2026-09-16T14:32:02.280Z"
   },
   {
-    "id": "2026-09-15-novedades-sim-manual-de-usuarios-externos-del-regimen-de-i-e91059",
-    "slug": "novedades-sim-manual-de-usuarios-externos-del-regimen-de-i",
-    "organismo": "CDA",
+    "id": "2026-09-16-presentacion-del-libro-sobre-el-regimen-juridico-aduanero-del-acuerdo-mercosur-u-2992bf",
+    "slug": "presentacion-del-libro-sobre-el-regimen-juridico-aduanero-del-acuerdo-mercosur-u",
+    "organismo": "Aduana",
     "fecha": "2026-09-15",
-    "impacto": "alto",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "MERCOSUR",
+      "Union Europea",
+      "Acuerdo Comercial",
+      "Derecho Aduanero",
+      "Capacitacion"
+    ],
+    "titulo": "Presentación del libro sobre el régimen jurídico aduanero del acuerdo MERCOSUR-UE",
+    "resumen": "El CDA organiza la presentación de un material académico sobre el marco jurídico del posible acuerdo de libre comercio entre ambos bloques. Se trata de una actividad informativa sin impacto operativo inmediato en el comercio exterior.",
+    "queSignifica": "Esta novedad no modifica los procedimientos actuales. Se recomienda a los operadores revisar el texto en profundidad una vez publicado para anticipar potenciales cambios en los regímenes de origen y arancelarios futuros.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42748"
+    },
+    "publicadoEn": "2026-09-16T14:30:29.390Z",
+    "actualizadoEn": "2026-09-16T14:32:02.280Z"
+  },
+  {
+    "id": "2026-09-16-mesa-de-trabajo-sobre-la-reforma-del-codigo-aduanero-por-el-dnu-70-8e8bad",
+    "slug": "mesa-de-trabajo-sobre-la-reforma-del-codigo-aduanero-por-el-dnu-70",
+    "organismo": "Aduana",
+    "fecha": "2026-09-15",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "DNU 70",
+      "Código Aduanero",
+      "Reforma",
+      "Capacitación",
+      "Actualización Normativa"
+    ],
+    "titulo": "Mesa de trabajo sobre la reforma del Código Aduanero por el DNU 70",
+    "resumen": "El CDA organiza un espacio de debate para analizar los alcances e impactos de las modificaciones introducidas al Código Aduanero mediante el DNU 70/2023. Se trata de una instancia informativa para los asociados sin cambios operativos inmediatos.",
+    "queSignifica": "Se sugiere participar o revisar las minutas de la mesa para comprender cómo las modificaciones legales podrían afectar la interpretación de futuros trámites. Es recomendable monitorear las actualizaciones de los sistemas aduaneros ante cambios reglamentarios derivados de esta reforma.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42771"
+    },
+    "publicadoEn": "2026-09-16T14:30:40.921Z",
+    "actualizadoEn": "2026-09-16T14:32:02.280Z"
+  },
+  {
+    "id": "2026-09-16-actualizacion-del-manual-de-usuarios-para-el-regimen-de-la-vuce-b743fb",
+    "slug": "actualizacion-del-manual-de-usuarios-para-el-regimen-de-la-vuce",
+    "organismo": "Aduana",
+    "fecha": "2026-09-15",
+    "impacto": "bajo",
     "categoria": "normativa",
     "tags": [
       "VUCE",
+      "ARCA",
       "SIM",
-      "ARCA"
+      "Manual",
+      "Comercio Exterior"
     ],
-    "titulo": "NOVEDADES SIM: Manual de Usuarios Externos del Régimen de I",
-    "resumen": "A través del micrositio \"VUCE - Ventanilla Única de Comercio Exterior\", la Agencia de Recaudación y Control Aduanero (ARCA) puso a dispos...",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
+    "titulo": "Actualización del manual de usuarios para el régimen de la VUCE",
+    "resumen": "ARCA publicó el nuevo manual de usuarios externos para la gestión operativa en la Ventanilla Única de Comercio Exterior.",
+    "queSignifica": "Se recomienda consultar la documentación actualizada en el micrositio de VUCE para asegurar el correcto cumplimiento de los procedimientos vigentes al realizar sus trámites.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42772"
     },
     "publicadoEn": "2026-09-15T14:34:54.589Z",
-    "actualizadoEn": "2026-09-15T14:36:26.454Z"
+    "actualizadoEn": "2026-09-16T14:32:02.280Z"
   },
   {
-    "id": "2026-09-15-anmat-levanto-la-inhibicion-de-importacion-dispuesta-a-la-firma-glam-distribucio-b527fa",
-    "slug": "anmat-levanto-la-inhibicion-de-importacion-dispuesta-a-la-firma-glam-distribucio",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-09-15",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "ANMAT",
-      "importación"
-    ],
-    "titulo": "ANMAT levantó la inhibición de importación dispuesta a la firma GLAM DISTRIBUCIONES S.R.L.",
-    "resumen": "ANMAT levantó la inhibición de importación dispuesta a la firma GLAM DISTRIBUCIONES S.R.L.",
-    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-levanto-la-inhibicion-de-importacion-dispuesta-la-firma-glam-distribuciones-srl"
-    },
-    "publicadoEn": "2026-09-15T14:35:35.835Z",
-    "actualizadoEn": "2026-09-15T14:36:26.454Z"
-  },
-  {
-    "id": "2026-09-15-anmat-suspende-a-ripezzi-srl-y-prohibe-el-uso-de-sus-productos-medicos-importado-3d46a0",
-    "slug": "anmat-suspende-a-ripezzi-srl-y-prohibe-el-uso-de-sus-productos-medicos-importado",
+    "id": "2026-09-16-anmat-autorizo-nuevamente-a-glam-distribuciones-srl-a-operar-importaciones-223719",
+    "slug": "anmat-autorizo-nuevamente-a-glam-distribuciones-srl-a-operar-importaciones",
     "organismo": "ANMAT / INAL",
     "fecha": "2026-09-15",
     "impacto": "alto",
     "categoria": "importacion",
     "tags": [
-      "Productos Médicos",
-      "Restricción Comercial",
       "ANMAT",
-      "Bloqueo Operativo",
-      "Compliance"
+      "GLAM DISTRIBUCIONES S.R.L.",
+      "SIMI",
+      "SIRA",
+      "Habilitación"
     ],
-    "titulo": "ANMAT suspende a RIPEZZI S.R.L. y prohíbe el uso de sus productos médicos importados",
-    "resumen": "La autoridad sanitaria inhabilitó a la firma RIPEZZI S.R.L. para operar y prohibió preventivamente el uso, distribución y comercialización de todos los productos médicos importados por dicha empresa.",
-    "queSignifica": "Se recomienda verificar el inventario y estado de las mercaderías asociadas a RIPEZZI S.R.L. y abstenerse de realizar nuevas operaciones de despacho o comercialización con dicha firma hasta que se aclare su situación registral.",
+    "titulo": "ANMAT autorizó nuevamente a GLAM DISTRIBUCIONES S.R.L. a operar importaciones",
+    "resumen": "La autoridad regulatoria dejó sin efecto la medida de restricción que impedía el ingreso de mercadería a la firma GLAM DISTRIBUCIONES S.R.L. Esta disposición normaliza la capacidad de la empresa para tramitar sus operaciones ante el organismo.",
+    "queSignifica": "Se sugiere verificar el estado del registro de la firma en el sistema SIM/Malvina para confirmar la reactivación operativa. Asimismo, se recomienda corroborar que no persistan bloqueos en los trámites de registro de productos ante ANMAT antes de cursar nuevas solicitudes.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-levanto-la-inhibicion-de-importacion-dispuesta-la-firma-glam-distribuciones-srl"
+    },
+    "publicadoEn": "2026-09-15T14:35:35.835Z",
+    "actualizadoEn": "2026-09-16T14:32:02.280Z"
+  },
+  {
+    "id": "2026-09-16-suspension-de-actividades-y-prohibicion-de-uso-de-productos-medicos-de-la-firma--70b41d",
+    "slug": "suspension-de-actividades-y-prohibicion-de-uso-de-productos-medicos-de-la-firma-",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-09-15",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "bloqueo aduanero",
+      "productos medicos",
+      "ANMAT",
+      "prohibicion comercial",
+      "control sanitario"
+    ],
+    "titulo": "Suspensión de actividades y prohibición de uso de productos médicos de la firma RIPEZZI S.R.L.",
+    "resumen": "La ANMAT ha inhibido a la firma RIPEZZI S.R.L. de sus actividades productivas y prohibido el uso y comercialización de todos los productos médicos importados por la misma. La medida responde a una disposición sanitaria de cumplimiento inmediato.",
+    "queSignifica": "Verifique si cuenta con stock o mercadería en tránsito vinculada a esta firma y absténgase de realizar despachos. Se recomienda consultar el sistema Malvina y el estado de los certificados de ANMAT antes de proseguir con cualquier trámite aduanero relacionado.",
     "fuente": {
       "nombre": "ANMAT – Alertas",
       "url": "https://www.argentina.gob.ar/noticias/anmat-inhibio-las-actividades-productivas-de-la-firma-ripezzi-srl-y-prohibio-el-uso-de"
     },
     "publicadoEn": "2026-09-15T14:36:05.766Z",
-    "actualizadoEn": "2026-09-15T14:36:26.454Z"
+    "actualizadoEn": "2026-09-16T14:32:02.280Z"
   },
   {
-    "id": "2026-09-15-participa-de-la-reunion-de-la-subcomision-de-tecnica-y-n-8aeee7",
-    "slug": "participa-de-la-reunion-de-la-subcomision-de-tecnica-y-n",
-    "organismo": "CDA",
+    "id": "2026-09-16-reunion-informativa-del-cda-sobre-asuntos-de-tecnica-y-normativa-443ac0",
+    "slug": "reunion-informativa-del-cda-sobre-asuntos-de-tecnica-y-normativa",
+    "organismo": "Aduana",
     "fecha": "2026-09-14",
     "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [],
-    "titulo": "Participá de la Reunión de la Subcomisión de Técnica y N",
-    "resumen": "El Centro Despachantes de Aduana (CDA) invita a sus asociados a participar de una nueva reunión de Técnica y Normativa que se llevará a c...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "categoria": "normativa",
+    "tags": [
+      "CDA",
+      "asesoramiento",
+      "técnica y normativa",
+      "capacitación",
+      "comercio exterior"
+    ],
+    "titulo": "Reunión informativa del CDA sobre asuntos de técnica y normativa",
+    "resumen": "El Centro Despachantes de Aduana convoca a sus asociados a un encuentro para analizar novedades técnicas y normativas.",
+    "queSignifica": "Se recomienda revisar el temario de la reunión para identificar si algún punto técnico podría afectar sus operaciones habituales y consultar con su despachante de confianza.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42758"
     },
     "publicadoEn": "2026-09-14T16:05:38.422Z",
-    "actualizadoEn": "2026-09-15T14:36:26.454Z"
+    "actualizadoEn": "2026-09-16T14:32:02.280Z"
   },
   {
     "id": "2026-09-14-beneficio-exclusivo-para-socios-del-cda-20-de-descuento-en-0230b5",
@@ -460,70 +644,6 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42739"
     },
     "publicadoEn": "2026-09-03T14:02:34.982Z",
-    "actualizadoEn": "2026-09-04T13:55:51.621Z"
-  },
-  {
-    "id": "2026-09-04-reunion-de-coordinacion-operativa-entre-el-cda-y-el-deposito-fiscal-ge-bf5c29",
-    "slug": "reunion-de-coordinacion-operativa-entre-el-cda-y-el-deposito-fiscal-ge",
-    "organismo": "Aduana",
-    "fecha": "2026-09-01",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "Depósito Fiscal",
-      "Gestión Operativa",
-      "Comercio Exterior",
-      "CDA",
-      "Logística"
-    ],
-    "titulo": "Reunión de coordinación operativa entre el CDA y el Depósito Fiscal GE",
-    "resumen": "Se llevó a cabo una reunión de trabajo entre la Subcomisión Operativa del CDA y el Depósito Fiscal GE para tratar temas de gestión aduanera. Es un encuentro institucional de carácter informativo sobre la operatividad del depósito.",
-    "queSignifica": "Se sugiere a los operadores verificar con sus despachantes si existen novedades específicas en el procedimiento de retiro o ingreso de carga en dicho depósito. Recomendamos consultar los canales oficiales para confirmar si los cambios discutidos afectan la agilidad de sus operaciones actuales.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42736"
-    },
-    "publicadoEn": "2026-09-02T13:59:39.525Z",
-    "actualizadoEn": "2026-09-04T13:55:51.621Z"
-  },
-  {
-    "id": "2026-09-04-comunicado-institucional-fallecimiento-del-socio-enrique-carlos-quincke-fdd695",
-    "slug": "comunicado-institucional-fallecimiento-del-socio-enrique-carlos-quincke",
-    "organismo": "Aduana",
-    "fecha": "2026-09-01",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "institucional",
-      "cda",
-      "novedad"
-    ],
-    "titulo": "Comunicado institucional: Fallecimiento del socio Enrique Carlos Quincke",
-    "resumen": "El Centro Despachantes de Aduana informa el fallecimiento de un socio vitalicio de la entidad.",
-    "queSignifica": "Se trata de una novedad institucional sin impacto en la operatoria de comercio exterior, por lo que no requiere ninguna acción por parte de los operadores.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42721"
-    },
-    "publicadoEn": "2026-08-27T20:05:10.402Z",
-    "actualizadoEn": "2026-09-04T13:55:51.621Z"
-  },
-  {
-    "id": "2026-09-04-retiro-del-mercado-de-todos-los-lotes-del-producto-fructines-fenolftaleina-0120--af0497",
-    "slug": "retiro-del-mercado-de-todos-los-lotes-del-producto-fructines-fenolftaleina-0120-",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-09-01",
-    "impacto": "alto",
-    "categoria": "logistica",
-    "tags": [],
-    "titulo": "Retiro del mercado de todos los lotes del producto “FRUCTINES / FENOLFTALEÍNA 0,120 g”",
-    "resumen": "Retiro del mercado de todos los lotes del producto “FRUCTINES / FENOLFTALEÍNA 0,120 g”",
-    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/retiro-del-mercado-de-todos-los-lotes-del-producto-fructines-fenolftaleina-0120-g"
-    },
-    "publicadoEn": "2026-09-02T14:00:05.010Z",
     "actualizadoEn": "2026-09-04T13:55:51.621Z"
   }
 ]
