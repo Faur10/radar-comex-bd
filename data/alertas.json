@@ -1,27 +1,179 @@
 [
   {
-    "id": "2026-09-18-actualizacion-del-tipo-de-cambio-de-referencia-del-mulc-f15c6d",
-    "slug": "actualizacion-del-tipo-de-cambio-de-referencia-del-mulc",
+    "id": "2026-09-21-actualizacion-del-tipo-de-cambio-de-referencia-del-bcra-al-18092026-5c60c9",
+    "slug": "actualizacion-del-tipo-de-cambio-de-referencia-del-bcra-al-18092026",
     "organismo": "BCRA",
-    "fecha": "2026-09-18",
+    "fecha": "2026-09-21",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
       "Tipo de Cambio",
       "BCRA",
-      "Liquidación",
-      "Pago de Importaciones"
+      "Liquidación de Divisas",
+      "Comercio Exterior"
     ],
-    "titulo": "Actualización del Tipo de Cambio de Referencia del MULC",
-    "resumen": "El BCRA ha fijado el tipo de cambio oficial para las operaciones del Mercado Único y Libre de Cambios en 1073.91 pesos por dólar para la fecha informada.",
-    "queSignifica": "Verificar este valor oficial para el cálculo de costos de nacionalización y las proyecciones de flujo de fondos. Se recomienda revisar su aplicación específica según los plazos de pago y normativa cambiaria vigente para cada operación.",
+    "titulo": "Actualización del tipo de cambio de referencia del BCRA al 18/09/2026",
+    "resumen": "Se informa el valor del tipo de cambio oficial (MULC) para la fecha indicada por el BCRA. Este valor es la referencia para la liquidación de operaciones de comercio exterior.",
+    "queSignifica": "Debe verificar este valor para realizar las proyecciones de costos, liquidaciones de divisas o el cálculo de impuestos aduaneros. Se recomienda revisar su aplicación específica según la normativa cambiaria vigente para su operación.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-09-18T14:01:59.043Z"
+    "actualizadoEn": "2026-09-21T16:08:54.203Z"
+  },
+  {
+    "id": "2026-09-21-presentacion-de-libro-sobre-el-regimen-juridico-aduanero-del-acuerdo-mercosur-ue-413e9a",
+    "slug": "presentacion-de-libro-sobre-el-regimen-juridico-aduanero-del-acuerdo-mercosur-ue",
+    "organismo": "Aduana",
+    "fecha": "2026-09-21",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "MERCOSUR",
+      "Union Europea",
+      "Acuerdo Comercial",
+      "Regimen Aduanero",
+      "Derecho Aduanero"
+    ],
+    "titulo": "Presentación de libro sobre el régimen jurídico aduanero del Acuerdo MERCOSUR-UE",
+    "resumen": "Se presenta una obra técnica que analiza el marco jurídico y aduanero derivado del potencial acuerdo comercial entre el MERCOSUR y la Unión Europea. La actividad es de carácter institucional y académico.",
+    "queSignifica": "Se recomienda revisar el material bibliográfico presentado para comprender el impacto potencial de este marco regulatorio en futuras operaciones de comercio exterior. No implica cambios operativos inmediatos en los regímenes vigentes.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42748"
+    },
+    "publicadoEn": "2026-09-16T14:30:29.390Z",
+    "actualizadoEn": "2026-09-21T16:08:54.203Z"
+  },
+  {
+    "id": "2026-09-21-invitacion-mesa-de-trabajo-dnu-70-reforma-del-codigo-a-52ed5b",
+    "slug": "invitacion-mesa-de-trabajo-dnu-70-reforma-del-codigo-a",
+    "organismo": "CDA",
+    "fecha": "2026-09-21",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "#Invitación Mesa de Trabajo: DNU 70 - Reforma del Código A",
+    "resumen": "El Centro Despachantes de Aduana (CDA) invita a todos sus asociados a participar de una nueva Mesa de Trabajo, que se realizará el próximo...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42771"
+    },
+    "publicadoEn": "2026-09-16T14:30:40.921Z",
+    "actualizadoEn": "2026-09-21T16:08:54.203Z"
+  },
+  {
+    "id": "2026-09-21-anmat-prohibe-la-comercializacion-y-uso-de-productos-medicos-de-la-firma-medtron-fc810b",
+    "slug": "anmat-prohibe-la-comercializacion-y-uso-de-productos-medicos-de-la-firma-medtron",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-09-21",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "productos medicos",
+      "ANMAT",
+      "prohibicion",
+      "despacho de aduana",
+      "cumplimiento normativo"
+    ],
+    "titulo": "ANMAT prohíbe la comercialización y uso de productos médicos de la firma Medtronic",
+    "resumen": "La medida establece la prohibición del uso, distribución y comercialización de lotes específicos de productos médicos de Medtronic por irregularidades sanitarias. La resolución impide la circulación de estos insumos dentro del territorio nacional.",
+    "queSignifica": "Es imperativo verificar si el stock propio o los embarques en tránsito coinciden con los números de lote y descripción detallados en la normativa. Se recomienda consultar con el departamento de Asuntos Regulatorios y suspender cualquier operación de libramiento hasta confirmar que los productos no estén alcanzados por la restricción.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-productos-medicos-de-la-firma-medtronic"
+    },
+    "publicadoEn": "2026-09-21T16:08:43.062Z",
+    "actualizadoEn": "2026-09-21T16:08:54.203Z"
+  },
+  {
+    "id": "2026-09-21-anmat-prohibe-todos-los-productos-medicos-y-medicamentos-de-la-marca-caflab-y-ca-59496b",
+    "slug": "anmat-prohibe-todos-los-productos-medicos-y-medicamentos-de-la-marca-caflab-y-ca",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-09-21",
+    "impacto": "alto",
+    "categoria": "logistica",
+    "tags": [
+      "ANMAT"
+    ],
+    "titulo": "ANMAT prohíbe todos los productos médicos y medicamentos de la marca CAFLAB y CAFLAB Applied Science",
+    "resumen": "ANMAT prohíbe todos los productos médicos y medicamentos de la marca CAFLAB y CAFLAB Applied Science",
+    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-todos-los-productos-medicos-y-medicamentos-de-la-marca-caflab-y-caflab"
+    },
+    "publicadoEn": "2026-09-21T16:08:48.506Z",
+    "actualizadoEn": "2026-09-21T16:08:54.203Z"
+  },
+  {
+    "id": "2026-09-21-indec-intercambio-comercial-argentino-agosto-2026-d11dad",
+    "slug": "indec-intercambio-comercial-argentino-agosto-2026",
+    "organismo": "CDA",
+    "fecha": "2026-09-18",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "INDEC - Intercambio Comercial Argentino AGOSTO 2026",
+    "resumen": "El Centro Despachantes de Aduana les acerca a sus asociados los informes técnicos sobre el Índice de precios y cantidades del comercio ext...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42780"
+    },
+    "publicadoEn": "2026-09-21T16:08:26.882Z",
+    "actualizadoEn": "2026-09-21T16:08:54.203Z"
+  },
+  {
+    "id": "2026-09-21-nueva-herramienta-del-cda-para-la-conexion-remota-al-sistema-sim-4d542b",
+    "slug": "nueva-herramienta-del-cda-para-la-conexion-remota-al-sistema-sim",
+    "organismo": "Aduana",
+    "fecha": "2026-09-18",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "SIM",
+      "Malvina",
+      "Conectividad",
+      "Gestión Aduanera",
+      "Digitalización"
+    ],
+    "titulo": "Nueva herramienta del CDA para la conexión remota al sistema SIM",
+    "resumen": "El CDA lanza una solución técnica para facilitar el acceso remoto al sistema informático Malvina.",
+    "queSignifica": "Se recomienda revisar si esta herramienta mejora su flujo de trabajo actual, verificando siempre que cumpla con los estándares de seguridad informática y normativa de ARCA para el acceso al sistema.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42462"
+    },
+    "publicadoEn": "2026-09-18T14:00:31.263Z",
+    "actualizadoEn": "2026-09-21T16:08:54.203Z"
+  },
+  {
+    "id": "2026-09-21-simplificacion-de-tramites-sanitarios-y-trazabilidad-de-productos-en-santiago-de-b0939c",
+    "slug": "simplificacion-de-tramites-sanitarios-y-trazabilidad-de-productos-en-santiago-de",
+    "organismo": "SENASA",
+    "fecha": "2026-09-18",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "SENASA",
+      "Agrotraza",
+      "Trazabilidad",
+      "Gestión Sanitaria",
+      "Documentación"
+    ],
+    "titulo": "Simplificación de trámites sanitarios y trazabilidad de productos en Santiago del Estero",
+    "resumen": "El SENASA formalizó convenios para integrar la trazabilidad de fitosanitarios vía AGROTRAZA y unificar la documentación para el traslado de animales en la provincia.",
+    "queSignifica": "Los operadores locales deben verificar si las nuevas plataformas de integración afectan la presentación de sus certificados actuales. Se recomienda consultar con los delegados del SENASA en la jurisdicción para validar posibles cambios en los formatos de los documentos de traslado.",
+    "fuente": {
+      "nombre": "SENASA Comunica",
+      "url": "https://www.argentina.gob.ar/noticias/senasa-firmo-convenios-con-santiago-del-estero-para-simplificar-gestiones-sanitarias"
+    },
+    "publicadoEn": "2026-09-21T16:08:37.562Z",
+    "actualizadoEn": "2026-09-21T16:08:54.203Z"
   },
   {
     "id": "2026-09-18-actualizacion-de-normas-cambiarias-bcra-comunicacion-a-8477-9dfb76",
@@ -46,30 +198,6 @@
     },
     "normativaRef": "Comunicación \"A\" 8477/2026",
     "publicadoEn": "2026-09-18T14:00:12.766Z",
-    "actualizadoEn": "2026-09-18T14:01:59.043Z"
-  },
-  {
-    "id": "2026-09-18-implementacion-de-sistema-de-acceso-remoto-y-soporte-para-el-sim-a48250",
-    "slug": "implementacion-de-sistema-de-acceso-remoto-y-soporte-para-el-sim",
-    "organismo": "Aduana",
-    "fecha": "2026-09-18",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "SIM",
-      "Malvina",
-      "CDA",
-      "Despachante",
-      "Conectividad"
-    ],
-    "titulo": "Implementación de sistema de acceso remoto y soporte para el SIM",
-    "resumen": "El CDA pone a disposición una plataforma para acceder al Sistema Informático Malvina con soporte técnico continuo.",
-    "queSignifica": "Se recomienda verificar si esta herramienta de conectividad ofrece ventajas de seguridad o estabilidad frente a su método de acceso actual. Evalúe la compatibilidad con sus protocolos de seguridad informática antes de migrar el acceso al SIM.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42462"
-    },
-    "publicadoEn": "2026-09-18T14:00:31.263Z",
     "actualizadoEn": "2026-09-18T14:01:59.043Z"
   },
   {
@@ -194,30 +322,6 @@
     "actualizadoEn": "2026-09-18T14:01:59.043Z"
   },
   {
-    "id": "2026-09-18-mesa-de-trabajo-sobre-el-impacto-del-dnu-70-en-el-codigo-aduanero-aaf33d",
-    "slug": "mesa-de-trabajo-sobre-el-impacto-del-dnu-70-en-el-codigo-aduanero",
-    "organismo": "Aduana",
-    "fecha": "2026-09-16",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "DNU 70",
-      "Código Aduanero",
-      "CDA",
-      "legislación",
-      "reforma"
-    ],
-    "titulo": "Mesa de trabajo sobre el impacto del DNU 70 en el Código Aduanero",
-    "resumen": "El CDA convoca a una jornada técnica para debatir y analizar las modificaciones introducidas por el DNU 70 al Código Aduanero. Se busca analizar el alcance legal de los cambios normativos actuales.",
-    "queSignifica": "Se sugiere participar o revisar las minutas de la mesa para comprender las interpretaciones legales vigentes. Es prudente analizar cómo estas reformas podrían incidir en los procedimientos aduaneros futuros antes de aplicar cambios en la operativa.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42771"
-    },
-    "publicadoEn": "2026-09-16T14:30:40.921Z",
-    "actualizadoEn": "2026-09-18T14:01:59.043Z"
-  },
-  {
     "id": "2026-09-18-primera-exportacion-de-lana-sucia-desde-rio-negro-a-uruguay-con-certificacion-se-5e9306",
     "slug": "primera-exportacion-de-lana-sucia-desde-rio-negro-a-uruguay-con-certificacion-se",
     "organismo": "SENASA",
@@ -311,30 +415,6 @@
       "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-todas-las-series-de-equipo-medico-de-alta-frecuencia-de-la-marca-texel"
     },
     "publicadoEn": "2026-09-16T14:31:16.926Z",
-    "actualizadoEn": "2026-09-18T14:01:59.043Z"
-  },
-  {
-    "id": "2026-09-18-presentacion-de-libro-sobre-el-regimen-juridico-del-acuerdo-mercosur-ue-750800",
-    "slug": "presentacion-de-libro-sobre-el-regimen-juridico-del-acuerdo-mercosur-ue",
-    "organismo": "Aduana",
-    "fecha": "2026-09-15",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "MERCOSUR",
-      "Unión Europea",
-      "acuerdo comercial",
-      "régimen jurídico",
-      "legislación aduanera"
-    ],
-    "titulo": "Presentación de libro sobre el régimen jurídico del acuerdo MERCOSUR-UE",
-    "resumen": "El CDA organiza la presentación de un material bibliográfico sobre el marco jurídico aduanero del futuro acuerdo comercial. Se trata de una actividad de capacitación y actualización profesional.",
-    "queSignifica": "Se recomienda a los operadores de comercio exterior asistir o consultar el material para estar informados sobre las posibles implicancias futuras del acuerdo. No implica cambios operativos inmediatos ni modificaciones en los procedimientos actuales.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42748"
-    },
-    "publicadoEn": "2026-09-16T14:30:29.390Z",
     "actualizadoEn": "2026-09-18T14:01:59.043Z"
   },
   {
@@ -657,46 +737,5 @@
     },
     "publicadoEn": "2026-09-08T14:03:15.315Z",
     "actualizadoEn": "2026-09-10T14:00:01.818Z"
-  },
-  {
-    "id": "2026-09-07-participacion-institucional-del-cda-en-la-ronda-de-negocios-avellaneda-2026-79d811",
-    "slug": "participacion-institucional-del-cda-en-la-ronda-de-negocios-avellaneda-2026",
-    "organismo": "Aduana",
-    "fecha": "2026-09-04",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "comercio exterior",
-      "ronda de negocios",
-      "relaciones institucionales",
-      "promoción exportadora"
-    ],
-    "titulo": "Participación institucional del CDA en la Ronda de Negocios Avellaneda 2026",
-    "resumen": "El CDA participó de un evento de vinculación comercial orientado a fomentar la actividad del sector. Se trató de una jornada de relacionamiento y networking sin modificaciones en el marco regulatorio.",
-    "queSignifica": "Esta información es de carácter institucional y no impacta en la operatividad aduanera. Se sugiere verificar el cronograma de eventos del CDA si busca ampliar su red de contactos comerciales.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42741"
-    },
-    "publicadoEn": "2026-09-07T15:25:49.106Z",
-    "actualizadoEn": "2026-09-07T15:26:43.872Z"
-  },
-  {
-    "id": "2026-09-07-correo-electronico-de-teim-ley-24196-regimen-minero-27cbcb",
-    "slug": "correo-electronico-de-teim-ley-24196-regimen-minero",
-    "organismo": "CDA",
-    "fecha": "2026-09-04",
-    "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [],
-    "titulo": "Correo Electrónico (DE TEIM): Ley 24.196 - Régimen Minero",
-    "resumen": "El Centro Despachantes de Aduana (CDA) informa a sus asociados que, por medio de un correo electrónico, el Departamento Técnica de Importa...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42745"
-    },
-    "publicadoEn": "2026-09-07T15:25:54.432Z",
-    "actualizadoEn": "2026-09-07T15:26:43.872Z"
   }
 ]
