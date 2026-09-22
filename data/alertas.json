@@ -1,31 +1,147 @@
 [
   {
-    "id": "2026-09-21-actualizacion-del-tipo-de-cambio-de-referencia-del-bcra-al-18092026-5c60c9",
-    "slug": "actualizacion-del-tipo-de-cambio-de-referencia-del-bcra-al-18092026",
+    "id": "2026-09-22-bcra-tipo-de-cambio-mulc-del-dia-069bda",
+    "slug": "bcra-tipo-de-cambio-mulc-del-dia",
     "organismo": "BCRA",
-    "fecha": "2026-09-21",
-    "impacto": "medio",
+    "fecha": "2026-09-22",
+    "impacto": "alto",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "Tipo de Cambio",
-      "BCRA",
-      "Liquidación de Divisas",
-      "Comercio Exterior"
+      "tipo de cambio"
     ],
-    "titulo": "Actualización del tipo de cambio de referencia del BCRA al 18/09/2026",
-    "resumen": "Se informa el valor del tipo de cambio oficial (MULC) para la fecha indicada por el BCRA. Este valor es la referencia para la liquidación de operaciones de comercio exterior.",
-    "queSignifica": "Debe verificar este valor para realizar las proyecciones de costos, liquidaciones de divisas o el cálculo de impuestos aduaneros. Se recomienda revisar su aplicación específica según la normativa cambiaria vigente para su operación.",
+    "titulo": "BCRA – Tipo de Cambio MULC del día",
+    "resumen": "Tipo de Cambio MULC ($ por USD): 1078.42 — al 2026-09-21",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-09-21T16:08:54.203Z"
+    "actualizadoEn": "2026-09-22T14:19:31.815Z"
   },
   {
-    "id": "2026-09-21-presentacion-de-libro-sobre-el-regimen-juridico-aduanero-del-acuerdo-mercosur-ue-413e9a",
-    "slug": "presentacion-de-libro-sobre-el-regimen-juridico-aduanero-del-acuerdo-mercosur-ue",
+    "id": "2026-09-22-disponibilidad-de-espacios-de-coworking-en-el-centro-despachantes-de-aduana-05bb3c",
+    "slug": "disponibilidad-de-espacios-de-coworking-en-el-centro-despachantes-de-aduana",
+    "organismo": "Aduana",
+    "fecha": "2026-09-22",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "CDA",
+      "infraestructura",
+      "servicios",
+      "despachante de aduana",
+      "gestión administrativa"
+    ],
+    "titulo": "Disponibilidad de espacios de coworking en el Centro Despachantes de Aduana",
+    "resumen": "El CDA informa a sus asociados sobre la disponibilidad de sus instalaciones habilitadas como espacios de trabajo compartido.",
+    "queSignifica": "Es una novedad institucional sin impacto operativo en los despachos de aduana; se sugiere consultar la disponibilidad en caso de requerir un espacio físico de trabajo.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42526"
+    },
+    "publicadoEn": "2026-09-22T14:17:55.313Z",
+    "actualizadoEn": "2026-09-22T14:19:31.815Z"
+  },
+  {
+    "id": "2026-09-22-reunion-informativa-del-cda-sobre-tecnica-y-normativa-aduanera-eba81a",
+    "slug": "reunion-informativa-del-cda-sobre-tecnica-y-normativa-aduanera",
+    "organismo": "Aduana",
+    "fecha": "2026-09-22",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "CDA",
+      "asesoramiento",
+      "capacitación",
+      "gestión aduanera",
+      "actualización normativa"
+    ],
+    "titulo": "Reunión informativa del CDA sobre técnica y normativa aduanera",
+    "resumen": "El Centro Despachantes de Aduana convoca a sus asociados a un encuentro para analizar novedades técnicas y normativas del sector.",
+    "queSignifica": "Se recomienda verificar el temario de la reunión para identificar posibles cambios procedimentales que pudieran afectar futuras operaciones. Es conveniente participar o consultar las minutas para actualizar criterios de gestión operativa.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42758"
+    },
+    "publicadoEn": "2026-09-14T16:05:38.422Z",
+    "actualizadoEn": "2026-09-22T14:19:31.815Z"
+  },
+  {
+    "id": "2026-09-22-plazo-especial-para-la-presentacion-de-la-declaracion-jurada-de-ganancias-2025-c421a2",
+    "slug": "plazo-especial-para-la-presentacion-de-la-declaracion-jurada-de-ganancias-2025",
+    "organismo": "ARCA",
+    "fecha": "2026-09-21",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "ARCA",
+      "Impuesto a las Ganancias",
+      "DDJJ",
+      "Obligaciones Fiscales",
+      "Vencimientos"
+    ],
+    "titulo": "Plazo especial para la presentación de la Declaración Jurada de Ganancias 2025",
+    "resumen": "La normativa establece una prórroga o plazo especial para la presentación de las declaraciones juradas del Impuesto a las Ganancias correspondientes al período fiscal 2025.",
+    "queSignifica": "Se recomienda revisar el cronograma de vencimientos actualizado y verificar si la extensión alcanza a los sujetos de su cartera para evitar posibles sanciones. Es fundamental consultar con el área contable para asegurar que la situación fiscal esté alineada con los nuevos plazos.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/347746/20260921"
+    },
+    "normativaRef": "Resolución General 5898/2026",
+    "publicadoEn": "2026-09-22T14:17:33.104Z",
+    "actualizadoEn": "2026-09-22T14:19:31.815Z"
+  },
+  {
+    "id": "2026-09-22-comunicacion-a-84832026-5e2a17",
+    "slug": "comunicacion-a-84832026",
+    "organismo": "BCRA",
+    "fecha": "2026-09-21",
+    "impacto": "alto",
+    "categoria": "normativa",
+    "tags": [
+      "Com. A"
+    ],
+    "titulo": "Comunicación \"A\" 8483/2026",
+    "resumen": "Comunicación \"A\" 8483/2026",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/347757/20260921"
+    },
+    "normativaRef": "Comunicación \"A\" 8483/2026",
+    "publicadoEn": "2026-09-22T14:17:41.657Z",
+    "actualizadoEn": "2026-09-22T14:19:31.815Z"
+  },
+  {
+    "id": "2026-09-22-actualizacion-de-normas-cambiarias-para-operaciones-de-comercio-exterior-f6c223",
+    "slug": "actualizacion-de-normas-cambiarias-para-operaciones-de-comercio-exterior",
+    "organismo": "BCRA",
+    "fecha": "2026-09-21",
+    "impacto": "alto",
+    "categoria": "normativa",
+    "tags": [
+      "MULC",
+      "acceso al mercado de cambios",
+      "operaciones cambiarias",
+      "pagos al exterior",
+      "BCRA"
+    ],
+    "titulo": "Actualización de normas cambiarias para operaciones de comercio exterior",
+    "resumen": "La comunicación establece nuevas disposiciones operativas para el acceso al Mercado Único y Libre de Cambios. Define condiciones técnicas para la liquidación y pago de operaciones vinculadas al comercio exterior.",
+    "queSignifica": "Debe revisar el cumplimiento de las nuevas condiciones de acceso al MULC antes de programar pagos de sus operaciones. Se recomienda consultar con su entidad financiera para verificar si la normativa afecta la elegibilidad de sus giros pendientes.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/347758/20260921"
+    },
+    "normativaRef": "Comunicación \"A\" 8484/2026",
+    "publicadoEn": "2026-09-22T14:17:47.449Z",
+    "actualizadoEn": "2026-09-22T14:19:31.815Z"
+  },
+  {
+    "id": "2026-09-22-presentacion-del-libro-sobre-el-regimen-juridico-aduanero-del-acuerdo-mercosur-u-265207",
+    "slug": "presentacion-del-libro-sobre-el-regimen-juridico-aduanero-del-acuerdo-mercosur-u",
     "organismo": "Aduana",
     "fecha": "2026-09-21",
     "impacto": "bajo",
@@ -34,21 +150,21 @@
       "MERCOSUR",
       "Union Europea",
       "Acuerdo Comercial",
-      "Regimen Aduanero",
-      "Derecho Aduanero"
+      "Derecho Aduanero",
+      "Capacitacion"
     ],
-    "titulo": "Presentación de libro sobre el régimen jurídico aduanero del Acuerdo MERCOSUR-UE",
-    "resumen": "Se presenta una obra técnica que analiza el marco jurídico y aduanero derivado del potencial acuerdo comercial entre el MERCOSUR y la Unión Europea. La actividad es de carácter institucional y académico.",
-    "queSignifica": "Se recomienda revisar el material bibliográfico presentado para comprender el impacto potencial de este marco regulatorio en futuras operaciones de comercio exterior. No implica cambios operativos inmediatos en los regímenes vigentes.",
+    "titulo": "Presentación del libro sobre el régimen jurídico aduanero del acuerdo MERCOSUR-UE",
+    "resumen": "Se presenta una obra académica que analiza el marco jurídico aduanero derivado del futuro acuerdo comercial entre el MERCOSUR y la Unión Europea. La actividad es de carácter informativo y académico, organizada por el Centro Despachantes de Aduana.",
+    "queSignifica": "Es recomendable revisar la bibliografía técnica sobre el acuerdo para anticipar potenciales cambios en regímenes de origen y preferencias arancelarias. Se sugiere mantener el seguimiento de las negociaciones oficiales para evaluar impactos futuros en su operatoria.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42748"
     },
     "publicadoEn": "2026-09-16T14:30:29.390Z",
-    "actualizadoEn": "2026-09-21T16:08:54.203Z"
+    "actualizadoEn": "2026-09-22T14:19:31.815Z"
   },
   {
-    "id": "2026-09-21-invitacion-mesa-de-trabajo-dnu-70-reforma-del-codigo-a-52ed5b",
+    "id": "2026-09-22-invitacion-mesa-de-trabajo-dnu-70-reforma-del-codigo-a-372fce",
     "slug": "invitacion-mesa-de-trabajo-dnu-70-reforma-del-codigo-a",
     "organismo": "CDA",
     "fecha": "2026-09-21",
@@ -63,34 +179,30 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42771"
     },
     "publicadoEn": "2026-09-16T14:30:40.921Z",
-    "actualizadoEn": "2026-09-21T16:08:54.203Z"
+    "actualizadoEn": "2026-09-22T14:19:31.815Z"
   },
   {
-    "id": "2026-09-21-anmat-prohibe-la-comercializacion-y-uso-de-productos-medicos-de-la-firma-medtron-fc810b",
-    "slug": "anmat-prohibe-la-comercializacion-y-uso-de-productos-medicos-de-la-firma-medtron",
+    "id": "2026-09-22-anmat-prohibe-productos-medicos-de-la-firma-medtronic-cebb10",
+    "slug": "anmat-prohibe-productos-medicos-de-la-firma-medtronic",
     "organismo": "ANMAT / INAL",
     "fecha": "2026-09-21",
     "impacto": "alto",
-    "categoria": "importacion",
+    "categoria": "logistica",
     "tags": [
-      "productos medicos",
-      "ANMAT",
-      "prohibicion",
-      "despacho de aduana",
-      "cumplimiento normativo"
+      "ANMAT"
     ],
-    "titulo": "ANMAT prohíbe la comercialización y uso de productos médicos de la firma Medtronic",
-    "resumen": "La medida establece la prohibición del uso, distribución y comercialización de lotes específicos de productos médicos de Medtronic por irregularidades sanitarias. La resolución impide la circulación de estos insumos dentro del territorio nacional.",
-    "queSignifica": "Es imperativo verificar si el stock propio o los embarques en tránsito coinciden con los números de lote y descripción detallados en la normativa. Se recomienda consultar con el departamento de Asuntos Regulatorios y suspender cualquier operación de libramiento hasta confirmar que los productos no estén alcanzados por la restricción.",
+    "titulo": "ANMAT prohíbe productos médicos de la firma Medtronic",
+    "resumen": "ANMAT prohíbe productos médicos de la firma Medtronic",
+    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
     "fuente": {
       "nombre": "ANMAT – Alertas",
       "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-productos-medicos-de-la-firma-medtronic"
     },
     "publicadoEn": "2026-09-21T16:08:43.062Z",
-    "actualizadoEn": "2026-09-21T16:08:54.203Z"
+    "actualizadoEn": "2026-09-22T14:19:31.815Z"
   },
   {
-    "id": "2026-09-21-anmat-prohibe-todos-los-productos-medicos-y-medicamentos-de-la-marca-caflab-y-ca-59496b",
+    "id": "2026-09-22-anmat-prohibe-todos-los-productos-medicos-y-medicamentos-de-la-marca-caflab-y-ca-38fe86",
     "slug": "anmat-prohibe-todos-los-productos-medicos-y-medicamentos-de-la-marca-caflab-y-ca",
     "organismo": "ANMAT / INAL",
     "fecha": "2026-09-21",
@@ -107,7 +219,7 @@
       "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-todos-los-productos-medicos-y-medicamentos-de-la-marca-caflab-y-caflab"
     },
     "publicadoEn": "2026-09-21T16:08:48.506Z",
-    "actualizadoEn": "2026-09-21T16:08:54.203Z"
+    "actualizadoEn": "2026-09-22T14:19:31.815Z"
   },
   {
     "id": "2026-09-21-indec-intercambio-comercial-argentino-agosto-2026-d11dad",
@@ -513,29 +625,6 @@
     "actualizadoEn": "2026-09-17T14:35:53.971Z"
   },
   {
-    "id": "2026-09-17-convocatoria-a-reunion-de-la-subcomision-de-tecnica-y-normativa-del-cda-741b31",
-    "slug": "convocatoria-a-reunion-de-la-subcomision-de-tecnica-y-normativa-del-cda",
-    "organismo": "Aduana",
-    "fecha": "2026-09-14",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "CDA",
-      "capacitacion",
-      "normativa aduanera",
-      "actualizacion tecnica"
-    ],
-    "titulo": "Convocatoria a reunión de la Subcomisión de Técnica y Normativa del CDA",
-    "resumen": "El CDA convoca a sus asociados a una reunión informativa y técnica para debatir novedades normativas recientes.",
-    "queSignifica": "Se sugiere a los despachantes verificar el temario de la reunión para identificar posibles impactos en la operativa diaria y participar si se requiere actualización técnica.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42758"
-    },
-    "publicadoEn": "2026-09-14T16:05:38.422Z",
-    "actualizadoEn": "2026-09-17T14:35:53.971Z"
-  },
-  {
     "id": "2026-09-14-beneficio-exclusivo-para-socios-del-cda-20-de-descuento-en-0230b5",
     "slug": "beneficio-exclusivo-para-socios-del-cda-20-de-descuento-en",
     "organismo": "CDA",
@@ -714,28 +803,5 @@
     "normativaRef": "Comunicación \"A\" 8476/2026",
     "publicadoEn": "2026-09-09T14:04:20.104Z",
     "actualizadoEn": "2026-09-11T13:59:19.709Z"
-  },
-  {
-    "id": "2026-09-10-recordatorio-de-aporte-solidario-para-socios-vitalicios-del-cda-cdbab6",
-    "slug": "recordatorio-de-aporte-solidario-para-socios-vitalicios-del-cda",
-    "organismo": "Aduana",
-    "fecha": "2026-09-07",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "CDA",
-      "institucional",
-      "socios vitalicios",
-      "comercio exterior"
-    ],
-    "titulo": "Recordatorio de aporte solidario para socios vitalicios del CDA",
-    "resumen": "El Centro Despachantes de Aduana solicita la colaboración económica de sus socios vitalicios para el sostenimiento institucional.",
-    "queSignifica": "Es una comunicación de índole interna y gremial sin impacto operativo en la gestión aduanera. Se sugiere verificar el estado de cuenta si usted es socio vitalicio, aunque no afecta el despacho de mercaderías.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42521"
-    },
-    "publicadoEn": "2026-09-08T14:03:15.315Z",
-    "actualizadoEn": "2026-09-10T14:00:01.818Z"
   }
 ]
