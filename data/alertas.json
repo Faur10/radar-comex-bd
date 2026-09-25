@@ -1,106 +1,61 @@
 [
   {
-    "id": "2026-09-23-bcra-tipo-de-cambio-mulc-del-dia-50e76f",
-    "slug": "bcra-tipo-de-cambio-mulc-del-dia",
+    "id": "2026-09-25-actualizacion-del-tipo-de-cambio-oficial-del-bcra-al-24-de-septiembre-de-2026-7dc6ab",
+    "slug": "actualizacion-del-tipo-de-cambio-oficial-del-bcra-al-24-de-septiembre-de-2026",
     "organismo": "BCRA",
-    "fecha": "2026-09-23",
-    "impacto": "alto",
+    "fecha": "2026-09-25",
+    "impacto": "bajo",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "tipo de cambio"
+      "tipo de cambio",
+      "divisas",
+      "operaciones cambiarias",
+      "BCRA"
     ],
-    "titulo": "BCRA – Tipo de Cambio MULC del día",
-    "resumen": "Tipo de Cambio MULC ($ por USD): 1076.45 — al 2026-09-22",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
+    "titulo": "Actualización del tipo de cambio oficial del BCRA al 24 de septiembre de 2026",
+    "resumen": "El BCRA ha publicado la cotización del dólar estadounidense para el mercado único y libre de cambios correspondiente a la fecha indicada.",
+    "queSignifica": "Se sugiere verificar este valor de referencia al momento de liquidar divisas o realizar pagos al exterior. Debe validarse contra los registros contables y bancarios propios para asegurar la correcta valuación de las operaciones vigentes.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-09-23T14:36:12.185Z"
+    "actualizadoEn": "2026-09-25T14:55:16.407Z"
   },
   {
-    "id": "2026-09-23-hoy-presentacion-del-libro-el-acuerdo-mercosurue-r-a287fd",
-    "slug": "hoy-presentacion-del-libro-el-acuerdo-mercosurue-r",
-    "organismo": "CDA",
-    "fecha": "2026-09-23",
+    "id": "2026-09-25-implementacion-de-servicio-de-alquiler-de-lockers-en-sede-c-del-cda-0d6d15",
+    "slug": "implementacion-de-servicio-de-alquiler-de-lockers-en-sede-c-del-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-09-25",
     "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [],
-    "titulo": "#HOY Presentación del libro ´´El Acuerdo MERCOSUR–UE: R",
-    "resumen": "El Centro Despachantes de Aduana (CDA) será sede de la presentación del libro “El Acuerdo MERCOSUR–UE. Régimen Jurídico Aduanero”,...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "categoria": "logistica",
+    "tags": [
+      "CDA",
+      "logistica",
+      "infraestructura",
+      "servicios",
+      "comercio exterior"
+    ],
+    "titulo": "Implementación de servicio de alquiler de lockers en Sede C del CDA",
+    "resumen": "El Centro Despachantes de Aduana anuncia la futura disponibilidad de lockers para alquiler en su sede ubicada en la calle Chacabuco.",
+    "queSignifica": "Es un servicio administrativo opcional para los socios; se recomienda verificar con el CDA las condiciones de contratación y disponibilidad si requiere resguardo de documentación o efectos personales.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42748"
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42789"
     },
-    "publicadoEn": "2026-09-16T14:30:29.390Z",
-    "actualizadoEn": "2026-09-23T14:36:12.185Z"
+    "publicadoEn": "2026-09-25T14:53:54.348Z",
+    "actualizadoEn": "2026-09-25T14:55:16.407Z"
   },
   {
-    "id": "2026-09-23-hoy-mesa-de-trabajo-dnu-70-reforma-del-codigo-aduanero-e8ee2b",
-    "slug": "hoy-mesa-de-trabajo-dnu-70-reforma-del-codigo-aduanero",
+    "id": "2026-09-25-hoy-participa-de-la-reunion-de-la-subcomision-de-tecnic-4efa9c",
+    "slug": "hoy-participa-de-la-reunion-de-la-subcomision-de-tecnic",
     "organismo": "CDA",
-    "fecha": "2026-09-23",
+    "fecha": "2026-09-25",
     "impacto": "bajo",
     "categoria": "importacion",
     "tags": [],
-    "titulo": "#HOY Mesa de Trabajo: DNU 70 - Reforma del Código Aduanero",
-    "resumen": "El Centro Despachantes de Aduana (CDA) invita a todos sus asociados a participar de una nueva Mesa de Trabajo, que se realizará el próximo...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42771"
-    },
-    "publicadoEn": "2026-09-16T14:30:40.921Z",
-    "actualizadoEn": "2026-09-23T14:36:12.185Z"
-  },
-  {
-    "id": "2026-09-23-hoy-reunion-por-el-proyecto-de-un-nuevo-convenio-colectivo-67d3a0",
-    "slug": "hoy-reunion-por-el-proyecto-de-un-nuevo-convenio-colectivo",
-    "organismo": "CDA",
-    "fecha": "2026-09-23",
-    "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [],
-    "titulo": "#HOY Reunión por el proyecto de un nuevo Convenio Colectivo",
-    "resumen": "El Centro Despachantes de Aduana (CDA) convoca a sus asociados a participar de una importante reunión en la que se tratará el proyecto de ...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42776"
-    },
-    "publicadoEn": "2026-09-17T14:34:39.400Z",
-    "actualizadoEn": "2026-09-23T14:36:12.185Z"
-  },
-  {
-    "id": "2026-09-23-coworking-cda-tu-oficina-en-la-casa-de-todos-los-despachan-51f435",
-    "slug": "coworking-cda-tu-oficina-en-la-casa-de-todos-los-despachan",
-    "organismo": "CDA",
-    "fecha": "2026-09-22",
-    "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [],
-    "titulo": "Coworking CDA - Tu oficina en la casa de todos los despachan",
-    "resumen": "Con el objetivo de continuar ampliando los servicios que brinda a sus asociados, el Centro Despachantes de Aduana (CDA) recuerda que ya se e...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42526"
-    },
-    "publicadoEn": "2026-09-22T14:17:55.313Z",
-    "actualizadoEn": "2026-09-23T14:36:12.185Z"
-  },
-  {
-    "id": "2026-09-23-participa-de-la-reunion-de-la-subcomision-de-tecnica-y-n-6d8781",
-    "slug": "participa-de-la-reunion-de-la-subcomision-de-tecnica-y-n",
-    "organismo": "CDA",
-    "fecha": "2026-09-22",
-    "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [],
-    "titulo": "Participá de la Reunión de la Subcomisión de Técnica y N",
+    "titulo": "#HOY Participá de la Reunión de la Subcomisión de Técnic",
     "resumen": "El Centro Despachantes de Aduana (CDA) invita a sus asociados a participar de una nueva reunión de Técnica y Normativa que se llevará a c...",
     "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
     "fuente": {
@@ -108,7 +63,211 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42758"
     },
     "publicadoEn": "2026-09-14T16:05:38.422Z",
-    "actualizadoEn": "2026-09-23T14:36:12.185Z"
+    "actualizadoEn": "2026-09-25T14:55:16.407Z"
+  },
+  {
+    "id": "2026-09-25-presentacion-del-libro-sobre-el-acuerdo-comercial-mercosur-union-europea-fc14c8",
+    "slug": "presentacion-del-libro-sobre-el-acuerdo-comercial-mercosur-union-europea",
+    "organismo": "Aduana",
+    "fecha": "2026-09-24",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "MERCOSUR",
+      "Union Europea",
+      "Acuerdo Comercial",
+      "Integracion Regional",
+      "Politica Comercial"
+    ],
+    "titulo": "Presentación del libro sobre el acuerdo comercial MERCOSUR-Unión Europea",
+    "resumen": "El CDA realizó la presentación de una obra técnica que analiza el estado y los desafíos del acuerdo de libre comercio entre el MERCOSUR y la Unión Europea. La actividad tuvo un carácter netamente informativo y académico.",
+    "queSignifica": "Es una instancia de actualización profesional; se sugiere revisar el material bibliográfico presentado para comprender el marco prospectivo de las negociaciones y su posible impacto a largo plazo en el comercio exterior.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42784"
+    },
+    "publicadoEn": "2026-09-25T14:54:05.534Z",
+    "actualizadoEn": "2026-09-25T14:55:16.407Z"
+  },
+  {
+    "id": "2026-09-25-correo-electronico-de-teim-comunicacion-complementaria-c994f9",
+    "slug": "correo-electronico-de-teim-comunicacion-complementaria",
+    "organismo": "CDA",
+    "fecha": "2026-09-24",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "CORREO ELECTRÓNICO (DE TEIM): Comunicación complementaria",
+    "resumen": "El Centro Despachantes de Aduana (CDA) informa a sus asociados que, por medio de un correo electrónico, el Departamento Técnica de Importa...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42783"
+    },
+    "publicadoEn": "2026-09-25T14:54:12.525Z",
+    "actualizadoEn": "2026-09-25T14:55:16.407Z"
+  },
+  {
+    "id": "2026-09-25-mesa-de-trabajo-dnu-70-reforma-del-codigo-aduanero-inf-a290cf",
+    "slug": "mesa-de-trabajo-dnu-70-reforma-del-codigo-aduanero-inf",
+    "organismo": "CDA",
+    "fecha": "2026-09-24",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "Mesa de Trabajo: DNU 70 - Reforma del Código Aduanero - Inf",
+    "resumen": "El Centro Despachantes de Aduana (CDA) invita a todos sus asociados a participar de una nueva Mesa de Trabajo, que se realizará el próximo...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42771"
+    },
+    "publicadoEn": "2026-09-16T14:30:40.921Z",
+    "actualizadoEn": "2026-09-25T14:55:16.407Z"
+  },
+  {
+    "id": "2026-09-25-acciones-de-control-fitosanitario-contra-la-mosca-de-la-fruta-en-la-region-patag-4a5994",
+    "slug": "acciones-de-control-fitosanitario-contra-la-mosca-de-la-fruta-en-la-region-patag",
+    "organismo": "SENASA",
+    "fecha": "2026-09-24",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "fitosanitario",
+      "barrera sanitaria",
+      "SENASA",
+      "fruta",
+      "Patagonia"
+    ],
+    "titulo": "Acciones de control fitosanitario contra la Mosca de la Fruta en la región patagónica",
+    "resumen": "SENASA intensifica tareas de muestreo, poda y erradicación de hospederos para preservar el estatus fitosanitario de la Patagonia.",
+    "queSignifica": "Se sugiere a los operadores de carga verificar los requisitos fitosanitarios vigentes para el traslado de productos vegetales hacia la Patagonia. Es prudente consultar con su agente de carga si su mercadería requiere certificaciones adicionales para ingresar a áreas protegidas.",
+    "fuente": {
+      "nombre": "SENASA Comunica",
+      "url": "https://www.argentina.gob.ar/noticias/tareas-preventivas-para-mantener-la-patagonia-libre-de-las-moscas-de-la-fruta"
+    },
+    "publicadoEn": "2026-09-25T14:54:44.950Z",
+    "actualizadoEn": "2026-09-25T14:55:16.407Z"
+  },
+  {
+    "id": "2026-09-25-simplificacion-en-la-autorizacion-de-productos-fitosanitarios-para-cultivos-meno-ddac36",
+    "slug": "simplificacion-en-la-autorizacion-de-productos-fitosanitarios-para-cultivos-meno",
+    "organismo": "SENASA",
+    "fecha": "2026-09-24",
+    "impacto": "medio",
+    "categoria": "normativa",
+    "tags": [
+      "fitosanitarios",
+      "SENASA",
+      "regulatorio",
+      "homologaciones",
+      "permisos de importación"
+    ],
+    "titulo": "Simplificación en la autorización de productos fitosanitarios para cultivos menores",
+    "resumen": "SENASA estableció un procedimiento simplificado para autorizar productos fitosanitarios destinados a cultivos menores y plagas bajo control oficial. La norma también integra nuevos métodos de aplicación dentro del marco regulatorio.",
+    "queSignifica": "Los importadores de insumos químicos deben revisar si sus productos pendientes de registro encuadran en este nuevo procedimiento de autorización. Se recomienda verificar con el departamento técnico la aplicabilidad de esta simplificación para agilizar futuros despachos.",
+    "fuente": {
+      "nombre": "SENASA Comunica",
+      "url": "https://www.argentina.gob.ar/noticias/se-facilita-la-autorizacion-de-productos-fitosanitarios-para-cultivos-menores"
+    },
+    "publicadoEn": "2026-09-25T14:55:00.505Z",
+    "actualizadoEn": "2026-09-25T14:55:16.407Z"
+  },
+  {
+    "id": "2026-09-25-prohibicion-de-comercializacion-e-importacion-de-productos-con-retatrutide-bc1cb0",
+    "slug": "prohibicion-de-comercializacion-e-importacion-de-productos-con-retatrutide",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-09-24",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "ANMAT",
+      "prohibición",
+      "productos farmacéuticos",
+      "SIM",
+      "cumplimiento normativo"
+    ],
+    "titulo": "Prohibición de comercialización e importación de productos con retatrutide",
+    "resumen": "La ANMAT prohíbe el uso, comercialización y distribución de todo producto que declare contener el principio activo retatrutide o retatrutida. La medida se fundamenta en la ausencia de registro sanitario y validación de seguridad ante el organismo.",
+    "queSignifica": "El importador debe verificar exhaustivamente la composición de sus productos y verificar en el sistema VUCE/SIM que no se encuentren alcanzados por esta restricción. Se recomienda consultar con el área de asuntos regulatorios para asegurar que ninguna mercadería pendiente de despacho contenga dicha sustancia.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-productos-que-declaren-contener-retatrutide-o-retatrutida"
+    },
+    "publicadoEn": "2026-09-25T14:55:08.526Z",
+    "actualizadoEn": "2026-09-25T14:55:16.407Z"
+  },
+  {
+    "id": "2026-09-25-reunion-informativa-sobre-el-proyecto-del-nuevo-convenio-colectivo-de-trabajo-de-0f9a78",
+    "slug": "reunion-informativa-sobre-el-proyecto-del-nuevo-convenio-colectivo-de-trabajo-de",
+    "organismo": "Aduana",
+    "fecha": "2026-09-23",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "CDA",
+      "Convenio Colectivo de Trabajo",
+      "gremial",
+      "despachantes de aduana",
+      "representación"
+    ],
+    "titulo": "Reunión informativa sobre el proyecto del nuevo Convenio Colectivo de Trabajo del CDA",
+    "resumen": "El Centro Despachantes de Aduana convoca a sus asociados a debatir el proyecto de un nuevo marco normativo laboral para el sector.",
+    "queSignifica": "Se recomienda a los titulares de despachantes participar en la reunión para conocer cómo los cambios propuestos podrían afectar la estructura laboral de su agencia. Es prudente revisar los borradores presentados para evaluar futuras adecuaciones administrativas.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42776"
+    },
+    "publicadoEn": "2026-09-17T14:34:39.400Z",
+    "actualizadoEn": "2026-09-25T14:55:16.407Z"
+  },
+  {
+    "id": "2026-09-25-presentacion-del-libro-sobre-el-regimen-juridico-del-acuerdo-mercosur-ue-2c4441",
+    "slug": "presentacion-del-libro-sobre-el-regimen-juridico-del-acuerdo-mercosur-ue",
+    "organismo": "Aduana",
+    "fecha": "2026-09-23",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "MERCOSUR",
+      "Unión Europea",
+      "Acuerdo Comercial",
+      "Regimen Aduanero",
+      "Derecho Aduanero"
+    ],
+    "titulo": "Presentación del libro sobre el régimen jurídico del acuerdo MERCOSUR-UE",
+    "resumen": "El Centro Despachantes de Aduana presenta una obra técnica sobre el marco jurídico del futuro acuerdo entre el MERCOSUR y la Unión Europea. El contenido se enfoca en el análisis teórico y normativo de las disposiciones aduaneras propuestas.",
+    "queSignifica": "Esta es una instancia informativa. Se sugiere revisar la publicación para comprender los alcances técnicos potenciales del acuerdo, sin que esto implique cambios operativos actuales en la gestión de destinaciones.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42748"
+    },
+    "publicadoEn": "2026-09-16T14:30:29.390Z",
+    "actualizadoEn": "2026-09-25T14:55:16.407Z"
+  },
+  {
+    "id": "2026-09-25-servicio-de-espacios-de-trabajo-compartido-para-asociados-del-cda-b4baae",
+    "slug": "servicio-de-espacios-de-trabajo-compartido-para-asociados-del-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-09-22",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "CDA",
+      "infraestructura",
+      "servicios",
+      "despachante",
+      "oficinas"
+    ],
+    "titulo": "Servicio de espacios de trabajo compartido para asociados del CDA",
+    "resumen": "El Centro Despachantes de Aduana informa la disponibilidad de puestos de trabajo y oficinas para el uso de sus asociados.",
+    "queSignifica": "Es una novedad de carácter institucional y logístico. Se sugiere revisar la disponibilidad y condiciones de uso en la sede del CDA en caso de requerir espacios físicos operativos.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42526"
+    },
+    "publicadoEn": "2026-09-22T14:17:55.313Z",
+    "actualizadoEn": "2026-09-25T14:55:16.407Z"
   },
   {
     "id": "2026-09-23-resog-2026-5898-e-arca-arca-impuesto-a-las-ganancias-periodo-fiscal-2025-plazo-e-d9074d",
@@ -696,81 +855,6 @@
     },
     "normativaRef": "Resolución General 5895/2026",
     "publicadoEn": "2026-09-11T13:58:33.023Z",
-    "actualizadoEn": "2026-09-11T13:59:19.709Z"
-  },
-  {
-    "id": "2026-09-11-actualizacion-sobre-acceso-al-mercado-unico-y-libre-de-cambios-mulc-be6486",
-    "slug": "actualizacion-sobre-acceso-al-mercado-unico-y-libre-de-cambios-mulc",
-    "organismo": "BCRA",
-    "fecha": "2026-09-10",
-    "impacto": "alto",
-    "categoria": "normativa",
-    "tags": [
-      "BCRA",
-      "MULC",
-      "Acceso al Mercado de Cambios",
-      "Operaciones de Cambio",
-      "Comunicación A"
-    ],
-    "titulo": "Actualización sobre acceso al Mercado Único y Libre de Cambios (MULC)",
-    "resumen": "La Comunicación 'A' 8473 establece nuevas disposiciones operativas para el acceso a divisas mediante el MULC. Regula las condiciones de pago y plazos aplicables para operaciones de comercio exterior.",
-    "queSignifica": "Es necesario que revise junto a su entidad financiera si las operaciones pendientes cumplen con los nuevos plazos y requisitos documentales exigidos. Se sugiere verificar el impacto específico en sus giros de divisas antes de confirmar nuevas operaciones de pago al exterior.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/347247/20260910"
-    },
-    "normativaRef": "Comunicación \"A\" 8473/2026",
-    "publicadoEn": "2026-09-11T13:58:42.991Z",
-    "actualizadoEn": "2026-09-11T13:59:19.709Z"
-  },
-  {
-    "id": "2026-09-11-actualizacion-de-las-normas-sobre-el-acceso-al-mercado-unico-y-libre-de-cambios-d16f4a",
-    "slug": "actualizacion-de-las-normas-sobre-el-acceso-al-mercado-unico-y-libre-de-cambios",
-    "organismo": "BCRA",
-    "fecha": "2026-09-10",
-    "impacto": "alto",
-    "categoria": "normativa",
-    "tags": [
-      "MULC",
-      "Acceso al Mercado de Cambios",
-      "Pagos al exterior",
-      "BCRA",
-      "Normativa cambiaria"
-    ],
-    "titulo": "Actualización de las normas sobre el acceso al Mercado Único y Libre de Cambios",
-    "resumen": "La norma establece nuevas condiciones y requisitos para el acceso a divisas mediante el mercado cambiario oficial. Modifica los criterios de conformidad previa y plazos para cursar pagos de operaciones de comercio exterior.",
-    "queSignifica": "Es imperativo que revise con su entidad bancaria la aplicación de esta norma a sus operaciones pendientes o futuras. Se recomienda verificar los nuevos requisitos documentales y plazos de acceso antes de comprometer nuevos pagos.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/347248/20260910"
-    },
-    "normativaRef": "Comunicación \"A\" 8478/2026",
-    "publicadoEn": "2026-09-11T13:58:50.917Z",
-    "actualizadoEn": "2026-09-11T13:59:19.709Z"
-  },
-  {
-    "id": "2026-09-11-actualizacion-de-normas-sobre-acceso-al-mercado-unico-y-libre-de-cambios-bfd502",
-    "slug": "actualizacion-de-normas-sobre-acceso-al-mercado-unico-y-libre-de-cambios",
-    "organismo": "BCRA",
-    "fecha": "2026-09-09",
-    "impacto": "alto",
-    "categoria": "normativa",
-    "tags": [
-      "MULC",
-      "acceso al mercado",
-      "pago de importaciones",
-      "BCRA",
-      "giro de divisas"
-    ],
-    "titulo": "Actualización de normas sobre acceso al Mercado Único y Libre de Cambios",
-    "resumen": "La norma establece nuevos requisitos y condiciones para el acceso al MULC por parte de las entidades financieras y sus clientes. Modifica los procedimientos vigentes para la liquidación de operaciones de comercio exterior.",
-    "queSignifica": "Debe revisar con su entidad bancaria la documentación respaldatoria exigida para nuevas operaciones de giro de divisas. Se recomienda verificar si su operatoria actual cumple con los nuevos plazos y declaraciones juradas estipuladas por esta comunicación.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/347186/20260909"
-    },
-    "normativaRef": "Comunicación \"A\" 8476/2026",
-    "publicadoEn": "2026-09-09T14:04:20.104Z",
     "actualizadoEn": "2026-09-11T13:59:19.709Z"
   }
 ]
