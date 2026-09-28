@@ -1,54 +1,63 @@
 [
   {
-    "id": "2026-09-25-actualizacion-del-tipo-de-cambio-oficial-del-bcra-al-24-de-septiembre-de-2026-7dc6ab",
-    "slug": "actualizacion-del-tipo-de-cambio-oficial-del-bcra-al-24-de-septiembre-de-2026",
+    "id": "2026-09-28-bcra-tipo-de-cambio-mulc-del-dia-761a48",
+    "slug": "bcra-tipo-de-cambio-mulc-del-dia",
     "organismo": "BCRA",
-    "fecha": "2026-09-25",
-    "impacto": "bajo",
+    "fecha": "2026-09-28",
+    "impacto": "alto",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "tipo de cambio",
-      "divisas",
-      "operaciones cambiarias",
-      "BCRA"
+      "tipo de cambio"
     ],
-    "titulo": "Actualización del tipo de cambio oficial del BCRA al 24 de septiembre de 2026",
-    "resumen": "El BCRA ha publicado la cotización del dólar estadounidense para el mercado único y libre de cambios correspondiente a la fecha indicada.",
-    "queSignifica": "Se sugiere verificar este valor de referencia al momento de liquidar divisas o realizar pagos al exterior. Debe validarse contra los registros contables y bancarios propios para asegurar la correcta valuación de las operaciones vigentes.",
+    "titulo": "BCRA – Tipo de Cambio MULC del día",
+    "resumen": "Tipo de Cambio MULC ($ por USD): 1071.97 — al 2026-09-25",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-09-25T14:55:16.407Z"
+    "actualizadoEn": "2026-09-28T17:56:13.349Z"
   },
   {
-    "id": "2026-09-25-implementacion-de-servicio-de-alquiler-de-lockers-en-sede-c-del-cda-0d6d15",
-    "slug": "implementacion-de-servicio-de-alquiler-de-lockers-en-sede-c-del-cda",
-    "organismo": "Aduana",
+    "id": "2026-09-28-nuevo-servicio-para-socios-alquiler-de-lockers-en-sede-cent-45b952",
+    "slug": "nuevo-servicio-para-socios-alquiler-de-lockers-en-sede-cent",
+    "organismo": "CDA",
     "fecha": "2026-09-25",
     "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "CDA",
-      "logistica",
-      "infraestructura",
-      "servicios",
-      "comercio exterior"
-    ],
-    "titulo": "Implementación de servicio de alquiler de lockers en Sede C del CDA",
-    "resumen": "El Centro Despachantes de Aduana anuncia la futura disponibilidad de lockers para alquiler en su sede ubicada en la calle Chacabuco.",
-    "queSignifica": "Es un servicio administrativo opcional para los socios; se recomienda verificar con el CDA las condiciones de contratación y disponibilidad si requiere resguardo de documentación o efectos personales.",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "Nuevo servicio para socios: Alquiler de lockers en Sede Cent",
+    "resumen": "El Centro Despachantes de Aduana (CDA) informa a sus asociados que próximamente estará disponible un nuevo servicio de alquiler de lockers...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42789"
     },
     "publicadoEn": "2026-09-25T14:53:54.348Z",
-    "actualizadoEn": "2026-09-25T14:55:16.407Z"
+    "actualizadoEn": "2026-09-28T17:56:13.349Z"
   },
   {
-    "id": "2026-09-25-hoy-participa-de-la-reunion-de-la-subcomision-de-tecnic-4efa9c",
+    "id": "2026-09-28-mesa-de-trabajo-el-cda-y-sus-socios-avanzan-en-nuevas-accio-2d2ceb",
+    "slug": "mesa-de-trabajo-el-cda-y-sus-socios-avanzan-en-nuevas-accio",
+    "organismo": "CDA",
+    "fecha": "2026-09-25",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "Mesa de Trabajo: el CDA y sus socios avanzan en nuevas accio",
+    "resumen": "El miércoles 23 de septiembre se llevó a cabo una nueva reunión de la Mesa de Trabajo del Centro Despachantes de Aduana (CDA), dando cont...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42786"
+    },
+    "publicadoEn": "2026-09-28T17:55:52.327Z",
+    "actualizadoEn": "2026-09-28T17:56:13.349Z"
+  },
+  {
+    "id": "2026-09-28-hoy-participa-de-la-reunion-de-la-subcomision-de-tecnic-1f9cf5",
     "slug": "hoy-participa-de-la-reunion-de-la-subcomision-de-tecnic",
     "organismo": "CDA",
     "fecha": "2026-09-25",
@@ -63,7 +72,46 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42758"
     },
     "publicadoEn": "2026-09-14T16:05:38.422Z",
-    "actualizadoEn": "2026-09-25T14:55:16.407Z"
+    "actualizadoEn": "2026-09-28T17:56:13.349Z"
+  },
+  {
+    "id": "2026-09-28-tucura-sapo-deteccion-temprana-y-trabajo-conjunto-para-la-prevencion-de-la-plaga-5323e1",
+    "slug": "tucura-sapo-deteccion-temprana-y-trabajo-conjunto-para-la-prevencion-de-la-plaga",
+    "organismo": "SENASA",
+    "fecha": "2026-09-25",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "SENASA",
+      "fitosanitario"
+    ],
+    "titulo": "Tucura sapo: Detección temprana y trabajo conjunto para la prevención de la plaga",
+    "resumen": "Es clave intensificar el monitoreo y realizar el control temprano utilizando productos fitosanitarios autorizados por el SENASA.",
+    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
+    "fuente": {
+      "nombre": "SENASA Comunica",
+      "url": "https://www.argentina.gob.ar/noticias/tucura-sapo-deteccion-temprana-y-trabajo-conjunto-para-la-prevencion-de-la-plaga"
+    },
+    "publicadoEn": "2026-09-28T17:56:03.650Z",
+    "actualizadoEn": "2026-09-28T17:56:13.349Z"
+  },
+  {
+    "id": "2026-09-28-herramientas-para-mejorar-la-confiabilidad-de-los-equipos-en-la-industria-alimen-d7ce5b",
+    "slug": "herramientas-para-mejorar-la-confiabilidad-de-los-equipos-en-la-industria-alimen",
+    "organismo": "INTI",
+    "fecha": "2026-09-25",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [],
+    "titulo": "Herramientas para mejorar la confiabilidad de los equipos en la industria alimentaria",
+    "resumen": "En un nuevo webinario organizado por el Instituto Nacional de Tecnología Industrial (INTI) se presentó un software de gestión integral para el mantenimiento de equipamiento que ya implementaron...",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
+    "fuente": {
+      "nombre": "INTI – Noticias",
+      "url": "https://www.argentina.gob.ar/noticias/herramientas-para-mejorar-la-confiabilidad-de-los-equipos-en-la-industria-alimentaria"
+    },
+    "publicadoEn": "2026-09-28T17:56:08.376Z",
+    "actualizadoEn": "2026-09-28T17:56:13.349Z"
   },
   {
     "id": "2026-09-25-presentacion-del-libro-sobre-el-acuerdo-comercial-mercosur-union-europea-fc14c8",
@@ -751,110 +799,5 @@
     "normativaRef": "Comunicación \"A\" 8479/2026",
     "publicadoEn": "2026-09-15T14:34:49.481Z",
     "actualizadoEn": "2026-09-17T14:35:53.971Z"
-  },
-  {
-    "id": "2026-09-14-beneficio-exclusivo-para-socios-del-cda-20-de-descuento-en-0230b5",
-    "slug": "beneficio-exclusivo-para-socios-del-cda-20-de-descuento-en",
-    "organismo": "CDA",
-    "fecha": "2026-09-11",
-    "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [],
-    "titulo": "Beneficio exclusivo para socios del CDA: 20% de descuento en",
-    "resumen": "El Centro Despachantes de Aduana (CDA) informa a sus asociados que podrán acceder a un 20% de descuento en las propuestas de capacitación ...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42742"
-    },
-    "publicadoEn": "2026-09-14T16:05:33.046Z",
-    "actualizadoEn": "2026-09-14T16:06:17.954Z"
-  },
-  {
-    "id": "2026-09-14-vucea-incorporacion-de-las-resoluciones-aprobatorias-y-cet-2b8b81",
-    "slug": "vucea-incorporacion-de-las-resoluciones-aprobatorias-y-cet",
-    "organismo": "CDA",
-    "fecha": "2026-09-11",
-    "impacto": "alto",
-    "categoria": "normativa",
-    "tags": [
-      "ARCA"
-    ],
-    "titulo": "VUCEA: incorporación de las resoluciones aprobatorias y CET",
-    "resumen": "La Resolución General ARCA Nº 5892, publicada el día 31 de agosto, incorpora al Régimen Nacional de Ventanilla Única de Comercio Exteri...",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42730"
-    },
-    "publicadoEn": "2026-09-10T13:59:51.110Z",
-    "actualizadoEn": "2026-09-14T16:06:17.954Z"
-  },
-  {
-    "id": "2026-09-14-charla-informativa-sobre-normativas-y-procedimientos-ante-el-senasa-c9dac2",
-    "slug": "charla-informativa-sobre-normativas-y-procedimientos-ante-el-senasa",
-    "organismo": "SENASA",
-    "fecha": "2026-09-11",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "SENASA",
-      "capacitacion",
-      "comercio exterior",
-      "normativa sanitaria",
-      "gestion operativa"
-    ],
-    "titulo": "Charla informativa sobre normativas y procedimientos ante el SENASA",
-    "resumen": "El Centro Despachantes de Aduana convoca a una charla informativa brindada por el SENASA.",
-    "queSignifica": "Se recomienda a los operadores verificar la convocatoria para actualizar criterios sobre trámites sanitarios, aunque la asistencia no altera las operaciones vigentes.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42749"
-    },
-    "publicadoEn": "2026-09-09T14:04:25.805Z",
-    "actualizadoEn": "2026-09-14T16:06:17.954Z"
-  },
-  {
-    "id": "2026-09-14-retiro-del-mercado-de-un-lote-de-emotival-c96306",
-    "slug": "retiro-del-mercado-de-un-lote-de-emotival",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-09-11",
-    "impacto": "alto",
-    "categoria": "logistica",
-    "tags": [],
-    "titulo": "RETIRO DEL MERCADO DE UN LOTE DE EMOTIVAL",
-    "resumen": "RETIRO DEL MERCADO DE UN LOTE DE EMOTIVAL",
-    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/retiro-del-mercado-de-un-lote-de-emotival"
-    },
-    "publicadoEn": "2026-09-14T16:06:00.978Z",
-    "actualizadoEn": "2026-09-14T16:06:17.954Z"
-  },
-  {
-    "id": "2026-09-11-procedimiento-de-importacion-para-pilas-y-baterias-bajo-ley-26184-e11219",
-    "slug": "procedimiento-de-importacion-para-pilas-y-baterias-bajo-ley-26184",
-    "organismo": "ARCA",
-    "fecha": "2026-09-11",
-    "impacto": "medio",
-    "categoria": "importacion",
-    "tags": [
-      "pilas",
-      "baterías",
-      "Ley 26.184",
-      "SIM",
-      "seguridad eléctrica"
-    ],
-    "titulo": "Procedimiento de importación para pilas y baterías bajo Ley 26.184",
-    "resumen": "La norma establece las condiciones y controles específicos para la importación definitiva o temporal de pilas y baterías primarias conforme a la Ley 26.184.",
-    "queSignifica": "El importador debe revisar si sus productos cumplen con los requisitos de composición y certificación exigidos por la ley. Se recomienda verificar la vigencia de los certificados de seguridad eléctrica antes de oficializar la destinación en el sistema Malvina.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/347316/20260911"
-    },
-    "normativaRef": "Resolución General 5895/2026",
-    "publicadoEn": "2026-09-11T13:58:33.023Z",
-    "actualizadoEn": "2026-09-11T13:59:19.709Z"
   }
 ]
