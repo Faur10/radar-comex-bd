@@ -1,24 +1,93 @@
 [
   {
-    "id": "2026-09-28-bcra-tipo-de-cambio-mulc-del-dia-761a48",
-    "slug": "bcra-tipo-de-cambio-mulc-del-dia",
+    "id": "2026-09-29-cotizacion-del-dolar-oficial-en-el-mulc-al-28-de-septiembre-de-2026-2f204b",
+    "slug": "cotizacion-del-dolar-oficial-en-el-mulc-al-28-de-septiembre-de-2026",
     "organismo": "BCRA",
-    "fecha": "2026-09-28",
-    "impacto": "alto",
+    "fecha": "2026-09-29",
+    "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "tipo de cambio"
+      "tipo de cambio",
+      "divisas",
+      "operaciones cambiarias",
+      "BCRA"
     ],
-    "titulo": "BCRA – Tipo de Cambio MULC del día",
-    "resumen": "Tipo de Cambio MULC ($ por USD): 1071.97 — al 2026-09-25",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
+    "titulo": "Cotización del Dólar Oficial en el MULC al 28 de septiembre de 2026",
+    "resumen": "Se informa la cotización oficial del dólar estadounidense en el Mercado Único y Libre de Cambios para la fecha indicada. Este valor constituye la referencia base para la liquidación de divisas y pagos al exterior.",
+    "queSignifica": "Debe utilizar este valor como referencia para el cálculo de costos operativos y la liquidación de operaciones cambiarias. Se sugiere revisar la concordancia de este tipo de cambio con los registros contables y las proyecciones financieras de sus despachos vigentes.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-09-28T17:56:13.349Z"
+    "actualizadoEn": "2026-09-29T16:17:59.142Z"
+  },
+  {
+    "id": "2026-09-29-implementacion-de-cabinas-sim-remotas-para-el-acceso-al-sistema-e50062",
+    "slug": "implementacion-de-cabinas-sim-remotas-para-el-acceso-al-sistema",
+    "organismo": "Aduana",
+    "fecha": "2026-09-29",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "SIM",
+      "Malvina",
+      "Operatoria remota",
+      "Despachante de Aduana",
+      "Digitalización"
+    ],
+    "titulo": "Implementación de cabinas SIM remotas para el acceso al sistema",
+    "resumen": "La medida institucionaliza la posibilidad de acceder al Sistema Informático Malvina de manera remota para facilitar la gestión operativa. Se busca adaptar la infraestructura tecnológica a las necesidades de conectividad actual de los despachantes.",
+    "queSignifica": "Verifique los requisitos técnicos y de seguridad informática establecidos para el uso de cabinas remotas. Se sugiere consultar con los administradores de su área para confirmar si esta modalidad cumple con las normativas de acceso seguro exigidas por el organismo.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42479"
+    },
+    "publicadoEn": "2026-09-29T16:17:40.043Z",
+    "actualizadoEn": "2026-09-29T16:17:59.142Z"
+  },
+  {
+    "id": "2026-09-29-dos-orillas-un-mismo-desafio-especialistas-analizaron-el-2634a3",
+    "slug": "dos-orillas-un-mismo-desafio-especialistas-analizaron-el",
+    "organismo": "CDA",
+    "fecha": "2026-09-29",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "Dos orillas, un mismo desafío: especialistas analizaron el",
+    "resumen": "El Centro Despachantes de Aduana (CDA) fue sede en Buenos Aires de la presentación internacional del libro “El Acuerdo MERCOSUR–Unión ...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42784"
+    },
+    "publicadoEn": "2026-09-25T14:54:05.534Z",
+    "actualizadoEn": "2026-09-29T16:17:59.142Z"
+  },
+  {
+    "id": "2026-09-29-prohibicion-de-comercializacion-y-uso-de-productos-medicos-de-mw-distribuciones-938366",
+    "slug": "prohibicion-de-comercializacion-y-uso-de-productos-medicos-de-mw-distribuciones",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-09-29",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "productos medicos",
+      "prohibicion comercializacion",
+      "control sanitario",
+      "despacho a plaza",
+      "seguridad sanitaria"
+    ],
+    "titulo": "Prohibición de comercialización y uso de productos médicos de MW DISTRIBUCIONES",
+    "resumen": "La ANMAT dispuso la prohibición de uso y comercialización de todos los productos médicos fabricados o importados por la firma MW DISTRIBUCIONES. La medida se fundamenta en la falta de habilitación sanitaria vigente de la empresa.",
+    "queSignifica": "Debe verificar en su inventario o despachos en curso si existen productos asociados a esta firma. Se sugiere realizar una retención preventiva del stock y consultar el estado de habilitación de proveedores médicos ante ANMAT antes de continuar con cualquier operación.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-productos-medicos-fabricados-o-importados-por-mw-distribuciones"
+    },
+    "publicadoEn": "2026-09-29T16:17:52.134Z",
+    "actualizadoEn": "2026-09-29T16:17:59.142Z"
   },
   {
     "id": "2026-09-28-nuevo-servicio-para-socios-alquiler-de-lockers-en-sede-cent-45b952",
@@ -112,30 +181,6 @@
     },
     "publicadoEn": "2026-09-28T17:56:08.376Z",
     "actualizadoEn": "2026-09-28T17:56:13.349Z"
-  },
-  {
-    "id": "2026-09-25-presentacion-del-libro-sobre-el-acuerdo-comercial-mercosur-union-europea-fc14c8",
-    "slug": "presentacion-del-libro-sobre-el-acuerdo-comercial-mercosur-union-europea",
-    "organismo": "Aduana",
-    "fecha": "2026-09-24",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "MERCOSUR",
-      "Union Europea",
-      "Acuerdo Comercial",
-      "Integracion Regional",
-      "Politica Comercial"
-    ],
-    "titulo": "Presentación del libro sobre el acuerdo comercial MERCOSUR-Unión Europea",
-    "resumen": "El CDA realizó la presentación de una obra técnica que analiza el estado y los desafíos del acuerdo de libre comercio entre el MERCOSUR y la Unión Europea. La actividad tuvo un carácter netamente informativo y académico.",
-    "queSignifica": "Es una instancia de actualización profesional; se sugiere revisar el material bibliográfico presentado para comprender el marco prospectivo de las negociaciones y su posible impacto a largo plazo en el comercio exterior.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42784"
-    },
-    "publicadoEn": "2026-09-25T14:54:05.534Z",
-    "actualizadoEn": "2026-09-25T14:55:16.407Z"
   },
   {
     "id": "2026-09-25-correo-electronico-de-teim-comunicacion-complementaria-c994f9",
