@@ -1,54 +1,97 @@
 [
   {
-    "id": "2026-09-29-cotizacion-del-dolar-oficial-en-el-mulc-al-28-de-septiembre-de-2026-2f204b",
-    "slug": "cotizacion-del-dolar-oficial-en-el-mulc-al-28-de-septiembre-de-2026",
+    "id": "2026-09-30-actualizacion-del-tipo-de-cambio-oficial-mulc-al-29092026-62c3d8",
+    "slug": "actualizacion-del-tipo-de-cambio-oficial-mulc-al-29092026",
     "organismo": "BCRA",
-    "fecha": "2026-09-29",
+    "fecha": "2026-09-30",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
       "tipo de cambio",
       "divisas",
-      "operaciones cambiarias",
-      "BCRA"
+      "BCRA",
+      "comercio exterior"
     ],
-    "titulo": "Cotización del Dólar Oficial en el MULC al 28 de septiembre de 2026",
-    "resumen": "Se informa la cotización oficial del dólar estadounidense en el Mercado Único y Libre de Cambios para la fecha indicada. Este valor constituye la referencia base para la liquidación de divisas y pagos al exterior.",
-    "queSignifica": "Debe utilizar este valor como referencia para el cálculo de costos operativos y la liquidación de operaciones cambiarias. Se sugiere revisar la concordancia de este tipo de cambio con los registros contables y las proyecciones financieras de sus despachos vigentes.",
+    "titulo": "Actualización del tipo de cambio oficial (MULC) al 29/09/2026",
+    "resumen": "El BCRA ha fijado el tipo de cambio oficial de referencia para las operaciones en el Mercado Único y Libre de Cambios.",
+    "queSignifica": "Se sugiere verificar este valor de referencia para el cálculo de costos operativos y la liquidación de divisas en sus operaciones vigentes. Revise la cotización aplicada por su entidad bancaria antes de confirmar cualquier transacción cambiaria.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-09-29T16:17:59.142Z"
+    "actualizadoEn": "2026-09-30T16:12:44.802Z"
   },
   {
-    "id": "2026-09-29-implementacion-de-cabinas-sim-remotas-para-el-acceso-al-sistema-e50062",
-    "slug": "implementacion-de-cabinas-sim-remotas-para-el-acceso-al-sistema",
+    "id": "2026-09-30-xi-encuentro-nacional-de-despachantes-de-aduana-vii-encuen-d53c4c",
+    "slug": "xi-encuentro-nacional-de-despachantes-de-aduana-vii-encuen",
+    "organismo": "CDA",
+    "fecha": "2026-09-30",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "XI Encuentro Nacional de Despachantes de Aduana - VII Encuen",
+    "resumen": "El Centro Despachantes de Aduana (CDA) invita a sus socios a participar del XI Encuentro Nacional de Despachantes de Aduana y VII Encuentro ...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42791"
+    },
+    "publicadoEn": "2026-09-30T16:12:09.264Z",
+    "actualizadoEn": "2026-09-30T16:12:44.802Z"
+  },
+  {
+    "id": "2026-09-30-actualizacion-de-la-nomenclatura-comun-del-mercosur-b262e2",
+    "slug": "actualizacion-de-la-nomenclatura-comun-del-mercosur",
+    "organismo": "ARCA",
+    "fecha": "2026-09-29",
+    "impacto": "medio",
+    "categoria": "normativa",
+    "tags": [
+      "NCM",
+      "Clasificación Arancelaria",
+      "Aranceles",
+      "SIM",
+      "DGA"
+    ],
+    "titulo": "Actualización de la Nomenclatura Común del MERCOSUR",
+    "resumen": "La resolución establece modificaciones o adecuaciones en la codificación de la Nomenclatura Común del MERCOSUR (NCM) para la clasificación de mercaderías. Define los nuevos criterios arancelarios aplicables al comercio regional y extrazona.",
+    "queSignifica": "Debe verificar si los códigos NCM utilizados en sus operaciones han sufrido modificaciones y revisar si estos cambios impactan en los tributos o licencias aplicables. Se sugiere consultar con su despachante la correcta codificación antes de oficializar nuevos despachos.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348137/20260929"
+    },
+    "normativaRef": "Resolución General 5901/2026",
+    "publicadoEn": "2026-09-30T16:11:53.013Z",
+    "actualizadoEn": "2026-09-30T16:12:44.802Z"
+  },
+  {
+    "id": "2026-09-30-implementacion-de-conectividad-remota-para-el-sistema-informatico-malvina-72a931",
+    "slug": "implementacion-de-conectividad-remota-para-el-sistema-informatico-malvina",
     "organismo": "Aduana",
     "fecha": "2026-09-29",
     "impacto": "bajo",
-    "categoria": "normativa",
+    "categoria": "logistica",
     "tags": [
       "SIM",
       "Malvina",
-      "Operatoria remota",
-      "Despachante de Aduana",
-      "Digitalización"
+      "conectividad",
+      "gestión aduanera",
+      "operativa remota"
     ],
-    "titulo": "Implementación de cabinas SIM remotas para el acceso al sistema",
-    "resumen": "La medida institucionaliza la posibilidad de acceder al Sistema Informático Malvina de manera remota para facilitar la gestión operativa. Se busca adaptar la infraestructura tecnológica a las necesidades de conectividad actual de los despachantes.",
-    "queSignifica": "Verifique los requisitos técnicos y de seguridad informática establecidos para el uso de cabinas remotas. Se sugiere consultar con los administradores de su área para confirmar si esta modalidad cumple con las normativas de acceso seguro exigidas por el organismo.",
+    "titulo": "Implementación de conectividad remota para el Sistema Informático Malvina",
+    "resumen": "El CDA habilita la posibilidad de operar el Sistema Informático Malvina de manera remota para facilitar la gestión diaria de los despachantes.",
+    "queSignifica": "Debe verificar los requisitos de seguridad y conectividad exigidos por el organismo para el acceso remoto. Se recomienda revisar el instructivo técnico antes de migrar su puesto de trabajo habitual.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42479"
     },
     "publicadoEn": "2026-09-29T16:17:40.043Z",
-    "actualizadoEn": "2026-09-29T16:17:59.142Z"
+    "actualizadoEn": "2026-09-30T16:12:44.802Z"
   },
   {
-    "id": "2026-09-29-dos-orillas-un-mismo-desafio-especialistas-analizaron-el-2634a3",
+    "id": "2026-09-30-dos-orillas-un-mismo-desafio-especialistas-analizaron-el-5f805f",
     "slug": "dos-orillas-un-mismo-desafio-especialistas-analizaron-el",
     "organismo": "CDA",
     "fecha": "2026-09-29",
@@ -63,31 +106,31 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42784"
     },
     "publicadoEn": "2026-09-25T14:54:05.534Z",
-    "actualizadoEn": "2026-09-29T16:17:59.142Z"
+    "actualizadoEn": "2026-09-30T16:12:44.802Z"
   },
   {
-    "id": "2026-09-29-prohibicion-de-comercializacion-y-uso-de-productos-medicos-de-mw-distribuciones-938366",
+    "id": "2026-09-30-prohibicion-de-comercializacion-y-uso-de-productos-medicos-de-mw-distribuciones-c212a4",
     "slug": "prohibicion-de-comercializacion-y-uso-de-productos-medicos-de-mw-distribuciones",
     "organismo": "ANMAT / INAL",
     "fecha": "2026-09-29",
     "impacto": "alto",
     "categoria": "importacion",
     "tags": [
-      "productos medicos",
-      "prohibicion comercializacion",
+      "productos médicos",
+      "prohibición",
+      "ANMAT",
       "control sanitario",
-      "despacho a plaza",
-      "seguridad sanitaria"
+      "seguridad en frontera"
     ],
     "titulo": "Prohibición de comercialización y uso de productos médicos de MW DISTRIBUCIONES",
-    "resumen": "La ANMAT dispuso la prohibición de uso y comercialización de todos los productos médicos fabricados o importados por la firma MW DISTRIBUCIONES. La medida se fundamenta en la falta de habilitación sanitaria vigente de la empresa.",
-    "queSignifica": "Debe verificar en su inventario o despachos en curso si existen productos asociados a esta firma. Se sugiere realizar una retención preventiva del stock y consultar el estado de habilitación de proveedores médicos ante ANMAT antes de continuar con cualquier operación.",
+    "resumen": "La ANMAT prohibió la comercialización, distribución y uso de todos los productos médicos fabricados o importados por la firma MW DISTRIBUCIONES. Esta medida responde a irregularidades en la habilitación y control sanitario de dichos artículos.",
+    "queSignifica": "Verifique si cuenta con stock o despachos en curso de esta firma y suspenda su comercialización inmediatamente. Consulte con el departamento técnico de su empresa para constatar el estatus de sus registros ante la autoridad sanitaria.",
     "fuente": {
       "nombre": "ANMAT – Alertas",
       "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-productos-medicos-fabricados-o-importados-por-mw-distribuciones"
     },
     "publicadoEn": "2026-09-29T16:17:52.134Z",
-    "actualizadoEn": "2026-09-29T16:17:59.142Z"
+    "actualizadoEn": "2026-09-30T16:12:44.802Z"
   },
   {
     "id": "2026-09-28-nuevo-servicio-para-socios-alquiler-de-lockers-en-sede-cent-45b952",
@@ -749,100 +792,5 @@
     },
     "publicadoEn": "2026-09-16T14:31:16.926Z",
     "actualizadoEn": "2026-09-18T14:01:59.043Z"
-  },
-  {
-    "id": "2026-09-18-novedades-sim-manual-de-usuarios-externos-del-regimen-de-i-b2582b",
-    "slug": "novedades-sim-manual-de-usuarios-externos-del-regimen-de-i",
-    "organismo": "CDA",
-    "fecha": "2026-09-15",
-    "impacto": "alto",
-    "categoria": "normativa",
-    "tags": [
-      "VUCE",
-      "SIM",
-      "ARCA"
-    ],
-    "titulo": "NOVEDADES SIM: Manual de Usuarios Externos del Régimen de I",
-    "resumen": "A través del micrositio \"VUCE - Ventanilla Única de Comercio Exterior\", la Agencia de Recaudación y Control Aduanero (ARCA) puso a dispos...",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42772"
-    },
-    "publicadoEn": "2026-09-15T14:34:54.589Z",
-    "actualizadoEn": "2026-09-18T14:01:59.043Z"
-  },
-  {
-    "id": "2026-09-18-levantamiento-de-inhibicion-de-importacion-para-glam-distribuciones-srl-a9d108",
-    "slug": "levantamiento-de-inhibicion-de-importacion-para-glam-distribuciones-srl",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-09-15",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "ANMAT",
-      "Inhibición",
-      "Despacho",
-      "SIRA",
-      "Habilitación"
-    ],
-    "titulo": "Levantamiento de inhibición de importación para GLAM DISTRIBUCIONES S.R.L.",
-    "resumen": "La ANMAT ha dejado sin efecto la medida restrictiva que impedía la importación a la firma GLAM DISTRIBUCIONES S.R.L. La medida normaliza la situación administrativa del operador ante el organismo.",
-    "queSignifica": "Se sugiere verificar en el sistema VUCE o ante la ANMAT si el levantamiento se encuentra reflejado para reanudar la oficialización de destinaciones. Se recomienda revisar el estado del registro de importador para confirmar la habilitación operativa plena.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-levanto-la-inhibicion-de-importacion-dispuesta-la-firma-glam-distribuciones-srl"
-    },
-    "publicadoEn": "2026-09-15T14:35:35.835Z",
-    "actualizadoEn": "2026-09-18T14:01:59.043Z"
-  },
-  {
-    "id": "2026-09-18-suspension-de-operaciones-y-prohibicion-de-uso-de-productos-medicos-de-ripezzi-s-1fbd94",
-    "slug": "suspension-de-operaciones-y-prohibicion-de-uso-de-productos-medicos-de-ripezzi-s",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-09-15",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "bloqueo aduanero",
-      "productos medicos",
-      "ANMAT",
-      "prohibicion comercial",
-      "cumplimiento normativo"
-    ],
-    "titulo": "Suspensión de operaciones y prohibición de uso de productos médicos de RIPEZZI S.R.L.",
-    "resumen": "La ANMAT ha inhabilitado a RIPEZZI S.R.L. para producir y comercializar, prohibiendo el uso y distribución de todos los productos médicos importados por dicha firma.",
-    "queSignifica": "Verifique si cuenta con stock o despachos en trámite vinculados a esta firma. Se recomienda abstenerse de comercializar cualquier producto importado por la misma y consultar el estado de sus registros ante la Aduana.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-inhibio-las-actividades-productivas-de-la-firma-ripezzi-srl-y-prohibio-el-uso-de"
-    },
-    "publicadoEn": "2026-09-15T14:36:05.766Z",
-    "actualizadoEn": "2026-09-18T14:01:59.043Z"
-  },
-  {
-    "id": "2026-09-17-actualizacion-de-normas-de-acceso-al-mercado-de-cambios-para-operaciones-de-come-4bdfb7",
-    "slug": "actualizacion-de-normas-de-acceso-al-mercado-de-cambios-para-operaciones-de-come",
-    "organismo": "BCRA",
-    "fecha": "2026-09-15",
-    "impacto": "alto",
-    "categoria": "normativa",
-    "tags": [
-      "MULC",
-      "Acceso al Mercado de Cambios",
-      "BCRA",
-      "Pago de Importaciones",
-      "Normativa Cambiaria"
-    ],
-    "titulo": "Actualización de normas de acceso al mercado de cambios para operaciones de comercio exterior",
-    "resumen": "La Comunicación A 8479 establece nuevas condiciones y requisitos para el acceso al MULC en el marco de la normativa cambiaria vigente. Modifica los procedimientos operativos para la cancelación de obligaciones vinculadas a operaciones de comercio exterior.",
-    "queSignifica": "Se recomienda revisar el alcance de la nueva normativa con su entidad bancaria para verificar si las operaciones en curso se ven alcanzadas por estos cambios. Es fundamental auditar los plazos y la documentación de respaldo antes de solicitar el acceso al mercado de cambios.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/347474/20260915"
-    },
-    "normativaRef": "Comunicación \"A\" 8479/2026",
-    "publicadoEn": "2026-09-15T14:34:49.481Z",
-    "actualizadoEn": "2026-09-17T14:35:53.971Z"
   }
 ]
