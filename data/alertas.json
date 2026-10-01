@@ -1,9 +1,9 @@
 [
   {
-    "id": "2026-09-30-actualizacion-del-tipo-de-cambio-oficial-mulc-al-29092026-62c3d8",
-    "slug": "actualizacion-del-tipo-de-cambio-oficial-mulc-al-29092026",
+    "id": "2026-10-01-actualizacion-del-tipo-de-cambio-oficial-del-bcra-al-30-de-septiembre-de-2026-197db1",
+    "slug": "actualizacion-del-tipo-de-cambio-oficial-del-bcra-al-30-de-septiembre-de-2026",
     "organismo": "BCRA",
-    "fecha": "2026-09-30",
+    "fecha": "2026-10-01",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
@@ -11,20 +11,106 @@
       "tipo de cambio",
       "divisas",
       "BCRA",
-      "comercio exterior"
+      "operaciones cambiarias"
     ],
-    "titulo": "Actualización del tipo de cambio oficial (MULC) al 29/09/2026",
-    "resumen": "El BCRA ha fijado el tipo de cambio oficial de referencia para las operaciones en el Mercado Único y Libre de Cambios.",
-    "queSignifica": "Se sugiere verificar este valor de referencia para el cálculo de costos operativos y la liquidación de divisas en sus operaciones vigentes. Revise la cotización aplicada por su entidad bancaria antes de confirmar cualquier transacción cambiaria.",
+    "titulo": "Actualización del tipo de cambio oficial del BCRA al 30 de septiembre de 2026",
+    "resumen": "El BCRA ha fijado el tipo de cambio oficial para el mercado único y libre de cambios en 1054.16 pesos argentinos por dólar estadounidense. Esta cotización refleja la referencia oficial vigente para la fecha indicada.",
+    "queSignifica": "Verifique esta cotización al momento de liquidar divisas o realizar pagos al exterior. Se sugiere validar si este valor impacta en sus costos financieros o registros contables de sus operaciones en curso.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-09-30T16:12:44.802Z"
+    "actualizadoEn": "2026-10-01T16:51:24.901Z"
   },
   {
-    "id": "2026-09-30-xi-encuentro-nacional-de-despachantes-de-aduana-vii-encuen-d53c4c",
+    "id": "2026-10-01-el-cda-participo-de-la-reunion-bilateral-argentina-uruguay-00b2bf",
+    "slug": "el-cda-participo-de-la-reunion-bilateral-argentina-uruguay",
+    "organismo": "CDA",
+    "fecha": "2026-10-01",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "El CDA participó de la Reunión Bilateral Argentina-Uruguay",
+    "resumen": "El Centro Despachantes de Aduana de la República Argentina (CDA) participó de la Reunión Bilateral Argentina–Uruguay del Subcomité Té...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42802"
+    },
+    "publicadoEn": "2026-10-01T16:49:40.526Z",
+    "actualizadoEn": "2026-10-01T16:51:24.901Z"
+  },
+  {
+    "id": "2026-10-01-anmat-prohibe-la-comercializacion-de-productos-medicos-de-biosimil-srl-bbf2c7",
+    "slug": "anmat-prohibe-la-comercializacion-de-productos-medicos-de-biosimil-srl",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-10-01",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "ANMAT",
+      "productos médicos",
+      "prohibición",
+      "control sanitario",
+      "importación"
+    ],
+    "titulo": "ANMAT prohíbe la comercialización de productos médicos de Biosimil S.R.L.",
+    "resumen": "La disposición prohíbe el uso, comercialización y distribución de diversos productos médicos fabricados o importados por la firma Biosimil S.R.L. La medida responde a una alerta sanitaria sobre el cumplimiento de normativas de calidad y registro.",
+    "queSignifica": "Es necesario verificar el stock propio y revisar si cuenta con productos de esta firma en sus depósitos para evitar su comercialización. Se recomienda auditar los registros ante ANMAT y consultar con el departamento de Asuntos Regulatorios antes de avanzar en cualquier operación aduanera que involucre a dicho proveedor.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-distintos-productos-medicos-de-la-firma-biosimil-srl"
+    },
+    "publicadoEn": "2026-10-01T16:50:19.401Z",
+    "actualizadoEn": "2026-10-01T16:51:24.901Z"
+  },
+  {
+    "id": "2026-10-01-anmat-prohibe-la-comercializacion-de-productos-medicos-de-la-marca-smith-nephew-18f9cd",
+    "slug": "anmat-prohibe-la-comercializacion-de-productos-medicos-de-la-marca-smith-nephew",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-10-01",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "ANMAT",
+      "productos medicos",
+      "prohibicion",
+      "comercializacion",
+      "seguridad sanitaria"
+    ],
+    "titulo": "ANMAT prohíbe la comercialización de productos médicos de la marca Smith & Nephew",
+    "resumen": "La normativa establece la prohibición de uso, distribución y comercialización de un producto médico específico de la firma Smith & Nephew en todo el territorio nacional. La medida responde a una disposición de control sanitario para mitigar riesgos en la salud pública.",
+    "queSignifica": "Verifique si cuenta con stock o despachos en curso de la marca afectada y consulte la base de datos de ANMAT para cotejar los números de lote. Absténgase de gestionar nuevas importaciones o comercializaciones del ítem individualizado hasta confirmar la vigencia de la medida.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-un-producto-medico-de-la-marca-smith-nephew"
+    },
+    "publicadoEn": "2026-10-01T16:50:27.651Z",
+    "actualizadoEn": "2026-10-01T16:51:24.901Z"
+  },
+  {
+    "id": "2026-10-01-anmat-levanto-parcialmente-la-inhibicion-de-actividades-productivas-de-rigecin-l-583ecd",
+    "slug": "anmat-levanto-parcialmente-la-inhibicion-de-actividades-productivas-de-rigecin-l",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-10-01",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "ANMAT"
+    ],
+    "titulo": "ANMAT levantó parcialmente la inhibición de actividades productivas de RIGECIN LABS S.A.",
+    "resumen": "ANMAT levantó parcialmente la inhibición de actividades productivas de RIGECIN LABS S.A.",
+    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-levanto-parcialmente-la-inhibicion-de-actividades-productivas-de-rigecin-labs-sa"
+    },
+    "publicadoEn": "2026-10-01T16:50:43.980Z",
+    "actualizadoEn": "2026-10-01T16:51:24.901Z"
+  },
+  {
+    "id": "2026-10-01-xi-encuentro-nacional-de-despachantes-de-aduana-vii-encuen-2fbea6",
     "slug": "xi-encuentro-nacional-de-despachantes-de-aduana-vii-encuen",
     "organismo": "CDA",
     "fecha": "2026-09-30",
@@ -39,98 +125,119 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42791"
     },
     "publicadoEn": "2026-09-30T16:12:09.264Z",
-    "actualizadoEn": "2026-09-30T16:12:44.802Z"
+    "actualizadoEn": "2026-10-01T16:51:24.901Z"
   },
   {
-    "id": "2026-09-30-actualizacion-de-la-nomenclatura-comun-del-mercosur-b262e2",
-    "slug": "actualizacion-de-la-nomenclatura-comun-del-mercosur",
-    "organismo": "ARCA",
-    "fecha": "2026-09-29",
+    "id": "2026-10-01-exportacion-temporaria-para-reparacion-bajo-garantia-con-d3de50",
+    "slug": "exportacion-temporaria-para-reparacion-bajo-garantia-con",
+    "organismo": "CDA",
+    "fecha": "2026-09-30",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
-      "NCM",
-      "Clasificación Arancelaria",
-      "Aranceles",
-      "SIM",
-      "DGA"
+      "ARCA",
+      "exportación"
     ],
-    "titulo": "Actualización de la Nomenclatura Común del MERCOSUR",
-    "resumen": "La resolución establece modificaciones o adecuaciones en la codificación de la Nomenclatura Común del MERCOSUR (NCM) para la clasificación de mercaderías. Define los nuevos criterios arancelarios aplicables al comercio regional y extrazona.",
-    "queSignifica": "Debe verificar si los códigos NCM utilizados en sus operaciones han sufrido modificaciones y revisar si estos cambios impactan en los tributos o licencias aplicables. Se sugiere consultar con su despachante la correcta codificación antes de oficializar nuevos despachos.",
+    "titulo": "Exportación temporaria para reparación bajo garantía, con",
+    "resumen": "La Agencia de Recaudación y Control Aduanero (ARCA) publicó la Resolución General N° 5906 este miércoles 30 de septiembre, modificando ...",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42798"
+    },
+    "publicadoEn": "2026-10-01T16:49:49.180Z",
+    "actualizadoEn": "2026-10-01T16:51:24.901Z"
+  },
+  {
+    "id": "2026-10-01-resog-2026-5901-e-arca-arca-nomenclatura-comun-del-mercosur-ncm-clasificacion-ar-8ac5e1",
+    "slug": "resog-2026-5901-e-arca-arca-nomenclatura-comun-del-mercosur-ncm-clasificacion-ar",
+    "organismo": "ARCA",
+    "fecha": "2026-09-29",
+    "impacto": "medio",
+    "categoria": "importacion",
+    "tags": [
+      "NCM",
+      "arancel",
+      "ARCA"
+    ],
+    "titulo": "RESOG-2026-5901-E-ARCA-ARCA - Nomenclatura Común del MERCOSUR (NCM). Clasificación arancelaria de me",
+    "resumen": "RESOG-2026-5901-E-ARCA-ARCA - Nomenclatura Común del MERCOSUR (NCM). Clasificación arancelaria de mercaderías en la citada nomenclatura, de acuerdo co...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
     "fuente": {
       "nombre": "Boletín Oficial de la República Argentina",
       "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348137/20260929"
     },
     "normativaRef": "Resolución General 5901/2026",
     "publicadoEn": "2026-09-30T16:11:53.013Z",
-    "actualizadoEn": "2026-09-30T16:12:44.802Z"
+    "actualizadoEn": "2026-10-01T16:51:24.901Z"
   },
   {
-    "id": "2026-09-30-implementacion-de-conectividad-remota-para-el-sistema-informatico-malvina-72a931",
-    "slug": "implementacion-de-conectividad-remota-para-el-sistema-informatico-malvina",
-    "organismo": "Aduana",
+    "id": "2026-10-01-trabaja-desde-donde-quieras-cabinas-sim-remotas-701adf",
+    "slug": "trabaja-desde-donde-quieras-cabinas-sim-remotas",
+    "organismo": "CDA",
     "fecha": "2026-09-29",
-    "impacto": "bajo",
-    "categoria": "logistica",
+    "impacto": "alto",
+    "categoria": "normativa",
     "tags": [
-      "SIM",
-      "Malvina",
-      "conectividad",
-      "gestión aduanera",
-      "operativa remota"
+      "SIM"
     ],
-    "titulo": "Implementación de conectividad remota para el Sistema Informático Malvina",
-    "resumen": "El CDA habilita la posibilidad de operar el Sistema Informático Malvina de manera remota para facilitar la gestión diaria de los despachantes.",
-    "queSignifica": "Debe verificar los requisitos de seguridad y conectividad exigidos por el organismo para el acceso remoto. Se recomienda revisar el instructivo técnico antes de migrar su puesto de trabajo habitual.",
+    "titulo": "Trabajá desde donde quieras: Cabinas SIM remotas",
+    "resumen": "En un contexto donde la operatoria remota ya es parte del día a día, contar con la posibilidad de acceder al Sistema Informático Malvina ...",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42479"
     },
     "publicadoEn": "2026-09-29T16:17:40.043Z",
-    "actualizadoEn": "2026-09-30T16:12:44.802Z"
+    "actualizadoEn": "2026-10-01T16:51:24.901Z"
   },
   {
-    "id": "2026-09-30-dos-orillas-un-mismo-desafio-especialistas-analizaron-el-5f805f",
-    "slug": "dos-orillas-un-mismo-desafio-especialistas-analizaron-el",
-    "organismo": "CDA",
+    "id": "2026-10-01-presentacion-del-analisis-sobre-el-acuerdo-mercosur-union-europea-da3771",
+    "slug": "presentacion-del-analisis-sobre-el-acuerdo-mercosur-union-europea",
+    "organismo": "Aduana",
     "fecha": "2026-09-29",
     "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [],
-    "titulo": "Dos orillas, un mismo desafío: especialistas analizaron el",
-    "resumen": "El Centro Despachantes de Aduana (CDA) fue sede en Buenos Aires de la presentación internacional del libro “El Acuerdo MERCOSUR–Unión ...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "categoria": "normativa",
+    "tags": [
+      "MERCOSUR",
+      "Unión Europea",
+      "Acuerdos Comerciales",
+      "Integración Regional",
+      "Política Arancelaria"
+    ],
+    "titulo": "Presentación del análisis sobre el Acuerdo MERCOSUR-Unión Europea",
+    "resumen": "Se realizó la presentación de una obra académica sobre el estado y los desafíos del acuerdo de libre comercio entre ambos bloques económicos.",
+    "queSignifica": "Es una noticia de carácter informativo. Se recomienda mantenerse actualizado sobre el avance de este acuerdo internacional para evaluar posibles cambios futuros en las condiciones de acceso a mercados.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42784"
     },
     "publicadoEn": "2026-09-25T14:54:05.534Z",
-    "actualizadoEn": "2026-09-30T16:12:44.802Z"
+    "actualizadoEn": "2026-10-01T16:51:24.901Z"
   },
   {
-    "id": "2026-09-30-prohibicion-de-comercializacion-y-uso-de-productos-medicos-de-mw-distribuciones-c212a4",
+    "id": "2026-10-01-prohibicion-de-comercializacion-y-uso-de-productos-medicos-de-mw-distribuciones-f8cd2b",
     "slug": "prohibicion-de-comercializacion-y-uso-de-productos-medicos-de-mw-distribuciones",
     "organismo": "ANMAT / INAL",
     "fecha": "2026-09-29",
     "impacto": "alto",
     "categoria": "importacion",
     "tags": [
+      "ANMAT",
       "productos médicos",
       "prohibición",
-      "ANMAT",
-      "control sanitario",
-      "seguridad en frontera"
+      "comercio exterior",
+      "seguridad sanitaria"
     ],
     "titulo": "Prohibición de comercialización y uso de productos médicos de MW DISTRIBUCIONES",
-    "resumen": "La ANMAT prohibió la comercialización, distribución y uso de todos los productos médicos fabricados o importados por la firma MW DISTRIBUCIONES. Esta medida responde a irregularidades en la habilitación y control sanitario de dichos artículos.",
-    "queSignifica": "Verifique si cuenta con stock o despachos en curso de esta firma y suspenda su comercialización inmediatamente. Consulte con el departamento técnico de su empresa para constatar el estatus de sus registros ante la autoridad sanitaria.",
+    "resumen": "La ANMAT prohibió la comercialización, distribución y uso de todos los productos médicos fabricados o importados por la firma MW DISTRIBUCIONES por falta de registros sanitarios.",
+    "queSignifica": "El importador debe verificar en su inventario si posee productos de dicho proveedor y suspender inmediatamente su despacho o venta. Se recomienda auditar la documentación de origen para asegurar el cumplimiento con las normativas sanitarias vigentes.",
     "fuente": {
       "nombre": "ANMAT – Alertas",
       "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-productos-medicos-fabricados-o-importados-por-mw-distribuciones"
     },
     "publicadoEn": "2026-09-29T16:17:52.134Z",
-    "actualizadoEn": "2026-09-30T16:12:44.802Z"
+    "actualizadoEn": "2026-10-01T16:51:24.901Z"
   },
   {
     "id": "2026-09-28-nuevo-servicio-para-socios-alquiler-de-lockers-en-sede-cent-45b952",
@@ -645,152 +752,6 @@
       "url": "https://www.argentina.gob.ar/noticias/chaco-se-evito-el-comercio-de-mas-de-30-ton-de-frutas-frescas-trasladadas-sin-documentacion"
     },
     "publicadoEn": "2026-09-18T14:01:15.035Z",
-    "actualizadoEn": "2026-09-18T14:01:59.043Z"
-  },
-  {
-    "id": "2026-09-18-actualizacion-de-la-nomina-de-sujetos-alcanzados-por-el-regimen-de-retencion-del-f2f13f",
-    "slug": "actualizacion-de-la-nomina-de-sujetos-alcanzados-por-el-regimen-de-retencion-del",
-    "organismo": "ARCA",
-    "fecha": "2026-09-16",
-    "impacto": "medio",
-    "categoria": "normativa",
-    "tags": [
-      "IVA",
-      "retenciones",
-      "agentes de retención",
-      "impositiva",
-      "RG 2854"
-    ],
-    "titulo": "Actualización de la nómina de sujetos alcanzados por el régimen de retención del IVA",
-    "resumen": "La resolución actualiza el listado de sujetos obligados a actuar como agentes de retención del Impuesto al Valor Agregado según lo establecido en la RG 2854.",
-    "queSignifica": "Debe verificar en el anexo de la norma si su CUIT o la de sus proveedores han sido incorporados o excluidos de la nómina. Se sugiere consultar el sistema registral para confirmar el estado de sus obligaciones impositivas vigentes.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/347519/20260916"
-    },
-    "normativaRef": "Resolución General 5897/2026",
-    "publicadoEn": "2026-09-16T14:29:57.869Z",
-    "actualizadoEn": "2026-09-18T14:01:59.043Z"
-  },
-  {
-    "id": "2026-09-18-actualizacion-de-normativa-sobre-acceso-al-mercado-de-cambios-para-operaciones-d-366ee1",
-    "slug": "actualizacion-de-normativa-sobre-acceso-al-mercado-de-cambios-para-operaciones-d",
-    "organismo": "BCRA",
-    "fecha": "2026-09-16",
-    "impacto": "alto",
-    "categoria": "normativa",
-    "tags": [
-      "BCRA",
-      "MULC",
-      "Acceso al Mercado de Cambios",
-      "Pago de Importaciones",
-      "Financiamiento"
-    ],
-    "titulo": "Actualización de normativa sobre acceso al mercado de cambios para operaciones de comercio exterior",
-    "resumen": "La comunicación establece nuevos requisitos o modificaciones en las condiciones de acceso al mercado de cambios para el pago de importaciones y liquidación de divisas. Regula plazos y criterios técnicos para el cumplimiento de las obligaciones cambiarias vigentes.",
-    "queSignifica": "Se recomienda revisar el alcance de la norma frente a las operaciones de pago en curso y consultar la sección de cumplimiento cambiario de su entidad financiera. Es necesario validar si los plazos y documentación exigidos impactan en el flujo de fondos previsto para sus despachos.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/347535/20260916"
-    },
-    "normativaRef": "Comunicación \"A\" 8481/2026",
-    "publicadoEn": "2026-09-16T14:30:07.666Z",
-    "actualizadoEn": "2026-09-18T14:01:59.043Z"
-  },
-  {
-    "id": "2026-09-18-primera-exportacion-de-lana-sucia-desde-rio-negro-a-uruguay-con-certificacion-se-5e9306",
-    "slug": "primera-exportacion-de-lana-sucia-desde-rio-negro-a-uruguay-con-certificacion-se",
-    "organismo": "SENASA",
-    "fecha": "2026-09-16",
-    "impacto": "bajo",
-    "categoria": "exportacion",
-    "tags": [
-      "exportación",
-      "productos de origen animal",
-      "certificación sanitaria",
-      "lana ovina",
-      "acceso a mercado"
-    ],
-    "titulo": "Primera exportación de lana sucia desde Río Negro a Uruguay con certificación SENASA",
-    "resumen": "Se concretó la inspección y habilitación sanitaria de 14.850 kg de lana ovina para su exportación.",
-    "queSignifica": "Esta es una noticia de carácter institucional sobre una apertura operativa. Se recomienda verificar los requisitos sanitarios vigentes para el producto ante el SENASA antes de iniciar nuevos embarques.",
-    "fuente": {
-      "nombre": "SENASA Comunica",
-      "url": "https://www.argentina.gob.ar/noticias/certificacion-de-la-primera-exportacion-de-lana-sucia-ovina-desde-rio-negro-uruguay"
-    },
-    "publicadoEn": "2026-09-17T14:35:17.867Z",
-    "actualizadoEn": "2026-09-18T14:01:59.043Z"
-  },
-  {
-    "id": "2026-09-18-suspension-preventiva-de-actividades-de-ugal-farmaceutica-sa-por-anmat-ce8b56",
-    "slug": "suspension-preventiva-de-actividades-de-ugal-farmaceutica-sa-por-anmat",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-09-16",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "anmat",
-      "inhabilitación",
-      "medicamentos",
-      "comercio exterior",
-      "sanidad"
-    ],
-    "titulo": "Suspensión preventiva de actividades de UGAL FARMACÉUTICA S.A. por ANMAT",
-    "resumen": "ANMAT inhabilitó a la firma UGAL FARMACÉUTICA S.A. para producir, controlar y comercializar productos bajo su órbita. Esta medida implica una restricción total sobre el movimiento de sus productos.",
-    "queSignifica": "Los importadores o distribuidores que operen con dicha firma deben verificar el estado de sus registros y suspender cualquier despacho o comercialización de sus insumos. Se recomienda contactar al proveedor para confirmar el alcance sobre mercaderías en stock o en tránsito.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-inhibio-las-actividades-productivas-de-control-de-calidad-y-comercializacion-de-ugal"
-    },
-    "publicadoEn": "2026-09-16T14:31:04.260Z",
-    "actualizadoEn": "2026-09-18T14:01:59.043Z"
-  },
-  {
-    "id": "2026-09-18-inhibicion-de-actividades-productivas-para-laboratorio-trifarma-srl-881236",
-    "slug": "inhibicion-de-actividades-productivas-para-laboratorio-trifarma-srl",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-09-16",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "ANMAT",
-      "bloqueo operativo",
-      "productos médicos",
-      "farmacéuticos",
-      "gestión documental"
-    ],
-    "titulo": "Inhibición de actividades productivas para Laboratorio Trifarma S.R.L.",
-    "resumen": "La ANMAT ha dispuesto la inhibición de toda actividad productiva y comercial del Laboratorio Trifarma S.R.L. La medida implica el cese inmediato de los procesos de elaboración y despacho de sus productos.",
-    "queSignifica": "Se recomienda revisar inmediatamente el estado de los registros sanitarios y suspender cualquier trámite de importación o liberación a plaza que involucre productos de este laboratorio. Verifique si posee stock en depósito fiscal para evitar posibles bloqueos en la salida de mercadería.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-inhibio-las-actividades-productivas-del-laboratorio-trifarma-srl"
-    },
-    "publicadoEn": "2026-09-16T14:31:09.760Z",
-    "actualizadoEn": "2026-09-18T14:01:59.043Z"
-  },
-  {
-    "id": "2026-09-18-prohibicion-de-comercializacion-y-uso-de-equipos-medicos-de-alta-frecuencia-marc-cc0980",
-    "slug": "prohibicion-de-comercializacion-y-uso-de-equipos-medicos-de-alta-frecuencia-marc",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-09-16",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "ANMAT",
-      "prohibición",
-      "equipo médico",
-      "comercio exterior",
-      "alerta sanitaria"
-    ],
-    "titulo": "Prohibición de comercialización y uso de equipos médicos de alta frecuencia marca TEXEL",
-    "resumen": "La ANMAT prohíbe el uso, comercialización y distribución de todos los equipos médicos de alta frecuencia de la marca TEXEL. La medida alcanza a todas sus series y modelos vigentes.",
-    "queSignifica": "Se recomienda revisar el stock propio y las operaciones en curso para identificar productos de esta marca. Ante la presencia de equipos TEXEL, se sugiere consultar con el departamento legal y técnico sobre el estado de la mercadería para evitar irregularidades en el despacho.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-todas-las-series-de-equipo-medico-de-alta-frecuencia-de-la-marca-texel"
-    },
-    "publicadoEn": "2026-09-16T14:31:16.926Z",
     "actualizadoEn": "2026-09-18T14:01:59.043Z"
   }
 ]
