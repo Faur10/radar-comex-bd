@@ -1,48 +1,213 @@
 [
   {
-    "id": "2026-10-02-bcra-tipo-de-cambio-mulc-del-dia-b3acc4",
-    "slug": "bcra-tipo-de-cambio-mulc-del-dia",
+    "id": "2026-10-05-actualizacion-del-tipo-de-cambio-oficial-mulc-al-02102026-ef48fb",
+    "slug": "actualizacion-del-tipo-de-cambio-oficial-mulc-al-02102026",
     "organismo": "BCRA",
-    "fecha": "2026-10-02",
-    "impacto": "alto",
+    "fecha": "2026-10-05",
+    "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "tipo de cambio"
+      "tipo de cambio",
+      "divisas",
+      "comex",
+      "bcra"
     ],
-    "titulo": "BCRA – Tipo de Cambio MULC del día",
-    "resumen": "Tipo de Cambio MULC ($ por USD): 1054.04 — al 2026-10-01",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
+    "titulo": "Actualización del tipo de cambio oficial (MULC) al 02/10/2026",
+    "resumen": "Se informa la cotización oficial de referencia del dólar estadounidense para operaciones cursadas a través del Mercado Único y Libre de Cambios.",
+    "queSignifica": "Debe verificar esta cotización para el cálculo de sus costos operativos y la liquidación de divisas. Se sugiere confirmar con su entidad bancaria la aplicación de este tipo de cambio según los plazos vigentes.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-10-02T16:07:42.121Z"
+    "actualizadoEn": "2026-10-05T19:01:05.706Z"
   },
   {
-    "id": "2026-10-02-xi-encuentro-nacional-de-despachantes-y-vii-de-agentes-de-transporte-aduanero-e289c8",
+    "id": "2026-10-05-resog-2026-5909-e-arca-arca-ventanilla-unica-de-comercio-exterior-argentino-vuce-d38d49",
+    "slug": "resog-2026-5909-e-arca-arca-ventanilla-unica-de-comercio-exterior-argentino-vuce",
+    "organismo": "ARCA",
+    "fecha": "2026-10-05",
+    "impacto": "alto",
+    "categoria": "normativa",
+    "tags": [
+      "ARCA"
+    ],
+    "titulo": "RESOG-2026-5909-E-ARCA-ARCA - Ventanilla Única de Comercio Exterior Argentino (VUCEA). Régimen de In",
+    "resumen": "RESOG-2026-5909-E-ARCA-ARCA - Ventanilla Única de Comercio Exterior Argentino (VUCEA). Régimen de Inversiones para la Actividad Minera. Declaración ju...",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348497/20261005"
+    },
+    "normativaRef": "Resolución General 5909/2026",
+    "publicadoEn": "2026-10-05T18:59:08.943Z",
+    "actualizadoEn": "2026-10-05T19:01:05.706Z"
+  },
+  {
+    "id": "2026-10-05-actualizacion-de-normas-sobre-el-mercado-unico-y-libre-de-cambios-mulc-fd757d",
+    "slug": "actualizacion-de-normas-sobre-el-mercado-unico-y-libre-de-cambios-mulc",
+    "organismo": "BCRA",
+    "fecha": "2026-10-05",
+    "impacto": "alto",
+    "categoria": "normativa",
+    "tags": [
+      "MULC",
+      "BCRA",
+      "Acceso a divisas",
+      "Pagos al exterior",
+      "Operaciones cambiarias"
+    ],
+    "titulo": "Actualización de normas sobre el Mercado Único y Libre de Cambios (MULC)",
+    "resumen": "La Comunicación A 8487 establece nuevas disposiciones que regulan el acceso al mercado de cambios para operaciones de comercio exterior. Esta normativa modifica los requisitos y plazos vigentes para cursar pagos de importaciones y otras obligaciones financieras.",
+    "queSignifica": "Debe verificar la adecuación de sus operaciones pendientes a las nuevas exigencias cambiarias y consultar con su entidad bancaria para confirmar la viabilidad de los pagos programados. Se recomienda revisar los saldos y las condiciones de acceso vigentes antes de realizar cualquier presentación ante el MULC.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348507/20261005"
+    },
+    "normativaRef": "Comunicación \"A\" 8487/2026",
+    "publicadoEn": "2026-10-05T18:59:22.112Z",
+    "actualizadoEn": "2026-10-05T19:01:05.706Z"
+  },
+  {
+    "id": "2026-10-05-xi-encuentro-nacional-de-despachantes-de-aduana-vii-encuen-4f47a7",
+    "slug": "xi-encuentro-nacional-de-despachantes-de-aduana-vii-encuen",
+    "organismo": "CDA",
+    "fecha": "2026-10-05",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "XI Encuentro Nacional de Despachantes de Aduana - VII Encuen",
+    "resumen": "El Centro Despachantes de Aduana (CDA) invita a sus socios a participar del XI Encuentro Nacional de Despachantes de Aduana y VII Encuentro ...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42791"
+    },
+    "publicadoEn": "2026-09-30T16:12:09.264Z",
+    "actualizadoEn": "2026-10-05T19:01:05.706Z"
+  },
+  {
+    "id": "2026-10-05-comunicado-institucional-del-centro-despachantes-de-aduana-6953f3",
+    "slug": "comunicado-institucional-del-centro-despachantes-de-aduana",
+    "organismo": "Aduana",
+    "fecha": "2026-10-05",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "institucional",
+      "gremial",
+      "novedad",
+      "comex"
+    ],
+    "titulo": "Comunicado institucional del Centro Despachantes de Aduana",
+    "resumen": "El Centro Despachantes de Aduana informa el fallecimiento de un integrante de la institución.",
+    "queSignifica": "Se trata de un comunicado de carácter informativo y gremial sin impacto en las operaciones de comercio exterior. No se requiere realizar ninguna acción administrativa ni operativa ante los organismos de control.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42806"
+    },
+    "publicadoEn": "2026-10-05T18:59:38.850Z",
+    "actualizadoEn": "2026-10-05T19:01:05.706Z"
+  },
+  {
+    "id": "2026-10-05-nuevo-servicio-para-socios-alquiler-de-lockers-en-sede-cent-b0d169",
+    "slug": "nuevo-servicio-para-socios-alquiler-de-lockers-en-sede-cent",
+    "organismo": "CDA",
+    "fecha": "2026-10-05",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "Nuevo servicio para socios: Alquiler de lockers en Sede Cent",
+    "resumen": "El Centro Despachantes de Aduana (CDA) informa a sus asociados que próximamente estará disponible un nuevo servicio de alquiler de lockers...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42789"
+    },
+    "publicadoEn": "2026-09-25T14:53:54.348Z",
+    "actualizadoEn": "2026-10-05T19:01:05.706Z"
+  },
+  {
+    "id": "2026-10-05-informacion-para-socios-asesoria-aladi-mercosur-a5388c",
+    "slug": "informacion-para-socios-asesoria-aladi-mercosur",
+    "organismo": "CDA",
+    "fecha": "2026-10-02",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "Información para socios: Asesoría ALADI – Mercosur",
+    "resumen": "El Centro Despachantes de Aduana (CDA) informa a sus asociados que, momentáneamente, se encuentra inhabilitado el turnero de la Asesoría A...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42805"
+    },
+    "publicadoEn": "2026-10-05T19:00:06.004Z",
+    "actualizadoEn": "2026-10-05T19:01:05.706Z"
+  },
+  {
+    "id": "2026-10-05-cdacapacita-oea-una-oportunidad-de-jerarquizacion-jor-f935a2",
+    "slug": "cdacapacita-oea-una-oportunidad-de-jerarquizacion-jor",
+    "organismo": "CDA",
+    "fecha": "2026-10-02",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "#CDACapacita - OEA, una oportunidad de jerarquización - Jor",
+    "resumen": "El Centro Despachantes de Aduana (CDA) invita a sus asociados a participar de la segunda jornada de capacitación sobre Operador Económico ...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42804"
+    },
+    "publicadoEn": "2026-10-05T19:00:10.175Z",
+    "actualizadoEn": "2026-10-05T19:01:05.706Z"
+  },
+  {
+    "id": "2026-10-05-xi-encuentro-nacional-de-despachantes-y-vii-de-agentes-de-transporte-aduanero-2e197c",
     "slug": "xi-encuentro-nacional-de-despachantes-y-vii-de-agentes-de-transporte-aduanero",
     "organismo": "Aduana",
     "fecha": "2026-10-02",
     "impacto": "bajo",
     "categoria": "normativa",
     "tags": [
-      "CDA",
-      "capacitacion",
+      "evento",
+      "capacitación",
       "comercio exterior",
-      "despachante de aduana",
-      "encuentro nacional"
+      "aduanas",
+      "actualidad"
     ],
     "titulo": "XI Encuentro Nacional de Despachantes y VII de Agentes de Transporte Aduanero",
-    "resumen": "El CDA organiza el evento anual destinado a la actualización profesional y networking del sector.",
-    "queSignifica": "Es una noticia informativa sobre un evento gremial. Se recomienda consultar la agenda oficial si desea participar de las capacitaciones y debates del sector.",
+    "resumen": "Se anuncia la realización de los encuentros nacionales anuales del CDA y agentes de transporte aduanero. El evento tiene un carácter institucional y de actualización profesional para los operadores del sector.",
+    "queSignifica": "Es una novedad informativa sin impacto operativo en las destinaciones. Se sugiere revisar la agenda del evento en caso de tener interés en participar de los paneles de actualización técnica.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42800"
     },
     "publicadoEn": "2026-10-02T16:05:18.116Z",
-    "actualizadoEn": "2026-10-02T16:07:42.121Z"
+    "actualizadoEn": "2026-10-05T19:01:05.706Z"
+  },
+  {
+    "id": "2026-10-05-se-refuerza-la-prevencion-para-evitar-el-ingreso-de-la-mosca-linterna-manchada-c92015",
+    "slug": "se-refuerza-la-prevencion-para-evitar-el-ingreso-de-la-mosca-linterna-manchada",
+    "organismo": "SENASA",
+    "fecha": "2026-10-02",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "SENASA",
+      "fitosanitario"
+    ],
+    "titulo": "Se refuerza la prevención para evitar el ingreso de la mosca linterna manchada",
+    "resumen": "SENASA recuerda que la detección temprana y la notificación de sospechas son fundamentales para preservar el estatus fitosanitario. La plaga puede afectar frutales, vid y especies forestales.",
+    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
+    "fuente": {
+      "nombre": "SENASA Comunica",
+      "url": "https://www.argentina.gob.ar/noticias/se-refuerza-la-prevencion-para-evitar-el-ingreso-de-la-mosca-linterna-manchada"
+    },
+    "publicadoEn": "2026-10-05T19:00:47.168Z",
+    "actualizadoEn": "2026-10-05T19:01:05.706Z"
   },
   {
     "id": "2026-10-02-refuerzo-en-vigilancia-fitosanitaria-por-la-mosca-linterna-manchada-98a956",
@@ -91,29 +256,6 @@
     },
     "normativaRef": "Comunicación \"A\" 8486/2026",
     "publicadoEn": "2026-10-02T16:03:34.459Z",
-    "actualizadoEn": "2026-10-02T16:07:42.121Z"
-  },
-  {
-    "id": "2026-10-02-xi-encuentro-nacional-de-despachantes-de-aduana-d1e05a",
-    "slug": "xi-encuentro-nacional-de-despachantes-de-aduana",
-    "organismo": "Aduana",
-    "fecha": "2026-10-01",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "capacitacion",
-      "profesionalizacion",
-      "comercio exterior",
-      "despachante de aduana"
-    ],
-    "titulo": "XI Encuentro Nacional de Despachantes de Aduana",
-    "resumen": "El CDA convoca a sus socios a participar de su evento anual de capacitación y networking. Se trata de una noticia de carácter institucional y gremial.",
-    "queSignifica": "Esta información es de carácter informativo. Se sugiere verificar el cronograma y temario del encuentro si desea profundizar en temas de actualización técnica o profesional.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42791"
-    },
-    "publicadoEn": "2026-09-30T16:12:09.264Z",
     "actualizadoEn": "2026-10-02T16:07:42.121Z"
   },
   {
@@ -397,24 +539,6 @@
     "normativaRef": "Resolución General 5901/2026",
     "publicadoEn": "2026-09-30T16:11:53.013Z",
     "actualizadoEn": "2026-10-01T16:51:24.901Z"
-  },
-  {
-    "id": "2026-09-28-nuevo-servicio-para-socios-alquiler-de-lockers-en-sede-cent-45b952",
-    "slug": "nuevo-servicio-para-socios-alquiler-de-lockers-en-sede-cent",
-    "organismo": "CDA",
-    "fecha": "2026-09-25",
-    "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [],
-    "titulo": "Nuevo servicio para socios: Alquiler de lockers en Sede Cent",
-    "resumen": "El Centro Despachantes de Aduana (CDA) informa a sus asociados que próximamente estará disponible un nuevo servicio de alquiler de lockers...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42789"
-    },
-    "publicadoEn": "2026-09-25T14:53:54.348Z",
-    "actualizadoEn": "2026-09-28T17:56:13.349Z"
   },
   {
     "id": "2026-09-28-mesa-de-trabajo-el-cda-y-sus-socios-avanzan-en-nuevas-accio-2d2ceb",
@@ -773,96 +897,5 @@
     },
     "publicadoEn": "2026-09-21T16:08:48.506Z",
     "actualizadoEn": "2026-09-23T14:36:12.185Z"
-  },
-  {
-    "id": "2026-09-21-indec-intercambio-comercial-argentino-agosto-2026-d11dad",
-    "slug": "indec-intercambio-comercial-argentino-agosto-2026",
-    "organismo": "CDA",
-    "fecha": "2026-09-18",
-    "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [],
-    "titulo": "INDEC - Intercambio Comercial Argentino AGOSTO 2026",
-    "resumen": "El Centro Despachantes de Aduana les acerca a sus asociados los informes técnicos sobre el Índice de precios y cantidades del comercio ext...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42780"
-    },
-    "publicadoEn": "2026-09-21T16:08:26.882Z",
-    "actualizadoEn": "2026-09-21T16:08:54.203Z"
-  },
-  {
-    "id": "2026-09-21-nueva-herramienta-del-cda-para-la-conexion-remota-al-sistema-sim-4d542b",
-    "slug": "nueva-herramienta-del-cda-para-la-conexion-remota-al-sistema-sim",
-    "organismo": "Aduana",
-    "fecha": "2026-09-18",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "SIM",
-      "Malvina",
-      "Conectividad",
-      "Gestión Aduanera",
-      "Digitalización"
-    ],
-    "titulo": "Nueva herramienta del CDA para la conexión remota al sistema SIM",
-    "resumen": "El CDA lanza una solución técnica para facilitar el acceso remoto al sistema informático Malvina.",
-    "queSignifica": "Se recomienda revisar si esta herramienta mejora su flujo de trabajo actual, verificando siempre que cumpla con los estándares de seguridad informática y normativa de ARCA para el acceso al sistema.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42462"
-    },
-    "publicadoEn": "2026-09-18T14:00:31.263Z",
-    "actualizadoEn": "2026-09-21T16:08:54.203Z"
-  },
-  {
-    "id": "2026-09-21-simplificacion-de-tramites-sanitarios-y-trazabilidad-de-productos-en-santiago-de-b0939c",
-    "slug": "simplificacion-de-tramites-sanitarios-y-trazabilidad-de-productos-en-santiago-de",
-    "organismo": "SENASA",
-    "fecha": "2026-09-18",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "SENASA",
-      "Agrotraza",
-      "Trazabilidad",
-      "Gestión Sanitaria",
-      "Documentación"
-    ],
-    "titulo": "Simplificación de trámites sanitarios y trazabilidad de productos en Santiago del Estero",
-    "resumen": "El SENASA formalizó convenios para integrar la trazabilidad de fitosanitarios vía AGROTRAZA y unificar la documentación para el traslado de animales en la provincia.",
-    "queSignifica": "Los operadores locales deben verificar si las nuevas plataformas de integración afectan la presentación de sus certificados actuales. Se recomienda consultar con los delegados del SENASA en la jurisdicción para validar posibles cambios en los formatos de los documentos de traslado.",
-    "fuente": {
-      "nombre": "SENASA Comunica",
-      "url": "https://www.argentina.gob.ar/noticias/senasa-firmo-convenios-con-santiago-del-estero-para-simplificar-gestiones-sanitarias"
-    },
-    "publicadoEn": "2026-09-21T16:08:37.562Z",
-    "actualizadoEn": "2026-09-21T16:08:54.203Z"
-  },
-  {
-    "id": "2026-09-18-actualizacion-de-normas-cambiarias-bcra-comunicacion-a-8477-9dfb76",
-    "slug": "actualizacion-de-normas-cambiarias-bcra-comunicacion-a-8477",
-    "organismo": "BCRA",
-    "fecha": "2026-09-18",
-    "impacto": "alto",
-    "categoria": "normativa",
-    "tags": [
-      "MULC",
-      "acceso al mercado de cambios",
-      "BCRA",
-      "giro de divisas",
-      "regulaciones cambiarias"
-    ],
-    "titulo": "Actualización de normas cambiarias BCRA: Comunicación A 8477",
-    "resumen": "La norma establece nuevos lineamientos técnicos y operativos para el acceso al Mercado Único y Libre de Cambios (MULC) aplicables a las operaciones de comercio exterior. Define criterios específicos sobre la documentación y los plazos requeridos para la liquidación o pago de operaciones.",
-    "queSignifica": "Se recomienda analizar de forma inmediata los estados de cuenta y los plazos de giro vigentes para las operaciones en curso. Verifique con su entidad bancaria la adecuación de sus carpetas documentales a estas nuevas exigencias normativas antes de cursar próximas órdenes de pago.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/347676/20260918"
-    },
-    "normativaRef": "Comunicación \"A\" 8477/2026",
-    "publicadoEn": "2026-09-18T14:00:12.766Z",
-    "actualizadoEn": "2026-09-18T14:01:59.043Z"
   }
 ]
