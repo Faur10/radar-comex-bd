@@ -1,30 +1,27 @@
 [
   {
-    "id": "2026-10-05-actualizacion-del-tipo-de-cambio-oficial-mulc-al-02102026-ef48fb",
-    "slug": "actualizacion-del-tipo-de-cambio-oficial-mulc-al-02102026",
+    "id": "2026-10-06-bcra-tipo-de-cambio-mulc-del-dia-1dfa57",
+    "slug": "bcra-tipo-de-cambio-mulc-del-dia",
     "organismo": "BCRA",
-    "fecha": "2026-10-05",
-    "impacto": "medio",
+    "fecha": "2026-10-06",
+    "impacto": "alto",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "tipo de cambio",
-      "divisas",
-      "comex",
-      "bcra"
+      "tipo de cambio"
     ],
-    "titulo": "Actualización del tipo de cambio oficial (MULC) al 02/10/2026",
-    "resumen": "Se informa la cotización oficial de referencia del dólar estadounidense para operaciones cursadas a través del Mercado Único y Libre de Cambios.",
-    "queSignifica": "Debe verificar esta cotización para el cálculo de sus costos operativos y la liquidación de divisas. Se sugiere confirmar con su entidad bancaria la aplicación de este tipo de cambio según los plazos vigentes.",
+    "titulo": "BCRA – Tipo de Cambio MULC del día",
+    "resumen": "Tipo de Cambio MULC ($ por USD): 1059.29 — al 2026-10-05",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-10-05T19:01:05.706Z"
+    "actualizadoEn": "2026-10-06T16:26:31.501Z"
   },
   {
-    "id": "2026-10-05-resog-2026-5909-e-arca-arca-ventanilla-unica-de-comercio-exterior-argentino-vuce-d38d49",
+    "id": "2026-10-06-resog-2026-5909-e-arca-arca-ventanilla-unica-de-comercio-exterior-argentino-vuce-411ae7",
     "slug": "resog-2026-5909-e-arca-arca-ventanilla-unica-de-comercio-exterior-argentino-vuce",
     "organismo": "ARCA",
     "fecha": "2026-10-05",
@@ -42,11 +39,11 @@
     },
     "normativaRef": "Resolución General 5909/2026",
     "publicadoEn": "2026-10-05T18:59:08.943Z",
-    "actualizadoEn": "2026-10-05T19:01:05.706Z"
+    "actualizadoEn": "2026-10-06T16:26:31.501Z"
   },
   {
-    "id": "2026-10-05-actualizacion-de-normas-sobre-el-mercado-unico-y-libre-de-cambios-mulc-fd757d",
-    "slug": "actualizacion-de-normas-sobre-el-mercado-unico-y-libre-de-cambios-mulc",
+    "id": "2026-10-06-actualizacion-de-normas-cambiarias-bcra-comunicacion-a-84872026-d59e63",
+    "slug": "actualizacion-de-normas-cambiarias-bcra-comunicacion-a-84872026",
     "organismo": "BCRA",
     "fecha": "2026-10-05",
     "impacto": "alto",
@@ -54,23 +51,23 @@
     "tags": [
       "MULC",
       "BCRA",
-      "Acceso a divisas",
-      "Pagos al exterior",
-      "Operaciones cambiarias"
+      "Cambios",
+      "Liquidación",
+      "Divisas"
     ],
-    "titulo": "Actualización de normas sobre el Mercado Único y Libre de Cambios (MULC)",
-    "resumen": "La Comunicación A 8487 establece nuevas disposiciones que regulan el acceso al mercado de cambios para operaciones de comercio exterior. Esta normativa modifica los requisitos y plazos vigentes para cursar pagos de importaciones y otras obligaciones financieras.",
-    "queSignifica": "Debe verificar la adecuación de sus operaciones pendientes a las nuevas exigencias cambiarias y consultar con su entidad bancaria para confirmar la viabilidad de los pagos programados. Se recomienda revisar los saldos y las condiciones de acceso vigentes antes de realizar cualquier presentación ante el MULC.",
+    "titulo": "Actualización de normas cambiarias BCRA Comunicación A 8487/2026",
+    "resumen": "La normativa establece modificaciones operativas en el acceso al Mercado Libre de Cambios (MULC) y los plazos de liquidación. Ajusta los lineamientos para cursar pagos al exterior y el ingreso de divisas por cobro de exportaciones.",
+    "queSignifica": "Se sugiere verificar la vigencia de los permisos cambiarios en curso y consultar con su entidad bancaria la adecuación de los procedimientos de pago o cobro según los nuevos plazos, ante posibles cambios en los requisitos de acceso al mercado.",
     "fuente": {
       "nombre": "Boletín Oficial de la República Argentina",
       "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348507/20261005"
     },
     "normativaRef": "Comunicación \"A\" 8487/2026",
     "publicadoEn": "2026-10-05T18:59:22.112Z",
-    "actualizadoEn": "2026-10-05T19:01:05.706Z"
+    "actualizadoEn": "2026-10-06T16:26:31.501Z"
   },
   {
-    "id": "2026-10-05-xi-encuentro-nacional-de-despachantes-de-aduana-vii-encuen-4f47a7",
+    "id": "2026-10-06-xi-encuentro-nacional-de-despachantes-de-aduana-vii-encuen-c684ca",
     "slug": "xi-encuentro-nacional-de-despachantes-de-aduana-vii-encuen",
     "organismo": "CDA",
     "fecha": "2026-10-05",
@@ -85,33 +82,32 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42791"
     },
     "publicadoEn": "2026-09-30T16:12:09.264Z",
-    "actualizadoEn": "2026-10-05T19:01:05.706Z"
+    "actualizadoEn": "2026-10-06T16:26:31.501Z"
   },
   {
-    "id": "2026-10-05-comunicado-institucional-del-centro-despachantes-de-aduana-6953f3",
-    "slug": "comunicado-institucional-del-centro-despachantes-de-aduana",
+    "id": "2026-10-06-fallecimiento-de-carlos-canta-yoy-bfdaaa",
+    "slug": "fallecimiento-de-carlos-canta-yoy",
     "organismo": "Aduana",
     "fecha": "2026-10-05",
     "impacto": "bajo",
     "categoria": "normativa",
     "tags": [
       "institucional",
-      "gremial",
       "novedad",
-      "comex"
+      "cda"
     ],
-    "titulo": "Comunicado institucional del Centro Despachantes de Aduana",
-    "resumen": "El Centro Despachantes de Aduana informa el fallecimiento de un integrante de la institución.",
-    "queSignifica": "Se trata de un comunicado de carácter informativo y gremial sin impacto en las operaciones de comercio exterior. No se requiere realizar ninguna acción administrativa ni operativa ante los organismos de control.",
+    "titulo": "Fallecimiento de Carlos Canta Yoy",
+    "resumen": "Comunicado institucional del Centro Despachantes de Aduana informando el deceso de un integrante.",
+    "queSignifica": "Es una noticia de carácter institucional sin impacto operativo ni técnico en las destinaciones aduaneras. Se sugiere tomar conocimiento del comunicado por cortesía gremial.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42806"
     },
     "publicadoEn": "2026-10-05T18:59:38.850Z",
-    "actualizadoEn": "2026-10-05T19:01:05.706Z"
+    "actualizadoEn": "2026-10-06T16:26:31.501Z"
   },
   {
-    "id": "2026-10-05-nuevo-servicio-para-socios-alquiler-de-lockers-en-sede-cent-b0d169",
+    "id": "2026-10-06-nuevo-servicio-para-socios-alquiler-de-lockers-en-sede-cent-60dba5",
     "slug": "nuevo-servicio-para-socios-alquiler-de-lockers-en-sede-cent",
     "organismo": "CDA",
     "fecha": "2026-10-05",
@@ -126,7 +122,31 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42789"
     },
     "publicadoEn": "2026-09-25T14:53:54.348Z",
-    "actualizadoEn": "2026-10-05T19:01:05.706Z"
+    "actualizadoEn": "2026-10-06T16:26:31.501Z"
+  },
+  {
+    "id": "2026-10-06-senasa-incauto-y-desnaturalizo-15-toneladas-de-carne-por-transporte-irregular-7cb0b9",
+    "slug": "senasa-incauto-y-desnaturalizo-15-toneladas-de-carne-por-transporte-irregular",
+    "organismo": "SENASA",
+    "fecha": "2026-10-05",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "SENASA",
+      "inocuidad alimentaria",
+      "transporte internacional",
+      "control sanitario",
+      "mercaderías en tránsito"
+    ],
+    "titulo": "SENASA incautó y desnaturalizó 15 toneladas de carne por transporte irregular",
+    "resumen": "SENASA procedió a la destrucción de carne no apta para consumo por falta de trazabilidad y condiciones de transporte deficientes. La medida busca prevenir riesgos a la salud pública en la cadena de comercialización.",
+    "queSignifica": "Se recomienda revisar que los transportistas cuenten con la habilitación vigente de SENASA y cumplan estrictamente con las condiciones de temperatura y documentación sanitaria. Verifique siempre que la mercadería posea rótulos y certificados de origen válidos antes de cualquier movimiento logístico.",
+    "fuente": {
+      "nombre": "SENASA Comunica",
+      "url": "https://www.argentina.gob.ar/noticias/para-preservar-la-salud-publica-se-desnaturalizaron-15000-kg-de-carne-no-apta-para-el"
+    },
+    "publicadoEn": "2026-10-06T16:26:24.929Z",
+    "actualizadoEn": "2026-10-06T16:26:31.501Z"
   },
   {
     "id": "2026-10-05-informacion-para-socios-asesoria-aladi-mercosur-a5388c",
@@ -794,108 +814,5 @@
     },
     "publicadoEn": "2026-09-22T14:17:55.313Z",
     "actualizadoEn": "2026-09-25T14:55:16.407Z"
-  },
-  {
-    "id": "2026-09-23-resog-2026-5898-e-arca-arca-impuesto-a-las-ganancias-periodo-fiscal-2025-plazo-e-d9074d",
-    "slug": "resog-2026-5898-e-arca-arca-impuesto-a-las-ganancias-periodo-fiscal-2025-plazo-e",
-    "organismo": "ARCA",
-    "fecha": "2026-09-21",
-    "impacto": "medio",
-    "categoria": "normativa",
-    "tags": [
-      "ARCA"
-    ],
-    "titulo": "RESOG-2026-5898-E-ARCA-ARCA - Impuesto a las Ganancias. Período fiscal 2025. Plazo especial para la ",
-    "resumen": "RESOG-2026-5898-E-ARCA-ARCA - Impuesto a las Ganancias. Período fiscal 2025. Plazo especial para la presentación de la declaración jurada. Personas Hu...",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/347746/20260921"
-    },
-    "normativaRef": "Resolución General 5898/2026",
-    "publicadoEn": "2026-09-22T14:17:33.104Z",
-    "actualizadoEn": "2026-09-23T14:36:12.185Z"
-  },
-  {
-    "id": "2026-09-23-comunicacion-a-84832026-2d0d76",
-    "slug": "comunicacion-a-84832026",
-    "organismo": "BCRA",
-    "fecha": "2026-09-21",
-    "impacto": "alto",
-    "categoria": "normativa",
-    "tags": [
-      "Com. A"
-    ],
-    "titulo": "Comunicación \"A\" 8483/2026",
-    "resumen": "Comunicación \"A\" 8483/2026",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/347757/20260921"
-    },
-    "normativaRef": "Comunicación \"A\" 8483/2026",
-    "publicadoEn": "2026-09-22T14:17:41.657Z",
-    "actualizadoEn": "2026-09-23T14:36:12.185Z"
-  },
-  {
-    "id": "2026-09-23-comunicacion-a-84842026-1890dc",
-    "slug": "comunicacion-a-84842026",
-    "organismo": "BCRA",
-    "fecha": "2026-09-21",
-    "impacto": "alto",
-    "categoria": "normativa",
-    "tags": [
-      "Com. A"
-    ],
-    "titulo": "Comunicación \"A\" 8484/2026",
-    "resumen": "Comunicación \"A\" 8484/2026",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/347758/20260921"
-    },
-    "normativaRef": "Comunicación \"A\" 8484/2026",
-    "publicadoEn": "2026-09-22T14:17:47.449Z",
-    "actualizadoEn": "2026-09-23T14:36:12.185Z"
-  },
-  {
-    "id": "2026-09-23-anmat-prohibe-productos-medicos-de-la-firma-medtronic-8597f4",
-    "slug": "anmat-prohibe-productos-medicos-de-la-firma-medtronic",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-09-21",
-    "impacto": "alto",
-    "categoria": "logistica",
-    "tags": [
-      "ANMAT"
-    ],
-    "titulo": "ANMAT prohíbe productos médicos de la firma Medtronic",
-    "resumen": "ANMAT prohíbe productos médicos de la firma Medtronic",
-    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-productos-medicos-de-la-firma-medtronic"
-    },
-    "publicadoEn": "2026-09-21T16:08:43.062Z",
-    "actualizadoEn": "2026-09-23T14:36:12.185Z"
-  },
-  {
-    "id": "2026-09-23-anmat-prohibe-todos-los-productos-medicos-y-medicamentos-de-la-marca-caflab-y-ca-0e7d5a",
-    "slug": "anmat-prohibe-todos-los-productos-medicos-y-medicamentos-de-la-marca-caflab-y-ca",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-09-21",
-    "impacto": "alto",
-    "categoria": "logistica",
-    "tags": [
-      "ANMAT"
-    ],
-    "titulo": "ANMAT prohíbe todos los productos médicos y medicamentos de la marca CAFLAB y CAFLAB Applied Science",
-    "resumen": "ANMAT prohíbe todos los productos médicos y medicamentos de la marca CAFLAB y CAFLAB Applied Science",
-    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-todos-los-productos-medicos-y-medicamentos-de-la-marca-caflab-y-caflab"
-    },
-    "publicadoEn": "2026-09-21T16:08:48.506Z",
-    "actualizadoEn": "2026-09-23T14:36:12.185Z"
   }
 ]
