@@ -1,56 +1,164 @@
 [
   {
-    "id": "2026-10-07-actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc-3b8870",
-    "slug": "actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc",
+    "id": "2026-10-08-bcra-tipo-de-cambio-mulc-del-dia-fd37e6",
+    "slug": "bcra-tipo-de-cambio-mulc-del-dia",
     "organismo": "BCRA",
-    "fecha": "2026-10-07",
-    "impacto": "medio",
+    "fecha": "2026-10-08",
+    "impacto": "alto",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "Tipo de cambio",
-      "BCRA",
-      "Divisas",
-      "Valuación"
+      "tipo de cambio"
     ],
-    "titulo": "Actualización de la cotización oficial del dólar en el MULC",
-    "resumen": "Se informa el valor oficial de referencia del dólar estadounidense en el Mercado Único y Libre de Cambios para la fecha indicada.",
-    "queSignifica": "Utilice esta cotización de referencia para sus proyecciones de costos y valoraciones aduaneras. Se sugiere verificar con su entidad bancaria el tipo de cambio efectivo aplicable a su operación específica antes de proceder con el pago o la liquidación.",
+    "titulo": "BCRA – Tipo de Cambio MULC del día",
+    "resumen": "Tipo de Cambio MULC ($ por USD): 1056.74 — al 2026-10-07",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-10-07T17:14:35.214Z"
+    "actualizadoEn": "2026-10-08T17:09:23.369Z"
   },
   {
-    "id": "2026-10-07-actualizacion-de-normas-cambiarias-para-acceso-al-mulc-f87749",
-    "slug": "actualizacion-de-normas-cambiarias-para-acceso-al-mulc",
+    "id": "2026-10-08-resog-2026-5911-e-arca-arca-impuesto-a-las-ganancias-periodo-fiscal-2025-plazo-e-649402",
+    "slug": "resog-2026-5911-e-arca-arca-impuesto-a-las-ganancias-periodo-fiscal-2025-plazo-e",
+    "organismo": "ARCA",
+    "fecha": "2026-10-08",
+    "impacto": "medio",
+    "categoria": "normativa",
+    "tags": [
+      "ARCA"
+    ],
+    "titulo": "RESOG-2026-5911-E-ARCA-ARCA - Impuesto a las Ganancias. Período fiscal 2025. Plazo especial para la ",
+    "resumen": "RESOG-2026-5911-E-ARCA-ARCA - Impuesto a las Ganancias. Período fiscal 2025. Plazo especial para la presentación de la declaración jurada. Personas Hu...",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348714/20261008"
+    },
+    "normativaRef": "Resolución General 5911/2026",
+    "publicadoEn": "2026-10-08T17:06:26.098Z",
+    "actualizadoEn": "2026-10-08T17:09:23.369Z"
+  },
+  {
+    "id": "2026-10-08-webinar-informativo-sobre-riesgos-operativos-y-legales-de-la-averia-gruesa-11b328",
+    "slug": "webinar-informativo-sobre-riesgos-operativos-y-legales-de-la-averia-gruesa",
+    "organismo": "Aduana",
+    "fecha": "2026-10-08",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "avería gruesa",
+      "transporte marítimo",
+      "seguro de carga",
+      "incoterms",
+      "logística"
+    ],
+    "titulo": "Webinar informativo sobre riesgos operativos y legales de la Avería Gruesa",
+    "resumen": "Se convoca a una capacitación sobre el impacto de la declaración de avería gruesa en la liberación de mercaderías tras incidentes marítimos. La sesión aborda la naturaleza jurídica y los riesgos económicos asociados a esta figura del derecho marítimo.",
+    "queSignifica": "Se recomienda a los operadores revisar la cobertura de sus pólizas de seguro de transporte y evaluar las cláusulas contractuales ante posibles siniestros. Se sugiere consultar con su despachante o asesor legal sobre la gestión de garantías requeridas por los armadores en estos escenarios.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42803"
+    },
+    "publicadoEn": "2026-10-02T16:05:40.128Z",
+    "actualizadoEn": "2026-10-08T17:09:23.369Z"
+  },
+  {
+    "id": "2026-10-08-nuevo-servicio-para-socios-alquiler-de-lockers-en-sede-cent-e37268",
+    "slug": "nuevo-servicio-para-socios-alquiler-de-lockers-en-sede-cent",
+    "organismo": "CDA",
+    "fecha": "2026-10-08",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "Nuevo servicio para socios: Alquiler de lockers en Sede Cent",
+    "resumen": "El Centro Despachantes de Aduana (CDA) informa a sus asociados que próximamente estará disponible un nuevo servicio de alquiler de lockers...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42789"
+    },
+    "publicadoEn": "2026-09-25T14:53:54.348Z",
+    "actualizadoEn": "2026-10-08T17:09:23.369Z"
+  },
+  {
+    "id": "2026-10-08-xi-encuentro-nacional-de-despachantes-de-aduana-ab05e2",
+    "slug": "xi-encuentro-nacional-de-despachantes-de-aduana",
+    "organismo": "Aduana",
+    "fecha": "2026-10-08",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "capacitación",
+      "profesionalización",
+      "comercio exterior",
+      "novedades aduaneras",
+      "cda"
+    ],
+    "titulo": "XI Encuentro Nacional de Despachantes de Aduana",
+    "resumen": "El CDA organiza su encuentro nacional bianual destinado a la actualización profesional del sector.",
+    "queSignifica": "Se recomienda revisar el programa del evento para identificar si los temas a tratar afectan la operatoria habitual. No implica cambios procedimentales ni cambios en la normativa vigente.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42791"
+    },
+    "publicadoEn": "2026-09-30T16:12:09.264Z",
+    "actualizadoEn": "2026-10-08T17:09:23.369Z"
+  },
+  {
+    "id": "2026-10-08-jornada-informativa-sobre-infraestructura-portuaria-del-ministerio-de-desarrollo-6f98a3",
+    "slug": "jornada-informativa-sobre-infraestructura-portuaria-del-ministerio-de-desarrollo",
+    "organismo": "Aduana",
+    "fecha": "2026-10-08",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "infraestructura portuaria",
+      "logística",
+      "comercio exterior",
+      "puertos",
+      "operativa"
+    ],
+    "titulo": "Jornada informativa sobre infraestructura portuaria del Ministerio de Desarrollo",
+    "resumen": "Se convoca a los asociados a una reunión de trabajo sobre el estado y proyectos de la infraestructura portuaria nacional.",
+    "queSignifica": "Se sugiere revisar la convocatoria para evaluar si la temática impacta en las operaciones logísticas habituales de la firma. Se recomienda asistir o consultar el material informativo resultante para anticipar posibles cambios en la gestión de terminales.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42808"
+    },
+    "publicadoEn": "2026-10-07T17:11:08.162Z",
+    "actualizadoEn": "2026-10-08T17:09:23.369Z"
+  },
+  {
+    "id": "2026-10-08-actualizacion-de-normas-cambiarias-del-bcra-f399e5",
+    "slug": "actualizacion-de-normas-cambiarias-del-bcra",
     "organismo": "BCRA",
     "fecha": "2026-10-07",
     "impacto": "alto",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "Acceso al Mercado de Cambios",
-      "BCRA",
-      "Pagos al exterior",
-      "Giros de divisas"
+      "acceso al mercado de cambios",
+      "operaciones cambiarias",
+      "comercio exterior",
+      "BCRA"
     ],
-    "titulo": "Actualización de normas cambiarias para acceso al MULC",
-    "resumen": "La Comunicación A 8485 establece nuevas condiciones operativas para el acceso al Mercado Único y Libre de Cambios. Define requerimientos técnicos específicos para la liquidación y pago de operaciones de comercio exterior.",
-    "queSignifica": "Debe revisar la vigencia de los permisos cambiarios y consultar a su entidad financiera para validar si la operación en curso requiere documentación complementaria. Se sugiere analizar el impacto específico en su flujo de pagos según el tipo de bien o servicio.",
+    "titulo": "Actualización de normas cambiarias del BCRA",
+    "resumen": "La Comunicación A 8485 establece modificaciones en el acceso al Mercado Único y Libre de Cambios para operaciones de comercio exterior. Define los nuevos requisitos y condiciones para el cursado de pagos al exterior.",
+    "queSignifica": "Debe revisar el texto normativo junto a su entidad bancaria para validar si su operación califica para el acceso a divisas. Es fundamental verificar el cumplimiento de los nuevos plazos y documentación exigida antes de confirmar cualquier transacción cambiaria.",
     "fuente": {
       "nombre": "Boletín Oficial de la República Argentina",
       "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348665/20261007"
     },
     "normativaRef": "Comunicación \"A\" 8485/2026",
     "publicadoEn": "2026-10-07T17:08:36.261Z",
-    "actualizadoEn": "2026-10-07T17:14:35.214Z"
+    "actualizadoEn": "2026-10-08T17:09:23.369Z"
   },
   {
-    "id": "2026-10-07-actualizacion-de-las-normas-sobre-el-mercado-unico-y-libre-de-cambios-del-bcra-cdf89b",
-    "slug": "actualizacion-de-las-normas-sobre-el-mercado-unico-y-libre-de-cambios-del-bcra",
+    "id": "2026-10-08-actualizacion-sobre-normativa-cambiaria-y-acceso-al-mercado-de-cambios-5d453f",
+    "slug": "actualizacion-sobre-normativa-cambiaria-y-acceso-al-mercado-de-cambios",
     "organismo": "BCRA",
     "fecha": "2026-10-07",
     "impacto": "alto",
@@ -58,24 +166,24 @@
     "tags": [
       "MULC",
       "BCRA",
-      "Acceso al mercado de cambios",
-      "Regulaciones cambiarias",
-      "Comex"
+      "giros de divisas",
+      "regulación cambiaria",
+      "operaciones financieras"
     ],
-    "titulo": "Actualización de las normas sobre el Mercado Único y Libre de Cambios del BCRA",
-    "resumen": "La Comunicación A 8488 establece nuevas disposiciones operativas que rigen el acceso al mercado de cambios para operaciones de comercio exterior. La norma modifica los requisitos y plazos para la cancelación de obligaciones vinculadas a importaciones y exportaciones.",
-    "queSignifica": "Es necesario verificar el cumplimiento de los nuevos requisitos documentales y plazos de acceso según la tipología de la operación. Se sugiere consultar con la entidad bancaria interviniente antes de cursar pagos o liquidar divisas para asegurar la alineación con la normativa vigente.",
+    "titulo": "Actualización sobre normativa cambiaria y acceso al mercado de cambios",
+    "resumen": "La Comunicación A 8488/2026 establece nuevas disposiciones para el acceso al Mercado Único y Libre de Cambios. La medida regula las condiciones para cursar operaciones cambiarias y el cumplimiento de plazos operativos.",
+    "queSignifica": "Es necesario revisar inmediatamente el impacto de estas condiciones en sus operaciones pendientes de liquidación o pago. Se recomienda consultar con su entidad bancaria para validar si la operatividad actual requiere ajustes documentales.",
     "fuente": {
       "nombre": "Boletín Oficial de la República Argentina",
       "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348666/20261007"
     },
     "normativaRef": "Comunicación \"A\" 8488/2026",
     "publicadoEn": "2026-10-07T17:08:49.634Z",
-    "actualizadoEn": "2026-10-07T17:14:35.214Z"
+    "actualizadoEn": "2026-10-08T17:09:23.369Z"
   },
   {
-    "id": "2026-10-07-invitacion-a-reunion-abierta-de-la-subcomision-operativa-del-cda-7edaef",
-    "slug": "invitacion-a-reunion-abierta-de-la-subcomision-operativa-del-cda",
+    "id": "2026-10-08-reunion-abierta-de-la-subcomision-operativa-del-cda-e2f9d0",
+    "slug": "reunion-abierta-de-la-subcomision-operativa-del-cda",
     "organismo": "Aduana",
     "fecha": "2026-10-07",
     "impacto": "bajo",
@@ -83,69 +191,45 @@
     "tags": [
       "CDA",
       "Subcomisión Operativa",
-      "Reunión",
-      "Comercio Exterior",
-      "Operatividad"
+      "comercio exterior",
+      "gestión aduanera"
     ],
-    "titulo": "Invitación a reunión abierta de la Subcomisión Operativa del CDA",
-    "resumen": "El CDA convoca a sus asociados a un encuentro de trabajo para tratar temas de operatividad aduanera.",
-    "queSignifica": "Se sugiere a los despachantes verificar la agenda de la reunión y evaluar su participación si desean elevar consultas o inquietudes sobre la operatoria vigente.",
+    "titulo": "Reunión abierta de la Subcomisión Operativa del CDA",
+    "resumen": "El Centro Despachantes de Aduana convoca a sus asociados a un encuentro de su Subcomisión Operativa.",
+    "queSignifica": "Se sugiere a los despachantes verificar el temario de la reunión y evaluar su participación si requiere tratar inquietudes operativas vigentes en la gestión aduanera.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42812"
     },
     "publicadoEn": "2026-10-07T17:10:41.055Z",
-    "actualizadoEn": "2026-10-07T17:14:35.214Z"
+    "actualizadoEn": "2026-10-08T17:09:23.369Z"
   },
   {
-    "id": "2026-10-07-cierre-de-oficinas-del-cda-por-feriado-del-12-de-octubre-de-2026-a56133",
-    "slug": "cierre-de-oficinas-del-cda-por-feriado-del-12-de-octubre-de-2026",
+    "id": "2026-10-08-cierre-administrativo-del-cda-por-feriado-del-12-de-octubre-de-2026-a3a6b9",
+    "slug": "cierre-administrativo-del-cda-por-feriado-del-12-de-octubre-de-2026",
     "organismo": "Aduana",
     "fecha": "2026-10-07",
     "impacto": "bajo",
     "categoria": "logistica",
     "tags": [
-      "cierre administrativo",
-      "gestión aduanera",
       "feriado",
-      "operatividad",
-      "plazos"
+      "operativa aduanera",
+      "cierre administrativo",
+      "cronograma",
+      "CDA"
     ],
-    "titulo": "Cierre de oficinas del CDA por feriado del 12 de octubre de 2026",
-    "resumen": "El Centro Despachantes de Aduana informa que no brindará atención presencial el día 12 de octubre de 2026 por feriado nacional.",
-    "queSignifica": "Se sugiere revisar la programación de trámites y gestiones presenciales ante la institución para evitar demoras. Se recomienda prever la carga de declaraciones en el sistema informático con antelación, considerando la posible restricción de servicios administrativos.",
+    "titulo": "Cierre administrativo del CDA por feriado del 12 de octubre de 2026",
+    "resumen": "El Centro Despachantes de Aduana informa que suspenderá sus actividades administrativas el 12 de octubre de 2026 debido al feriado nacional.",
+    "queSignifica": "Se recomienda verificar el cronograma de atención de las terminales portuarias y depósitos fiscales para esa fecha. Es aconsejable adelantar gestiones documentales para evitar demoras operativas durante el feriado.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42814"
     },
     "publicadoEn": "2026-10-07T17:10:55.900Z",
-    "actualizadoEn": "2026-10-07T17:14:35.214Z"
+    "actualizadoEn": "2026-10-08T17:09:23.369Z"
   },
   {
-    "id": "2026-10-07-reunion-de-trabajo-sobre-infraestructura-portuaria-9252eb",
-    "slug": "reunion-de-trabajo-sobre-infraestructura-portuaria",
-    "organismo": "Aduana",
-    "fecha": "2026-10-07",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "infraestructura portuaria",
-      "logística",
-      "comercio exterior",
-      "gestión portuaria"
-    ],
-    "titulo": "Reunión de trabajo sobre infraestructura portuaria",
-    "resumen": "El CDA convoca a una jornada informativa sobre la gestión y el desarrollo de la infraestructura portuaria.",
-    "queSignifica": "Se sugiere revisar la agenda del evento para evaluar si la información sobre infraestructura resulta relevante para la optimización de sus operaciones logísticas actuales.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42808"
-    },
-    "publicadoEn": "2026-10-07T17:11:08.162Z",
-    "actualizadoEn": "2026-10-07T17:14:35.214Z"
-  },
-  {
-    "id": "2026-10-07-capacitacion-sobre-el-programa-operador-economico-autorizado-oea-56b773",
+    "id": "2026-10-08-capacitacion-sobre-el-programa-operador-economico-autorizado-oea-45ff71",
     "slug": "capacitacion-sobre-el-programa-operador-economico-autorizado-oea",
     "organismo": "Aduana",
     "fecha": "2026-10-07",
@@ -155,90 +239,107 @@
       "OEA",
       "Aduana",
       "Certificacion",
-      "Facilitacion",
-      "Comercio Exterior"
+      "Comercio Exterior",
+      "Capacitacion"
     ],
-    "titulo": "Capacitación sobre el Programa Operador Económico Autorizado (OEA)",
-    "resumen": "El CDA organiza una jornada informativa para profundizar sobre los requisitos y beneficios del estatus de Operador Económico Autorizado. El objetivo es brindar herramientas para mejorar la jerarquización y competitividad de las empresas ante la Aduana.",
-    "queSignifica": "Se sugiere a los operadores verificar los beneficios del programa OEA y evaluar si su estructura actual cumple con los estándares de seguridad necesarios para aplicar a esta certificación.",
+    "titulo": "Capacitación sobre el programa Operador Económico Autorizado (OEA)",
+    "resumen": "El CDA organiza una jornada informativa sobre los beneficios y requisitos del programa OEA para operadores del comercio exterior.",
+    "queSignifica": "Se sugiere revisar el programa OEA para evaluar posibles beneficios de facilitación aduanera y analizar si los procesos actuales de la empresa permiten alcanzar los estándares requeridos para esta certificación.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42804"
     },
     "publicadoEn": "2026-10-05T19:00:10.175Z",
-    "actualizadoEn": "2026-10-07T17:14:35.214Z"
+    "actualizadoEn": "2026-10-08T17:09:23.369Z"
   },
   {
-    "id": "2026-10-07-estrategias-de-produccion-limpia-y-eficiencia-industrial-para-sectores-estrategi-2fd73d",
-    "slug": "estrategias-de-produccion-limpia-y-eficiencia-industrial-para-sectores-estrategi",
+    "id": "2026-10-08-herramientas-de-produccion-limpia-y-ahorro-industrial-del-inti-192fe8",
+    "slug": "herramientas-de-produccion-limpia-y-ahorro-industrial-del-inti",
     "organismo": "INTI",
     "fecha": "2026-10-07",
     "impacto": "bajo",
     "categoria": "normativa",
     "tags": [
-      "INTI",
-      "producción limpia",
-      "normas técnicas",
-      "eficiencia industrial",
-      "cumplimiento normativo"
+      "eficiencia productiva",
+      "regulaciones técnicas",
+      "industria nacional",
+      "competitividad",
+      "comercio exterior"
     ],
-    "titulo": "Estrategias de producción limpia y eficiencia industrial para sectores estratégicos",
-    "resumen": "El INTI presentó herramientas técnicas y estrategias para optimizar procesos productivos en los sectores de minería y energía. La información tiene un enfoque de capacitación y mejora de la competitividad industrial.",
-    "queSignifica": "Se sugiere revisar si los nuevos estándares técnicos recomendados impactan en los requisitos de certificación de sus productos. Evalúe si la adopción de estas metodologías aporta beneficios en sus procesos de comercio exterior.",
+    "titulo": "Herramientas de producción limpia y ahorro industrial del INTI",
+    "resumen": "El INTI difundió estrategias para mejorar la eficiencia y sostenibilidad en sectores clave de la industria argentina.",
+    "queSignifica": "Se sugiere revisar si las prácticas mencionadas impactan en procesos productivos sujetos a certificaciones técnicas o reglamentos técnicos vigentes.",
     "fuente": {
       "nombre": "INTI – Noticias",
       "url": "https://www.argentina.gob.ar/noticias/produccion-mas-limpia-estrategias-y-oportunidades-de-ahorro-para-la-industria"
     },
     "publicadoEn": "2026-10-07T17:13:28.500Z",
-    "actualizadoEn": "2026-10-07T17:14:35.214Z"
+    "actualizadoEn": "2026-10-08T17:09:23.369Z"
   },
   {
-    "id": "2026-10-07-exportacion-de-lacteos-sin-lactosa-a-emiratos-arabes-unidos-28e2f1",
-    "slug": "exportacion-de-lacteos-sin-lactosa-a-emiratos-arabes-unidos",
+    "id": "2026-10-08-exportacion-de-productos-lacteos-sin-lactosa-a-emiratos-arabes-unidos-56a620",
+    "slug": "exportacion-de-productos-lacteos-sin-lactosa-a-emiratos-arabes-unidos",
     "organismo": "INTI",
     "fecha": "2026-10-07",
     "impacto": "bajo",
     "categoria": "exportacion",
     "tags": [
       "exportación de alimentos",
-      "requisitos fitosanitarios",
-      "certificación de origen",
-      "acceso a mercado",
-      "normativa técnica"
+      "productos lácteos",
+      "Emiratos Árabes",
+      "asistencia técnica",
+      "INAl"
     ],
-    "titulo": "Exportación de lácteos sin lactosa a Emiratos Árabes Unidos",
-    "resumen": "La empresa Capilla del Señor concretó su primera exportación de quesos deslactosados a Dubái con asistencia técnica del INTI.",
-    "queSignifica": "Se sugiere verificar las normativas sanitarias y de etiquetado específicas de los Emiratos Árabes Unidos para productos lácteos, además de validar la documentación técnica requerida por el INAL y el importador en destino.",
+    "titulo": "Exportación de productos lácteos sin lactosa a Emiratos Árabes Unidos",
+    "resumen": "Una pyme nacional concretó su primera exportación de quesos deslactosados hacia el mercado emiratí con asistencia técnica del INTI.",
+    "queSignifica": "Es un caso testigo de apertura de mercado; se recomienda verificar los requisitos fitosanitarios y certificaciones Halal específicas exigidas por el destino para productos lácteos.",
     "fuente": {
       "nombre": "INTI – Noticias",
       "url": "https://www.argentina.gob.ar/noticias/una-pyme-cordobesa-llega-dubai-con-quesos-deslactosados"
     },
     "publicadoEn": "2026-10-07T17:13:58.795Z",
-    "actualizadoEn": "2026-10-07T17:14:35.214Z"
+    "actualizadoEn": "2026-10-08T17:09:23.369Z"
   },
   {
-    "id": "2026-10-07-jornada-sobre-tecnologia-de-irradiacion-para-tratamientos-fitosanitarios-7e49e0",
-    "slug": "jornada-sobre-tecnologia-de-irradiacion-para-tratamientos-fitosanitarios",
+    "id": "2026-10-08-jornada-de-introduccion-a-tecnologia-de-irradiacion-aplicada-al-tratamiento-fito-30ef9a",
+    "slug": "jornada-de-introduccion-a-tecnologia-de-irradiacion-aplicada-al-tratamiento-fito",
     "organismo": "SENASA",
     "fecha": "2026-10-06",
     "impacto": "bajo",
     "categoria": "logistica",
     "tags": [
-      "fitosanitario",
-      "tratamiento cuarentenario",
       "SENASA",
-      "comercio exterior",
-      "protocolos"
+      "fitosanitario"
     ],
-    "titulo": "Jornada sobre tecnología de irradiación para tratamientos fitosanitarios",
-    "resumen": "Se realizó un encuentro técnico para evaluar el uso de irradiación como método de tratamiento fitosanitario en productos agropecuarios. La actividad buscó coordinar criterios entre SENASA y organismos tecnológicos para futuras aplicaciones.",
-    "queSignifica": "Es una instancia informativa sin cambios normativos inmediatos. Se sugiere a los operadores mantenerse atentos a futuras actualizaciones en las exigencias de tratamientos cuarentenarios para sus posiciones arancelarias.",
+    "titulo": "Jornada de introducción a tecnología de irradiación aplicada al tratamiento fitosanitario",
+    "resumen": "Realizada en el Centro Atómico Ezeiza, reunió a representantes de SENASA, la Comisión Nacional de Energía Atómica y la Secretaría de Agricultura.",
+    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
     "fuente": {
       "nombre": "SENASA Comunica",
       "url": "https://www.argentina.gob.ar/noticias/jornada-de-introduccion-tecnologia-de-irradiacion-aplicada-al-tratamiento-fitosanitario"
     },
     "publicadoEn": "2026-10-07T17:12:52.446Z",
-    "actualizadoEn": "2026-10-07T17:14:35.214Z"
+    "actualizadoEn": "2026-10-08T17:09:23.369Z"
+  },
+  {
+    "id": "2026-10-08-para-preservar-la-salud-publica-se-desnaturalizaron-15000-kg-de-carne-no-apta-pa-b4c1a3",
+    "slug": "para-preservar-la-salud-publica-se-desnaturalizaron-15000-kg-de-carne-no-apta-pa",
+    "organismo": "SENASA",
+    "fecha": "2026-10-05",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "SENASA"
+    ],
+    "titulo": "Para preservar la salud pública se desnaturalizaron 15000 kg de carne no apta para el consumo humano",
+    "resumen": "Lo dispuso SENASA al comprobar que la mercadería era transportada de Jujuy a Salta en condiciones irregulares y sin conocerse su origen.",
+    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
+    "fuente": {
+      "nombre": "SENASA Comunica",
+      "url": "https://www.argentina.gob.ar/noticias/para-preservar-la-salud-publica-se-desnaturalizaron-15000-kg-de-carne-no-apta-para-el"
+    },
+    "publicadoEn": "2026-10-06T16:26:24.929Z",
+    "actualizadoEn": "2026-10-08T17:09:23.369Z"
   },
   {
     "id": "2026-10-07-implementacion-de-declaracion-jurada-para-inversiones-en-actividad-minera-via-vu-f56282",
@@ -287,30 +388,6 @@
     "actualizadoEn": "2026-10-07T17:14:35.214Z"
   },
   {
-    "id": "2026-10-07-xi-encuentro-nacional-de-despachantes-de-aduana-f73239",
-    "slug": "xi-encuentro-nacional-de-despachantes-de-aduana",
-    "organismo": "Aduana",
-    "fecha": "2026-10-05",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "capacitación",
-      "profesionalización",
-      "comercio exterior",
-      "encuentro nacional",
-      "actualización profesional"
-    ],
-    "titulo": "XI Encuentro Nacional de Despachantes de Aduana",
-    "resumen": "El Centro Despachantes de Aduana convoca a sus asociados a participar de su encuentro anual.",
-    "queSignifica": "Se trata de una actividad institucional de capacitación y networking; se sugiere revisar el cronograma del evento para evaluar su relevancia profesional.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42791"
-    },
-    "publicadoEn": "2026-09-30T16:12:09.264Z",
-    "actualizadoEn": "2026-10-07T17:14:35.214Z"
-  },
-  {
     "id": "2026-10-07-comunicado-institucional-por-el-fallecimiento-del-sr-carlos-canta-yoy-150a14",
     "slug": "comunicado-institucional-por-el-fallecimiento-del-sr-carlos-canta-yoy",
     "organismo": "Aduana",
@@ -330,54 +407,6 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42806"
     },
     "publicadoEn": "2026-10-05T18:59:38.850Z",
-    "actualizadoEn": "2026-10-07T17:14:35.214Z"
-  },
-  {
-    "id": "2026-10-07-disponibilidad-de-alquiler-de-lockers-en-la-sede-central-del-cda-ab60f2",
-    "slug": "disponibilidad-de-alquiler-de-lockers-en-la-sede-central-del-cda",
-    "organismo": "Aduana",
-    "fecha": "2026-10-05",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "CDA",
-      "servicios",
-      "infraestructura",
-      "despachante",
-      "logística"
-    ],
-    "titulo": "Disponibilidad de alquiler de lockers en la sede central del CDA",
-    "resumen": "El Centro Despachantes de Aduana anunció que ofrecerá próximamente el servicio de alquiler de lockers en su sede central.",
-    "queSignifica": "Es una novedad institucional de carácter informativo sin impacto en las operaciones de comercio exterior. Se sugiere revisar los canales oficiales del CDA por si requiere gestión administrativa interna en caso de interés en el servicio.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42789"
-    },
-    "publicadoEn": "2026-09-25T14:53:54.348Z",
-    "actualizadoEn": "2026-10-07T17:14:35.214Z"
-  },
-  {
-    "id": "2026-10-07-senasa-desnaturalizo-15000-kg-de-carne-por-irregularidades-en-el-transporte-217206",
-    "slug": "senasa-desnaturalizo-15000-kg-de-carne-por-irregularidades-en-el-transporte",
-    "organismo": "SENASA",
-    "fecha": "2026-10-05",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "SENASA",
-      "inocuidad alimentaria",
-      "transporte de carga",
-      "habilitación sanitaria",
-      "control aduanero"
-    ],
-    "titulo": "SENASA desnaturalizó 15.000 kg de carne por irregularidades en el transporte",
-    "resumen": "SENASA procedió a la desnaturalización de un cargamento de carne decomisado debido a condiciones de transporte no aptas y falta de trazabilidad.",
-    "queSignifica": "Se sugiere revisar la vigencia de las habilitaciones de transporte y la documentación sanitaria (DT-e/certificados) para toda mercadería alimenticia bajo control de SENASA a fin de evitar decomisos por incumplimientos normativos.",
-    "fuente": {
-      "nombre": "SENASA Comunica",
-      "url": "https://www.argentina.gob.ar/noticias/para-preservar-la-salud-publica-se-desnaturalizaron-15000-kg-de-carne-no-apta-para-el"
-    },
-    "publicadoEn": "2026-10-06T16:26:24.929Z",
     "actualizadoEn": "2026-10-07T17:14:35.214Z"
   },
   {
@@ -490,30 +519,6 @@
     },
     "normativaRef": "Comunicación \"A\" 8486/2026",
     "publicadoEn": "2026-10-02T16:03:34.459Z",
-    "actualizadoEn": "2026-10-02T16:07:42.121Z"
-  },
-  {
-    "id": "2026-10-02-webinar-sobre-los-riesgos-y-alcances-de-la-figura-de-averia-gruesa-en-el-transpo-8945b2",
-    "slug": "webinar-sobre-los-riesgos-y-alcances-de-la-figura-de-averia-gruesa-en-el-transpo",
-    "organismo": "Aduana",
-    "fecha": "2026-10-01",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "Avería gruesa",
-      "Seguro de transporte",
-      "Bill of Lading",
-      "Logística marítima",
-      "Flete"
-    ],
-    "titulo": "Webinar sobre los riesgos y alcances de la figura de Avería Gruesa en el transporte marítimo",
-    "resumen": "Se organiza una jornada informativa para explicar el concepto de Avería Gruesa y sus implicancias en la carga ante siniestros marítimos. El evento busca concientizar sobre el riesgo de retención de mercaderías tras incidentes en buques.",
-    "queSignifica": "Se sugiere a los operadores de comercio exterior revisar sus pólizas de seguro de transporte para verificar la cobertura ante reclamos de Avería Gruesa y evaluar el alcance de sus contratos de flete marítimo.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42803"
-    },
-    "publicadoEn": "2026-10-02T16:05:40.128Z",
     "actualizadoEn": "2026-10-02T16:07:42.121Z"
   },
   {
@@ -955,54 +960,6 @@
       "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-productos-que-declaren-contener-retatrutide-o-retatrutida"
     },
     "publicadoEn": "2026-09-25T14:55:08.526Z",
-    "actualizadoEn": "2026-09-25T14:55:16.407Z"
-  },
-  {
-    "id": "2026-09-25-reunion-informativa-sobre-el-proyecto-del-nuevo-convenio-colectivo-de-trabajo-de-0f9a78",
-    "slug": "reunion-informativa-sobre-el-proyecto-del-nuevo-convenio-colectivo-de-trabajo-de",
-    "organismo": "Aduana",
-    "fecha": "2026-09-23",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "CDA",
-      "Convenio Colectivo de Trabajo",
-      "gremial",
-      "despachantes de aduana",
-      "representación"
-    ],
-    "titulo": "Reunión informativa sobre el proyecto del nuevo Convenio Colectivo de Trabajo del CDA",
-    "resumen": "El Centro Despachantes de Aduana convoca a sus asociados a debatir el proyecto de un nuevo marco normativo laboral para el sector.",
-    "queSignifica": "Se recomienda a los titulares de despachantes participar en la reunión para conocer cómo los cambios propuestos podrían afectar la estructura laboral de su agencia. Es prudente revisar los borradores presentados para evaluar futuras adecuaciones administrativas.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42776"
-    },
-    "publicadoEn": "2026-09-17T14:34:39.400Z",
-    "actualizadoEn": "2026-09-25T14:55:16.407Z"
-  },
-  {
-    "id": "2026-09-25-presentacion-del-libro-sobre-el-regimen-juridico-del-acuerdo-mercosur-ue-2c4441",
-    "slug": "presentacion-del-libro-sobre-el-regimen-juridico-del-acuerdo-mercosur-ue",
-    "organismo": "Aduana",
-    "fecha": "2026-09-23",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "MERCOSUR",
-      "Unión Europea",
-      "Acuerdo Comercial",
-      "Regimen Aduanero",
-      "Derecho Aduanero"
-    ],
-    "titulo": "Presentación del libro sobre el régimen jurídico del acuerdo MERCOSUR-UE",
-    "resumen": "El Centro Despachantes de Aduana presenta una obra técnica sobre el marco jurídico del futuro acuerdo entre el MERCOSUR y la Unión Europea. El contenido se enfoca en el análisis teórico y normativo de las disposiciones aduaneras propuestas.",
-    "queSignifica": "Esta es una instancia informativa. Se sugiere revisar la publicación para comprender los alcances técnicos potenciales del acuerdo, sin que esto implique cambios operativos actuales en la gestión de destinaciones.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42748"
-    },
-    "publicadoEn": "2026-09-16T14:30:29.390Z",
     "actualizadoEn": "2026-09-25T14:55:16.407Z"
   }
 ]
