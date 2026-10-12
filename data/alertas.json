@@ -1,27 +1,75 @@
 [
   {
-    "id": "2026-10-09-actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc-87cebb",
-    "slug": "actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc",
+    "id": "2026-10-12-actualizacion-del-tipo-de-cambio-oficial-del-mulc-b742ff",
+    "slug": "actualizacion-del-tipo-de-cambio-oficial-del-mulc",
     "organismo": "BCRA",
-    "fecha": "2026-10-09",
+    "fecha": "2026-10-12",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "tipo de cambio",
-      "divisas",
-      "pago de importaciones",
-      "cobro de exportaciones"
+      "Tipo de Cambio",
+      "BCRA",
+      "Divisas",
+      "Valoración"
     ],
-    "titulo": "Actualización de la cotización oficial del dólar en el MULC",
-    "resumen": "El BCRA ha fijado la cotización del dólar en el Mercado Único y Libre de Cambios para la fecha indicada. Este valor constituye la referencia oficial para la liquidación de divisas en operaciones de comercio exterior.",
-    "queSignifica": "Se recomienda verificar este valor para realizar los cálculos de costos de nacionalización o liquidación de exportaciones. Es prudente confirmar con su entidad financiera si este tipo de cambio es el aplicable a su operación específica según la normativa cambiaria vigente.",
+    "titulo": "Actualización del tipo de cambio oficial del MULC",
+    "resumen": "El BCRA fijó el tipo de cambio oficial de referencia para el Mercado Único y Libre de Cambios en 1059.02 pesos por dólar para el 9 de octubre de 2026.",
+    "queSignifica": "Utilice este valor de referencia para el cálculo de costos operativos, liquidación de divisas y valoración aduanera. Se sugiere verificar con su entidad bancaria la aplicación específica para su operación cambiaria vigente.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-10-09T16:46:42.833Z"
+    "actualizadoEn": "2026-10-12T19:33:16.656Z"
+  },
+  {
+    "id": "2026-10-12-retiro-del-mercado-de-gel-neutro-marca-sanicol-por-disposicion-de-anmat-89b663",
+    "slug": "retiro-del-mercado-de-gel-neutro-marca-sanicol-por-disposicion-de-anmat",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-10-09",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "ANMAT",
+      "Seguridad de Producto",
+      "Retiro de Mercado",
+      "Comercio Exterior",
+      "Control Aduanero"
+    ],
+    "titulo": "Retiro del mercado de Gel Neutro marca SANICOL por disposición de ANMAT",
+    "resumen": "La ANMAT ha ordenado el retiro preventivo y cese de comercialización del producto Gel Neutro marca SANICOL. La medida responde a una alerta sanitaria que afecta la integridad del producto en el mercado.",
+    "queSignifica": "Se sugiere verificar el stock en depósito fiscal o nacionalizado para identificar lotes afectados. Se recomienda consultar inmediatamente con el departamento de Asuntos Regulatorios para frenar cualquier despacho o comercialización de este producto específico.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/retiro-del-mercado-del-producto-gel-neutro-marca-sanicol"
+    },
+    "publicadoEn": "2026-10-12T19:33:06.219Z",
+    "actualizadoEn": "2026-10-12T19:33:16.656Z"
+  },
+  {
+    "id": "2026-10-12-alerta-sobre-falsificacion-de-dysport-en-operaciones-de-comercio-exterior-ae80af",
+    "slug": "alerta-sobre-falsificacion-de-dysport-en-operaciones-de-comercio-exterior",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-10-09",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "ANMAT",
+      "productos médicos",
+      "comercio exterior",
+      "control aduanero",
+      "seguridad sanitaria"
+    ],
+    "titulo": "Alerta sobre falsificación de DYSPORT en operaciones de comercio exterior",
+    "resumen": "La ANMAT ha detectado nuevamente unidades falsificadas del producto DYSPORT en el mercado. Esta alerta implica un riesgo sanitario crítico para los productos de esta denominación que ingresen al país.",
+    "queSignifica": "Se recomienda extremar las medidas de control documental y verificar la trazabilidad de los lotes ante ANMAT antes de iniciar cualquier trámite de importación o liberación a plaza. Es aconsejable consultar con el proveedor la autenticidad del embarque para evitar demoras o incautaciones en la aduana.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-advierte-nuevamente-sobre-dysportr-falsificado"
+    },
+    "publicadoEn": "2026-10-09T16:46:20.896Z",
+    "actualizadoEn": "2026-10-12T19:33:16.656Z"
   },
   {
     "id": "2026-10-09-xi-encuentro-nacional-de-despachantes-de-aduana-3c45b6",
@@ -93,30 +141,6 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42808"
     },
     "publicadoEn": "2026-10-07T17:11:08.162Z",
-    "actualizadoEn": "2026-10-09T16:46:42.833Z"
-  },
-  {
-    "id": "2026-10-09-alerta-sobre-falsificacion-de-dysport-riesgo-en-despacho-y-comercializacion-89b37c",
-    "slug": "alerta-sobre-falsificacion-de-dysport-riesgo-en-despacho-y-comercializacion",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-10-09",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "ANMAT",
-      "despacho de importación",
-      "productos médicos",
-      "falsificación",
-      "control sanitario"
-    ],
-    "titulo": "Alerta sobre falsificación de Dysport: riesgo en despacho y comercialización",
-    "resumen": "La ANMAT ha detectado nuevamente unidades falsificadas del producto médico Dysport, lo cual implica un riesgo sanitario crítico. El organismo alerta sobre la circulación de estos lotes irregulares en el mercado.",
-    "queSignifica": "Es imperativo verificar la trazabilidad y los lotes recibidos contra las alertas publicadas por ANMAT. Se recomienda contactar al titular del registro sanitario antes de proceder con el libramiento a plaza para evitar sanciones o retenciones aduaneras.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-advierte-nuevamente-sobre-dysportr-falsificado"
-    },
-    "publicadoEn": "2026-10-09T16:46:20.896Z",
     "actualizadoEn": "2026-10-09T16:46:42.833Z"
   },
   {
@@ -817,80 +841,5 @@
     "normativaRef": "Resolución General 5901/2026",
     "publicadoEn": "2026-09-30T16:11:53.013Z",
     "actualizadoEn": "2026-10-01T16:51:24.901Z"
-  },
-  {
-    "id": "2026-09-28-mesa-de-trabajo-el-cda-y-sus-socios-avanzan-en-nuevas-accio-2d2ceb",
-    "slug": "mesa-de-trabajo-el-cda-y-sus-socios-avanzan-en-nuevas-accio",
-    "organismo": "CDA",
-    "fecha": "2026-09-25",
-    "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [],
-    "titulo": "Mesa de Trabajo: el CDA y sus socios avanzan en nuevas accio",
-    "resumen": "El miércoles 23 de septiembre se llevó a cabo una nueva reunión de la Mesa de Trabajo del Centro Despachantes de Aduana (CDA), dando cont...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42786"
-    },
-    "publicadoEn": "2026-09-28T17:55:52.327Z",
-    "actualizadoEn": "2026-09-28T17:56:13.349Z"
-  },
-  {
-    "id": "2026-09-28-hoy-participa-de-la-reunion-de-la-subcomision-de-tecnic-1f9cf5",
-    "slug": "hoy-participa-de-la-reunion-de-la-subcomision-de-tecnic",
-    "organismo": "CDA",
-    "fecha": "2026-09-25",
-    "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [],
-    "titulo": "#HOY Participá de la Reunión de la Subcomisión de Técnic",
-    "resumen": "El Centro Despachantes de Aduana (CDA) invita a sus asociados a participar de una nueva reunión de Técnica y Normativa que se llevará a c...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42758"
-    },
-    "publicadoEn": "2026-09-14T16:05:38.422Z",
-    "actualizadoEn": "2026-09-28T17:56:13.349Z"
-  },
-  {
-    "id": "2026-09-28-tucura-sapo-deteccion-temprana-y-trabajo-conjunto-para-la-prevencion-de-la-plaga-5323e1",
-    "slug": "tucura-sapo-deteccion-temprana-y-trabajo-conjunto-para-la-prevencion-de-la-plaga",
-    "organismo": "SENASA",
-    "fecha": "2026-09-25",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "SENASA",
-      "fitosanitario"
-    ],
-    "titulo": "Tucura sapo: Detección temprana y trabajo conjunto para la prevención de la plaga",
-    "resumen": "Es clave intensificar el monitoreo y realizar el control temprano utilizando productos fitosanitarios autorizados por el SENASA.",
-    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
-    "fuente": {
-      "nombre": "SENASA Comunica",
-      "url": "https://www.argentina.gob.ar/noticias/tucura-sapo-deteccion-temprana-y-trabajo-conjunto-para-la-prevencion-de-la-plaga"
-    },
-    "publicadoEn": "2026-09-28T17:56:03.650Z",
-    "actualizadoEn": "2026-09-28T17:56:13.349Z"
-  },
-  {
-    "id": "2026-09-28-herramientas-para-mejorar-la-confiabilidad-de-los-equipos-en-la-industria-alimen-d7ce5b",
-    "slug": "herramientas-para-mejorar-la-confiabilidad-de-los-equipos-en-la-industria-alimen",
-    "organismo": "INTI",
-    "fecha": "2026-09-25",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [],
-    "titulo": "Herramientas para mejorar la confiabilidad de los equipos en la industria alimentaria",
-    "resumen": "En un nuevo webinario organizado por el Instituto Nacional de Tecnología Industrial (INTI) se presentó un software de gestión integral para el mantenimiento de equipamiento que ya implementaron...",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
-    "fuente": {
-      "nombre": "INTI – Noticias",
-      "url": "https://www.argentina.gob.ar/noticias/herramientas-para-mejorar-la-confiabilidad-de-los-equipos-en-la-industria-alimentaria"
-    },
-    "publicadoEn": "2026-09-28T17:56:08.376Z",
-    "actualizadoEn": "2026-09-28T17:56:13.349Z"
   }
 ]
