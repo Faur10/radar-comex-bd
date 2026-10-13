@@ -1,27 +1,87 @@
 [
   {
-    "id": "2026-10-12-actualizacion-del-tipo-de-cambio-oficial-del-mulc-b742ff",
-    "slug": "actualizacion-del-tipo-de-cambio-oficial-del-mulc",
+    "id": "2026-10-13-actualizacion-del-tipo-de-cambio-oficial-mulc-al-09-10-2026-7ba597",
+    "slug": "actualizacion-del-tipo-de-cambio-oficial-mulc-al-09-10-2026",
     "organismo": "BCRA",
-    "fecha": "2026-10-12",
+    "fecha": "2026-10-13",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "Tipo de Cambio",
-      "BCRA",
+      "Tipo de cambio",
       "Divisas",
-      "Valoración"
+      "Cierre de cambios",
+      "Liquidación"
     ],
-    "titulo": "Actualización del tipo de cambio oficial del MULC",
-    "resumen": "El BCRA fijó el tipo de cambio oficial de referencia para el Mercado Único y Libre de Cambios en 1059.02 pesos por dólar para el 9 de octubre de 2026.",
-    "queSignifica": "Utilice este valor de referencia para el cálculo de costos operativos, liquidación de divisas y valoración aduanera. Se sugiere verificar con su entidad bancaria la aplicación específica para su operación cambiaria vigente.",
+    "titulo": "Actualización del tipo de cambio oficial (MULC) al 09-10-2026",
+    "resumen": "Se informa el valor oficial de referencia del dólar estadounidense para operaciones cursadas a través del Mercado Único y Libre de Cambios.",
+    "queSignifica": "El operador debe utilizar esta cotización para el cálculo de sus obligaciones cambiarias y costos en pesos. Se recomienda verificar este valor contra el sistema bancario para asegurar la correcta valuación de las liquidaciones o pagos pendientes.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-10-12T19:33:16.656Z"
+    "actualizadoEn": "2026-10-13T17:17:34.730Z"
+  },
+  {
+    "id": "2026-10-13-cdacapacita-oea-una-oportunidad-de-jerarquizacion-jor-179906",
+    "slug": "cdacapacita-oea-una-oportunidad-de-jerarquizacion-jor",
+    "organismo": "CDA",
+    "fecha": "2026-10-13",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "#CDACapacita - OEA, una oportunidad de jerarquización - Jor",
+    "resumen": "El Centro Despachantes de Aduana (CDA) invita a sus asociados a participar de la segunda jornada de capacitación sobre Operador Económico ...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42804"
+    },
+    "publicadoEn": "2026-10-05T19:00:10.175Z",
+    "actualizadoEn": "2026-10-13T17:17:34.730Z"
+  },
+  {
+    "id": "2026-10-13-cronograma-de-operaciones-en-terminales-portuarias-durante-el-feriado-d00d7e",
+    "slug": "cronograma-de-operaciones-en-terminales-portuarias-durante-el-feriado",
+    "organismo": "Aduana",
+    "fecha": "2026-10-13",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "cronograma",
+      "terminales portuarias",
+      "feriado",
+      "operativa",
+      "puerto"
+    ],
+    "titulo": "Cronograma de operaciones en terminales portuarias durante el feriado",
+    "resumen": "El CDA informa los horarios y disponibilidad operativa de las terminales para el próximo feriado.",
+    "queSignifica": "Se sugiere verificar el cronograma específico de la terminal donde opera su carga para coordinar turnos de retiro o ingreso. Revise las guardias disponibles para evitar sobrecostos por demoras o estadías.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42813"
+    },
+    "publicadoEn": "2026-10-09T16:45:03.088Z",
+    "actualizadoEn": "2026-10-13T17:17:34.730Z"
+  },
+  {
+    "id": "2026-10-13-cda-informa-el-cese-de-actividades-por-el-feriado-del-12-de-120ee3",
+    "slug": "cda-informa-el-cese-de-actividades-por-el-feriado-del-12-de",
+    "organismo": "CDA",
+    "fecha": "2026-10-13",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "CDA informa el cese de actividades por el feriado del 12 de",
+    "resumen": "El Centro Despachantes de Aduana informa a sus asociados que el día 12 de octubre de 2026, la Institución permanecerá cerrada por conmemo...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42814"
+    },
+    "publicadoEn": "2026-10-07T17:10:55.900Z",
+    "actualizadoEn": "2026-10-13T17:17:34.730Z"
   },
   {
     "id": "2026-10-12-retiro-del-mercado-de-gel-neutro-marca-sanicol-por-disposicion-de-anmat-89b663",
@@ -93,30 +153,6 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42791"
     },
     "publicadoEn": "2026-09-30T16:12:09.264Z",
-    "actualizadoEn": "2026-10-09T16:46:42.833Z"
-  },
-  {
-    "id": "2026-10-09-cronograma-operativo-de-las-terminales-portuarias-durante-los-feriados-de9b68",
-    "slug": "cronograma-operativo-de-las-terminales-portuarias-durante-los-feriados",
-    "organismo": "Aduana",
-    "fecha": "2026-10-09",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "terminales portuarias",
-      "cronograma",
-      "feriados",
-      "operativa",
-      "puerto"
-    ],
-    "titulo": "Cronograma operativo de las terminales portuarias durante los feriados",
-    "resumen": "Se comunica el esquema de atención y operatividad de las terminales portuarias para los días feriados.",
-    "queSignifica": "Se recomienda verificar con sus terminales y transportistas los horarios de atención para evitar demoras en el retiro o ingreso de unidades, dado que cada zona portuaria puede ajustar sus guardias.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42813"
-    },
-    "publicadoEn": "2026-10-09T16:45:03.088Z",
     "actualizadoEn": "2026-10-09T16:46:42.833Z"
   },
   {
@@ -287,54 +323,6 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42812"
     },
     "publicadoEn": "2026-10-07T17:10:41.055Z",
-    "actualizadoEn": "2026-10-09T16:46:42.833Z"
-  },
-  {
-    "id": "2026-10-09-cierre-de-actividades-del-cda-por-feriado-el-12-de-octubre-de-2026-92bfb8",
-    "slug": "cierre-de-actividades-del-cda-por-feriado-el-12-de-octubre-de-2026",
-    "organismo": "Aduana",
-    "fecha": "2026-10-07",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "feriado",
-      "operatividad",
-      "CDA",
-      "gestión administrativa",
-      "aduana"
-    ],
-    "titulo": "Cierre de actividades del CDA por feriado el 12 de octubre de 2026",
-    "resumen": "El Centro Despachantes de Aduana comunica que no brindará atención al público ni servicios institucionales el día 12 de octubre de 2026.",
-    "queSignifica": "Se sugiere prever que la asistencia institucional no estará disponible en esa fecha. Se recomienda verificar si las terminales portuarias o depósitos fiscales mantienen guardias operativas para evitar demoras en el retiro o ingreso de mercadería.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42814"
-    },
-    "publicadoEn": "2026-10-07T17:10:55.900Z",
-    "actualizadoEn": "2026-10-09T16:46:42.833Z"
-  },
-  {
-    "id": "2026-10-09-capacitacion-sobre-el-programa-operador-economico-autorizado-oea-c9bfdf",
-    "slug": "capacitacion-sobre-el-programa-operador-economico-autorizado-oea",
-    "organismo": "Aduana",
-    "fecha": "2026-10-07",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "OEA",
-      "Seguridad Aduanera",
-      "Certificación",
-      "Comercio Exterior",
-      "Facilitación"
-    ],
-    "titulo": "Capacitación sobre el programa Operador Económico Autorizado (OEA)",
-    "resumen": "El CDA organiza una jornada informativa para capacitar a sus asociados sobre los alcances y beneficios del programa OEA. La sesión se enfoca en los requisitos y procedimientos para obtener esta certificación de seguridad.",
-    "queSignifica": "Se sugiere revisar el programa OEA para evaluar si la empresa cumple con los estándares de seguridad requeridos para optimizar sus procesos aduaneros. Se recomienda verificar los beneficios operativos que esta certificación podría otorgar a su perfil de operador.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42804"
-    },
-    "publicadoEn": "2026-10-05T19:00:10.175Z",
     "actualizadoEn": "2026-10-09T16:46:42.833Z"
   },
   {
