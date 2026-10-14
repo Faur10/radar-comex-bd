@@ -1,72 +1,210 @@
 [
   {
-    "id": "2026-10-13-actualizacion-del-tipo-de-cambio-oficial-mulc-al-09-10-2026-7ba597",
-    "slug": "actualizacion-del-tipo-de-cambio-oficial-mulc-al-09-10-2026",
+    "id": "2026-10-14-bcra-tipo-de-cambio-mulc-del-dia-847845",
+    "slug": "bcra-tipo-de-cambio-mulc-del-dia",
     "organismo": "BCRA",
-    "fecha": "2026-10-13",
-    "impacto": "medio",
+    "fecha": "2026-10-14",
+    "impacto": "alto",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "Tipo de cambio",
-      "Divisas",
-      "Cierre de cambios",
-      "Liquidación"
+      "tipo de cambio"
     ],
-    "titulo": "Actualización del tipo de cambio oficial (MULC) al 09-10-2026",
-    "resumen": "Se informa el valor oficial de referencia del dólar estadounidense para operaciones cursadas a través del Mercado Único y Libre de Cambios.",
-    "queSignifica": "El operador debe utilizar esta cotización para el cálculo de sus obligaciones cambiarias y costos en pesos. Se recomienda verificar este valor contra el sistema bancario para asegurar la correcta valuación de las liquidaciones o pagos pendientes.",
+    "titulo": "BCRA – Tipo de Cambio MULC del día",
+    "resumen": "Tipo de Cambio MULC ($ por USD): 1055.72 — al 2026-10-13",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-10-13T17:17:34.730Z"
+    "actualizadoEn": "2026-10-14T14:49:50.128Z"
   },
   {
-    "id": "2026-10-13-cdacapacita-oea-una-oportunidad-de-jerarquizacion-jor-179906",
-    "slug": "cdacapacita-oea-una-oportunidad-de-jerarquizacion-jor",
-    "organismo": "CDA",
-    "fecha": "2026-10-13",
+    "id": "2026-10-14-comunicacion-a-84682026-8b91ca",
+    "slug": "comunicacion-a-84682026",
+    "organismo": "BCRA",
+    "fecha": "2026-10-14",
+    "impacto": "alto",
+    "categoria": "normativa",
+    "tags": [
+      "Com. A"
+    ],
+    "titulo": "Comunicación \"A\" 8468/2026",
+    "resumen": "Comunicación \"A\" 8468/2026",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348936/20261014"
+    },
+    "normativaRef": "Comunicación \"A\" 8468/2026",
+    "publicadoEn": "2026-10-14T14:48:40.742Z",
+    "actualizadoEn": "2026-10-14T14:49:50.128Z"
+  },
+  {
+    "id": "2026-10-14-actualizacion-de-normas-sobre-acceso-al-mercado-unico-y-libre-de-cambios-409b54",
+    "slug": "actualizacion-de-normas-sobre-acceso-al-mercado-unico-y-libre-de-cambios",
+    "organismo": "BCRA",
+    "fecha": "2026-10-14",
+    "impacto": "alto",
+    "categoria": "normativa",
+    "tags": [
+      "MULC",
+      "Acceso al Mercado de Cambios",
+      "BCRA",
+      "Pagos al exterior",
+      "Regulaciones cambiarias"
+    ],
+    "titulo": "Actualización de normas sobre acceso al Mercado Único y Libre de Cambios",
+    "resumen": "La norma establece modificaciones en los requisitos y condiciones para acceder al mercado de cambios para operaciones de comercio exterior. Define nuevas pautas operativas para la liquidación y el pago de obligaciones con el exterior.",
+    "queSignifica": "Debe revisar la estructura de sus carpetas de pago y consultar con su entidad financiera la aplicación de las nuevas restricciones o requisitos documentales sobre sus operaciones pendientes. Se recomienda auditar la normativa vigente antes de cursar cualquier solicitud de acceso a divisas.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348937/20261014"
+    },
+    "normativaRef": "Comunicación \"A\" 8469/2026",
+    "publicadoEn": "2026-10-14T14:48:45.105Z",
+    "actualizadoEn": "2026-10-14T14:49:50.128Z"
+  },
+  {
+    "id": "2026-10-14-actualizacion-de-normas-cambiarias-para-el-acceso-al-mulc-del-bcra-afcbf0",
+    "slug": "actualizacion-de-normas-cambiarias-para-el-acceso-al-mulc-del-bcra",
+    "organismo": "BCRA",
+    "fecha": "2026-10-14",
+    "impacto": "alto",
+    "categoria": "normativa",
+    "tags": [
+      "MULC",
+      "Acceso al Mercado de Cambios",
+      "BCRA",
+      "Pago de Importaciones",
+      "Comunicación A"
+    ],
+    "titulo": "Actualización de normas cambiarias para el acceso al MULC del BCRA",
+    "resumen": "La Comunicación A 8480 establece nuevas disposiciones operativas para el acceso al mercado de cambios, afectando la liquidación y pago de operaciones de comercio exterior.",
+    "queSignifica": "Debe revisar el alcance de la normativa sobre las operaciones en curso para validar los requisitos de acceso al MULC. Se recomienda consultar con su entidad bancaria y el departamento legal para determinar su aplicación específica según el caso.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348938/20261014"
+    },
+    "normativaRef": "Comunicación \"A\" 8480/2026",
+    "publicadoEn": "2026-10-14T14:48:50.569Z",
+    "actualizadoEn": "2026-10-14T14:49:50.128Z"
+  },
+  {
+    "id": "2026-10-14-comunicacion-a-84892026-d2ff3f",
+    "slug": "comunicacion-a-84892026",
+    "organismo": "BCRA",
+    "fecha": "2026-10-14",
+    "impacto": "alto",
+    "categoria": "normativa",
+    "tags": [
+      "Com. A"
+    ],
+    "titulo": "Comunicación \"A\" 8489/2026",
+    "resumen": "Comunicación \"A\" 8489/2026",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348940/20261014"
+    },
+    "normativaRef": "Comunicación \"A\" 8489/2026",
+    "publicadoEn": "2026-10-14T14:49:01.183Z",
+    "actualizadoEn": "2026-10-14T14:49:50.128Z"
+  },
+  {
+    "id": "2026-10-14-actualizacion-de-normas-cambiarias-para-acceso-al-mulc-e90b34",
+    "slug": "actualizacion-de-normas-cambiarias-para-acceso-al-mulc",
+    "organismo": "BCRA",
+    "fecha": "2026-10-14",
+    "impacto": "alto",
+    "categoria": "normativa",
+    "tags": [
+      "MULC",
+      "BCRA",
+      "Giros al exterior",
+      "Acceso a divisas",
+      "Comercio exterior"
+    ],
+    "titulo": "Actualización de normas cambiarias para acceso al MULC",
+    "resumen": "La norma establece nuevos lineamientos y condiciones para el acceso al mercado de cambios respecto a las operaciones de comercio exterior. Ajusta los requisitos procedimentales para la liquidación y el acceso a divisas conforme a la política monetaria vigente.",
+    "queSignifica": "Es necesario que el importador o exportador revise con su entidad bancaria la documentación respaldatoria vigente para evitar demoras en el acceso al mercado de cambios. Se recomienda validar si las operaciones pendientes requieren adecuaciones bajo el nuevo marco regulatorio.",
+    "fuente": {
+      "nombre": "Boletín Oficial de la República Argentina",
+      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348941/20261014"
+    },
+    "normativaRef": "Comunicación \"A\" 8490/2026",
+    "publicadoEn": "2026-10-14T14:49:05.536Z",
+    "actualizadoEn": "2026-10-14T14:49:50.128Z"
+  },
+  {
+    "id": "2026-10-14-webinar-sobre-riesgos-y-alcance-de-la-averia-gruesa-en-el-comercio-maritimo-45791b",
+    "slug": "webinar-sobre-riesgos-y-alcance-de-la-averia-gruesa-en-el-comercio-maritimo",
+    "organismo": "Aduana",
+    "fecha": "2026-10-14",
     "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [],
-    "titulo": "#CDACapacita - OEA, una oportunidad de jerarquización - Jor",
-    "resumen": "El Centro Despachantes de Aduana (CDA) invita a sus asociados a participar de la segunda jornada de capacitación sobre Operador Económico ...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "categoria": "logistica",
+    "tags": [
+      "avería gruesa",
+      "seguro de transporte",
+      "transporte marítimo",
+      "incoterms",
+      "logística"
+    ],
+    "titulo": "Webinar sobre riesgos y alcance de la Avería Gruesa en el comercio marítimo",
+    "resumen": "Se trata de una invitación a una capacitación sobre el concepto de avería gruesa y sus efectos legales en la carga tras una emergencia en el buque.",
+    "queSignifica": "Se sugiere revisar las condiciones de su seguro de transporte marítimo y analizar cómo la declaración de avería gruesa puede afectar la liberación de su carga, consultando con su agente de carga o aseguradora.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42803"
+    },
+    "publicadoEn": "2026-10-02T16:05:40.128Z",
+    "actualizadoEn": "2026-10-14T14:49:50.128Z"
+  },
+  {
+    "id": "2026-10-14-jornada-de-capacitacion-sobre-el-programa-operador-economico-autorizado-oea-e4a60b",
+    "slug": "jornada-de-capacitacion-sobre-el-programa-operador-economico-autorizado-oea",
+    "organismo": "Aduana",
+    "fecha": "2026-10-14",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "OEA",
+      "Aduana",
+      "Capacitación",
+      "Cumplimiento",
+      "Seguridad"
+    ],
+    "titulo": "Jornada de capacitación sobre el programa Operador Económico Autorizado (OEA)",
+    "resumen": "El CDA organiza una jornada informativa sobre los beneficios y requisitos del programa OEA para operadores del comercio exterior.",
+    "queSignifica": "Se sugiere revisar el programa y evaluar si la empresa cumple con los requisitos para obtener la certificación, lo cual podría otorgar facilidades operativas en futuras destinaciones.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42804"
     },
     "publicadoEn": "2026-10-05T19:00:10.175Z",
-    "actualizadoEn": "2026-10-13T17:17:34.730Z"
+    "actualizadoEn": "2026-10-14T14:49:50.128Z"
   },
   {
-    "id": "2026-10-13-cronograma-de-operaciones-en-terminales-portuarias-durante-el-feriado-d00d7e",
-    "slug": "cronograma-de-operaciones-en-terminales-portuarias-durante-el-feriado",
-    "organismo": "Aduana",
+    "id": "2026-10-14-cronogramas-operativos-de-las-terminales-portuarias-feriado-55279f",
+    "slug": "cronogramas-operativos-de-las-terminales-portuarias-feriado",
+    "organismo": "CDA",
     "fecha": "2026-10-13",
     "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "cronograma",
-      "terminales portuarias",
-      "feriado",
-      "operativa",
-      "puerto"
-    ],
-    "titulo": "Cronograma de operaciones en terminales portuarias durante el feriado",
-    "resumen": "El CDA informa los horarios y disponibilidad operativa de las terminales para el próximo feriado.",
-    "queSignifica": "Se sugiere verificar el cronograma específico de la terminal donde opera su carga para coordinar turnos de retiro o ingreso. Revise las guardias disponibles para evitar sobrecostos por demoras o estadías.",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "Cronogramas operativos de las Terminales Portuarias: Feriado",
+    "resumen": "El Centro Despachantes de Aduana (CDA) les acerca a sus asociados el cronograma operativo de las distintas Terminales Portuarias para el fer...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42813"
     },
     "publicadoEn": "2026-10-09T16:45:03.088Z",
-    "actualizadoEn": "2026-10-13T17:17:34.730Z"
+    "actualizadoEn": "2026-10-14T14:49:50.128Z"
   },
   {
-    "id": "2026-10-13-cda-informa-el-cese-de-actividades-por-el-feriado-del-12-de-120ee3",
+    "id": "2026-10-14-cda-informa-el-cese-de-actividades-por-el-feriado-del-12-de-f891a8",
     "slug": "cda-informa-el-cese-de-actividades-por-el-feriado-del-12-de",
     "organismo": "CDA",
     "fecha": "2026-10-13",
@@ -81,7 +219,7 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42814"
     },
     "publicadoEn": "2026-10-07T17:10:55.900Z",
-    "actualizadoEn": "2026-10-13T17:17:34.730Z"
+    "actualizadoEn": "2026-10-14T14:49:50.128Z"
   },
   {
     "id": "2026-10-12-retiro-del-mercado-de-gel-neutro-marca-sanicol-por-disposicion-de-anmat-89b663",
@@ -202,30 +340,6 @@
     },
     "normativaRef": "Resolución General 5911/2026",
     "publicadoEn": "2026-10-08T17:06:26.098Z",
-    "actualizadoEn": "2026-10-09T16:46:42.833Z"
-  },
-  {
-    "id": "2026-10-09-webinar-informativo-sobre-riesgos-operativos-ante-declaratoria-de-averia-gruesa-d02ed5",
-    "slug": "webinar-informativo-sobre-riesgos-operativos-ante-declaratoria-de-averia-gruesa",
-    "organismo": "Aduana",
-    "fecha": "2026-10-08",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "avería gruesa",
-      "transporte marítimo",
-      "seguro de carga",
-      "incoterms",
-      "logística"
-    ],
-    "titulo": "Webinar informativo sobre riesgos operativos ante declaratoria de avería gruesa",
-    "resumen": "El CDA organiza una capacitación técnica sobre el concepto de avería gruesa y sus implicancias legales en el transporte marítimo.",
-    "queSignifica": "Se sugiere a los operadores de comercio exterior revisar sus pólizas de seguro de transporte y las cláusulas de sus contratos de flete para conocer cómo proceder ante una declaración de avería gruesa.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42803"
-    },
-    "publicadoEn": "2026-10-02T16:05:40.128Z",
     "actualizadoEn": "2026-10-09T16:46:42.833Z"
   },
   {
@@ -734,100 +848,5 @@
     },
     "publicadoEn": "2026-10-01T16:49:49.180Z",
     "actualizadoEn": "2026-10-02T16:07:42.121Z"
-  },
-  {
-    "id": "2026-10-02-implementacion-de-cabinas-remotas-para-acceso-al-sistema-informatico-malvina-a8b6e2",
-    "slug": "implementacion-de-cabinas-remotas-para-acceso-al-sistema-informatico-malvina",
-    "organismo": "Aduana",
-    "fecha": "2026-09-29",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "SIM",
-      "Malvina",
-      "despachante",
-      "operativa remota",
-      "ARCA"
-    ],
-    "titulo": "Implementación de cabinas remotas para acceso al Sistema Informático Malvina",
-    "resumen": "Se comunica la posibilidad de realizar operatoria aduanera remota mediante cabinas habilitadas para el acceso al Sistema Informático Malvina (SIM).",
-    "queSignifica": "Revise las condiciones técnicas y las ubicaciones habilitadas por la autoridad para operar fuera de su oficina. Verifique con el organismo los protocolos de seguridad informática exigidos antes de migrar su operativa actual.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42479"
-    },
-    "publicadoEn": "2026-09-29T16:17:40.043Z",
-    "actualizadoEn": "2026-10-02T16:07:42.121Z"
-  },
-  {
-    "id": "2026-10-02-presentacion-del-libro-sobre-el-acuerdo-mercosur-union-europea-ab60be",
-    "slug": "presentacion-del-libro-sobre-el-acuerdo-mercosur-union-europea",
-    "organismo": "Aduana",
-    "fecha": "2026-09-29",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "MERCOSUR",
-      "Union Europea",
-      "Acuerdos Comerciales",
-      "Integracion Economica",
-      "Comercio Exterior"
-    ],
-    "titulo": "Presentación del libro sobre el Acuerdo MERCOSUR-Unión Europea",
-    "resumen": "Se realizó una jornada técnica en el CDA para analizar los alcances y desafíos del acuerdo comercial entre el MERCOSUR y la Unión Europea.",
-    "queSignifica": "Es una instancia informativa y académica. Se sugiere monitorear las publicaciones oficiales de cancillería para identificar futuras modificaciones en las condiciones de acceso a mercados.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42784"
-    },
-    "publicadoEn": "2026-09-25T14:54:05.534Z",
-    "actualizadoEn": "2026-10-02T16:07:42.121Z"
-  },
-  {
-    "id": "2026-10-02-anmat-prohibe-la-comercializacion-de-productos-medicos-de-mw-distribuciones-2dbabb",
-    "slug": "anmat-prohibe-la-comercializacion-de-productos-medicos-de-mw-distribuciones",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-09-29",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "Productos Médicos",
-      "Restricción ANMAT",
-      "Comercio Exterior",
-      "Seguridad Sanitaria",
-      "Despacho Aduanero"
-    ],
-    "titulo": "ANMAT prohíbe la comercialización de productos médicos de MW DISTRIBUCIONES",
-    "resumen": "La autoridad sanitaria dispuso la prohibición de comercialización y uso de todos los productos médicos fabricados o importados por la firma MW DISTRIBUCIONES.",
-    "queSignifica": "Verifique en su stock o despachos en curso si existen productos asociados a esta firma y consulte con su área técnica si la medida afecta alguna operación de importación pendiente de liberación.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-productos-medicos-fabricados-o-importados-por-mw-distribuciones"
-    },
-    "publicadoEn": "2026-09-29T16:17:52.134Z",
-    "actualizadoEn": "2026-10-02T16:07:42.121Z"
-  },
-  {
-    "id": "2026-10-01-resog-2026-5901-e-arca-arca-nomenclatura-comun-del-mercosur-ncm-clasificacion-ar-8ac5e1",
-    "slug": "resog-2026-5901-e-arca-arca-nomenclatura-comun-del-mercosur-ncm-clasificacion-ar",
-    "organismo": "ARCA",
-    "fecha": "2026-09-29",
-    "impacto": "medio",
-    "categoria": "importacion",
-    "tags": [
-      "NCM",
-      "arancel",
-      "ARCA"
-    ],
-    "titulo": "RESOG-2026-5901-E-ARCA-ARCA - Nomenclatura Común del MERCOSUR (NCM). Clasificación arancelaria de me",
-    "resumen": "RESOG-2026-5901-E-ARCA-ARCA - Nomenclatura Común del MERCOSUR (NCM). Clasificación arancelaria de mercaderías en la citada nomenclatura, de acuerdo co...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348137/20260929"
-    },
-    "normativaRef": "Resolución General 5901/2026",
-    "publicadoEn": "2026-09-30T16:11:53.013Z",
-    "actualizadoEn": "2026-10-01T16:51:24.901Z"
   }
 ]
