@@ -1,344 +1,325 @@
 [
   {
-    "id": "2026-10-15-actualizacion-de-la-cotizacion-de-referencia-del-dolar-oficial-mulc-5ecc29",
-    "slug": "actualizacion-de-la-cotizacion-de-referencia-del-dolar-oficial-mulc",
+    "id": "2026-10-16-bcra-tipo-de-cambio-mulc-del-dia-7c00d0",
+    "slug": "bcra-tipo-de-cambio-mulc-del-dia",
     "organismo": "BCRA",
-    "fecha": "2026-10-15",
-    "impacto": "medio",
+    "fecha": "2026-10-16",
+    "impacto": "alto",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "Tipo de Cambio",
-      "Liquidacion de Divisas",
-      "Gestion Cambiaria",
-      "BCRA"
+      "tipo de cambio"
     ],
-    "titulo": "Actualización de la cotización de referencia del dólar oficial MULC",
-    "resumen": "El BCRA ha fijado la cotización del dólar oficial en el MULC para la fecha indicada. Este valor es la base de cálculo para las operaciones de comercio exterior sujetas a liquidación o pago.",
-    "queSignifica": "Se recomienda verificar la correcta aplicación de este tipo de cambio en los formularios de liquidación y pagos al exterior. Es fundamental asegurar que la cotización vigente coincida con la utilizada en las presentaciones ante las entidades financieras.",
+    "titulo": "BCRA – Tipo de Cambio MULC del día",
+    "resumen": "Tipo de Cambio MULC ($ por USD): 1047.00 — al 2026-10-15",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-10-15T14:36:36.354Z"
+    "actualizadoEn": "2026-10-16T14:27:42.789Z"
   },
   {
-    "id": "2026-10-15-nuevo-servicio-de-conexion-remota-al-sistema-sim-ofrecido-por-el-cda-414246",
-    "slug": "nuevo-servicio-de-conexion-remota-al-sistema-sim-ofrecido-por-el-cda",
-    "organismo": "Aduana",
-    "fecha": "2026-10-15",
+    "id": "2026-10-16-hoy-oea-una-oportunidad-de-jerarquizacion-jornada-tec-220d6a",
+    "slug": "hoy-oea-una-oportunidad-de-jerarquizacion-jornada-tec",
+    "organismo": "CDA",
+    "fecha": "2026-10-16",
     "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "SIM",
-      "Malvina",
-      "Acceso remoto",
-      "Despachante de Aduanas",
-      "Gestión aduanera"
-    ],
-    "titulo": "Nuevo servicio de conexión remota al sistema SIM ofrecido por el CDA",
-    "resumen": "El Centro Despachantes de Aduana anuncia una herramienta técnica para facilitar el acceso remoto al Sistema Informático Malvina (SIM).",
-    "queSignifica": "Es una mejora en la infraestructura tecnológica para el profesional; revise los términos y condiciones de seguridad del servicio si decide implementarlo en su operatoria diaria.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42462"
-    },
-    "publicadoEn": "2026-10-15T14:35:49.086Z",
-    "actualizadoEn": "2026-10-15T14:36:36.354Z"
-  },
-  {
-    "id": "2026-10-15-webinar-sobre-los-riesgos-y-alcances-de-la-averia-gruesa-en-el-transporte-mariti-3c30a6",
-    "slug": "webinar-sobre-los-riesgos-y-alcances-de-la-averia-gruesa-en-el-transporte-mariti",
-    "organismo": "Aduana",
-    "fecha": "2026-10-15",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "Avería Gruesa",
-      "Seguro de Transporte",
-      "Transporte Marítimo",
-      "Bill of Lading",
-      "Riesgos Logísticos"
-    ],
-    "titulo": "Webinar sobre los riesgos y alcances de la Avería Gruesa en el transporte marítimo",
-    "resumen": "Se trata de una capacitación informativa sobre la figura legal de la avería gruesa y sus consecuencias operativas ante siniestros marítimos.",
-    "queSignifica": "Se recomienda revisar las coberturas de los seguros de transporte contratados y las cláusulas específicas del contrato de fletamento ante posibles incidentes marítimos.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42803"
-    },
-    "publicadoEn": "2026-10-02T16:05:40.128Z",
-    "actualizadoEn": "2026-10-15T14:36:36.354Z"
-  },
-  {
-    "id": "2026-10-15-jornada-de-capacitacion-sobre-el-programa-operador-economico-autorizado-oea-3a3467",
-    "slug": "jornada-de-capacitacion-sobre-el-programa-operador-economico-autorizado-oea",
-    "organismo": "Aduana",
-    "fecha": "2026-10-15",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "OEA",
-      "Operador Económico Autorizado",
-      "Aduana",
-      "Certificación",
-      "Comercio Exterior"
-    ],
-    "titulo": "Jornada de capacitación sobre el programa Operador Económico Autorizado (OEA)",
-    "resumen": "El CDA organiza una jornada técnica para profundizar en los alcances y beneficios del programa OEA. La capacitación busca instruir a los asociados sobre los requisitos y ventajas de esta certificación.",
-    "queSignifica": "Se recomienda revisar si su empresa cumple con los estándares exigidos para alcanzar la certificación OEA. Evalúe la conveniencia de obtener esta figura para agilizar procesos aduaneros en sus operaciones futuras.",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "#HOY- OEA, una oportunidad de jerarquización - Jornada téc",
+    "resumen": "El Centro Despachantes de Aduana (CDA) invita a sus asociados a participar de la segunda jornada de capacitación sobre Operador Económico ...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42804"
     },
     "publicadoEn": "2026-10-05T19:00:10.175Z",
-    "actualizadoEn": "2026-10-15T14:36:36.354Z"
+    "actualizadoEn": "2026-10-16T14:27:42.789Z"
   },
   {
-    "id": "2026-10-15-actualizacion-de-normas-cambiarias-del-bcra-232c12",
-    "slug": "actualizacion-de-normas-cambiarias-del-bcra",
+    "id": "2026-10-16-se-fiscalizo-la-sanidad-de-1138-animales-durante-las-exposiciones-rurales-de-pri-b28598",
+    "slug": "se-fiscalizo-la-sanidad-de-1138-animales-durante-las-exposiciones-rurales-de-pri",
+    "organismo": "SENASA",
+    "fecha": "2026-10-16",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "SENASA",
+      "zoosanitario"
+    ],
+    "titulo": "Se fiscalizó la sanidad de 1.138 animales durante las exposiciones rurales de primavera en Río Negro",
+    "resumen": "El SENASA realizó los controles zoosanitarios de todos los animales que participaron de los eventos que conformaron el circuito 2026.",
+    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
+    "fuente": {
+      "nombre": "SENASA Comunica",
+      "url": "https://www.argentina.gob.ar/noticias/se-fiscalizo-la-sanidad-de-1138-animales-durante-las-exposiciones-rurales-de-primavera-en"
+    },
+    "publicadoEn": "2026-10-16T14:27:14.517Z",
+    "actualizadoEn": "2026-10-16T14:27:42.789Z"
+  },
+  {
+    "id": "2026-10-16-anmat-prohibe-un-cabezal-laser-de-la-marca-alma-lasers-a9d3e8",
+    "slug": "anmat-prohibe-un-cabezal-laser-de-la-marca-alma-lasers",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-10-16",
+    "impacto": "alto",
+    "categoria": "logistica",
+    "tags": [
+      "ANMAT"
+    ],
+    "titulo": "ANMAT prohíbe un cabezal láser de la marca ALMA LASERS",
+    "resumen": "ANMAT prohíbe un cabezal láser de la marca ALMA LASERS",
+    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-un-cabezal-laser-de-la-marca-alma-lasers"
+    },
+    "publicadoEn": "2026-10-16T14:27:28.582Z",
+    "actualizadoEn": "2026-10-16T14:27:42.789Z"
+  },
+  {
+    "id": "2026-10-16-conexion-sim-cda-accede-de-forma-agil-segura-y-con-resp-63c520",
+    "slug": "conexion-sim-cda-accede-de-forma-agil-segura-y-con-resp",
+    "organismo": "CDA",
+    "fecha": "2026-10-15",
+    "impacto": "alto",
+    "categoria": "normativa",
+    "tags": [
+      "SIM"
+    ],
+    "titulo": "Conexión SIM CDA: accedé de forma ágil, segura y con resp",
+    "resumen": "Tu acceso al SIM, desde cualquier lugar y con asistencia permanente...",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42462"
+    },
+    "publicadoEn": "2026-10-15T14:35:49.086Z",
+    "actualizadoEn": "2026-10-16T14:27:42.789Z"
+  },
+  {
+    "id": "2026-10-16-hoy-invitacion-hanseatica-webinar-averia-gruesa-el-r-f45602",
+    "slug": "hoy-invitacion-hanseatica-webinar-averia-gruesa-el-r",
+    "organismo": "CDA",
+    "fecha": "2026-10-15",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [],
+    "titulo": "#HOY Invitación Hanseática - WEBINAR: Avería gruesa: el r",
+    "resumen": "¿Sabías que tu mercadería puede quedar retenida en puerto tras una emergencia marítima, incluso si llegó en perfectas condiciones? ...",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42803"
+    },
+    "publicadoEn": "2026-10-02T16:05:40.128Z",
+    "actualizadoEn": "2026-10-16T14:27:42.789Z"
+  },
+  {
+    "id": "2026-10-16-comunicacion-a-84682026-84ca83",
+    "slug": "comunicacion-a-84682026",
     "organismo": "BCRA",
     "fecha": "2026-10-14",
     "impacto": "alto",
     "categoria": "normativa",
     "tags": [
-      "MULC",
-      "Acceso al Mercado de Cambios",
-      "Pagos al Exterior",
-      "BCRA",
-      "Operaciones Cambiarias"
+      "Com. A"
     ],
-    "titulo": "Actualización de normas cambiarias del BCRA",
-    "resumen": "La Comunicación A 8468/2026 introduce modificaciones en el régimen de acceso al Mercado Único y Libre de Cambios para operaciones de comercio exterior. La norma ajusta las condiciones de pago y plazos habilitados para la cancelación de obligaciones con el exterior.",
-    "queSignifica": "Debe revisar el alcance de esta normativa sobre sus operaciones en curso o pendientes de pago para validar la normativa cambiaria vigente. Se sugiere consultar con su entidad bancaria para verificar si sus plazos y condiciones de acceso al MULC han sido alterados.",
+    "titulo": "Comunicación \"A\" 8468/2026",
+    "resumen": "Comunicación \"A\" 8468/2026",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
     "fuente": {
       "nombre": "Boletín Oficial de la República Argentina",
       "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348936/20261014"
     },
     "normativaRef": "Comunicación \"A\" 8468/2026",
     "publicadoEn": "2026-10-14T14:48:40.742Z",
-    "actualizadoEn": "2026-10-15T14:36:36.354Z"
+    "actualizadoEn": "2026-10-16T14:27:42.789Z"
   },
   {
-    "id": "2026-10-15-actualizacion-de-normas-sobre-acceso-al-mercado-de-cambios-3b4c9f",
-    "slug": "actualizacion-de-normas-sobre-acceso-al-mercado-de-cambios",
+    "id": "2026-10-16-comunicacion-a-84692026-87bb99",
+    "slug": "comunicacion-a-84692026",
     "organismo": "BCRA",
     "fecha": "2026-10-14",
     "impacto": "alto",
     "categoria": "normativa",
     "tags": [
-      "MULC",
-      "acceso a divisas",
-      "operaciones cambiarias",
-      "BCRA",
-      "normativa cambiaria"
+      "Com. A"
     ],
-    "titulo": "Actualización de normas sobre acceso al mercado de cambios",
-    "resumen": "La Comunicación A 8469/2026 establece nuevas condiciones y requisitos para el acceso al MULC.",
-    "queSignifica": "Debe revisar la vigencia de los requisitos documentales y las condiciones específicas exigidas para el cursado de pagos al exterior. Se recomienda validar con su entidad bancaria la aplicación de esta norma a sus operaciones pendientes.",
+    "titulo": "Comunicación \"A\" 8469/2026",
+    "resumen": "Comunicación \"A\" 8469/2026",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
     "fuente": {
       "nombre": "Boletín Oficial de la República Argentina",
       "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348937/20261014"
     },
     "normativaRef": "Comunicación \"A\" 8469/2026",
     "publicadoEn": "2026-10-14T14:48:45.105Z",
-    "actualizadoEn": "2026-10-15T14:36:36.354Z"
+    "actualizadoEn": "2026-10-16T14:27:42.789Z"
   },
   {
-    "id": "2026-10-15-actualizacion-de-las-normas-cambiarias-para-el-acceso-al-mercado-unico-y-libre-d-09c044",
-    "slug": "actualizacion-de-las-normas-cambiarias-para-el-acceso-al-mercado-unico-y-libre-d",
+    "id": "2026-10-16-comunicacion-a-84802026-852c2d",
+    "slug": "comunicacion-a-84802026",
     "organismo": "BCRA",
     "fecha": "2026-10-14",
     "impacto": "alto",
     "categoria": "normativa",
     "tags": [
-      "MULC",
-      "Acceso al Mercado de Cambios",
-      "Giros al exterior",
-      "BOPREAL",
-      "Pagos de importaciones"
+      "Com. A"
     ],
-    "titulo": "Actualización de las normas cambiarias para el acceso al Mercado Único y Libre de Cambios",
-    "resumen": "La comunicación establece nuevas pautas y condiciones para el acceso a divisas a través del sistema bancario. Modifica los requisitos operativos para el cumplimiento de obligaciones con el exterior.",
-    "queSignifica": "Se recomienda auditar los plazos de pago pendientes y verificar con su entidad bancaria si los giros programados cumplen con los nuevos requisitos documentales exigidos. Evalúe la necesidad de actualizar sus presentaciones cambiarias antes de realizar operaciones de egreso de divisas.",
+    "titulo": "Comunicación \"A\" 8480/2026",
+    "resumen": "Comunicación \"A\" 8480/2026",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
     "fuente": {
       "nombre": "Boletín Oficial de la República Argentina",
       "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348938/20261014"
     },
     "normativaRef": "Comunicación \"A\" 8480/2026",
     "publicadoEn": "2026-10-14T14:48:50.569Z",
-    "actualizadoEn": "2026-10-15T14:36:36.354Z"
+    "actualizadoEn": "2026-10-16T14:27:42.789Z"
   },
   {
-    "id": "2026-10-15-actualizacion-de-normas-sobre-el-mercado-de-cambios-y-acceso-a-divisas-cfa460",
-    "slug": "actualizacion-de-normas-sobre-el-mercado-de-cambios-y-acceso-a-divisas",
+    "id": "2026-10-16-comunicacion-a-84822026-1afac5",
+    "slug": "comunicacion-a-84822026",
     "organismo": "BCRA",
     "fecha": "2026-10-14",
     "impacto": "alto",
     "categoria": "normativa",
     "tags": [
-      "BCRA",
-      "MULC",
-      "Cambiario",
-      "Acceso a divisas",
-      "Pagos al exterior"
+      "Com. A"
     ],
-    "titulo": "Actualización de normas sobre el mercado de cambios y acceso a divisas",
-    "resumen": "La norma establece nuevos lineamientos operativos para el acceso al Mercado Único y Libre de Cambios (MULC) aplicables a las operaciones de comercio exterior. Define condiciones específicas para la liquidación y acceso a divisas por parte de los operadores económicos.",
-    "queSignifica": "Debe revisar el texto completo de la comunicación para verificar si sus operaciones pendientes de pago o liquidación se encuentran alcanzadas por las nuevas restricciones o requisitos documentales. Se recomienda validar con su entidad financiera la vigencia de las declaraciones juradas y la nueva hoja de ruta procedimental.",
+    "titulo": "Comunicación \"A\" 8482/2026",
+    "resumen": "Comunicación \"A\" 8482/2026",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
     "fuente": {
       "nombre": "Boletín Oficial de la República Argentina",
       "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348939/20261014"
     },
     "normativaRef": "Comunicación \"A\" 8482/2026",
     "publicadoEn": "2026-10-15T14:35:30.158Z",
-    "actualizadoEn": "2026-10-15T14:36:36.354Z"
+    "actualizadoEn": "2026-10-16T14:27:42.789Z"
   },
   {
-    "id": "2026-10-15-actualizacion-de-normas-cambiarias-para-el-acceso-al-mulc-cbb85d",
-    "slug": "actualizacion-de-normas-cambiarias-para-el-acceso-al-mulc",
+    "id": "2026-10-16-comunicacion-a-84892026-e97261",
+    "slug": "comunicacion-a-84892026",
     "organismo": "BCRA",
     "fecha": "2026-10-14",
     "impacto": "alto",
     "categoria": "normativa",
     "tags": [
-      "MULC",
-      "Acceso al Mercado de Cambios",
-      "BCRA",
-      "Pagos al exterior",
-      "Comunicaciones A"
+      "Com. A"
     ],
-    "titulo": "Actualización de normas cambiarias para el acceso al MULC",
-    "resumen": "La comunicación establece nuevas pautas y condiciones operativas para el acceso al mercado de cambios por parte de las empresas. Define criterios técnicos que regulan la liquidación de divisas y el cumplimiento de plazos para operaciones vigentes.",
-    "queSignifica": "Se recomienda revisar el alcance de la norma frente a sus giros pendientes y consultar con su entidad financiera para verificar si su operación se encuentra alcanzada por las nuevas restricciones o requisitos. Evite confirmar encuadres normativos sin validar previamente el cumplimiento documental requerido por el banco interviniente.",
+    "titulo": "Comunicación \"A\" 8489/2026",
+    "resumen": "Comunicación \"A\" 8489/2026",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
     "fuente": {
       "nombre": "Boletín Oficial de la República Argentina",
       "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348940/20261014"
     },
     "normativaRef": "Comunicación \"A\" 8489/2026",
     "publicadoEn": "2026-10-14T14:49:01.183Z",
-    "actualizadoEn": "2026-10-15T14:36:36.354Z"
+    "actualizadoEn": "2026-10-16T14:27:42.789Z"
   },
   {
-    "id": "2026-10-15-actualizacion-de-normas-sobre-acceso-al-mercado-unico-y-libre-de-cambios-698cf1",
-    "slug": "actualizacion-de-normas-sobre-acceso-al-mercado-unico-y-libre-de-cambios",
+    "id": "2026-10-16-comunicacion-a-84902026-f6ffa8",
+    "slug": "comunicacion-a-84902026",
     "organismo": "BCRA",
     "fecha": "2026-10-14",
     "impacto": "alto",
     "categoria": "normativa",
     "tags": [
-      "MULC",
-      "BCRA",
-      "Acceso al Mercado de Cambios",
-      "Operaciones Cambiarias",
-      "Liquidación de Divisas"
+      "Com. A"
     ],
-    "titulo": "Actualización de normas sobre acceso al Mercado Único y Libre de Cambios",
-    "resumen": "La Comunicación establece nuevas condiciones operativas para el acceso al mercado de cambios y la liquidación de divisas en operaciones de comercio exterior. Define pautas de cumplimiento para entidades financieras y sujetos obligados en transacciones cambiarias.",
-    "queSignifica": "Debe revisar con su entidad bancaria la adecuación de los legajos y la documentación de respaldo exigida para las próximas operaciones cambiarias. Se recomienda verificar el cumplimiento de los nuevos plazos y requisitos para evitar posibles demoras en los giros o liquidaciones.",
+    "titulo": "Comunicación \"A\" 8490/2026",
+    "resumen": "Comunicación \"A\" 8490/2026",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
     "fuente": {
       "nombre": "Boletín Oficial de la República Argentina",
       "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348941/20261014"
     },
     "normativaRef": "Comunicación \"A\" 8490/2026",
     "publicadoEn": "2026-10-14T14:48:45.105Z",
-    "actualizadoEn": "2026-10-15T14:36:36.354Z"
+    "actualizadoEn": "2026-10-16T14:27:42.789Z"
   },
   {
-    "id": "2026-10-15-actualizacion-del-sistema-senasa-para-la-gestion-digital-de-exportaciones-de-cit-f4a2b1",
-    "slug": "actualizacion-del-sistema-senasa-para-la-gestion-digital-de-exportaciones-de-cit",
+    "id": "2026-10-16-gestion-mas-agil-y-simple-nueva-version-del-sistema-informatico-para-exportacion-4209a9",
+    "slug": "gestion-mas-agil-y-simple-nueva-version-del-sistema-informatico-para-exportacion",
     "organismo": "SENASA",
     "fecha": "2026-10-14",
     "impacto": "bajo",
-    "categoria": "exportacion",
+    "categoria": "logistica",
     "tags": [
-      "cítricos",
-      "SIG-SENASA",
-      "digitalización",
-      "certificación fitosanitaria",
-      "ventanilla única"
+      "SENASA",
+      "exportación"
     ],
-    "titulo": "Actualización del sistema SENASA para la gestión digital de exportaciones de cítricos",
-    "resumen": "SENASA implementa una nueva versión de su plataforma informática con herramientas de autogestión y asistencia por IA para trámites de exportación. La mejora busca optimizar la interoperabilidad y agilizar la carga documental necesaria para los envíos al exterior.",
-    "queSignifica": "Los exportadores deben verificar la disponibilidad de las nuevas funciones en el sistema y revisar si los perfiles de usuario requieren una actualización de accesos. Se recomienda validar la correcta migración de datos y consultar los manuales del usuario antes de procesar nuevos certificados.",
+    "titulo": "Gestión más ágil y simple: Nueva versión del sistema informático para exportación de cítricos",
+    "resumen": "La actualización del SENASA incorpora herramientas de autogestión, mayor capacidad de interoperabilidad y un asistente basado en inteligencia artificial.",
+    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
     "fuente": {
       "nombre": "SENASA Comunica",
       "url": "https://www.argentina.gob.ar/noticias/gestion-mas-agil-y-simple-nueva-version-del-sistema-informatico-para-exportacion-de"
     },
     "publicadoEn": "2026-10-15T14:36:24.748Z",
-    "actualizadoEn": "2026-10-15T14:36:36.354Z"
+    "actualizadoEn": "2026-10-16T14:27:42.789Z"
   },
   {
-    "id": "2026-10-15-exportacion-de-pacu-chaqueno-a-estados-unidos-con-certificacion-senasa-b1a9b1",
-    "slug": "exportacion-de-pacu-chaqueno-a-estados-unidos-con-certificacion-senasa",
+    "id": "2026-10-16-la-republica-argentina-afianza-la-exportacion-de-pacu-chaqueno-hacia-los-estados-c02478",
+    "slug": "la-republica-argentina-afianza-la-exportacion-de-pacu-chaqueno-hacia-los-estados",
     "organismo": "SENASA",
     "fecha": "2026-10-14",
     "impacto": "bajo",
-    "categoria": "exportacion",
+    "categoria": "logistica",
     "tags": [
-      "exportación",
-      "certificación sanitaria",
-      "inocuidad",
-      "alimentos",
-      "SENASA"
+      "SENASA",
+      "exportación"
     ],
-    "titulo": "Exportación de pacú chaqueño a Estados Unidos con certificación SENASA",
-    "resumen": "El SENASA certificó la sanidad e inocuidad de un embarque de 8,6 toneladas de pacú destinado a EE. UU. desde una planta en Puerto Las Palmas.",
-    "queSignifica": "Los exportadores del sector deben verificar la vigencia de sus registros y habilitaciones sanitarias en SENASA para exportar productos pesqueros a EE. UU. Se recomienda revisar los protocolos específicos exigidos por la FDA y la normativa sanitaria del país de destino.",
+    "titulo": "La República Argentina afianza la exportación de pacú chaqueño hacia los Estados Unidos",
+    "resumen": "El SENASA certificó la sanidad e inocuidad de un envío de más de 8,6 toneladas de pescado elaborado en una planta habilitada en la localidad de Puerto Las Palmas.",
+    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
     "fuente": {
       "nombre": "SENASA Comunica",
       "url": "https://www.argentina.gob.ar/noticias/la-republica-argentina-afianza-la-exportacion-de-pacu-chaqueno-hacia-los-estados-unidos"
     },
     "publicadoEn": "2026-10-15T14:36:30.046Z",
-    "actualizadoEn": "2026-10-15T14:36:36.354Z"
+    "actualizadoEn": "2026-10-16T14:27:42.789Z"
   },
   {
-    "id": "2026-10-15-cronograma-de-operacion-de-terminales-portuarias-durante-el-feriado-5d93f6",
-    "slug": "cronograma-de-operacion-de-terminales-portuarias-durante-el-feriado",
-    "organismo": "Aduana",
+    "id": "2026-10-16-cronogramas-operativos-de-las-terminales-portuarias-feriado-a7fcd6",
+    "slug": "cronogramas-operativos-de-las-terminales-portuarias-feriado",
+    "organismo": "CDA",
     "fecha": "2026-10-13",
     "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "terminales portuarias",
-      "feriados",
-      "operativa",
-      "puerto",
-      "logística"
-    ],
-    "titulo": "Cronograma de operación de terminales portuarias durante el feriado",
-    "resumen": "Se comunica el cronograma de actividades de las terminales portuarias para el próximo feriado. La medida detalla los horarios de atención para la recepción y entrega de unidades.",
-    "queSignifica": "Se sugiere verificar los horarios específicos de la terminal interviniente en su operación para evitar demoras. Se recomienda coordinar turnos de retiro o ingreso de cargas con antelación según disponibilidad.",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "Cronogramas operativos de las Terminales Portuarias: Feriado",
+    "resumen": "El Centro Despachantes de Aduana (CDA) les acerca a sus asociados el cronograma operativo de las distintas Terminales Portuarias para el fer...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42813"
     },
     "publicadoEn": "2026-10-09T16:45:03.088Z",
-    "actualizadoEn": "2026-10-15T14:36:36.354Z"
+    "actualizadoEn": "2026-10-16T14:27:42.789Z"
   },
   {
-    "id": "2026-10-15-cierre-administrativo-del-cda-por-feriado-del-12-de-octubre-de-2026-d2f863",
-    "slug": "cierre-administrativo-del-cda-por-feriado-del-12-de-octubre-de-2026",
-    "organismo": "Aduana",
+    "id": "2026-10-16-cda-informa-el-cese-de-actividades-por-el-feriado-del-12-de-305d49",
+    "slug": "cda-informa-el-cese-de-actividades-por-el-feriado-del-12-de",
+    "organismo": "CDA",
     "fecha": "2026-10-13",
     "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "feriado",
-      "operatividad aduanera",
-      "gestión administrativa",
-      "despacho de aduana"
-    ],
-    "titulo": "Cierre administrativo del CDA por feriado del 12 de octubre de 2026",
-    "resumen": "El Centro Despachantes de Aduana comunica que su sede permanecerá cerrada el 12 de octubre de 2026 por motivo de feriado nacional.",
-    "queSignifica": "Se sugiere considerar este cierre institucional para la gestión de trámites administrativos internos ante la entidad. Se recomienda verificar si las terminales portuarias y depósitos fiscales operarán bajo cronograma de feriado para evitar demoras en el despacho.",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "CDA informa el cese de actividades por el feriado del 12 de",
+    "resumen": "El Centro Despachantes de Aduana informa a sus asociados que el día 12 de octubre de 2026, la Institución permanecerá cerrada por conmemo...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42814"
     },
     "publicadoEn": "2026-10-07T17:10:55.900Z",
-    "actualizadoEn": "2026-10-15T14:36:36.354Z"
+    "actualizadoEn": "2026-10-16T14:27:42.789Z"
   },
   {
     "id": "2026-10-12-retiro-del-mercado-de-gel-neutro-marca-sanicol-por-disposicion-de-anmat-89b663",
@@ -803,102 +784,6 @@
       "url": "https://www.argentina.gob.ar/noticias/vigilancia-fitosanitaria-se-refuerza-la-prevencion-para-evitar-el-ingreso-de-la-mosca"
     },
     "publicadoEn": "2026-10-02T16:06:38.184Z",
-    "actualizadoEn": "2026-10-02T16:07:42.121Z"
-  },
-  {
-    "id": "2026-10-02-reunion-de-facilitacion-bilateral-entre-la-aduana-argentina-y-uruguay-597437",
-    "slug": "reunion-de-facilitacion-bilateral-entre-la-aduana-argentina-y-uruguay",
-    "organismo": "Aduana",
-    "fecha": "2026-10-01",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "comercio bilateral",
-      "aduanas",
-      "facilitación",
-      "subcomité técnico",
-      "acuerdo"
-    ],
-    "titulo": "Reunión de facilitación bilateral entre la Aduana Argentina y Uruguay",
-    "resumen": "Se llevó a cabo una reunión del Subcomité Técnico para coordinar procedimientos aduaneros entre Argentina y Uruguay. El encuentro se centró en la cooperación institucional y la armonización de procesos logísticos.",
-    "queSignifica": "Es un reporte institucional sin cambios operativos inmediatos. Se recomienda mantenerse atento a futuras publicaciones oficiales que pudieran modificar los procedimientos de cruce fronterizo.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42802"
-    },
-    "publicadoEn": "2026-10-01T16:49:40.526Z",
-    "actualizadoEn": "2026-10-02T16:07:42.121Z"
-  },
-  {
-    "id": "2026-10-02-anmat-prohibe-la-comercializacion-y-uso-de-productos-medicos-de-la-firma-biosimi-0da1ed",
-    "slug": "anmat-prohibe-la-comercializacion-y-uso-de-productos-medicos-de-la-firma-biosimi",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-10-01",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "ANMAT",
-      "productos médicos",
-      "prohibición",
-      "despacho a plaza",
-      "cumplimiento regulatorio"
-    ],
-    "titulo": "ANMAT prohíbe la comercialización y uso de productos médicos de la firma Biosimil S.R.L.",
-    "resumen": "La medida dispone la prohibición preventiva de comercialización, distribución y uso de los productos médicos fabricados o importados por la firma Biosimil S.R.L. ante irregularidades detectadas.",
-    "queSignifica": "Se recomienda revisar el inventario y las operaciones en curso para asegurar que no contengan productos de esta firma. Es necesario verificar con el cliente y el área de asuntos regulatorios la vigencia de las habilitaciones de la empresa antes de avanzar con cualquier trámite aduanero.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-distintos-productos-medicos-de-la-firma-biosimil-srl"
-    },
-    "publicadoEn": "2026-10-01T16:50:19.401Z",
-    "actualizadoEn": "2026-10-02T16:07:42.121Z"
-  },
-  {
-    "id": "2026-10-02-prohibicion-de-comercializacion-y-uso-de-productos-medicos-de-la-marca-smith-nep-fa5053",
-    "slug": "prohibicion-de-comercializacion-y-uso-de-productos-medicos-de-la-marca-smith-nep",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-10-01",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "ANMAT",
-      "productos medicos",
-      "prohibicion",
-      "despacho a plaza",
-      "seguridad sanitaria"
-    ],
-    "titulo": "Prohibición de comercialización y uso de productos médicos de la marca Smith & Nephew",
-    "resumen": "La ANMAT ha prohibido la comercialización, distribución y uso de determinados productos médicos de la firma Smith & Nephew en todo el territorio nacional.",
-    "queSignifica": "Se recomienda revisar el listado específico de lotes y referencias alcanzadas por la medida para evitar el ingreso a plaza de mercadería prohibida. Verifique con su departamento técnico y proveedores la trazabilidad de cualquier stock actual de la marca.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-un-producto-medico-de-la-marca-smith-nephew"
-    },
-    "publicadoEn": "2026-10-01T16:50:27.651Z",
-    "actualizadoEn": "2026-10-02T16:07:42.121Z"
-  },
-  {
-    "id": "2026-10-02-anmat-habilita-parcialmente-la-produccion-de-rigecin-labs-sa-a94c22",
-    "slug": "anmat-habilita-parcialmente-la-produccion-de-rigecin-labs-sa",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-10-01",
-    "impacto": "medio",
-    "categoria": "logistica",
-    "tags": [
-      "ANMAT",
-      "habilitaciones",
-      "productos médicos",
-      "suspensiones",
-      "comercialización"
-    ],
-    "titulo": "ANMAT habilita parcialmente la producción de RIGECIN LABS S.A.",
-    "resumen": "Se autoriza la reanudación parcial de las actividades productivas de la firma RIGECIN LABS S.A. que se encontraban inhibidas por la autoridad sanitaria.",
-    "queSignifica": "Si opera con productos de este laboratorio, verifique el alcance específico de la habilitación parcial en el listado de productos autorizados. Se recomienda consultar al departamento de asuntos regulatorios sobre la situación vigente de los certificados de importación o comercialización vinculados.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-levanto-parcialmente-la-inhibicion-de-actividades-productivas-de-rigecin-labs-sa"
-    },
-    "publicadoEn": "2026-10-01T16:50:43.980Z",
     "actualizadoEn": "2026-10-02T16:07:42.121Z"
   }
 ]
