@@ -1,9 +1,9 @@
 [
   {
-    "id": "2026-10-16-bcra-tipo-de-cambio-mulc-del-dia-7c00d0",
+    "id": "2026-10-19-bcra-tipo-de-cambio-mulc-del-dia-39ca26",
     "slug": "bcra-tipo-de-cambio-mulc-del-dia",
     "organismo": "BCRA",
-    "fecha": "2026-10-16",
+    "fecha": "2026-10-19",
     "impacto": "alto",
     "categoria": "normativa",
     "tags": [
@@ -11,24 +11,60 @@
       "tipo de cambio"
     ],
     "titulo": "BCRA – Tipo de Cambio MULC del día",
-    "resumen": "Tipo de Cambio MULC ($ por USD): 1047.00 — al 2026-10-15",
+    "resumen": "Tipo de Cambio MULC ($ por USD): 1053.19 — al 2026-10-16",
     "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-10-16T14:27:42.789Z"
+    "actualizadoEn": "2026-10-19T16:44:39.240Z"
   },
   {
-    "id": "2026-10-16-hoy-oea-una-oportunidad-de-jerarquizacion-jornada-tec-220d6a",
-    "slug": "hoy-oea-una-oportunidad-de-jerarquizacion-jornada-tec",
+    "id": "2026-10-19-xi-encuentro-nacional-de-despachantes-de-aduana-vii-encuen-6332de",
+    "slug": "xi-encuentro-nacional-de-despachantes-de-aduana-vii-encuen",
     "organismo": "CDA",
-    "fecha": "2026-10-16",
+    "fecha": "2026-10-19",
     "impacto": "bajo",
     "categoria": "importacion",
     "tags": [],
-    "titulo": "#HOY- OEA, una oportunidad de jerarquización - Jornada téc",
+    "titulo": "XI Encuentro Nacional de Despachantes de Aduana - VII Encuen",
+    "resumen": "El Centro Despachantes de Aduana (CDA) invita a sus socios a participar del XI Encuentro Nacional de Despachantes de Aduana y VII Encuentro ...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42791"
+    },
+    "publicadoEn": "2026-09-30T16:12:09.264Z",
+    "actualizadoEn": "2026-10-19T16:44:39.240Z"
+  },
+  {
+    "id": "2026-10-19-aeropuertos-argentina-cargas-trabajos-de-infraestructura-en-7a1f30",
+    "slug": "aeropuertos-argentina-cargas-trabajos-de-infraestructura-en",
+    "organismo": "CDA",
+    "fecha": "2026-10-19",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "Aeropuertos Argentina Cargas: trabajos de infraestructura en",
+    "resumen": "El Centro Despachantes de Aduana (CDA) comunica a sus asociados que, según nos informó Aeropuertos Argentina Cargas, desde el 1 de agosto ...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42824"
+    },
+    "publicadoEn": "2026-10-19T16:44:13.674Z",
+    "actualizadoEn": "2026-10-19T16:44:39.240Z"
+  },
+  {
+    "id": "2026-10-19-oea-una-oportunidad-de-jerarquizacion-jornada-tecnica-92761c",
+    "slug": "oea-una-oportunidad-de-jerarquizacion-jornada-tecnica",
+    "organismo": "CDA",
+    "fecha": "2026-10-19",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "OEA, una oportunidad de jerarquización - Jornada técnica",
     "resumen": "El Centro Despachantes de Aduana (CDA) invita a sus asociados a participar de la segunda jornada de capacitación sobre Operador Económico ...",
     "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
     "fuente": {
@@ -36,10 +72,49 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42804"
     },
     "publicadoEn": "2026-10-05T19:00:10.175Z",
-    "actualizadoEn": "2026-10-16T14:27:42.789Z"
+    "actualizadoEn": "2026-10-19T16:44:39.240Z"
   },
   {
-    "id": "2026-10-16-se-fiscalizo-la-sanidad-de-1138-animales-durante-las-exposiciones-rurales-de-pri-b28598",
+    "id": "2026-10-19-encuentro-nacional-de-mar-del-plata-el-trabajo-conjunto-lo-50a091",
+    "slug": "encuentro-nacional-de-mar-del-plata-el-trabajo-conjunto-lo",
+    "organismo": "CDA",
+    "fecha": "2026-10-16",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "Encuentro Nacional de Mar del Plata - El trabajo conjunto lo",
+    "resumen": "El Centro Despachantes de Aduana (CDA) informa que el XI Encuentro Nacional de Despachantes de Aduana y el VII Encuentro Nacional de Agentes...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42822"
+    },
+    "publicadoEn": "2026-10-19T16:44:22.241Z",
+    "actualizadoEn": "2026-10-19T16:44:39.240Z"
+  },
+  {
+    "id": "2026-10-19-senasa-nuevos-requisitos-para-el-control-fitosanitario-de-e-5cfdf8",
+    "slug": "senasa-nuevos-requisitos-para-el-control-fitosanitario-de-e",
+    "organismo": "CDA",
+    "fecha": "2026-10-16",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "SENASA",
+      "fitosanitario"
+    ],
+    "titulo": "SENASA: Nuevos requisitos para el control fitosanitario de e",
+    "resumen": "Por medio de la Resolución N° 873/2026 el Servicio Nacional de Sanidad y Calidad Agroalimentaria (SENASA) aprobó un nuevo marco regulator...",
+    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42823"
+    },
+    "publicadoEn": "2026-10-19T16:44:26.480Z",
+    "actualizadoEn": "2026-10-19T16:44:39.240Z"
+  },
+  {
+    "id": "2026-10-19-se-fiscalizo-la-sanidad-de-1138-animales-durante-las-exposiciones-rurales-de-pri-65f2fb",
     "slug": "se-fiscalizo-la-sanidad-de-1138-animales-durante-las-exposiciones-rurales-de-pri",
     "organismo": "SENASA",
     "fecha": "2026-10-16",
@@ -57,10 +132,10 @@
       "url": "https://www.argentina.gob.ar/noticias/se-fiscalizo-la-sanidad-de-1138-animales-durante-las-exposiciones-rurales-de-primavera-en"
     },
     "publicadoEn": "2026-10-16T14:27:14.517Z",
-    "actualizadoEn": "2026-10-16T14:27:42.789Z"
+    "actualizadoEn": "2026-10-19T16:44:39.240Z"
   },
   {
-    "id": "2026-10-16-anmat-prohibe-un-cabezal-laser-de-la-marca-alma-lasers-a9d3e8",
+    "id": "2026-10-19-anmat-prohibe-un-cabezal-laser-de-la-marca-alma-lasers-51afbc",
     "slug": "anmat-prohibe-un-cabezal-laser-de-la-marca-alma-lasers",
     "organismo": "ANMAT / INAL",
     "fecha": "2026-10-16",
@@ -77,7 +152,7 @@
       "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-un-cabezal-laser-de-la-marca-alma-lasers"
     },
     "publicadoEn": "2026-10-16T14:27:28.582Z",
-    "actualizadoEn": "2026-10-16T14:27:42.789Z"
+    "actualizadoEn": "2026-10-19T16:44:39.240Z"
   },
   {
     "id": "2026-10-16-conexion-sim-cda-accede-de-forma-agil-segura-y-con-resp-63c520",
@@ -368,30 +443,6 @@
     },
     "publicadoEn": "2026-10-09T16:46:20.896Z",
     "actualizadoEn": "2026-10-12T19:33:16.656Z"
-  },
-  {
-    "id": "2026-10-09-xi-encuentro-nacional-de-despachantes-de-aduana-3c45b6",
-    "slug": "xi-encuentro-nacional-de-despachantes-de-aduana",
-    "organismo": "Aduana",
-    "fecha": "2026-10-09",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "capacitación",
-      "profesionalización",
-      "comercio exterior",
-      "despachante de aduana",
-      "actualización"
-    ],
-    "titulo": "XI Encuentro Nacional de Despachantes de Aduana",
-    "resumen": "El CDA convoca a sus asociados a participar de su encuentro nacional y regional anual.",
-    "queSignifica": "Se trata de un evento informativo y de capacitación gremial. Se sugiere verificar el cronograma de actividades para evaluar si los temas a tratar impactan en la gestión operativa.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42791"
-    },
-    "publicadoEn": "2026-09-30T16:12:09.264Z",
-    "actualizadoEn": "2026-10-09T16:46:42.833Z"
   },
   {
     "id": "2026-10-09-reunion-sobre-infraestructura-portuaria-convocada-por-el-cda-fcc8ab",
@@ -698,92 +749,5 @@
     },
     "publicadoEn": "2026-10-05T18:59:38.850Z",
     "actualizadoEn": "2026-10-07T17:14:35.214Z"
-  },
-  {
-    "id": "2026-10-05-informacion-para-socios-asesoria-aladi-mercosur-a5388c",
-    "slug": "informacion-para-socios-asesoria-aladi-mercosur",
-    "organismo": "CDA",
-    "fecha": "2026-10-02",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [],
-    "titulo": "Información para socios: Asesoría ALADI – Mercosur",
-    "resumen": "El Centro Despachantes de Aduana (CDA) informa a sus asociados que, momentáneamente, se encuentra inhabilitado el turnero de la Asesoría A...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42805"
-    },
-    "publicadoEn": "2026-10-05T19:00:06.004Z",
-    "actualizadoEn": "2026-10-05T19:01:05.706Z"
-  },
-  {
-    "id": "2026-10-05-xi-encuentro-nacional-de-despachantes-y-vii-de-agentes-de-transporte-aduanero-2e197c",
-    "slug": "xi-encuentro-nacional-de-despachantes-y-vii-de-agentes-de-transporte-aduanero",
-    "organismo": "Aduana",
-    "fecha": "2026-10-02",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "evento",
-      "capacitación",
-      "comercio exterior",
-      "aduanas",
-      "actualidad"
-    ],
-    "titulo": "XI Encuentro Nacional de Despachantes y VII de Agentes de Transporte Aduanero",
-    "resumen": "Se anuncia la realización de los encuentros nacionales anuales del CDA y agentes de transporte aduanero. El evento tiene un carácter institucional y de actualización profesional para los operadores del sector.",
-    "queSignifica": "Es una novedad informativa sin impacto operativo en las destinaciones. Se sugiere revisar la agenda del evento en caso de tener interés en participar de los paneles de actualización técnica.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42800"
-    },
-    "publicadoEn": "2026-10-02T16:05:18.116Z",
-    "actualizadoEn": "2026-10-05T19:01:05.706Z"
-  },
-  {
-    "id": "2026-10-05-se-refuerza-la-prevencion-para-evitar-el-ingreso-de-la-mosca-linterna-manchada-c92015",
-    "slug": "se-refuerza-la-prevencion-para-evitar-el-ingreso-de-la-mosca-linterna-manchada",
-    "organismo": "SENASA",
-    "fecha": "2026-10-02",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "SENASA",
-      "fitosanitario"
-    ],
-    "titulo": "Se refuerza la prevención para evitar el ingreso de la mosca linterna manchada",
-    "resumen": "SENASA recuerda que la detección temprana y la notificación de sospechas son fundamentales para preservar el estatus fitosanitario. La plaga puede afectar frutales, vid y especies forestales.",
-    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
-    "fuente": {
-      "nombre": "SENASA Comunica",
-      "url": "https://www.argentina.gob.ar/noticias/se-refuerza-la-prevencion-para-evitar-el-ingreso-de-la-mosca-linterna-manchada"
-    },
-    "publicadoEn": "2026-10-05T19:00:47.168Z",
-    "actualizadoEn": "2026-10-05T19:01:05.706Z"
-  },
-  {
-    "id": "2026-10-02-refuerzo-en-vigilancia-fitosanitaria-por-la-mosca-linterna-manchada-98a956",
-    "slug": "refuerzo-en-vigilancia-fitosanitaria-por-la-mosca-linterna-manchada",
-    "organismo": "SENASA",
-    "fecha": "2026-10-02",
-    "impacto": "medio",
-    "categoria": "logistica",
-    "tags": [
-      "fitosanitario",
-      "barreras no arancelarias",
-      "SENASA",
-      "inspeccion",
-      "mercaderia"
-    ],
-    "titulo": "Refuerzo en vigilancia fitosanitaria por la mosca linterna manchada",
-    "resumen": "SENASA intensifica los controles preventivos y la notificación obligatoria ante la sospecha de presencia de la plaga.",
-    "queSignifica": "Se recomienda revisar el estado de los embalajes de madera y contenedores para asegurar el cumplimiento de las normas fitosanitarias vigentes. Es prudente verificar con sus agentes de carga y proveedores el origen y tratamiento de la mercadería para evitar inspecciones adicionales.",
-    "fuente": {
-      "nombre": "SENASA Comunica",
-      "url": "https://www.argentina.gob.ar/noticias/vigilancia-fitosanitaria-se-refuerza-la-prevencion-para-evitar-el-ingreso-de-la-mosca"
-    },
-    "publicadoEn": "2026-10-02T16:06:38.184Z",
-    "actualizadoEn": "2026-10-02T16:07:42.121Z"
   }
 ]
