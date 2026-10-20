@@ -1,9 +1,9 @@
 [
   {
-    "id": "2026-10-19-bcra-tipo-de-cambio-mulc-del-dia-39ca26",
+    "id": "2026-10-20-bcra-tipo-de-cambio-mulc-del-dia-dc5dab",
     "slug": "bcra-tipo-de-cambio-mulc-del-dia",
     "organismo": "BCRA",
-    "fecha": "2026-10-19",
+    "fecha": "2026-10-20",
     "impacto": "alto",
     "categoria": "normativa",
     "tags": [
@@ -11,17 +11,79 @@
       "tipo de cambio"
     ],
     "titulo": "BCRA – Tipo de Cambio MULC del día",
-    "resumen": "Tipo de Cambio MULC ($ por USD): 1053.19 — al 2026-10-16",
+    "resumen": "Tipo de Cambio MULC ($ por USD): 1064.10 — al 2026-10-19",
     "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-10-19T16:44:39.240Z"
+    "actualizadoEn": "2026-10-20T14:37:51.695Z"
   },
   {
-    "id": "2026-10-19-xi-encuentro-nacional-de-despachantes-de-aduana-vii-encuen-6332de",
+    "id": "2026-10-20-coworking-cda-tu-oficina-en-la-casa-de-todos-los-despachan-36ae2c",
+    "slug": "coworking-cda-tu-oficina-en-la-casa-de-todos-los-despachan",
+    "organismo": "CDA",
+    "fecha": "2026-10-20",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "Coworking CDA - Tu oficina en la casa de todos los despachan",
+    "resumen": "Con el objetivo de continuar ampliando los servicios que brinda a sus asociados, el Centro Despachantes de Aduana (CDA) recuerda que ya se e...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42526"
+    },
+    "publicadoEn": "2026-10-20T14:36:13.058Z",
+    "actualizadoEn": "2026-10-20T14:37:51.695Z"
+  },
+  {
+    "id": "2026-10-20-anmat-levanto-la-inhibicion-de-electron-plast-sa-452466",
+    "slug": "anmat-levanto-la-inhibicion-de-electron-plast-sa",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-10-20",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "ANMAT"
+    ],
+    "titulo": "ANMAT levantó la inhibición de ELECTRON PLAST S.A.",
+    "resumen": "ANMAT levantó la inhibición de ELECTRON PLAST S.A.",
+    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-levanto-la-inhibicion-de-electron-plast-sa"
+    },
+    "publicadoEn": "2026-10-20T14:37:46.732Z",
+    "actualizadoEn": "2026-10-20T14:37:51.695Z"
+  },
+  {
+    "id": "2026-10-20-informe-estadistico-del-indec-sobre-el-intercambio-comercial-de-septiembre-2026-3c5c6b",
+    "slug": "informe-estadistico-del-indec-sobre-el-intercambio-comercial-de-septiembre-2026",
+    "organismo": "Aduana",
+    "fecha": "2026-10-19",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "estadística",
+      "comercio exterior",
+      "análisis técnico",
+      "precios",
+      "volúmenes"
+    ],
+    "titulo": "Informe estadístico del INDEC sobre el intercambio comercial de septiembre 2026",
+    "resumen": "Publicación del informe técnico del INDEC detallando el índice de precios y cantidades del comercio exterior argentino.",
+    "queSignifica": "Se sugiere revisar la información estadística para evaluar tendencias de mercado y proyecciones sectoriales en sus operaciones de comercio exterior.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42827"
+    },
+    "publicadoEn": "2026-10-20T14:36:19.301Z",
+    "actualizadoEn": "2026-10-20T14:37:51.695Z"
+  },
+  {
+    "id": "2026-10-20-xi-encuentro-nacional-de-despachantes-de-aduana-vii-encuen-a2a3be",
     "slug": "xi-encuentro-nacional-de-despachantes-de-aduana-vii-encuen",
     "organismo": "CDA",
     "fecha": "2026-10-19",
@@ -36,10 +98,10 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42791"
     },
     "publicadoEn": "2026-09-30T16:12:09.264Z",
-    "actualizadoEn": "2026-10-19T16:44:39.240Z"
+    "actualizadoEn": "2026-10-20T14:37:51.695Z"
   },
   {
-    "id": "2026-10-19-aeropuertos-argentina-cargas-trabajos-de-infraestructura-en-7a1f30",
+    "id": "2026-10-20-aeropuertos-argentina-cargas-trabajos-de-infraestructura-en-727602",
     "slug": "aeropuertos-argentina-cargas-trabajos-de-infraestructura-en",
     "organismo": "CDA",
     "fecha": "2026-10-19",
@@ -54,10 +116,10 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42824"
     },
     "publicadoEn": "2026-10-19T16:44:13.674Z",
-    "actualizadoEn": "2026-10-19T16:44:39.240Z"
+    "actualizadoEn": "2026-10-20T14:37:51.695Z"
   },
   {
-    "id": "2026-10-19-oea-una-oportunidad-de-jerarquizacion-jornada-tecnica-92761c",
+    "id": "2026-10-20-oea-una-oportunidad-de-jerarquizacion-jornada-tecnica-41ab8a",
     "slug": "oea-una-oportunidad-de-jerarquizacion-jornada-tecnica",
     "organismo": "CDA",
     "fecha": "2026-10-19",
@@ -72,7 +134,7 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42804"
     },
     "publicadoEn": "2026-10-05T19:00:10.175Z",
-    "actualizadoEn": "2026-10-19T16:44:39.240Z"
+    "actualizadoEn": "2026-10-20T14:37:51.695Z"
   },
   {
     "id": "2026-10-19-encuentro-nacional-de-mar-del-plata-el-trabajo-conjunto-lo-50a091",
@@ -661,93 +723,5 @@
     },
     "publicadoEn": "2026-10-07T17:12:52.446Z",
     "actualizadoEn": "2026-10-09T16:46:42.833Z"
-  },
-  {
-    "id": "2026-10-08-para-preservar-la-salud-publica-se-desnaturalizaron-15000-kg-de-carne-no-apta-pa-b4c1a3",
-    "slug": "para-preservar-la-salud-publica-se-desnaturalizaron-15000-kg-de-carne-no-apta-pa",
-    "organismo": "SENASA",
-    "fecha": "2026-10-05",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "SENASA"
-    ],
-    "titulo": "Para preservar la salud pública se desnaturalizaron 15000 kg de carne no apta para el consumo humano",
-    "resumen": "Lo dispuso SENASA al comprobar que la mercadería era transportada de Jujuy a Salta en condiciones irregulares y sin conocerse su origen.",
-    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
-    "fuente": {
-      "nombre": "SENASA Comunica",
-      "url": "https://www.argentina.gob.ar/noticias/para-preservar-la-salud-publica-se-desnaturalizaron-15000-kg-de-carne-no-apta-para-el"
-    },
-    "publicadoEn": "2026-10-06T16:26:24.929Z",
-    "actualizadoEn": "2026-10-08T17:09:23.369Z"
-  },
-  {
-    "id": "2026-10-07-implementacion-de-declaracion-jurada-para-inversiones-en-actividad-minera-via-vu-f56282",
-    "slug": "implementacion-de-declaracion-jurada-para-inversiones-en-actividad-minera-via-vu",
-    "organismo": "ARCA",
-    "fecha": "2026-10-05",
-    "impacto": "medio",
-    "categoria": "normativa",
-    "tags": [
-      "VUCEA",
-      "Minería",
-      "RIGI",
-      "Declaración Jurada",
-      "ARCA"
-    ],
-    "titulo": "Implementación de Declaración Jurada para Inversiones en Actividad Minera vía VUCEA",
-    "resumen": "La norma establece el procedimiento para la presentación de declaraciones juradas en el marco del Régimen de Inversiones para la Actividad Minera a través de la Ventanilla Única de Comercio Exterior.",
-    "queSignifica": "Deberá verificar si su empresa se encuentra alcanzada por el régimen minero y analizar los nuevos requerimientos documentales en VUCEA. Se recomienda auditar los procesos de carga actuales para asegurar el cumplimiento con las nuevas exigencias de información declaradas.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348497/20261005"
-    },
-    "normativaRef": "Resolución General 5909/2026",
-    "publicadoEn": "2026-10-05T18:59:08.943Z",
-    "actualizadoEn": "2026-10-07T17:14:35.214Z"
-  },
-  {
-    "id": "2026-10-07-comunicacion-a-84872026-ca2ab5",
-    "slug": "comunicacion-a-84872026",
-    "organismo": "BCRA",
-    "fecha": "2026-10-05",
-    "impacto": "alto",
-    "categoria": "normativa",
-    "tags": [
-      "Com. A"
-    ],
-    "titulo": "Comunicación \"A\" 8487/2026",
-    "resumen": "Comunicación \"A\" 8487/2026",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348507/20261005"
-    },
-    "normativaRef": "Comunicación \"A\" 8487/2026",
-    "publicadoEn": "2026-10-05T18:59:22.112Z",
-    "actualizadoEn": "2026-10-07T17:14:35.214Z"
-  },
-  {
-    "id": "2026-10-07-comunicado-institucional-por-el-fallecimiento-del-sr-carlos-canta-yoy-150a14",
-    "slug": "comunicado-institucional-por-el-fallecimiento-del-sr-carlos-canta-yoy",
-    "organismo": "Aduana",
-    "fecha": "2026-10-05",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "institucional",
-      "gremial",
-      "comex"
-    ],
-    "titulo": "Comunicado institucional por el fallecimiento del Sr. Carlos Canta Yoy",
-    "resumen": "El Centro Despachantes de Aduana informa el fallecimiento de Carlos Canta Yoy, exdirigente de la entidad.",
-    "queSignifica": "Se trata de una noticia de carácter institucional sin impacto operativo. Se recomienda verificar los canales oficiales del CDA para actualizaciones sobre la atención en la entidad.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42806"
-    },
-    "publicadoEn": "2026-10-05T18:59:38.850Z",
-    "actualizadoEn": "2026-10-07T17:14:35.214Z"
   }
 ]
