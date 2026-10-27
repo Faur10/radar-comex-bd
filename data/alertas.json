@@ -1,50 +1,78 @@
 [
   {
-    "id": "2026-10-26-cotizacion-oficial-del-dolar-en-el-mulc-al-23-de-octubre-de-2026-f69013",
-    "slug": "cotizacion-oficial-del-dolar-en-el-mulc-al-23-de-octubre-de-2026",
+    "id": "2026-10-27-bcra-tipo-de-cambio-mulc-del-dia-2ac8b4",
+    "slug": "bcra-tipo-de-cambio-mulc-del-dia",
     "organismo": "BCRA",
-    "fecha": "2026-10-26",
-    "impacto": "medio",
+    "fecha": "2026-10-27",
+    "impacto": "alto",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "tipo de cambio",
-      "divisas",
-      "operaciones cambiarias",
-      "BCRA"
+      "tipo de cambio"
     ],
-    "titulo": "Cotización oficial del dólar en el MULC al 23 de octubre de 2026",
-    "resumen": "Se publica el tipo de cambio oficial de referencia establecido por el BCRA para la fecha informada. Este valor constituye la base para la liquidación de divisas en operaciones de comercio exterior.",
-    "queSignifica": "Se recomienda revisar este valor contra los comprobantes de liquidación de operaciones en el MULC para verificar la correcta aplicación en sus registros contables y financieros. Verifique siempre con su entidad bancaria la tasa efectivamente aplicada según el tipo de operación.",
+    "titulo": "BCRA – Tipo de Cambio MULC del día",
+    "resumen": "Tipo de Cambio MULC ($ por USD): 1082.55 — al 2026-10-26",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-10-26T16:27:16.586Z"
+    "actualizadoEn": "2026-10-27T15:40:04.049Z"
   },
   {
-    "id": "2026-10-26-xi-encuentro-nacional-de-despachantes-de-aduana-en-mar-del-plata-3b5f8b",
-    "slug": "xi-encuentro-nacional-de-despachantes-de-aduana-en-mar-del-plata",
-    "organismo": "Aduana",
-    "fecha": "2026-10-23",
+    "id": "2026-10-27-en-8-dias-el-comercio-exterior-nacional-se-reune-en-mar-de-03a982",
+    "slug": "en-8-dias-el-comercio-exterior-nacional-se-reune-en-mar-de",
+    "organismo": "CDA",
+    "fecha": "2026-10-27",
     "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "capacitación",
-      "profesionalización",
-      "comercio exterior",
-      "red de contactos"
-    ],
-    "titulo": "XI Encuentro Nacional de Despachantes de Aduana en Mar del Plata",
-    "resumen": "El Centro Despachantes de Aduana invita a sus asociados a participar de su encuentro anual técnico y gremial.",
-    "queSignifica": "Esta es una instancia informativa y de networking gremial. Se sugiere verificar el cronograma del evento por si se trataran temas que pudieran afectar la operatividad profesional a futuro.",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "En 8 días el Comercio Exterior Nacional se reúne en Mar de",
+    "resumen": "El Centro Despachantes de Aduana (CDA) invita a sus socios a participar del XI Encuentro Nacional de Despachantes de Aduana y VII Encuentro ...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42791"
     },
     "publicadoEn": "2026-09-30T16:12:09.264Z",
-    "actualizadoEn": "2026-10-26T16:27:16.586Z"
+    "actualizadoEn": "2026-10-27T15:40:04.049Z"
+  },
+  {
+    "id": "2026-10-27-encuentro-nacional-2026-asesoramiento-exclusivo-para-socios-d5a26f",
+    "slug": "encuentro-nacional-2026-asesoramiento-exclusivo-para-socios",
+    "organismo": "CDA",
+    "fecha": "2026-10-26",
+    "impacto": "bajo",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "Encuentro Nacional 2026: Asesoramiento exclusivo para socios",
+    "resumen": "El Centro Despachantes de Aduana (CDA) informa a sus asociados que, en el marco del XI Encuentro Nacional de Despachantes de Aduana y VII En...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42832"
+    },
+    "publicadoEn": "2026-10-27T15:39:55.157Z",
+    "actualizadoEn": "2026-10-27T15:40:04.049Z"
+  },
+  {
+    "id": "2026-10-27-reglamentacion-de-las-modificaciones-de-la-ley-de-inocencia-fiscal-ii-3c748d",
+    "slug": "reglamentacion-de-las-modificaciones-de-la-ley-de-inocencia-fiscal-ii",
+    "organismo": "ARCA",
+    "fecha": "2026-10-26",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [],
+    "titulo": "Reglamentación de las modificaciones de la Ley de Inocencia Fiscal II",
+    "resumen": "El organismo adecuó el régimen de declaración jurada simplificada para incorporar los cambios de la ley \"Inocencia Fiscal II\"",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
+    "fuente": {
+      "nombre": "ARCA – Noticias",
+      "url": "https://www.argentina.gob.ar/noticias/reglamentacion-de-las-modificaciones-de-la-ley-de-inocencia-fiscal-ii"
+    },
+    "publicadoEn": "2026-10-27T15:39:59.746Z",
+    "actualizadoEn": "2026-10-27T15:40:04.049Z"
   },
   {
     "id": "2026-10-26-recordatorio-de-requisitos-para-el-ingreso-a-la-zona-operativa-del-aeropuerto-de-490c55",
