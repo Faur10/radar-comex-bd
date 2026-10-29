@@ -1,76 +1,106 @@
 [
   {
-    "id": "2026-10-28-bcra-tipo-de-cambio-mulc-del-dia-d1c417",
-    "slug": "bcra-tipo-de-cambio-mulc-del-dia",
+    "id": "2026-10-29-actualizacion-del-tipo-de-cambio-oficial-del-mulc-al-28-de-octubre-de-2026-8a4c9e",
+    "slug": "actualizacion-del-tipo-de-cambio-oficial-del-mulc-al-28-de-octubre-de-2026",
     "organismo": "BCRA",
-    "fecha": "2026-10-28",
-    "impacto": "alto",
+    "fecha": "2026-10-29",
+    "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "tipo de cambio"
+      "tipo de cambio",
+      "divisas",
+      "BCRA",
+      "cierre de operaciones"
     ],
-    "titulo": "BCRA – Tipo de Cambio MULC del día",
-    "resumen": "Tipo de Cambio MULC ($ por USD): 1080.75 — al 2026-10-27",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
+    "titulo": "Actualización del tipo de cambio oficial del MULC al 28 de octubre de 2026",
+    "resumen": "Se establece el tipo de cambio oficial de referencia para el Mercado Único y Libre de Cambios en 1085,26 pesos por dólar estadounidense. Este valor rige para las operaciones de comercio exterior liquidadas en la fecha indicada.",
+    "queSignifica": "Los operadores deben verificar este valor al momento de realizar pagos o cobros de operaciones cambiarias vinculadas a despachos. Se recomienda consultar con su entidad financiera para confirmar la aplicación efectiva en sus transacciones programadas.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-10-28T16:27:02.630Z"
+    "actualizadoEn": "2026-10-29T16:34:15.139Z"
   },
   {
-    "id": "2026-10-28-preinscripcion-online-a-la-asamblea-general-ordinaria-cca0cb",
-    "slug": "preinscripcion-online-a-la-asamblea-general-ordinaria",
-    "organismo": "CDA",
-    "fecha": "2026-10-28",
+    "id": "2026-10-29-aniversario-institucional-de-la-filial-cordoba-del-cda-6e4a6d",
+    "slug": "aniversario-institucional-de-la-filial-cordoba-del-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-10-29",
     "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [],
-    "titulo": "Preinscripción Online a la Asamblea General Ordinaria",
-    "resumen": "El Centro Despachantes de Aduana (CDA) informa a sus asociados que se encuentra habilitada la \"Preinscripción Online\" para la Asamblea Gene...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "categoria": "normativa",
+    "tags": [
+      "institucional",
+      "CDA",
+      "comercio exterior",
+      "gremial",
+      "aduanas"
+    ],
+    "titulo": "Aniversario institucional de la Filial Córdoba del CDA",
+    "resumen": "El Centro Despachantes de Aduana conmemora el 40° aniversario de su filial en la provincia de Córdoba.",
+    "queSignifica": "Esta información es de carácter institucional y no genera cambios operativos ni normativos en los trámites de comercio exterior. Se sugiere al operador continuar con sus actividades habituales sin necesidad de ajustes.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42833"
+    },
+    "publicadoEn": "2026-10-29T16:32:56.385Z",
+    "actualizadoEn": "2026-10-29T16:34:15.139Z"
+  },
+  {
+    "id": "2026-10-29-preinscripcion-online-para-la-asamblea-general-ordinaria-del-cda-5fb01b",
+    "slug": "preinscripcion-online-para-la-asamblea-general-ordinaria-del-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-10-29",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "CDA",
+      "Asamblea",
+      "Gremial",
+      "Despachantes",
+      "Institucional"
+    ],
+    "titulo": "Preinscripción online para la Asamblea General Ordinaria del CDA",
+    "resumen": "El CDA ha habilitado el sistema de preinscripción digital para su próxima Asamblea General Ordinaria.",
+    "queSignifica": "Esta novedad es puramente institucional y no afecta la operatoria aduanera. Se sugiere a los asociados revisar el cronograma en el portal del CDA si desean participar del acto administrativo.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42836"
     },
     "publicadoEn": "2026-10-28T16:24:18.917Z",
-    "actualizadoEn": "2026-10-28T16:27:02.630Z"
+    "actualizadoEn": "2026-10-29T16:34:15.139Z"
   },
   {
-    "id": "2026-10-28-flexibilizacion-operativa-para-exportacion-de-minerales-47a7da",
-    "slug": "flexibilizacion-operativa-para-exportacion-de-minerales",
-    "organismo": "ARCA",
-    "fecha": "2026-10-28",
+    "id": "2026-10-29-flexibilizacion-al-regimen-de-exportacion-de-minerales-y-927073",
+    "slug": "flexibilizacion-al-regimen-de-exportacion-de-minerales-y",
+    "organismo": "CDA",
+    "fecha": "2026-10-29",
     "impacto": "medio",
-    "categoria": "exportacion",
+    "categoria": "normativa",
     "tags": [
-      "exportacion",
-      "minerales",
       "ARCA",
-      "regimen",
-      "despacho"
+      "exportación"
     ],
-    "titulo": "Flexibilización operativa para exportación de minerales",
-    "resumen": "La RG 59 de ARCA introduce modificaciones para agilizar los procesos documentales y operativos en la exportación de productos minerales.",
-    "queSignifica": "Se recomienda revisar el texto completo de la Resolución para identificar si los procedimientos específicos de su carga se vieron alcanzados por la desburocratización. Verifique con su despachante la posible aplicación de estos cambios en sus próximos embarques.",
+    "titulo": "Flexibilización al Régimen de Exportación de minerales y",
+    "resumen": "En el día de la fecha, miércoles 28 de octubre, la Agencia de Recaudación y Control Aduanero (ARCA) publica la Resolución General N° 59...",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42837"
     },
     "publicadoEn": "2026-10-28T16:24:26.314Z",
-    "actualizadoEn": "2026-10-28T16:27:02.630Z"
+    "actualizadoEn": "2026-10-29T16:34:15.139Z"
   },
   {
-    "id": "2026-10-28-en-7-dias-el-comercio-exterior-nacional-se-reune-en-mdq-b1cb12",
-    "slug": "en-7-dias-el-comercio-exterior-nacional-se-reune-en-mdq",
+    "id": "2026-10-29-en-6-dias-el-comercio-exterior-nacional-se-reune-en-mdq-f3c02a",
+    "slug": "en-6-dias-el-comercio-exterior-nacional-se-reune-en-mdq",
     "organismo": "CDA",
-    "fecha": "2026-10-28",
+    "fecha": "2026-10-29",
     "impacto": "bajo",
     "categoria": "importacion",
     "tags": [],
-    "titulo": "En 7 días el Comercio Exterior Nacional se reúne en MDQ!",
+    "titulo": "En 6 días el Comercio Exterior Nacional se reúne en MDQ!",
     "resumen": "El Centro Despachantes de Aduana (CDA) invita a sus socios a participar del XI Encuentro Nacional de Despachantes de Aduana y VII Encuentro ...",
     "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
     "fuente": {
@@ -78,49 +108,49 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42791"
     },
     "publicadoEn": "2026-09-30T16:12:09.264Z",
-    "actualizadoEn": "2026-10-28T16:27:02.630Z"
+    "actualizadoEn": "2026-10-29T16:34:15.139Z"
   },
   {
-    "id": "2026-10-28-encuentro-nacional-2026-asesoramiento-exclusivo-para-socios-598b7b",
-    "slug": "encuentro-nacional-2026-asesoramiento-exclusivo-para-socios",
-    "organismo": "CDA",
+    "id": "2026-10-29-informacion-sobre-el-xi-encuentro-nacional-de-despachantes-de-aduana-22c37d",
+    "slug": "informacion-sobre-el-xi-encuentro-nacional-de-despachantes-de-aduana",
+    "organismo": "Aduana",
     "fecha": "2026-10-26",
     "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [],
-    "titulo": "Encuentro Nacional 2026: Asesoramiento exclusivo para socios",
-    "resumen": "El Centro Despachantes de Aduana (CDA) informa a sus asociados que, en el marco del XI Encuentro Nacional de Despachantes de Aduana y VII En...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "categoria": "normativa",
+    "tags": [
+      "institucional",
+      "capacitación",
+      "encuentro nacional",
+      "asesoramiento",
+      "cda"
+    ],
+    "titulo": "Información sobre el XI Encuentro Nacional de Despachantes de Aduana",
+    "resumen": "El CDA anuncia la realización del XI Encuentro Nacional y VII Encuentro de Despachantes para brindar asesoramiento a sus socios.",
+    "queSignifica": "Esta comunicación tiene carácter institucional y no afecta los procedimientos operativos; se sugiere verificar el calendario de actividades si desea participar de las capacitaciones.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42832"
     },
     "publicadoEn": "2026-10-27T15:39:55.157Z",
-    "actualizadoEn": "2026-10-28T16:27:02.630Z"
+    "actualizadoEn": "2026-10-29T16:34:15.139Z"
   },
   {
-    "id": "2026-10-28-adecuacion-del-regimen-de-declaracion-jurada-simplificada-por-ley-inocencia-fisc-a4b11d",
-    "slug": "adecuacion-del-regimen-de-declaracion-jurada-simplificada-por-ley-inocencia-fisc",
+    "id": "2026-10-29-reglamentacion-de-las-modificaciones-de-la-ley-de-inocencia-fiscal-ii-4ce364",
+    "slug": "reglamentacion-de-las-modificaciones-de-la-ley-de-inocencia-fiscal-ii",
     "organismo": "ARCA",
     "fecha": "2026-10-26",
-    "impacto": "medio",
+    "impacto": "bajo",
     "categoria": "normativa",
-    "tags": [
-      "declaración jurada",
-      "régimen simplificado",
-      "procedimientos aduaneros",
-      "gestión documental",
-      "cumplimiento fiscal"
-    ],
-    "titulo": "Adecuación del régimen de declaración jurada simplificada por Ley Inocencia Fiscal II",
-    "resumen": "La normativa actualiza el sistema de declaración jurada simplificada para integrar los cambios introducidos por la ley Inocencia Fiscal II. El objetivo es alinear los procesos operativos con las nuevas disposiciones fiscales vigentes.",
-    "queSignifica": "Debe revisar si sus operaciones actuales se encuentran bajo el régimen simplificado y verificar si los nuevos requisitos impactan en sus presentaciones. Se recomienda validar con su despachante la actualización de los aplicativos en el sistema para evitar inconsistencias en las futuras declaraciones.",
+    "tags": [],
+    "titulo": "Reglamentación de las modificaciones de la Ley de Inocencia Fiscal II",
+    "resumen": "El organismo adecuó el régimen de declaración jurada simplificada para incorporar los cambios de la ley \"Inocencia Fiscal II\"",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
     "fuente": {
       "nombre": "ARCA – Noticias",
       "url": "https://www.argentina.gob.ar/noticias/reglamentacion-de-las-modificaciones-de-la-ley-de-inocencia-fiscal-ii"
     },
     "publicadoEn": "2026-10-27T15:39:59.746Z",
-    "actualizadoEn": "2026-10-28T16:27:02.630Z"
+    "actualizadoEn": "2026-10-29T16:34:15.139Z"
   },
   {
     "id": "2026-10-26-recordatorio-de-requisitos-para-el-ingreso-a-la-zona-operativa-del-aeropuerto-de-490c55",
@@ -520,174 +550,6 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42803"
     },
     "publicadoEn": "2026-10-02T16:05:40.128Z",
-    "actualizadoEn": "2026-10-16T14:27:42.789Z"
-  },
-  {
-    "id": "2026-10-16-comunicacion-a-84682026-84ca83",
-    "slug": "comunicacion-a-84682026",
-    "organismo": "BCRA",
-    "fecha": "2026-10-14",
-    "impacto": "alto",
-    "categoria": "normativa",
-    "tags": [
-      "Com. A"
-    ],
-    "titulo": "Comunicación \"A\" 8468/2026",
-    "resumen": "Comunicación \"A\" 8468/2026",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348936/20261014"
-    },
-    "normativaRef": "Comunicación \"A\" 8468/2026",
-    "publicadoEn": "2026-10-14T14:48:40.742Z",
-    "actualizadoEn": "2026-10-16T14:27:42.789Z"
-  },
-  {
-    "id": "2026-10-16-comunicacion-a-84692026-87bb99",
-    "slug": "comunicacion-a-84692026",
-    "organismo": "BCRA",
-    "fecha": "2026-10-14",
-    "impacto": "alto",
-    "categoria": "normativa",
-    "tags": [
-      "Com. A"
-    ],
-    "titulo": "Comunicación \"A\" 8469/2026",
-    "resumen": "Comunicación \"A\" 8469/2026",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348937/20261014"
-    },
-    "normativaRef": "Comunicación \"A\" 8469/2026",
-    "publicadoEn": "2026-10-14T14:48:45.105Z",
-    "actualizadoEn": "2026-10-16T14:27:42.789Z"
-  },
-  {
-    "id": "2026-10-16-comunicacion-a-84802026-852c2d",
-    "slug": "comunicacion-a-84802026",
-    "organismo": "BCRA",
-    "fecha": "2026-10-14",
-    "impacto": "alto",
-    "categoria": "normativa",
-    "tags": [
-      "Com. A"
-    ],
-    "titulo": "Comunicación \"A\" 8480/2026",
-    "resumen": "Comunicación \"A\" 8480/2026",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348938/20261014"
-    },
-    "normativaRef": "Comunicación \"A\" 8480/2026",
-    "publicadoEn": "2026-10-14T14:48:50.569Z",
-    "actualizadoEn": "2026-10-16T14:27:42.789Z"
-  },
-  {
-    "id": "2026-10-16-comunicacion-a-84822026-1afac5",
-    "slug": "comunicacion-a-84822026",
-    "organismo": "BCRA",
-    "fecha": "2026-10-14",
-    "impacto": "alto",
-    "categoria": "normativa",
-    "tags": [
-      "Com. A"
-    ],
-    "titulo": "Comunicación \"A\" 8482/2026",
-    "resumen": "Comunicación \"A\" 8482/2026",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348939/20261014"
-    },
-    "normativaRef": "Comunicación \"A\" 8482/2026",
-    "publicadoEn": "2026-10-15T14:35:30.158Z",
-    "actualizadoEn": "2026-10-16T14:27:42.789Z"
-  },
-  {
-    "id": "2026-10-16-comunicacion-a-84892026-e97261",
-    "slug": "comunicacion-a-84892026",
-    "organismo": "BCRA",
-    "fecha": "2026-10-14",
-    "impacto": "alto",
-    "categoria": "normativa",
-    "tags": [
-      "Com. A"
-    ],
-    "titulo": "Comunicación \"A\" 8489/2026",
-    "resumen": "Comunicación \"A\" 8489/2026",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348940/20261014"
-    },
-    "normativaRef": "Comunicación \"A\" 8489/2026",
-    "publicadoEn": "2026-10-14T14:49:01.183Z",
-    "actualizadoEn": "2026-10-16T14:27:42.789Z"
-  },
-  {
-    "id": "2026-10-16-comunicacion-a-84902026-f6ffa8",
-    "slug": "comunicacion-a-84902026",
-    "organismo": "BCRA",
-    "fecha": "2026-10-14",
-    "impacto": "alto",
-    "categoria": "normativa",
-    "tags": [
-      "Com. A"
-    ],
-    "titulo": "Comunicación \"A\" 8490/2026",
-    "resumen": "Comunicación \"A\" 8490/2026",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
-    "fuente": {
-      "nombre": "Boletín Oficial de la República Argentina",
-      "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348941/20261014"
-    },
-    "normativaRef": "Comunicación \"A\" 8490/2026",
-    "publicadoEn": "2026-10-14T14:48:45.105Z",
-    "actualizadoEn": "2026-10-16T14:27:42.789Z"
-  },
-  {
-    "id": "2026-10-16-gestion-mas-agil-y-simple-nueva-version-del-sistema-informatico-para-exportacion-4209a9",
-    "slug": "gestion-mas-agil-y-simple-nueva-version-del-sistema-informatico-para-exportacion",
-    "organismo": "SENASA",
-    "fecha": "2026-10-14",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "SENASA",
-      "exportación"
-    ],
-    "titulo": "Gestión más ágil y simple: Nueva versión del sistema informático para exportación de cítricos",
-    "resumen": "La actualización del SENASA incorpora herramientas de autogestión, mayor capacidad de interoperabilidad y un asistente basado en inteligencia artificial.",
-    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
-    "fuente": {
-      "nombre": "SENASA Comunica",
-      "url": "https://www.argentina.gob.ar/noticias/gestion-mas-agil-y-simple-nueva-version-del-sistema-informatico-para-exportacion-de"
-    },
-    "publicadoEn": "2026-10-15T14:36:24.748Z",
-    "actualizadoEn": "2026-10-16T14:27:42.789Z"
-  },
-  {
-    "id": "2026-10-16-la-republica-argentina-afianza-la-exportacion-de-pacu-chaqueno-hacia-los-estados-c02478",
-    "slug": "la-republica-argentina-afianza-la-exportacion-de-pacu-chaqueno-hacia-los-estados",
-    "organismo": "SENASA",
-    "fecha": "2026-10-14",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "SENASA",
-      "exportación"
-    ],
-    "titulo": "La República Argentina afianza la exportación de pacú chaqueño hacia los Estados Unidos",
-    "resumen": "El SENASA certificó la sanidad e inocuidad de un envío de más de 8,6 toneladas de pescado elaborado en una planta habilitada en la localidad de Puerto Las Palmas.",
-    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
-    "fuente": {
-      "nombre": "SENASA Comunica",
-      "url": "https://www.argentina.gob.ar/noticias/la-republica-argentina-afianza-la-exportacion-de-pacu-chaqueno-hacia-los-estados-unidos"
-    },
-    "publicadoEn": "2026-10-15T14:36:30.046Z",
     "actualizadoEn": "2026-10-16T14:27:42.789Z"
   }
 ]
