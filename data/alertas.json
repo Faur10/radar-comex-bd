@@ -1,31 +1,53 @@
 [
   {
-    "id": "2026-10-29-actualizacion-del-tipo-de-cambio-oficial-del-mulc-al-28-de-octubre-de-2026-8a4c9e",
-    "slug": "actualizacion-del-tipo-de-cambio-oficial-del-mulc-al-28-de-octubre-de-2026",
+    "id": "2026-10-30-actualizacion-del-tipo-de-cambio-oficial-del-bcra-al-29102026-89bfdf",
+    "slug": "actualizacion-del-tipo-de-cambio-oficial-del-bcra-al-29102026",
     "organismo": "BCRA",
-    "fecha": "2026-10-29",
+    "fecha": "2026-10-30",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
       "tipo de cambio",
       "divisas",
-      "BCRA",
-      "cierre de operaciones"
+      "liquidación",
+      "comercio exterior"
     ],
-    "titulo": "Actualización del tipo de cambio oficial del MULC al 28 de octubre de 2026",
-    "resumen": "Se establece el tipo de cambio oficial de referencia para el Mercado Único y Libre de Cambios en 1085,26 pesos por dólar estadounidense. Este valor rige para las operaciones de comercio exterior liquidadas en la fecha indicada.",
-    "queSignifica": "Los operadores deben verificar este valor al momento de realizar pagos o cobros de operaciones cambiarias vinculadas a despachos. Se recomienda consultar con su entidad financiera para confirmar la aplicación efectiva en sus transacciones programadas.",
+    "titulo": "Actualización del tipo de cambio oficial del BCRA al 29/10/2026",
+    "resumen": "El BCRA establece el valor oficial del dólar estadounidense para las operaciones en el Mercado Único y Libre de Cambios (MULC).",
+    "queSignifica": "Utilice esta cotización para el cálculo de costos de nacionalización y liquidación de divisas. Se recomienda verificar la aplicación de este tipo de cambio en sus liquidaciones de operaciones pendientes y proyecciones de flujo de caja.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-10-29T16:34:15.139Z"
+    "actualizadoEn": "2026-10-30T16:25:40.018Z"
   },
   {
-    "id": "2026-10-29-aniversario-institucional-de-la-filial-cordoba-del-cda-6e4a6d",
-    "slug": "aniversario-institucional-de-la-filial-cordoba-del-cda",
+    "id": "2026-10-30-comunicado-institucional-fallecimiento-del-socio-vitalicio-abel-victor-ares-51419d",
+    "slug": "comunicado-institucional-fallecimiento-del-socio-vitalicio-abel-victor-ares",
+    "organismo": "Aduana",
+    "fecha": "2026-10-30",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "institucional",
+      "cda",
+      "novedades"
+    ],
+    "titulo": "Comunicado institucional: Fallecimiento del socio vitalicio Abel Victor Ares",
+    "resumen": "El Centro Despachantes de Aduana informa el fallecimiento de uno de sus socios vitalicios.",
+    "queSignifica": "Se trata de una comunicación de carácter institucional sin impacto operativo ni técnico en la gestión aduanera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42840"
+    },
+    "publicadoEn": "2026-10-30T16:24:52.796Z",
+    "actualizadoEn": "2026-10-30T16:25:40.018Z"
+  },
+  {
+    "id": "2026-10-30-aniversario-de-la-filial-cordoba-del-cda-11754a",
+    "slug": "aniversario-de-la-filial-cordoba-del-cda",
     "organismo": "Aduana",
     "fecha": "2026-10-29",
     "impacto": "bajo",
@@ -34,22 +56,22 @@
       "institucional",
       "CDA",
       "comercio exterior",
-      "gremial",
-      "aduanas"
+      "despachantes de aduana",
+      "filial cordoba"
     ],
-    "titulo": "Aniversario institucional de la Filial Córdoba del CDA",
-    "resumen": "El Centro Despachantes de Aduana conmemora el 40° aniversario de su filial en la provincia de Córdoba.",
-    "queSignifica": "Esta información es de carácter institucional y no genera cambios operativos ni normativos en los trámites de comercio exterior. Se sugiere al operador continuar con sus actividades habituales sin necesidad de ajustes.",
+    "titulo": "Aniversario de la Filial Córdoba del CDA",
+    "resumen": "Comunicado institucional conmemorativo por el 40° aniversario de la filial Córdoba del CDA.",
+    "queSignifica": "Esta información es de carácter institucional y no requiere ninguna acción operativa por parte de los importadores o exportadores.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42833"
     },
     "publicadoEn": "2026-10-29T16:32:56.385Z",
-    "actualizadoEn": "2026-10-29T16:34:15.139Z"
+    "actualizadoEn": "2026-10-30T16:25:40.018Z"
   },
   {
-    "id": "2026-10-29-preinscripcion-online-para-la-asamblea-general-ordinaria-del-cda-5fb01b",
-    "slug": "preinscripcion-online-para-la-asamblea-general-ordinaria-del-cda",
+    "id": "2026-10-30-apertura-de-preinscripcion-online-para-la-asamblea-general-ordinaria-del-cda-835783",
+    "slug": "apertura-de-preinscripcion-online-para-la-asamblea-general-ordinaria-del-cda",
     "organismo": "Aduana",
     "fecha": "2026-10-29",
     "impacto": "bajo",
@@ -57,58 +79,66 @@
     "tags": [
       "CDA",
       "Asamblea",
-      "Gremial",
-      "Despachantes",
-      "Institucional"
+      "Gestión Institucional",
+      "Comercio Exterior"
     ],
-    "titulo": "Preinscripción online para la Asamblea General Ordinaria del CDA",
-    "resumen": "El CDA ha habilitado el sistema de preinscripción digital para su próxima Asamblea General Ordinaria.",
-    "queSignifica": "Esta novedad es puramente institucional y no afecta la operatoria aduanera. Se sugiere a los asociados revisar el cronograma en el portal del CDA si desean participar del acto administrativo.",
+    "titulo": "Apertura de preinscripción online para la Asamblea General Ordinaria del CDA",
+    "resumen": "El CDA ha habilitado el proceso de preinscripción digital para su Asamblea General Ordinaria.",
+    "queSignifica": "Esta comunicación es de carácter institucional y no afecta la operativa aduanera. Se sugiere verificar el cronograma de la asamblea si es socio de la entidad.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42836"
     },
     "publicadoEn": "2026-10-28T16:24:18.917Z",
-    "actualizadoEn": "2026-10-29T16:34:15.139Z"
+    "actualizadoEn": "2026-10-30T16:25:40.018Z"
   },
   {
-    "id": "2026-10-29-flexibilizacion-al-regimen-de-exportacion-de-minerales-y-927073",
-    "slug": "flexibilizacion-al-regimen-de-exportacion-de-minerales-y",
-    "organismo": "CDA",
+    "id": "2026-10-30-flexibilizacion-en-el-regimen-de-exportacion-de-minerales-4e7b11",
+    "slug": "flexibilizacion-en-el-regimen-de-exportacion-de-minerales",
+    "organismo": "ARCA",
     "fecha": "2026-10-29",
     "impacto": "medio",
-    "categoria": "normativa",
+    "categoria": "exportacion",
     "tags": [
-      "ARCA",
-      "exportación"
+      "minería",
+      "exportación",
+      "RG 59",
+      "despacho",
+      "ARCA"
     ],
-    "titulo": "Flexibilización al Régimen de Exportación de minerales y",
-    "resumen": "En el día de la fecha, miércoles 28 de octubre, la Agencia de Recaudación y Control Aduanero (ARCA) publica la Resolución General N° 59...",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
+    "titulo": "Flexibilización en el régimen de exportación de minerales",
+    "resumen": "La RG 59 de ARCA establece nuevas facilidades y condiciones operativas para las operaciones de exportación en el sector minero. La medida busca simplificar los procesos de control y despacho aduanero para este segmento.",
+    "queSignifica": "Debe revisar la letra técnica de la Resolución General 59 en el Boletín Oficial para determinar si su posición arancelaria y tipo de mineral resultan alcanzados. Se recomienda verificar con su despachante la aplicabilidad de estas flexibilizaciones en las próximas destinaciones de exportación.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42837"
     },
     "publicadoEn": "2026-10-28T16:24:26.314Z",
-    "actualizadoEn": "2026-10-29T16:34:15.139Z"
+    "actualizadoEn": "2026-10-30T16:25:40.018Z"
   },
   {
-    "id": "2026-10-29-en-6-dias-el-comercio-exterior-nacional-se-reune-en-mdq-f3c02a",
-    "slug": "en-6-dias-el-comercio-exterior-nacional-se-reune-en-mdq",
-    "organismo": "CDA",
+    "id": "2026-10-30-xi-encuentro-nacional-de-despachantes-de-aduana-en-mar-del-plata-fb592c",
+    "slug": "xi-encuentro-nacional-de-despachantes-de-aduana-en-mar-del-plata",
+    "organismo": "Aduana",
     "fecha": "2026-10-29",
     "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [],
-    "titulo": "En 6 días el Comercio Exterior Nacional se reúne en MDQ!",
-    "resumen": "El Centro Despachantes de Aduana (CDA) invita a sus socios a participar del XI Encuentro Nacional de Despachantes de Aduana y VII Encuentro ...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "categoria": "normativa",
+    "tags": [
+      "CDA",
+      "capacitación",
+      "encuentro gremial",
+      "comercio exterior",
+      "despachantes de aduana"
+    ],
+    "titulo": "XI Encuentro Nacional de Despachantes de Aduana en Mar del Plata",
+    "resumen": "El CDA organiza una jornada técnica y gremial para socios en la ciudad de Mar del Plata. El evento se centra en el intercambio profesional y el debate sobre la actualidad del sector.",
+    "queSignifica": "Esta es una instancia informativa sin impacto operativo en las destinaciones. Se sugiere revisar la agenda del evento por si se trataran temas de relevancia profesional para la práctica diaria.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42791"
     },
     "publicadoEn": "2026-09-30T16:12:09.264Z",
-    "actualizadoEn": "2026-10-29T16:34:15.139Z"
+    "actualizadoEn": "2026-10-30T16:25:40.018Z"
   },
   {
     "id": "2026-10-29-informacion-sobre-el-xi-encuentro-nacional-de-despachantes-de-aduana-22c37d",
@@ -533,23 +563,5 @@
     },
     "publicadoEn": "2026-10-16T14:27:28.582Z",
     "actualizadoEn": "2026-10-19T16:44:39.240Z"
-  },
-  {
-    "id": "2026-10-16-hoy-invitacion-hanseatica-webinar-averia-gruesa-el-r-f45602",
-    "slug": "hoy-invitacion-hanseatica-webinar-averia-gruesa-el-r",
-    "organismo": "CDA",
-    "fecha": "2026-10-15",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [],
-    "titulo": "#HOY Invitación Hanseática - WEBINAR: Avería gruesa: el r",
-    "resumen": "¿Sabías que tu mercadería puede quedar retenida en puerto tras una emergencia marítima, incluso si llegó en perfectas condiciones? ...",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42803"
-    },
-    "publicadoEn": "2026-10-02T16:05:40.128Z",
-    "actualizadoEn": "2026-10-16T14:27:42.789Z"
   }
 ]
