@@ -1,49 +1,143 @@
 [
   {
-    "id": "2026-10-30-actualizacion-del-tipo-de-cambio-oficial-del-bcra-al-29102026-89bfdf",
-    "slug": "actualizacion-del-tipo-de-cambio-oficial-del-bcra-al-29102026",
+    "id": "2026-11-02-actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc-341187",
+    "slug": "actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc",
     "organismo": "BCRA",
-    "fecha": "2026-10-30",
+    "fecha": "2026-11-02",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
       "tipo de cambio",
       "divisas",
-      "liquidación",
-      "comercio exterior"
+      "BCRA",
+      "operaciones cambiarias"
     ],
-    "titulo": "Actualización del tipo de cambio oficial del BCRA al 29/10/2026",
-    "resumen": "El BCRA establece el valor oficial del dólar estadounidense para las operaciones en el Mercado Único y Libre de Cambios (MULC).",
-    "queSignifica": "Utilice esta cotización para el cálculo de costos de nacionalización y liquidación de divisas. Se recomienda verificar la aplicación de este tipo de cambio en sus liquidaciones de operaciones pendientes y proyecciones de flujo de caja.",
+    "titulo": "Actualización de la cotización oficial del dólar en el MULC",
+    "resumen": "El BCRA establece el valor oficial del dólar estadounidense para las operaciones del Mercado Único y Libre de Cambios con fecha 2026-11-02.",
+    "queSignifica": "El operador debe verificar este valor para realizar los cálculos de costos en pesos y la liquidación de divisas de sus operaciones. Se sugiere contrastar este tipo de cambio con los registros contables y bancarios actuales para asegurar la correcta valuación de las liquidaciones de comercio exterior.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-10-30T16:25:40.018Z"
+    "actualizadoEn": "2026-11-02T19:57:02.443Z"
   },
   {
-    "id": "2026-10-30-comunicado-institucional-fallecimiento-del-socio-vitalicio-abel-victor-ares-51419d",
-    "slug": "comunicado-institucional-fallecimiento-del-socio-vitalicio-abel-victor-ares",
+    "id": "2026-11-02-cronograma-operativo-de-terminales-portuarias-por-feriados-1f2504",
+    "slug": "cronograma-operativo-de-terminales-portuarias-por-feriados",
+    "organismo": "Aduana",
+    "fecha": "2026-11-02",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "logistica",
+      "terminales portuarias",
+      "operativa aduanera",
+      "cronogramas",
+      "feriados"
+    ],
+    "titulo": "Cronograma operativo de terminales portuarias por feriados",
+    "resumen": "El CDA informa los horarios y modalidades de atención de las terminales portuarias durante los feriados relacionados con la visita del Papa.",
+    "queSignifica": "Se sugiere verificar con su terminal específica la disponibilidad de turnos y servicios, ya que podrían verse alterados los tiempos habituales de despacho y retiro de cargas.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42843"
+    },
+    "publicadoEn": "2026-11-02T19:56:29.889Z",
+    "actualizadoEn": "2026-11-02T19:57:02.443Z"
+  },
+  {
+    "id": "2026-11-02-nueva-modalidad-para-la-asignacion-de-cupos-de-importacion-b25687",
+    "slug": "nueva-modalidad-para-la-asignacion-de-cupos-de-importacion",
+    "organismo": "Secretaría de Industria, Comercio y de la Pequeña y Mediana Empresa",
+    "fecha": "2026-11-02",
+    "impacto": "medio",
+    "categoria": "importacion",
+    "tags": [
+      "cupos",
+      "importación",
+      "SIMI",
+      "SIRA",
+      "comercio exterior"
+    ],
+    "titulo": "Nueva modalidad para la asignación de cupos de importación",
+    "resumen": "Se establece un nuevo procedimiento para la gestión y asignación de cupos destinados a las operaciones de importación.",
+    "queSignifica": "Se sugiere verificar la nueva normativa para ajustar las solicitudes de cupos a los procedimientos vigentes y asegurar el cumplimiento de los nuevos requisitos operativos.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42842"
+    },
+    "publicadoEn": "2026-11-02T19:56:37.995Z",
+    "actualizadoEn": "2026-11-02T19:57:02.443Z"
+  },
+  {
+    "id": "2026-11-02-xi-encuentro-nacional-de-despachantes-de-aduana-en-mar-del-plata-6a6fc6",
+    "slug": "xi-encuentro-nacional-de-despachantes-de-aduana-en-mar-del-plata",
+    "organismo": "Aduana",
+    "fecha": "2026-11-02",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "CDA",
+      "Comercio Exterior",
+      "Capacitación",
+      "Gestión Aduanera",
+      "Eventos Sectoriales"
+    ],
+    "titulo": "XI Encuentro Nacional de Despachantes de Aduana en Mar del Plata",
+    "resumen": "El Centro Despachantes de Aduana convoca a sus asociados a participar de jornadas técnicas y de actualización profesional. El evento tiene carácter institucional y no implica modificaciones en la normativa aduanera vigente.",
+    "queSignifica": "Es un evento informativo y de networking profesional sin impacto operativo inmediato. Se sugiere revisar la agenda del encuentro para identificar posibles temas de interés técnico que puedan ser objeto de debate gremial.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42791"
+    },
+    "publicadoEn": "2026-09-30T16:12:09.264Z",
+    "actualizadoEn": "2026-11-02T19:57:02.443Z"
+  },
+  {
+    "id": "2026-11-02-nuevo-servicio-de-asesoria-juridica-en-derecho-civil-y-comercial-del-cda-bb30b8",
+    "slug": "nuevo-servicio-de-asesoria-juridica-en-derecho-civil-y-comercial-del-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-10-30",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "CDA",
+      "asesoría legal",
+      "derecho comercial",
+      "servicios institucionales"
+    ],
+    "titulo": "Nuevo servicio de asesoría jurídica en derecho civil y comercial del CDA",
+    "resumen": "El CDA incorporó una nueva área de asistencia legal para brindar asesoramiento sobre temas de derecho civil y comercial a sus asociados.",
+    "queSignifica": "Se sugiere a los despachantes consultar este servicio institucional si requieren soporte jurídico para cuestiones legales derivadas de su actividad. Se recomienda evaluar la pertinencia de esta asesoría según la complejidad de cada caso particular.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42816"
+    },
+    "publicadoEn": "2026-11-02T19:56:48.281Z",
+    "actualizadoEn": "2026-11-02T19:57:02.443Z"
+  },
+  {
+    "id": "2026-11-02-notificacion-de-fallecimiento-del-socio-vitalicio-abel-victor-ares-ce193a",
+    "slug": "notificacion-de-fallecimiento-del-socio-vitalicio-abel-victor-ares",
     "organismo": "Aduana",
     "fecha": "2026-10-30",
     "impacto": "bajo",
     "categoria": "normativa",
     "tags": [
       "institucional",
-      "cda",
-      "novedades"
+      "gremial"
     ],
-    "titulo": "Comunicado institucional: Fallecimiento del socio vitalicio Abel Victor Ares",
-    "resumen": "El Centro Despachantes de Aduana informa el fallecimiento de uno de sus socios vitalicios.",
-    "queSignifica": "Se trata de una comunicación de carácter institucional sin impacto operativo ni técnico en la gestión aduanera.",
+    "titulo": "Notificación de fallecimiento del socio vitalicio Abel Victor Ares",
+    "resumen": "El Centro Despachantes de Aduana comunica formalmente el fallecimiento del socio vitalicio Abel Victor Ares.",
+    "queSignifica": "Es un aviso de carácter institucional sin impacto operativo ni técnico en la gestión aduanera de las empresas.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42840"
     },
     "publicadoEn": "2026-10-30T16:24:52.796Z",
-    "actualizadoEn": "2026-10-30T16:25:40.018Z"
+    "actualizadoEn": "2026-11-02T19:57:02.443Z"
   },
   {
     "id": "2026-10-30-aniversario-de-la-filial-cordoba-del-cda-11754a",
@@ -114,30 +208,6 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42837"
     },
     "publicadoEn": "2026-10-28T16:24:26.314Z",
-    "actualizadoEn": "2026-10-30T16:25:40.018Z"
-  },
-  {
-    "id": "2026-10-30-xi-encuentro-nacional-de-despachantes-de-aduana-en-mar-del-plata-fb592c",
-    "slug": "xi-encuentro-nacional-de-despachantes-de-aduana-en-mar-del-plata",
-    "organismo": "Aduana",
-    "fecha": "2026-10-29",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "CDA",
-      "capacitación",
-      "encuentro gremial",
-      "comercio exterior",
-      "despachantes de aduana"
-    ],
-    "titulo": "XI Encuentro Nacional de Despachantes de Aduana en Mar del Plata",
-    "resumen": "El CDA organiza una jornada técnica y gremial para socios en la ciudad de Mar del Plata. El evento se centra en el intercambio profesional y el debate sobre la actualidad del sector.",
-    "queSignifica": "Esta es una instancia informativa sin impacto operativo en las destinaciones. Se sugiere revisar la agenda del evento por si se trataran temas de relevancia profesional para la práctica diaria.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42791"
-    },
-    "publicadoEn": "2026-09-30T16:12:09.264Z",
     "actualizadoEn": "2026-10-30T16:25:40.018Z"
   },
   {
@@ -483,85 +553,5 @@
     },
     "publicadoEn": "2026-10-05T19:00:10.175Z",
     "actualizadoEn": "2026-10-22T14:49:59.496Z"
-  },
-  {
-    "id": "2026-10-19-encuentro-nacional-de-mar-del-plata-el-trabajo-conjunto-lo-50a091",
-    "slug": "encuentro-nacional-de-mar-del-plata-el-trabajo-conjunto-lo",
-    "organismo": "CDA",
-    "fecha": "2026-10-16",
-    "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [],
-    "titulo": "Encuentro Nacional de Mar del Plata - El trabajo conjunto lo",
-    "resumen": "El Centro Despachantes de Aduana (CDA) informa que el XI Encuentro Nacional de Despachantes de Aduana y el VII Encuentro Nacional de Agentes...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42822"
-    },
-    "publicadoEn": "2026-10-19T16:44:22.241Z",
-    "actualizadoEn": "2026-10-19T16:44:39.240Z"
-  },
-  {
-    "id": "2026-10-19-senasa-nuevos-requisitos-para-el-control-fitosanitario-de-e-5cfdf8",
-    "slug": "senasa-nuevos-requisitos-para-el-control-fitosanitario-de-e",
-    "organismo": "CDA",
-    "fecha": "2026-10-16",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "SENASA",
-      "fitosanitario"
-    ],
-    "titulo": "SENASA: Nuevos requisitos para el control fitosanitario de e",
-    "resumen": "Por medio de la Resolución N° 873/2026 el Servicio Nacional de Sanidad y Calidad Agroalimentaria (SENASA) aprobó un nuevo marco regulator...",
-    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42823"
-    },
-    "publicadoEn": "2026-10-19T16:44:26.480Z",
-    "actualizadoEn": "2026-10-19T16:44:39.240Z"
-  },
-  {
-    "id": "2026-10-19-se-fiscalizo-la-sanidad-de-1138-animales-durante-las-exposiciones-rurales-de-pri-65f2fb",
-    "slug": "se-fiscalizo-la-sanidad-de-1138-animales-durante-las-exposiciones-rurales-de-pri",
-    "organismo": "SENASA",
-    "fecha": "2026-10-16",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "SENASA",
-      "zoosanitario"
-    ],
-    "titulo": "Se fiscalizó la sanidad de 1.138 animales durante las exposiciones rurales de primavera en Río Negro",
-    "resumen": "El SENASA realizó los controles zoosanitarios de todos los animales que participaron de los eventos que conformaron el circuito 2026.",
-    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
-    "fuente": {
-      "nombre": "SENASA Comunica",
-      "url": "https://www.argentina.gob.ar/noticias/se-fiscalizo-la-sanidad-de-1138-animales-durante-las-exposiciones-rurales-de-primavera-en"
-    },
-    "publicadoEn": "2026-10-16T14:27:14.517Z",
-    "actualizadoEn": "2026-10-19T16:44:39.240Z"
-  },
-  {
-    "id": "2026-10-19-anmat-prohibe-un-cabezal-laser-de-la-marca-alma-lasers-51afbc",
-    "slug": "anmat-prohibe-un-cabezal-laser-de-la-marca-alma-lasers",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-10-16",
-    "impacto": "alto",
-    "categoria": "logistica",
-    "tags": [
-      "ANMAT"
-    ],
-    "titulo": "ANMAT prohíbe un cabezal láser de la marca ALMA LASERS",
-    "resumen": "ANMAT prohíbe un cabezal láser de la marca ALMA LASERS",
-    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-un-cabezal-laser-de-la-marca-alma-lasers"
-    },
-    "publicadoEn": "2026-10-16T14:27:28.582Z",
-    "actualizadoEn": "2026-10-19T16:44:39.240Z"
   }
 ]
