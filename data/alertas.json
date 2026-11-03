@@ -1,54 +1,77 @@
 [
   {
-    "id": "2026-11-02-actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc-341187",
-    "slug": "actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc",
+    "id": "2026-11-03-actualizacion-diaria-del-tipo-de-cambio-oficial-de-referencia-del-bcra-b04b18",
+    "slug": "actualizacion-diaria-del-tipo-de-cambio-oficial-de-referencia-del-bcra",
     "organismo": "BCRA",
-    "fecha": "2026-11-02",
+    "fecha": "2026-11-03",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
       "tipo de cambio",
       "divisas",
-      "BCRA",
-      "operaciones cambiarias"
+      "pagos al exterior",
+      "cobros de exportaciones"
     ],
-    "titulo": "Actualización de la cotización oficial del dólar en el MULC",
-    "resumen": "El BCRA establece el valor oficial del dólar estadounidense para las operaciones del Mercado Único y Libre de Cambios con fecha 2026-11-02.",
-    "queSignifica": "El operador debe verificar este valor para realizar los cálculos de costos en pesos y la liquidación de divisas de sus operaciones. Se sugiere contrastar este tipo de cambio con los registros contables y bancarios actuales para asegurar la correcta valuación de las liquidaciones de comercio exterior.",
+    "titulo": "Actualización diaria del tipo de cambio oficial de referencia del BCRA",
+    "resumen": "El Banco Central informó el valor del tipo de cambio oficial en el Mercado Único y Libre de Cambios para la fecha indicada.",
+    "queSignifica": "Los operadores deben utilizar este valor como referencia para la valuación de sus operaciones cambiarias. Se sugiere verificar el tipo de cambio aplicado por su entidad bancaria para la liquidación de cobros o pago de importaciones.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-11-02T19:57:02.443Z"
+    "actualizadoEn": "2026-11-03T17:30:16.900Z"
   },
   {
-    "id": "2026-11-02-cronograma-operativo-de-terminales-portuarias-por-feriados-1f2504",
-    "slug": "cronograma-operativo-de-terminales-portuarias-por-feriados",
+    "id": "2026-11-03-cronograma-operativo-de-terminales-portuarias-ante-feriados-por-visita-del-papa-00ffef",
+    "slug": "cronograma-operativo-de-terminales-portuarias-ante-feriados-por-visita-del-papa",
     "organismo": "Aduana",
-    "fecha": "2026-11-02",
+    "fecha": "2026-11-03",
     "impacto": "bajo",
     "categoria": "logistica",
     "tags": [
-      "logistica",
+      "cronograma",
       "terminales portuarias",
-      "operativa aduanera",
-      "cronogramas",
-      "feriados"
+      "feriados",
+      "operativa aduanera"
     ],
-    "titulo": "Cronograma operativo de terminales portuarias por feriados",
-    "resumen": "El CDA informa los horarios y modalidades de atención de las terminales portuarias durante los feriados relacionados con la visita del Papa.",
-    "queSignifica": "Se sugiere verificar con su terminal específica la disponibilidad de turnos y servicios, ya que podrían verse alterados los tiempos habituales de despacho y retiro de cargas.",
+    "titulo": "Cronograma operativo de terminales portuarias ante feriados por visita del Papa",
+    "resumen": "Se informa el esquema de trabajo y disponibilidad de las terminales portuarias durante los días de feriado declarados por la visita del Papa.",
+    "queSignifica": "Se recomienda verificar los horarios de atención y guardias en las terminales intervinientes para coordinar turnos de retiro o ingreso de carga, evitando posibles demoras operativas.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42843"
     },
     "publicadoEn": "2026-11-02T19:56:29.889Z",
-    "actualizadoEn": "2026-11-02T19:57:02.443Z"
+    "actualizadoEn": "2026-11-03T17:30:16.900Z"
   },
   {
-    "id": "2026-11-02-nueva-modalidad-para-la-asignacion-de-cupos-de-importacion-b25687",
+    "id": "2026-11-03-encuentro-nacional-de-despachantes-de-aduana-en-mar-del-plata-085880",
+    "slug": "encuentro-nacional-de-despachantes-de-aduana-en-mar-del-plata",
+    "organismo": "Aduana",
+    "fecha": "2026-11-03",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "CDA",
+      "Comercio Exterior",
+      "Capacitación",
+      "Despachante de Aduana",
+      "Encuentro Profesional"
+    ],
+    "titulo": "Encuentro Nacional de Despachantes de Aduana en Mar del Plata",
+    "resumen": "El Centro Despachantes de Aduana convoca a sus socios a los encuentros nacionales anuales en la ciudad de Mar del Plata. Se trata de un evento de carácter institucional y profesional para el gremio.",
+    "queSignifica": "Es una noticia de carácter informativo sobre actividades gremiales. Se recomienda verificar si el evento incluye instancias de capacitación técnica relevante para la operatoria habitual.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42791"
+    },
+    "publicadoEn": "2026-09-30T16:12:09.264Z",
+    "actualizadoEn": "2026-11-03T17:30:16.900Z"
+  },
+  {
+    "id": "2026-11-03-nueva-modalidad-para-la-asignacion-de-cupos-de-importacion-9bb12f",
     "slug": "nueva-modalidad-para-la-asignacion-de-cupos-de-importacion",
     "organismo": "Secretaría de Industria, Comercio y de la Pequeña y Mediana Empresa",
     "fecha": "2026-11-02",
@@ -56,44 +79,44 @@
     "categoria": "importacion",
     "tags": [
       "cupos",
-      "importación",
-      "SIMI",
-      "SIRA",
-      "comercio exterior"
+      "importaciones",
+      "licencias",
+      "comercio exterior",
+      "regulaciones"
     ],
     "titulo": "Nueva modalidad para la asignación de cupos de importación",
-    "resumen": "Se establece un nuevo procedimiento para la gestión y asignación de cupos destinados a las operaciones de importación.",
-    "queSignifica": "Se sugiere verificar la nueva normativa para ajustar las solicitudes de cupos a los procedimientos vigentes y asegurar el cumplimiento de los nuevos requisitos operativos.",
+    "resumen": "Se establece un nuevo mecanismo administrativo para la gestión y asignación de cupos destinados a operaciones de importación. La medida busca centralizar y definir los criterios bajo los cuales la autoridad competente habilitará los cupos operativos.",
+    "queSignifica": "Es recomendable revisar la normativa publicada para verificar si su posición arancelaria está sujeta a cupos y auditar si su empresa cumple con los nuevos criterios de asignación. Se sugiere consultar con su despachante sobre la necesidad de presentar documentación adicional ante el organismo.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42842"
     },
     "publicadoEn": "2026-11-02T19:56:37.995Z",
-    "actualizadoEn": "2026-11-02T19:57:02.443Z"
+    "actualizadoEn": "2026-11-03T17:30:16.900Z"
   },
   {
-    "id": "2026-11-02-xi-encuentro-nacional-de-despachantes-de-aduana-en-mar-del-plata-6a6fc6",
-    "slug": "xi-encuentro-nacional-de-despachantes-de-aduana-en-mar-del-plata",
-    "organismo": "Aduana",
+    "id": "2026-11-03-retiro-del-mercado-de-lote-especifico-del-medicamento-neocalmans-b382b1",
+    "slug": "retiro-del-mercado-de-lote-especifico-del-medicamento-neocalmans",
+    "organismo": "ANMAT / INAL",
     "fecha": "2026-11-02",
-    "impacto": "bajo",
-    "categoria": "normativa",
+    "impacto": "alto",
+    "categoria": "importacion",
     "tags": [
-      "CDA",
-      "Comercio Exterior",
-      "Capacitación",
-      "Gestión Aduanera",
-      "Eventos Sectoriales"
+      "ANMAT",
+      "RETIRO DE MERCADO",
+      "CONTROL SANITARIO",
+      "PRODUCTO FARMACEUTICO",
+      "SIM"
     ],
-    "titulo": "XI Encuentro Nacional de Despachantes de Aduana en Mar del Plata",
-    "resumen": "El Centro Despachantes de Aduana convoca a sus asociados a participar de jornadas técnicas y de actualización profesional. El evento tiene carácter institucional y no implica modificaciones en la normativa aduanera vigente.",
-    "queSignifica": "Es un evento informativo y de networking profesional sin impacto operativo inmediato. Se sugiere revisar la agenda del encuentro para identificar posibles temas de interés técnico que puedan ser objeto de debate gremial.",
+    "titulo": "Retiro del mercado de lote específico del medicamento NEOCALMANS",
+    "resumen": "La ANMAT ha dispuesto el retiro voluntario del mercado de un lote del producto NEOCALMANS por razones de calidad. La medida busca prevenir riesgos para la salud pública derivados de una desviación en el proceso de producción.",
+    "queSignifica": "Verifique si el lote en su poder o bajo gestión aduanera corresponde al afectado por la medida y proceda a su cuarentena inmediata. Se recomienda contactar al responsable sanitario para coordinar la trazabilidad y evitar cualquier despacho o comercialización de las unidades alcanzadas.",
     "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42791"
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/retiro-del-mercado-de-un-lote-de-neocalmans"
     },
-    "publicadoEn": "2026-09-30T16:12:09.264Z",
-    "actualizadoEn": "2026-11-02T19:57:02.443Z"
+    "publicadoEn": "2026-11-03T17:30:09.045Z",
+    "actualizadoEn": "2026-11-03T17:30:16.900Z"
   },
   {
     "id": "2026-11-02-nuevo-servicio-de-asesoria-juridica-en-derecho-civil-y-comercial-del-cda-bb30b8",
@@ -487,71 +510,5 @@
     },
     "publicadoEn": "2026-10-20T14:37:46.732Z",
     "actualizadoEn": "2026-10-23T14:36:22.617Z"
-  },
-  {
-    "id": "2026-10-22-informe-del-indec-sobre-el-intercambio-comercial-argentino-de-septiembre-2026-2ac154",
-    "slug": "informe-del-indec-sobre-el-intercambio-comercial-argentino-de-septiembre-2026",
-    "organismo": "Aduana",
-    "fecha": "2026-10-19",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "estadística",
-      "análisis comercial",
-      "índice de precios",
-      "comercio exterior",
-      "INDEC"
-    ],
-    "titulo": "Informe del INDEC sobre el intercambio comercial argentino de septiembre 2026",
-    "resumen": "El informe detalla el comportamiento del índice de precios y cantidades en la balanza comercial. Es una publicación de carácter informativo sobre la coyuntura del sector externo.",
-    "queSignifica": "Se recomienda analizar los datos estadísticos para ajustar proyecciones de mercado y costos. Es prudente revisar cómo estas variaciones sectoriales pueden incidir en las previsiones de su cadena logística.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42827"
-    },
-    "publicadoEn": "2026-10-20T14:36:19.301Z",
-    "actualizadoEn": "2026-10-22T14:49:59.496Z"
-  },
-  {
-    "id": "2026-10-22-aeropuertos-argentina-cargas-trabajos-de-infraestructura-en-8c3476",
-    "slug": "aeropuertos-argentina-cargas-trabajos-de-infraestructura-en",
-    "organismo": "CDA",
-    "fecha": "2026-10-19",
-    "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [],
-    "titulo": "Aeropuertos Argentina Cargas: trabajos de infraestructura en",
-    "resumen": "El Centro Despachantes de Aduana (CDA) comunica a sus asociados que, según nos informó Aeropuertos Argentina Cargas, desde el 1 de agosto ...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42824"
-    },
-    "publicadoEn": "2026-10-19T16:44:13.674Z",
-    "actualizadoEn": "2026-10-22T14:49:59.496Z"
-  },
-  {
-    "id": "2026-10-22-jornada-de-capacitacion-tecnica-sobre-la-certificacion-oea-7c20e6",
-    "slug": "jornada-de-capacitacion-tecnica-sobre-la-certificacion-oea",
-    "organismo": "Aduana",
-    "fecha": "2026-10-19",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "OEA",
-      "Operador Económico Autorizado",
-      "Aduana",
-      "Certificación",
-      "Capacitación"
-    ],
-    "titulo": "Jornada de capacitación técnica sobre la certificación OEA",
-    "resumen": "El CDA organiza una jornada de capacitación técnica destinada a profundizar sobre el programa de Operador Económico Autorizado (OEA).",
-    "queSignifica": "Se sugiere revisar el programa del evento para evaluar la conveniencia de iniciar o actualizar la certificación OEA, la cual puede facilitar procesos operativos ante la Aduana.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42804"
-    },
-    "publicadoEn": "2026-10-05T19:00:10.175Z",
-    "actualizadoEn": "2026-10-22T14:49:59.496Z"
   }
 ]
