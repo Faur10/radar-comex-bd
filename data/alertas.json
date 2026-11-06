@@ -1,31 +1,102 @@
 [
   {
-    "id": "2026-11-05-referencia-de-tipo-de-cambio-oficial-del-bcra-5c390a",
-    "slug": "referencia-de-tipo-de-cambio-oficial-del-bcra",
+    "id": "2026-11-06-actualizacion-de-la-cotizacion-del-dolar-oficial-en-el-mulc-03f1e9",
+    "slug": "actualizacion-de-la-cotizacion-del-dolar-oficial-en-el-mulc",
     "organismo": "BCRA",
-    "fecha": "2026-11-05",
-    "impacto": "bajo",
+    "fecha": "2026-11-06",
+    "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
       "tipo de cambio",
       "divisas",
-      "BCRA",
-      "liquidación"
+      "operaciones cambiarias",
+      "BCRA"
     ],
-    "titulo": "Referencia de tipo de cambio oficial del BCRA",
-    "resumen": "Se publica el valor diario del tipo de cambio oficial mayorista (MULC) para operaciones de comercio exterior.",
-    "queSignifica": "Utilice este valor de referencia para sus proyecciones financieras y cálculos de costos cambiarios. Se recomienda verificar siempre la cotización vigente al momento del registro de la operación en el sistema bancario.",
+    "titulo": "Actualización de la cotización del dólar oficial en el MULC",
+    "resumen": "Se establece el tipo de cambio oficial del BCRA para operaciones del Mercado Único y Libre de Cambios al día 2026-11-05.",
+    "queSignifica": "El operador debe utilizar este valor como referencia para la liquidación de divisas o pago de importaciones. Se sugiere verificar su aplicación vigente en los sistemas contables y financieros para las operaciones programadas para esta fecha.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-11-05T17:49:01.598Z"
+    "actualizadoEn": "2026-11-06T17:08:38.573Z"
   },
   {
-    "id": "2026-11-05-capacitacion-sobre-la-reforma-integral-del-codigo-aduanero-333965",
-    "slug": "capacitacion-sobre-la-reforma-integral-del-codigo-aduanero",
+    "id": "2026-11-06-cronograma-de-operacion-en-terminales-portuarias-durante-los-feriados-por-la-vis-e2e66a",
+    "slug": "cronograma-de-operacion-en-terminales-portuarias-durante-los-feriados-por-la-vis",
+    "organismo": "Aduana",
+    "fecha": "2026-11-06",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "terminales portuarias",
+      "cronograma operativo",
+      "feriados",
+      "comercio exterior",
+      "aduana"
+    ],
+    "titulo": "Cronograma de operación en terminales portuarias durante los feriados por la visita del Papa",
+    "resumen": "El comunicado detalla los horarios y disponibilidad operativa de las terminales portuarias debido a los feriados por la visita del Papa. Es un informe de carácter organizativo para la gestión de cargas.",
+    "queSignifica": "Se recomienda consultar el cronograma específico de la terminal donde opera su carga para prever posibles demoras. Verifique con su despachante la disponibilidad de turnos para evitar sobrecostos por almacenaje.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42843"
+    },
+    "publicadoEn": "2026-11-02T19:56:29.889Z",
+    "actualizadoEn": "2026-11-06T17:08:38.573Z"
+  },
+  {
+    "id": "2026-11-06-cese-de-actividades-del-cda-por-feriados-del-09-y-10-a23f1c",
+    "slug": "cese-de-actividades-del-cda-por-feriados-del-09-y-10",
+    "organismo": "Aduana",
+    "fecha": "2026-11-06",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "feriados",
+      "despachante",
+      "operativa aduanera",
+      "plazos"
+    ],
+    "titulo": "Cese de actividades del CDA por feriados del 09 y 10",
+    "resumen": "El CDA informa la suspensión de sus actividades administrativas debido a los feriados mencionados. La medida responde a un evento institucional extraordinario.",
+    "queSignifica": "Se recomienda verificar si las oficinas de despacho o terminales portuarias mantendrán guardias mínimas. Se sugiere planificar con antelación las presentaciones documentales para evitar demoras por falta de atención presencial.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42845"
+    },
+    "publicadoEn": "2026-11-05T17:48:20.310Z",
+    "actualizadoEn": "2026-11-06T17:08:38.573Z"
+  },
+  {
+    "id": "2026-11-06-prohibicion-de-comercializacion-y-uso-de-productos-medicos-marca-veritas-fe9d44",
+    "slug": "prohibicion-de-comercializacion-y-uso-de-productos-medicos-marca-veritas",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-11-06",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "productos médicos",
+      "prohibición",
+      "ANMAT",
+      "seguridad sanitaria",
+      "control aduanero"
+    ],
+    "titulo": "Prohibición de comercialización y uso de productos médicos marca VERITAS",
+    "resumen": "La ANMAT prohibió el uso, comercialización y distribución de todos los productos médicos de la marca VERITAS por falta de registros sanitarios vigentes.",
+    "queSignifica": "Verifique si su stock o mercadería en curso cuenta con productos de dicha marca; en caso afirmativo, suspenda su despacho o venta y consulte con su área de asuntos regulatorios para asegurar el cumplimiento.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-distintos-productos-medicos-de-la-marca-veritas"
+    },
+    "publicadoEn": "2026-11-06T17:07:54.851Z",
+    "actualizadoEn": "2026-11-06T17:08:38.573Z"
+  },
+  {
+    "id": "2026-11-06-capacitacion-sobre-reformas-al-codigo-aduanero-8ece37",
+    "slug": "capacitacion-sobre-reformas-al-codigo-aduanero",
     "organismo": "Aduana",
     "fecha": "2026-11-05",
     "impacto": "bajo",
@@ -34,70 +105,94 @@
       "Código Aduanero",
       "Capacitación",
       "Legislación",
-      "Procedimiento Aduanero",
+      "Actualización Normativa",
       "Comercio Exterior"
     ],
-    "titulo": "Capacitación sobre la reforma integral del Código Aduanero",
-    "resumen": "El CDA organiza una charla informativa para analizar los alcances y modificaciones del Código Aduanero argentino.",
-    "queSignifica": "Se sugiere revisar el material de la capacitación para actualizar conocimientos sobre posibles cambios en la normativa vigente. Es recomendable evaluar cómo estas reformas podrían incidir en la operativa aduanera a futuro.",
+    "titulo": "Capacitación sobre reformas al Código Aduanero",
+    "resumen": "El CDA organiza una charla informativa para analizar las recientes modificaciones y actualizaciones realizadas al Código Aduanero Argentino.",
+    "queSignifica": "Se recomienda participar o revisar el material de la jornada para comprender los cambios legales que podrían afectar la operativa aduanera a futuro. Es prudente verificar cómo estas modificaciones impactarán en los procedimientos habituales de despacho.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42841"
     },
     "publicadoEn": "2026-11-05T17:48:05.770Z",
-    "actualizadoEn": "2026-11-05T17:49:01.598Z"
+    "actualizadoEn": "2026-11-06T17:08:38.573Z"
   },
   {
-    "id": "2026-11-05-acuerdo-de-cooperacion-tecnologica-e-industrial-entre-argentina-y-turingia-078c57",
-    "slug": "acuerdo-de-cooperacion-tecnologica-e-industrial-entre-argentina-y-turingia",
+    "id": "2026-11-06-visita-tecnica-a-instalaciones-del-senasa-revision-de-controles-en-comercio-exte-e7dc51",
+    "slug": "visita-tecnica-a-instalaciones-del-senasa-revision-de-controles-en-comercio-exte",
+    "organismo": "SENASA",
+    "fecha": "2026-11-05",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "SENASA",
+      "animales vivos",
+      "material reproductivo",
+      "control sanitario",
+      "certificación"
+    ],
+    "titulo": "Visita técnica a instalaciones del SENASA: revisión de controles en comercio exterior",
+    "resumen": "El SENASA realizó una jornada institucional para difundir sus procedimientos de control sanitario y certificación en la operatoria de animales vivos y material reproductivo.",
+    "queSignifica": "La información es de carácter institucional y no altera los procedimientos vigentes. Se recomienda verificar siempre las exigencias sanitarias específicas para cada mercadería en el sistema SIGPV del SENASA antes de iniciar operaciones.",
+    "fuente": {
+      "nombre": "SENASA Comunica",
+      "url": "https://www.argentina.gob.ar/noticias/alumnos-del-instituto-de-estudios-economicos-de-mendoza-visitaron-el-lazareto"
+    },
+    "publicadoEn": "2026-11-06T17:07:34.352Z",
+    "actualizadoEn": "2026-11-06T17:08:38.573Z"
+  },
+  {
+    "id": "2026-11-06-cooperacion-tecnologica-e-industrial-entre-el-inti-y-el-estado-aleman-de-turingi-a47098",
+    "slug": "cooperacion-tecnologica-e-industrial-entre-el-inti-y-el-estado-aleman-de-turingi",
     "organismo": "INTI",
     "fecha": "2026-11-05",
     "impacto": "bajo",
     "categoria": "normativa",
     "tags": [
-      "cooperación internacional",
       "transferencia tecnológica",
-      "reglamentos técnicos",
-      "INTI",
-      "certificaciones"
+      "bienes de capital",
+      "cooperación industrial",
+      "normas técnicas",
+      "proyectos conjuntos"
     ],
-    "titulo": "Acuerdo de cooperación tecnológica e industrial entre Argentina y Turingia",
-    "resumen": "Representantes de Turingia y el INTI acordaron avanzar en proyectos de transferencia tecnológica y cooperación técnica industrial. La iniciativa busca fortalecer los estándares de calidad y la vinculación productiva bilateral.",
-    "queSignifica": "Es un acercamiento institucional sin cambios operativos inmediatos. Se sugiere monitorear futuras reglamentaciones técnicas o acuerdos de reconocimiento mutuo que podrían facilitar la homologación de productos importados desde Alemania.",
+    "titulo": "Cooperación tecnológica e industrial entre el INTI y el estado alemán de Turingia",
+    "resumen": "Se establece un marco de colaboración para la transferencia tecnológica y el desarrollo de proyectos industriales conjuntos entre Argentina y Alemania. La medida se centra en el intercambio científico y técnico a nivel institucional.",
+    "queSignifica": "Es una noticia de carácter informativo sobre vínculos institucionales. Se sugiere monitorear si estos acuerdos derivan en futuras modificaciones de reglamentos técnicos o normas de certificación obligatorias que deban cumplirse para el ingreso de equipos al país.",
     "fuente": {
       "nombre": "INTI – Noticias",
       "url": "https://www.argentina.gob.ar/noticias/argentina-y-alemania-potencian-su-cooperacion-tecnologica-e-industrial-traves-del-inti"
     },
     "publicadoEn": "2026-11-05T17:48:56.583Z",
-    "actualizadoEn": "2026-11-05T17:49:01.598Z"
+    "actualizadoEn": "2026-11-06T17:08:38.573Z"
   },
   {
-    "id": "2026-11-05-xi-encuentro-nacional-de-despachantes-de-aduana-en-mar-del-plata-2bbe35",
+    "id": "2026-11-06-xi-encuentro-nacional-de-despachantes-de-aduana-en-mar-del-plata-cb3e18",
     "slug": "xi-encuentro-nacional-de-despachantes-de-aduana-en-mar-del-plata",
     "organismo": "Aduana",
     "fecha": "2026-11-04",
     "impacto": "bajo",
     "categoria": "normativa",
     "tags": [
+      "CDA",
       "capacitación",
       "comercio exterior",
-      "despachantes de aduana",
-      "agenda gremial",
-      "actualización profesional"
+      "evento",
+      "aduanas"
     ],
     "titulo": "XI Encuentro Nacional de Despachantes de Aduana en Mar del Plata",
-    "resumen": "El Centro Despachantes de Aduana convoca a sus asociados al XI Encuentro Nacional y VII Encuentro Regional a realizarse en el mes de noviembre.",
-    "queSignifica": "Es una noticia de carácter institucional y formativo. Se sugiere verificar el cronograma del evento en caso de tener interés en participar de las jornadas técnicas y gremiales.",
+    "resumen": "El Centro Despachantes de Aduana convoca a sus socios a un evento de carácter institucional. La actividad se centra en la actualización profesional y el networking del sector.",
+    "queSignifica": "Es una invitación a un evento de capacitación y representación gremial. Se sugiere revisar la agenda del encuentro para evaluar si los temas a tratar impactan en sus operaciones habituales.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42791"
     },
     "publicadoEn": "2026-09-30T16:12:09.264Z",
-    "actualizadoEn": "2026-11-05T17:49:01.598Z"
+    "actualizadoEn": "2026-11-06T17:08:38.573Z"
   },
   {
-    "id": "2026-11-05-prohibicion-de-comercializacion-y-uso-de-productos-medicos-vital-cath-y-dimex-1e9f59",
-    "slug": "prohibicion-de-comercializacion-y-uso-de-productos-medicos-vital-cath-y-dimex",
+    "id": "2026-11-06-prohibicion-de-comercializacion-y-uso-de-productos-medicos-marca-vital-cath-y-di-4c2657",
+    "slug": "prohibicion-de-comercializacion-y-uso-de-productos-medicos-marca-vital-cath-y-di",
     "organismo": "ANMAT / INAL",
     "fecha": "2026-11-04",
     "impacto": "alto",
@@ -105,46 +200,46 @@
     "tags": [
       "productos médicos",
       "ANMAT",
-      "prohibición comercial",
-      "control aduanero",
-      "cumplimiento normativo"
+      "prohibición",
+      "despacho",
+      "fiscalización"
     ],
-    "titulo": "Prohibición de comercialización y uso de productos médicos VITAL-CATH y DIMEX",
-    "resumen": "La ANMAT prohibió el uso y la comercialización de productos médicos específicos de las marcas VITAL-CATH y DIMEX por ser ilegítimos. La medida busca prevenir riesgos sanitarios asociados a insumos sin registro ni trazabilidad.",
-    "queSignifica": "Se recomienda revisar el inventario y las facturas de proveedores para asegurar que no existan unidades de estas marcas en curso de despacho o stock. Es prudente verificar con el departamento de calidad que ningún insumo vinculado a estas marcas sea ingresado al circuito comercial.",
+    "titulo": "Prohibición de comercialización y uso de productos médicos marca VITAL-CATH y DIMEX",
+    "resumen": "La ANMAT prohibió el uso, distribución y comercialización de productos médicos específicos por carecer de registros sanitarios legítimos. La medida alcanza a unidades sin trazabilidad o datos de fabricación verificables.",
+    "queSignifica": "Se recomienda revisar el inventario y la documentación de respaldo de cualquier insumo médico de estas marcas. Se debe verificar la legitimidad de los lotes ante el sistema de ANMAT para evitar retenciones o bloqueos operativos en el canal aduanero.",
     "fuente": {
       "nombre": "ANMAT – Alertas",
       "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-dos-productos-medicos-ilegitimos-de-las-marcas-vital-cath-y-dimex"
     },
     "publicadoEn": "2026-11-05T17:48:41.084Z",
-    "actualizadoEn": "2026-11-05T17:49:01.598Z"
+    "actualizadoEn": "2026-11-06T17:08:38.573Z"
   },
   {
-    "id": "2026-11-05-anmat-habilita-nuevamente-las-actividades-productivas-de-ladece-sa-ce0177",
+    "id": "2026-11-06-anmat-habilita-nuevamente-las-actividades-productivas-de-ladece-sa-5ca6cd",
     "slug": "anmat-habilita-nuevamente-las-actividades-productivas-de-ladece-sa",
     "organismo": "ANMAT / INAL",
     "fecha": "2026-11-04",
-    "impacto": "medio",
+    "impacto": "bajo",
     "categoria": "logistica",
     "tags": [
       "ANMAT",
       "Habilitación",
-      "Comercio Exterior",
-      "LADECE",
-      "Cumplimiento"
+      "Producción",
+      "Compliance",
+      "Comercio Exterior"
     ],
     "titulo": "ANMAT habilita nuevamente las actividades productivas de LADECE S.A.",
-    "resumen": "La autoridad sanitaria ha levantado la medida de inhibición que pesaba sobre las actividades productivas de la empresa LADECE S.A. Esta resolución normaliza el estatus operativo de la firma ante el organismo.",
-    "queSignifica": "Si opera con esta firma, verifique su estado de habilitación vigente en el sistema VUCE/ADUA antes de avanzar con nuevos despachos. Se sugiere contactar a su contraparte para confirmar si existen restricciones remanentes o trámites pendientes en el sistema informático.",
+    "resumen": "La autoridad regulatoria ha dejado sin efecto la medida de inhibición que pesaba sobre la planta productiva de la firma LADECE S.A. Esta resolución restablece la capacidad operativa y comercial de la compañía bajo la jurisdicción del organismo.",
+    "queSignifica": "Se sugiere verificar en el sistema VUCE o ante el departamento de asuntos regulatorios si el estado de los registros de la firma ha sido actualizado. Se recomienda consultar con su despachante la vigencia de los certificados de importación o exportación vinculados a esta empresa antes de cursar nuevas operaciones.",
     "fuente": {
       "nombre": "ANMAT – Alertas",
       "url": "https://www.argentina.gob.ar/noticias/anmat-levanto-la-inhibicion-de-las-actividades-productivas-de-la-firma-ladece-sa"
     },
     "publicadoEn": "2026-11-05T17:48:46.210Z",
-    "actualizadoEn": "2026-11-05T17:49:01.598Z"
+    "actualizadoEn": "2026-11-06T17:08:38.573Z"
   },
   {
-    "id": "2026-11-05-informe-del-indec-sobre-el-intercambio-comercial-del-tercer-trimestre-5b82e6",
+    "id": "2026-11-06-informe-del-indec-sobre-el-intercambio-comercial-del-tercer-trimestre-303d0a",
     "slug": "informe-del-indec-sobre-el-intercambio-comercial-del-tercer-trimestre",
     "organismo": "Aduana",
     "fecha": "2026-11-03",
@@ -154,69 +249,21 @@
       "INDEC",
       "Estadística",
       "Comercio Exterior",
-      "Precios",
-      "Cantidades"
+      "Análisis técnico",
+      "Indicadores"
     ],
-    "titulo": "Informe del INDEC sobre el Intercambio Comercial del tercer trimestre",
-    "resumen": "El CDA difunde los informes técnicos del INDEC sobre la evolución de precios y cantidades en el intercambio comercial argentino. Se trata de un análisis estadístico de la actividad económica del trimestre referido.",
-    "queSignifica": "Esta información es de carácter consultivo y no altera los procedimientos aduaneros. Se sugiere revisar estos informes para el análisis de tendencias de mercado y planificación estratégica de futuras operaciones.",
+    "titulo": "Informe del INDEC sobre el intercambio comercial del tercer trimestre",
+    "resumen": "El CDA difunde los informes técnicos del INDEC que detallan el índice de precios y cantidades del comercio exterior argentino.",
+    "queSignifica": "Se recomienda revisar los indicadores estadísticos para evaluar tendencias sectoriales y realizar proyecciones de costos, sin que esto implique una modificación en los procedimientos aduaneros vigentes.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42847"
     },
     "publicadoEn": "2026-11-05T17:48:15.426Z",
-    "actualizadoEn": "2026-11-05T17:49:01.598Z"
+    "actualizadoEn": "2026-11-06T17:08:38.573Z"
   },
   {
-    "id": "2026-11-05-cese-de-actividades-del-cda-por-feriados-del-09-y-10-de-octubre-4be4c6",
-    "slug": "cese-de-actividades-del-cda-por-feriados-del-09-y-10-de-octubre",
-    "organismo": "Aduana",
-    "fecha": "2026-11-03",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "feriados",
-      "gestión operativa",
-      "aduana",
-      "despacho",
-      "plazos"
-    ],
-    "titulo": "Cese de actividades del CDA por feriados del 09 y 10 de octubre",
-    "resumen": "El Centro Despachantes de Aduana comunica el cese de sus actividades administrativas durante los días 09 y 10 de octubre debido a feriados locales. La medida afecta la atención al público y trámites institucionales del organismo.",
-    "queSignifica": "Se sugiere verificar la disponibilidad de turnos en las terminales y evaluar posibles demoras en la gestión documental. Revise su cronograma de operaciones para anticipar presentaciones ante los servicios aduaneros.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42845"
-    },
-    "publicadoEn": "2026-11-05T17:48:20.310Z",
-    "actualizadoEn": "2026-11-05T17:49:01.598Z"
-  },
-  {
-    "id": "2026-11-05-cronograma-de-operacion-de-terminales-portuarias-durante-los-feriados-por-la-vis-f7bac9",
-    "slug": "cronograma-de-operacion-de-terminales-portuarias-durante-los-feriados-por-la-vis",
-    "organismo": "Aduana",
-    "fecha": "2026-11-03",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "terminales portuarias",
-      "cronograma operativo",
-      "aduana",
-      "feriados",
-      "comercio exterior"
-    ],
-    "titulo": "Cronograma de operación de terminales portuarias durante los feriados por la visita del Papa",
-    "resumen": "El CDA informa el cronograma de disponibilidad operativa de las distintas terminales portuarias ante los feriados previstos. El objetivo es facilitar la coordinación de los movimientos de carga durante dicho período.",
-    "queSignifica": "Se sugiere revisar los horarios publicados por cada terminal para evitar demoras en las operaciones de retiro o ingreso de mercadería. Es recomendable coordinar con los transportistas y depósitos para verificar la disponibilidad de turnos en las fechas afectadas.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42843"
-    },
-    "publicadoEn": "2026-11-02T19:56:29.889Z",
-    "actualizadoEn": "2026-11-05T17:49:01.598Z"
-  },
-  {
-    "id": "2026-11-05-habilitacion-de-planta-argentina-para-exportar-sebo-a-la-union-europea-b6b7d5",
+    "id": "2026-11-06-habilitacion-de-planta-argentina-para-exportar-sebo-a-la-union-europea-d4b244",
     "slug": "habilitacion-de-planta-argentina-para-exportar-sebo-a-la-union-europea",
     "organismo": "SENASA",
     "fecha": "2026-11-03",
@@ -224,20 +271,20 @@
     "categoria": "exportacion",
     "tags": [
       "subproductos animales",
-      "habilitación planta",
-      "Unión Europea",
-      "certificación sanitaria",
-      "SENASA"
+      "habilitaciones sanitarias",
+      "UE",
+      "senasa",
+      "exportación"
     ],
     "titulo": "Habilitación de planta argentina para exportar sebo a la Unión Europea",
-    "resumen": "El SENASA incluyó un establecimiento argentino en el listado autorizado para la exportación de sebo animal incomestible hacia la Unión Europea. Esta medida restablece el acceso a dicho mercado para el producto mencionado.",
-    "queSignifica": "Los exportadores del sector deben verificar si su planta cuenta con la habilitación específica y revisar las exigencias sanitarias y los protocolos de certificación vigentes para el mercado europeo. Se recomienda consultar al servicio veterinario local del SENASA para confirmar el alcance de la normativa para cada caso particular.",
+    "resumen": "El SENASA incluyó un establecimiento en el listado autorizado para exportar sebo incomestible a la Unión Europea. Esta medida restablece el acceso a dicho mercado para el subproducto animal.",
+    "queSignifica": "Los exportadores interesados deben verificar el estatus del establecimiento en los listados vigentes del SENASA y la Unión Europea. Se recomienda validar los requisitos sanitarios específicos del país de destino antes de iniciar cualquier operación.",
     "fuente": {
       "nombre": "SENASA Comunica",
       "url": "https://www.argentina.gob.ar/noticias/despues-de-tres-anos-un-establecimiento-argentino-podra-exportar-sebo-la-union-europea"
     },
     "publicadoEn": "2026-11-05T17:48:35.960Z",
-    "actualizadoEn": "2026-11-05T17:49:01.598Z"
+    "actualizadoEn": "2026-11-06T17:08:38.573Z"
   },
   {
     "id": "2026-11-05-nueva-modalidad-para-la-asignacion-de-cupos-en-operaciones-de-importacion-d8b43e",
@@ -515,29 +562,5 @@
     },
     "publicadoEn": "2026-10-26T16:27:10.304Z",
     "actualizadoEn": "2026-10-26T16:27:16.586Z"
-  },
-  {
-    "id": "2026-10-23-nueva-herramienta-del-cda-para-la-conexion-remota-al-sistema-sim-841915",
-    "slug": "nueva-herramienta-del-cda-para-la-conexion-remota-al-sistema-sim",
-    "organismo": "Aduana",
-    "fecha": "2026-10-22",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "SIM",
-      "Malvina",
-      "conectividad",
-      "acceso remoto",
-      "gestión aduanera"
-    ],
-    "titulo": "Nueva herramienta del CDA para la conexión remota al sistema SIM",
-    "resumen": "El CDA lanzó una solución tecnológica para facilitar el acceso remoto al sistema informático Malvina.",
-    "queSignifica": "Se recomienda revisar las especificaciones técnicas y condiciones de seguridad de esta herramienta antes de implementarla. Evalúe si esta solución mejora su flujo de trabajo habitual o si su estructura actual de acceso ya resulta suficiente.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42462"
-    },
-    "publicadoEn": "2026-10-15T14:35:49.086Z",
-    "actualizadoEn": "2026-10-23T14:36:22.617Z"
   }
 ]
