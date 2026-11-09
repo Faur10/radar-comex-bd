@@ -1,98 +1,138 @@
 [
   {
-    "id": "2026-11-06-actualizacion-de-la-cotizacion-del-dolar-oficial-en-el-mulc-03f1e9",
-    "slug": "actualizacion-de-la-cotizacion-del-dolar-oficial-en-el-mulc",
+    "id": "2026-11-09-bcra-tipo-de-cambio-mulc-del-dia-9e3ce5",
+    "slug": "bcra-tipo-de-cambio-mulc-del-dia",
     "organismo": "BCRA",
-    "fecha": "2026-11-06",
-    "impacto": "medio",
+    "fecha": "2026-11-09",
+    "impacto": "alto",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "tipo de cambio",
-      "divisas",
-      "operaciones cambiarias",
-      "BCRA"
+      "tipo de cambio"
     ],
-    "titulo": "Actualización de la cotización del dólar oficial en el MULC",
-    "resumen": "Se establece el tipo de cambio oficial del BCRA para operaciones del Mercado Único y Libre de Cambios al día 2026-11-05.",
-    "queSignifica": "El operador debe utilizar este valor como referencia para la liquidación de divisas o pago de importaciones. Se sugiere verificar su aplicación vigente en los sistemas contables y financieros para las operaciones programadas para esta fecha.",
+    "titulo": "BCRA – Tipo de Cambio MULC del día",
+    "resumen": "Tipo de Cambio MULC ($ por USD): 1073.97 — al 2026-11-05",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-11-06T17:08:38.573Z"
+    "actualizadoEn": "2026-11-09T20:23:42.022Z"
   },
   {
-    "id": "2026-11-06-cronograma-de-operacion-en-terminales-portuarias-durante-los-feriados-por-la-vis-e2e66a",
-    "slug": "cronograma-de-operacion-en-terminales-portuarias-durante-los-feriados-por-la-vis",
-    "organismo": "Aduana",
+    "id": "2026-11-09-cronogramas-operativos-feriados-visita-del-papa-d720e5",
+    "slug": "cronogramas-operativos-feriados-visita-del-papa",
+    "organismo": "CDA",
     "fecha": "2026-11-06",
     "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "terminales portuarias",
-      "cronograma operativo",
-      "feriados",
-      "comercio exterior",
-      "aduana"
-    ],
-    "titulo": "Cronograma de operación en terminales portuarias durante los feriados por la visita del Papa",
-    "resumen": "El comunicado detalla los horarios y disponibilidad operativa de las terminales portuarias debido a los feriados por la visita del Papa. Es un informe de carácter organizativo para la gestión de cargas.",
-    "queSignifica": "Se recomienda consultar el cronograma específico de la terminal donde opera su carga para prever posibles demoras. Verifique con su despachante la disponibilidad de turnos para evitar sobrecostos por almacenaje.",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "Cronogramas operativos: Feriados visita del Papa",
+    "resumen": "El Centro Despachantes de Aduana (CDA) les acerca a sus asociados el cronograma operativo de las distintas Terminales Portuarias para los fe...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42843"
     },
     "publicadoEn": "2026-11-02T19:56:29.889Z",
-    "actualizadoEn": "2026-11-06T17:08:38.573Z"
+    "actualizadoEn": "2026-11-09T20:23:42.022Z"
   },
   {
-    "id": "2026-11-06-cese-de-actividades-del-cda-por-feriados-del-09-y-10-a23f1c",
-    "slug": "cese-de-actividades-del-cda-por-feriados-del-09-y-10",
+    "id": "2026-11-09-suspension-de-actividades-del-cda-por-feriados-del-09-y-10-c416f3",
+    "slug": "suspension-de-actividades-del-cda-por-feriados-del-09-y-10",
     "organismo": "Aduana",
     "fecha": "2026-11-06",
     "impacto": "bajo",
     "categoria": "logistica",
     "tags": [
       "feriados",
-      "despachante",
-      "operativa aduanera",
-      "plazos"
+      "gestiones aduaneras",
+      "plazos",
+      "oficialización",
+      "despachante"
     ],
-    "titulo": "Cese de actividades del CDA por feriados del 09 y 10",
-    "resumen": "El CDA informa la suspensión de sus actividades administrativas debido a los feriados mencionados. La medida responde a un evento institucional extraordinario.",
-    "queSignifica": "Se recomienda verificar si las oficinas de despacho o terminales portuarias mantendrán guardias mínimas. Se sugiere planificar con antelación las presentaciones documentales para evitar demoras por falta de atención presencial.",
+    "titulo": "Suspensión de actividades del CDA por feriados del 09 y 10",
+    "resumen": "El Centro Despachantes de Aduana comunica la interrupción de sus actividades administrativas debido a los feriados mencionados. Los términos operativos pueden verse afectados por la falta de atención en dependencias.",
+    "queSignifica": "Se recomienda verificar el cronograma de guardias aduaneras y los vencimientos de plazos de oficialización para evitar cargos por mora. Evalúe con su despachante la necesidad de adelantar gestiones ante la posible reducción de personal en los organismos intervinientes.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42845"
     },
     "publicadoEn": "2026-11-05T17:48:20.310Z",
-    "actualizadoEn": "2026-11-06T17:08:38.573Z"
+    "actualizadoEn": "2026-11-09T20:23:42.022Z"
   },
   {
-    "id": "2026-11-06-prohibicion-de-comercializacion-y-uso-de-productos-medicos-marca-veritas-fe9d44",
-    "slug": "prohibicion-de-comercializacion-y-uso-de-productos-medicos-marca-veritas",
+    "id": "2026-11-09-nueva-alerta-fitosanitaria-por-lobesia-botrana-en-san-juan-80a2ac",
+    "slug": "nueva-alerta-fitosanitaria-por-lobesia-botrana-en-san-juan",
+    "organismo": "SENASA",
+    "fecha": "2026-11-06",
+    "impacto": "medio",
+    "categoria": "logistica",
+    "tags": [
+      "fitosanitario",
+      "vid",
+      "certificados",
+      "barreras no arancelarias",
+      "SENASA"
+    ],
+    "titulo": "Nueva alerta fitosanitaria por Lobesia botrana en San Juan",
+    "resumen": "SENASA establece la obligatoriedad de tratamientos fitosanitarios específicos para productores de vid en la provincia de San Juan. La medida busca controlar la plaga Lobesia botrana mediante aplicaciones en periodos definidos.",
+    "queSignifica": "Los exportadores de productos vitivinícolas deben revisar si sus proveedores se encuentran en las zonas afectadas y verificar que la mercadería cuente con los certificados fitosanitarios vigentes exigidos por SENASA para evitar trabas en el despacho.",
+    "fuente": {
+      "nombre": "SENASA Comunica",
+      "url": "https://www.argentina.gob.ar/noticias/segunda-alerta-fitosanitaria-para-el-control-de-la-plaga-lobesia-botrana-en-la-provincia-de"
+    },
+    "publicadoEn": "2026-11-09T20:22:27.214Z",
+    "actualizadoEn": "2026-11-09T20:23:42.022Z"
+  },
+  {
+    "id": "2026-11-09-refuerzo-en-controles-de-transito-de-productos-vegetales-por-senasa-bbc93c",
+    "slug": "refuerzo-en-controles-de-transito-de-productos-vegetales-por-senasa",
+    "organismo": "SENASA",
+    "fecha": "2026-11-06",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "SENASA",
+      "sanidad vegetal",
+      "transporte de carga",
+      "control fitosanitario",
+      "tránsito aduanero"
+    ],
+    "titulo": "Refuerzo en controles de tránsito de productos vegetales por SENASA",
+    "resumen": "SENASA interdictó 27 toneladas de frutas y hortalizas en Corrientes por falta de garantías sanitarias. La medida busca prevenir la dispersión de plagas y asegurar la inocuidad alimentaria.",
+    "queSignifica": "Se sugiere verificar que toda la documentación sanitaria (DT-e, remitos y certificados fitosanitarios) esté vigente y coincida con la carga transportada. Se recomienda auditar la habilitación del transporte y el estado de los precintos para evitar bloqueos en controles en ruta.",
+    "fuente": {
+      "nombre": "SENASA Comunica",
+      "url": "https://www.argentina.gob.ar/noticias/se-evito-que-mas-de-27-toneladas-de-frutas-y-hortalizas-sin-garantias-sanitarias-llegaran"
+    },
+    "publicadoEn": "2026-11-09T20:22:32.230Z",
+    "actualizadoEn": "2026-11-09T20:23:42.022Z"
+  },
+  {
+    "id": "2026-11-09-anmat-prohibe-el-uso-y-comercializacion-de-productos-medicos-marca-veritas-b1ec6c",
+    "slug": "anmat-prohibe-el-uso-y-comercializacion-de-productos-medicos-marca-veritas",
     "organismo": "ANMAT / INAL",
     "fecha": "2026-11-06",
     "impacto": "alto",
     "categoria": "importacion",
     "tags": [
+      "ANMAT",
       "productos médicos",
       "prohibición",
-      "ANMAT",
-      "seguridad sanitaria",
-      "control aduanero"
+      "comercialización",
+      "inspección"
     ],
-    "titulo": "Prohibición de comercialización y uso de productos médicos marca VERITAS",
-    "resumen": "La ANMAT prohibió el uso, comercialización y distribución de todos los productos médicos de la marca VERITAS por falta de registros sanitarios vigentes.",
-    "queSignifica": "Verifique si su stock o mercadería en curso cuenta con productos de dicha marca; en caso afirmativo, suspenda su despacho o venta y consulte con su área de asuntos regulatorios para asegurar el cumplimiento.",
+    "titulo": "ANMAT prohíbe el uso y comercialización de productos médicos marca VERITAS",
+    "resumen": "La disposición prohíbe la comercialización, distribución y uso de todos los productos médicos marca VERITAS por carecer de registro sanitario y autorizaciones pertinentes.",
+    "queSignifica": "Es imperativo verificar el stock existente y la documentación de respaldo de los productos marca VERITAS. Se sugiere consultar con el departamento de Asuntos Regulatorios para asegurar que ninguna mercadería de esta marca sea ingresada a despacho o distribuida en el mercado local.",
     "fuente": {
       "nombre": "ANMAT – Alertas",
       "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-distintos-productos-medicos-de-la-marca-veritas"
     },
     "publicadoEn": "2026-11-06T17:07:54.851Z",
-    "actualizadoEn": "2026-11-06T17:08:38.573Z"
+    "actualizadoEn": "2026-11-09T20:23:42.022Z"
   },
   {
     "id": "2026-11-06-capacitacion-sobre-reformas-al-codigo-aduanero-8ece37",
@@ -490,77 +530,5 @@
     },
     "publicadoEn": "2026-10-27T15:39:59.746Z",
     "actualizadoEn": "2026-10-29T16:34:15.139Z"
-  },
-  {
-    "id": "2026-10-26-recordatorio-de-requisitos-para-el-ingreso-a-la-zona-operativa-del-aeropuerto-de-490c55",
-    "slug": "recordatorio-de-requisitos-para-el-ingreso-a-la-zona-operativa-del-aeropuerto-de",
-    "organismo": "Aduana",
-    "fecha": "2026-10-23",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "Ezeiza",
-      "ingreso a zona primaria",
-      "operativa aduanera",
-      "acreditación",
-      "CDA"
-    ],
-    "titulo": "Recordatorio de requisitos para el ingreso a la zona operativa del Aeropuerto de Ezeiza",
-    "resumen": "El CDA reitera a sus asociados la necesidad de cumplir con las formalidades y requisitos vigentes para el acceso a las instalaciones operativas en el Aeropuerto Internacional de Ezeiza.",
-    "queSignifica": "Se sugiere verificar la vigencia de las acreditaciones y credenciales del personal propio o de terceros antes de programar visitas o tareas en el aeropuerto para evitar demoras en el acceso.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42831"
-    },
-    "publicadoEn": "2026-10-23T14:34:56.328Z",
-    "actualizadoEn": "2026-10-26T16:27:16.586Z"
-  },
-  {
-    "id": "2026-10-26-gestion-de-credenciales-psa-a-traves-del-cda-ca9fa3",
-    "slug": "gestion-de-credenciales-psa-a-traves-del-cda",
-    "organismo": "Aduana",
-    "fecha": "2026-10-23",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "PSA",
-      "credencial",
-      "seguridad",
-      "terminal portuaria",
-      "despachante"
-    ],
-    "titulo": "Gestión de credenciales PSA a través del CDA",
-    "resumen": "El Centro Despachantes de Aduana facilita la tramitación de las credenciales habilitantes para operar en zonas de seguridad de la Policía de Seguridad Aeroportuaria.",
-    "queSignifica": "Se sugiere verificar los requisitos vigentes y el cronograma de turnos en el sitio web del CDA si el personal requiere acceso a áreas restringidas. Revise la vigencia de sus credenciales actuales para asegurar la continuidad operativa.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=41824"
-    },
-    "publicadoEn": "2026-10-23T14:35:01.279Z",
-    "actualizadoEn": "2026-10-26T16:27:16.586Z"
-  },
-  {
-    "id": "2026-10-26-alerta-sanitaria-retiro-del-mercado-de-lote-de-dobutamina-gray-c6b462",
-    "slug": "alerta-sanitaria-retiro-del-mercado-de-lote-de-dobutamina-gray",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-10-23",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "ANMAT",
-      "productos médicos",
-      "retiro de mercado",
-      "cumplimiento normativo",
-      "control sanitario"
-    ],
-    "titulo": "Alerta sanitaria: retiro del mercado de lote de Dobutamina Gray",
-    "resumen": "La ANMAT ha ordenado el retiro preventivo de un lote específico del producto Dobutamina Gray por posibles irregularidades. Se prohíbe su comercialización y uso a nivel nacional.",
-    "queSignifica": "Los importadores y distribuidores deben verificar inmediatamente sus stocks contra el número de lote afectado para inmovilizar la mercadería. Se recomienda contactar al proveedor y revisar la trazabilidad para asegurar el cumplimiento con las disposiciones de la ANMAT.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/retiro-del-mercado-de-un-lote-de-dobutamina-gray"
-    },
-    "publicadoEn": "2026-10-26T16:27:10.304Z",
-    "actualizadoEn": "2026-10-26T16:27:16.586Z"
   }
 ]
