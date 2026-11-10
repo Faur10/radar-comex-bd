@@ -1,9 +1,9 @@
 [
   {
-    "id": "2026-11-09-bcra-tipo-de-cambio-mulc-del-dia-9e3ce5",
+    "id": "2026-11-10-bcra-tipo-de-cambio-mulc-del-dia-24df68",
     "slug": "bcra-tipo-de-cambio-mulc-del-dia",
     "organismo": "BCRA",
-    "fecha": "2026-11-09",
+    "fecha": "2026-11-10",
     "impacto": "alto",
     "categoria": "normativa",
     "tags": [
@@ -18,7 +18,7 @@
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-11-09T20:23:42.022Z"
+    "actualizadoEn": "2026-11-10T17:25:46.343Z"
   },
   {
     "id": "2026-11-09-cronogramas-operativos-feriados-visita-del-papa-d720e5",
@@ -488,47 +488,5 @@
     },
     "publicadoEn": "2026-10-28T16:24:26.314Z",
     "actualizadoEn": "2026-10-30T16:25:40.018Z"
-  },
-  {
-    "id": "2026-10-29-informacion-sobre-el-xi-encuentro-nacional-de-despachantes-de-aduana-22c37d",
-    "slug": "informacion-sobre-el-xi-encuentro-nacional-de-despachantes-de-aduana",
-    "organismo": "Aduana",
-    "fecha": "2026-10-26",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "institucional",
-      "capacitación",
-      "encuentro nacional",
-      "asesoramiento",
-      "cda"
-    ],
-    "titulo": "Información sobre el XI Encuentro Nacional de Despachantes de Aduana",
-    "resumen": "El CDA anuncia la realización del XI Encuentro Nacional y VII Encuentro de Despachantes para brindar asesoramiento a sus socios.",
-    "queSignifica": "Esta comunicación tiene carácter institucional y no afecta los procedimientos operativos; se sugiere verificar el calendario de actividades si desea participar de las capacitaciones.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42832"
-    },
-    "publicadoEn": "2026-10-27T15:39:55.157Z",
-    "actualizadoEn": "2026-10-29T16:34:15.139Z"
-  },
-  {
-    "id": "2026-10-29-reglamentacion-de-las-modificaciones-de-la-ley-de-inocencia-fiscal-ii-4ce364",
-    "slug": "reglamentacion-de-las-modificaciones-de-la-ley-de-inocencia-fiscal-ii",
-    "organismo": "ARCA",
-    "fecha": "2026-10-26",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [],
-    "titulo": "Reglamentación de las modificaciones de la Ley de Inocencia Fiscal II",
-    "resumen": "El organismo adecuó el régimen de declaración jurada simplificada para incorporar los cambios de la ley \"Inocencia Fiscal II\"",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
-    "fuente": {
-      "nombre": "ARCA – Noticias",
-      "url": "https://www.argentina.gob.ar/noticias/reglamentacion-de-las-modificaciones-de-la-ley-de-inocencia-fiscal-ii"
-    },
-    "publicadoEn": "2026-10-27T15:39:59.746Z",
-    "actualizadoEn": "2026-10-29T16:34:15.139Z"
   }
 ]
