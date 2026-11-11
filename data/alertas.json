@@ -1,66 +1,99 @@
 [
   {
-    "id": "2026-11-10-bcra-tipo-de-cambio-mulc-del-dia-24df68",
-    "slug": "bcra-tipo-de-cambio-mulc-del-dia",
+    "id": "2026-11-11-actualizacion-del-tipo-de-cambio-oficial-de-referencia-del-bcra-c0a2bb",
+    "slug": "actualizacion-del-tipo-de-cambio-oficial-de-referencia-del-bcra",
     "organismo": "BCRA",
-    "fecha": "2026-11-10",
-    "impacto": "alto",
+    "fecha": "2026-11-11",
+    "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "tipo de cambio"
+      "Tipo de Cambio",
+      "BCRA",
+      "Cambiario",
+      "Liquidación"
     ],
-    "titulo": "BCRA – Tipo de Cambio MULC del día",
-    "resumen": "Tipo de Cambio MULC ($ por USD): 1073.97 — al 2026-11-05",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
+    "titulo": "Actualización del tipo de cambio oficial de referencia del BCRA",
+    "resumen": "Se establece la cotización oficial del dólar en el Mercado Único y Libre de Cambios para la fecha indicada.",
+    "queSignifica": "Utilice este valor para proyectar sus costos de liquidación de divisas o pago de importaciones. Se sugiere verificar su aplicación específica en su entidad bancaria conforme a la normativa cambiaria vigente.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-11-10T17:25:46.343Z"
+    "actualizadoEn": "2026-11-11T17:39:18.837Z"
   },
   {
-    "id": "2026-11-09-cronogramas-operativos-feriados-visita-del-papa-d720e5",
-    "slug": "cronogramas-operativos-feriados-visita-del-papa",
-    "organismo": "CDA",
-    "fecha": "2026-11-06",
+    "id": "2026-11-11-reapertura-del-paso-internacional-pehuenche-para-operaciones-de-comercio-exterio-84faf7",
+    "slug": "reapertura-del-paso-internacional-pehuenche-para-operaciones-de-comercio-exterio",
+    "organismo": "Aduana",
+    "fecha": "2026-11-11",
     "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [],
-    "titulo": "Cronogramas operativos: Feriados visita del Papa",
-    "resumen": "El Centro Despachantes de Aduana (CDA) les acerca a sus asociados el cronograma operativo de las distintas Terminales Portuarias para los fe...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "categoria": "logistica",
+    "tags": [
+      "Paso Pehuenche",
+      "transporte internacional",
+      "logística terrestre",
+      "comercio bilateral",
+      "aduanas"
+    ],
+    "titulo": "Reapertura del Paso Internacional Pehuenche para operaciones de comercio exterior",
+    "resumen": "Se informa la rehabilitación operativa del paso fronterizo Pehuenche que conecta Argentina con Chile. Esta medida restablece el tránsito terrestre internacional en dicho corredor.",
+    "queSignifica": "Se sugiere verificar la disponibilidad de turnos en el paso y las condiciones actuales de transitabilidad. Revise con sus operadores logísticos si este punto resulta eficiente para sus rutas habituales.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42856"
+    },
+    "publicadoEn": "2026-11-11T17:38:16.300Z",
+    "actualizadoEn": "2026-11-11T17:39:18.837Z"
+  },
+  {
+    "id": "2026-11-11-cronograma-de-operacion-en-terminales-portuarias-por-feriados-eace0e",
+    "slug": "cronograma-de-operacion-en-terminales-portuarias-por-feriados",
+    "organismo": "Aduana",
+    "fecha": "2026-11-11",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "terminales portuarias",
+      "cronograma operativo",
+      "despacho",
+      "puertos",
+      "feriados"
+    ],
+    "titulo": "Cronograma de operación en terminales portuarias por feriados",
+    "resumen": "Se informa el esquema de atención y operatividad de las terminales portuarias durante los feriados por la visita del Papa.",
+    "queSignifica": "Se recomienda consultar los cronogramas específicos de cada terminal para verificar la disponibilidad de turnos y evitar demoras en las operaciones de carga o descarga. Verifique con su transportista o terminal si el feriado afecta la programación de sus operaciones previstas.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42843"
     },
     "publicadoEn": "2026-11-02T19:56:29.889Z",
-    "actualizadoEn": "2026-11-09T20:23:42.022Z"
+    "actualizadoEn": "2026-11-11T17:39:18.837Z"
   },
   {
-    "id": "2026-11-09-suspension-de-actividades-del-cda-por-feriados-del-09-y-10-c416f3",
-    "slug": "suspension-de-actividades-del-cda-por-feriados-del-09-y-10",
+    "id": "2026-11-11-cese-de-actividades-del-cda-por-feriados-los-dias-9-y-10-16371f",
+    "slug": "cese-de-actividades-del-cda-por-feriados-los-dias-9-y-10",
     "organismo": "Aduana",
-    "fecha": "2026-11-06",
+    "fecha": "2026-11-11",
     "impacto": "bajo",
     "categoria": "logistica",
     "tags": [
-      "feriados",
-      "gestiones aduaneras",
+      "operatividad aduanera",
+      "cronograma",
+      "servicios extraordinarios",
       "plazos",
-      "oficialización",
-      "despachante"
+      "gestión aduanera"
     ],
-    "titulo": "Suspensión de actividades del CDA por feriados del 09 y 10",
-    "resumen": "El Centro Despachantes de Aduana comunica la interrupción de sus actividades administrativas debido a los feriados mencionados. Los términos operativos pueden verse afectados por la falta de atención en dependencias.",
-    "queSignifica": "Se recomienda verificar el cronograma de guardias aduaneras y los vencimientos de plazos de oficialización para evitar cargos por mora. Evalúe con su despachante la necesidad de adelantar gestiones ante la posible reducción de personal en los organismos intervinientes.",
+    "titulo": "Cese de actividades del CDA por feriados los días 9 y 10",
+    "resumen": "El Centro Despachantes de Aduana comunica el cese de actividades administrativas con motivo de los feriados del 9 y 10. Se sugiere considerar posibles demoras en la atención y gestión de trámites durante estas fechas.",
+    "queSignifica": "Verifique con su despachante la disponibilidad de guardias aduaneras y el estado de sus operaciones en curso para evitar retrasos logísticos. Se recomienda prever la liberación de cargas antes de los días mencionados.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42845"
     },
     "publicadoEn": "2026-11-05T17:48:20.310Z",
-    "actualizadoEn": "2026-11-09T20:23:42.022Z"
+    "actualizadoEn": "2026-11-11T17:39:18.837Z"
   },
   {
     "id": "2026-11-09-nueva-alerta-fitosanitaria-por-lobesia-botrana-en-san-juan-80a2ac",
