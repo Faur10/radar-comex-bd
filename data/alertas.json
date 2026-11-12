@@ -1,27 +1,241 @@
 [
   {
-    "id": "2026-11-11-actualizacion-del-tipo-de-cambio-oficial-de-referencia-del-bcra-c0a2bb",
-    "slug": "actualizacion-del-tipo-de-cambio-oficial-de-referencia-del-bcra",
+    "id": "2026-11-12-actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc-4ced9c",
+    "slug": "actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc",
     "organismo": "BCRA",
-    "fecha": "2026-11-11",
+    "fecha": "2026-11-12",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "Tipo de Cambio",
+      "tipo de cambio",
+      "divisas",
       "BCRA",
-      "Cambiario",
-      "Liquidación"
+      "operaciones cambiarias"
     ],
-    "titulo": "Actualización del tipo de cambio oficial de referencia del BCRA",
-    "resumen": "Se establece la cotización oficial del dólar en el Mercado Único y Libre de Cambios para la fecha indicada.",
-    "queSignifica": "Utilice este valor para proyectar sus costos de liquidación de divisas o pago de importaciones. Se sugiere verificar su aplicación específica en su entidad bancaria conforme a la normativa cambiaria vigente.",
+    "titulo": "Actualización de la cotización oficial del dólar en el MULC",
+    "resumen": "Se establece el tipo de cambio oficial del BCRA para operaciones en el Mercado Único y Libre de Cambios con fecha 2026-11-11.",
+    "queSignifica": "El operador debe utilizar esta cotización para el cálculo de sus obligaciones en moneda extranjera y el registro de costos. Se sugiere revisar la carga de este valor en los sistemas contables y de gestión para asegurar la correcta valuación de las operaciones del día.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-11-11T17:39:18.837Z"
+    "actualizadoEn": "2026-11-12T17:52:19.167Z"
+  },
+  {
+    "id": "2026-11-12-habilitacion-de-preinscripcion-online-para-la-asamblea-general-ordinaria-del-cda-3980d9",
+    "slug": "habilitacion-de-preinscripcion-online-para-la-asamblea-general-ordinaria-del-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-11-12",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "CDA",
+      "Asamblea General",
+      "Institucional",
+      "Despachantes",
+      "Gremial"
+    ],
+    "titulo": "Habilitación de preinscripción online para la Asamblea General Ordinaria del CDA",
+    "resumen": "El Centro Despachantes de Aduana ha dispuesto la habilitación del proceso de preinscripción virtual para su Asamblea General Ordinaria.",
+    "queSignifica": "Esta medida es de carácter institucional y no afecta las operaciones de comercio exterior. Se sugiere a los asociados interesados en participar que verifiquen los cronogramas y requisitos comunicados por la entidad.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42836"
+    },
+    "publicadoEn": "2026-10-28T16:24:18.917Z",
+    "actualizadoEn": "2026-11-12T17:52:19.167Z"
+  },
+  {
+    "id": "2026-11-12-capacitacion-tecnica-sobre-la-reforma-del-codigo-aduanero-f60c29",
+    "slug": "capacitacion-tecnica-sobre-la-reforma-del-codigo-aduanero",
+    "organismo": "Aduana",
+    "fecha": "2026-11-12",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "Código Aduanero",
+      "Capacitación",
+      "Legislación",
+      "Derecho Aduanero",
+      "Actualización"
+    ],
+    "titulo": "Capacitación técnica sobre la reforma del Código Aduanero",
+    "resumen": "El CDA organiza una charla informativa para analizar las recientes modificaciones y alcances de la reforma del Código Aduanero. El objetivo es brindar actualización profesional sobre el marco regulatorio vigente.",
+    "queSignifica": "Se recomienda participar o revisar el material disponible para identificar cómo los cambios en la normativa podrían incidir en las futuras presentaciones aduaneras. Es prudente analizar la normativa original para evaluar su aplicación en cada caso particular.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42841"
+    },
+    "publicadoEn": "2026-11-05T17:48:05.770Z",
+    "actualizadoEn": "2026-11-12T17:52:19.167Z"
+  },
+  {
+    "id": "2026-11-12-inauguracion-de-muestra-artistica-en-la-sede-del-cda-1b4a08",
+    "slug": "inauguracion-de-muestra-artistica-en-la-sede-del-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-11-12",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "institucional",
+      "cda",
+      "gremial"
+    ],
+    "titulo": "Inauguración de muestra artística en la sede del CDA",
+    "resumen": "Se trata de un evento social y cultural organizado por el Centro Despachantes de Aduana.",
+    "queSignifica": "Esta información es de carácter institucional y no afecta los procedimientos aduaneros ni la operativa de comercio exterior, por lo que no requiere ninguna acción por parte del operador.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42848"
+    },
+    "publicadoEn": "2026-11-12T17:51:16.996Z",
+    "actualizadoEn": "2026-11-12T17:52:19.167Z"
+  },
+  {
+    "id": "2026-11-12-prohibicion-de-comercializacion-y-uso-del-lote-falsificado-de-dysport-500-ipsen-52983f",
+    "slug": "prohibicion-de-comercializacion-y-uso-del-lote-falsificado-de-dysport-500-ipsen",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-11-12",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "ANMAT",
+      "mercaderia falsificada",
+      "prohibicion",
+      "control sanitario",
+      "despacho a plaza"
+    ],
+    "titulo": "Prohibición de comercialización y uso del lote falsificado de Dysport 500 IPSEN",
+    "resumen": "La ANMAT ha detectado y prohibido la comercialización, distribución y uso de un lote específico del medicamento Dysport 500 por tratarse de una falsificación. La medida busca prevenir riesgos sanitarios asociados a la circulación de productos médicos apócrifos.",
+    "queSignifica": "Se recomienda a los importadores y agentes de carga verificar el stock propio y la documentación de respaldo para asegurar que no se encuentre involucrado el lote señalado. Ante la detección de unidades sospechosas, se debe proceder a la cuarentena inmediata del producto y consultar al servicio de asesoramiento técnico de ANMAT.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/se-prohibe-un-lote-falsificado-del-medicamento-dysport-500-ipsen"
+    },
+    "publicadoEn": "2026-11-12T17:51:48.587Z",
+    "actualizadoEn": "2026-11-12T17:52:19.167Z"
+  },
+  {
+    "id": "2026-11-12-prohibicion-de-importacion-y-comercializacion-de-especialidades-medicinales-con--447b82",
+    "slug": "prohibicion-de-importacion-y-comercializacion-de-especialidades-medicinales-con-",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-11-12",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "ANMAT",
+      "prohibición",
+      "productos farmacéuticos",
+      "restricción a la importación",
+      "despacho de aduana"
+    ],
+    "titulo": "Prohibición de importación y comercialización de especialidades medicinales con Monosialogangliósidos",
+    "resumen": "La ANMAT ha establecido la prohibición total de todas las especialidades medicinales que contengan el principio activo Monosialogangliósidos (GM1). Esta medida implica el cese inmediato de su circulación en el mercado nacional.",
+    "queSignifica": "Se sugiere verificar el listado de productos importados y stock actual para identificar la presencia de este componente. Es necesario consultar el registro de productos médicos y coordinar con el servicio de carga para evitar el ingreso de mercadería alcanzada por esta restricción.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/se-prohibe-todas-las-especialidades-medicinales-que-contengan-monosialogangliosidos-gm1"
+    },
+    "publicadoEn": "2026-11-12T17:51:57.311Z",
+    "actualizadoEn": "2026-11-12T17:52:19.167Z"
+  },
+  {
+    "id": "2026-11-12-anmat-prohibe-la-comercializacion-y-uso-de-medicamentos-marca-canna-oil-e5dbc1",
+    "slug": "anmat-prohibe-la-comercializacion-y-uso-de-medicamentos-marca-canna-oil",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-11-12",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "ANMAT",
+      "prohibición",
+      "productos médicos",
+      "alerta sanitaria",
+      "control aduanero"
+    ],
+    "titulo": "ANMAT prohíbe la comercialización y uso de medicamentos marca Canna Oil",
+    "resumen": "La autoridad sanitaria dispuso la prohibición de comercialización, distribución y uso de todos los productos de la marca Canna Oil en el territorio nacional. La medida responde a la falta de registro y autorizaciones sanitarias correspondientes.",
+    "queSignifica": "Se recomienda verificar el inventario y las operaciones en curso para asegurar que no contengan productos de esta marca. Ante la detección de mercadería de esta procedencia, se sugiere consultar con el servicio jurídico o técnico para evitar bloqueos en Aduana.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-medicamentos-de-la-marca-canna-oil"
+    },
+    "publicadoEn": "2026-11-12T17:52:02.544Z",
+    "actualizadoEn": "2026-11-12T17:52:19.167Z"
+  },
+  {
+    "id": "2026-11-12-cronograma-de-operatividad-en-terminales-portuarias-por-feriados-2c5c16",
+    "slug": "cronograma-de-operatividad-en-terminales-portuarias-por-feriados",
+    "organismo": "Aduana",
+    "fecha": "2026-11-11",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "terminales portuarias",
+      "operatividad",
+      "puertos",
+      "cargas",
+      "feriados"
+    ],
+    "titulo": "Cronograma de operatividad en terminales portuarias por feriados",
+    "resumen": "El CDA publica los horarios de atención y disponibilidad de las terminales portuarias para los próximos feriados. La norma detalla la operatividad de los servicios logísticos en dichas fechas.",
+    "queSignifica": "Se recomienda consultar los cronogramas específicos de las terminales involucradas en sus operaciones para planificar retiros o ingresos. Verifique con sus transportistas y depósitos cualquier posible demora operativa durante el periodo de feriados.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42843"
+    },
+    "publicadoEn": "2026-11-02T19:56:29.889Z",
+    "actualizadoEn": "2026-11-12T17:52:19.167Z"
+  },
+  {
+    "id": "2026-11-12-cese-de-actividades-del-cda-por-feriados-del-09-y-10-42c8ba",
+    "slug": "cese-de-actividades-del-cda-por-feriados-del-09-y-10",
+    "organismo": "Aduana",
+    "fecha": "2026-11-11",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "operatividad aduanera",
+      "cronograma",
+      "despachante",
+      "gestión operativa",
+      "tiempos de despacho"
+    ],
+    "titulo": "Cese de actividades del CDA por feriados del 09 y 10",
+    "resumen": "El Centro Despachantes de Aduana informa la interrupción de actividades administrativas debido a los feriados nacionales programados.",
+    "queSignifica": "Se recomienda revisar el cronograma de vencimientos de las operaciones en curso y coordinar con los depósitos o transportistas para evitar demoras en las liberaciones ante la menor disponibilidad de personal administrativo.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42845"
+    },
+    "publicadoEn": "2026-11-05T17:48:20.310Z",
+    "actualizadoEn": "2026-11-12T17:52:19.167Z"
+  },
+  {
+    "id": "2026-11-12-prohibicion-de-comercializacion-y-uso-de-productos-medicos-marca-gore-viabahn-su-c48a20",
+    "slug": "prohibicion-de-comercializacion-y-uso-de-productos-medicos-marca-gore-viabahn-su",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-11-11",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "productos medicos",
+      "ANMAT",
+      "control sanitario",
+      "restricciones a la importacion",
+      "seguridad sanitaria"
+    ],
+    "titulo": "Prohibición de comercialización y uso de productos médicos marca GORE VIABAHN sustraídos",
+    "resumen": "La ANMAT prohibió el uso y comercialización de unidades específicas de prótesis GORE VIABAHN debido a su sustracción. Se alerta sobre la falta de trazabilidad y riesgos de seguridad de estos productos.",
+    "queSignifica": "Verifique que su stock o mercadería en curso de despacho no coincida con los números de serie o lotes reportados como sustraídos por el fabricante. Ante la detección de estas unidades, debe abstenerse de comercializarlas y dar intervención inmediata a la ANMAT.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-productos-medicos-de-la-marca-gore-viabahn-sustraidos"
+    },
+    "publicadoEn": "2026-11-12T17:52:13.790Z",
+    "actualizadoEn": "2026-11-12T17:52:19.167Z"
   },
   {
     "id": "2026-11-11-reapertura-del-paso-internacional-pehuenche-para-operaciones-de-comercio-exterio-84faf7",
@@ -45,54 +259,6 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42856"
     },
     "publicadoEn": "2026-11-11T17:38:16.300Z",
-    "actualizadoEn": "2026-11-11T17:39:18.837Z"
-  },
-  {
-    "id": "2026-11-11-cronograma-de-operacion-en-terminales-portuarias-por-feriados-eace0e",
-    "slug": "cronograma-de-operacion-en-terminales-portuarias-por-feriados",
-    "organismo": "Aduana",
-    "fecha": "2026-11-11",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "terminales portuarias",
-      "cronograma operativo",
-      "despacho",
-      "puertos",
-      "feriados"
-    ],
-    "titulo": "Cronograma de operación en terminales portuarias por feriados",
-    "resumen": "Se informa el esquema de atención y operatividad de las terminales portuarias durante los feriados por la visita del Papa.",
-    "queSignifica": "Se recomienda consultar los cronogramas específicos de cada terminal para verificar la disponibilidad de turnos y evitar demoras en las operaciones de carga o descarga. Verifique con su transportista o terminal si el feriado afecta la programación de sus operaciones previstas.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42843"
-    },
-    "publicadoEn": "2026-11-02T19:56:29.889Z",
-    "actualizadoEn": "2026-11-11T17:39:18.837Z"
-  },
-  {
-    "id": "2026-11-11-cese-de-actividades-del-cda-por-feriados-los-dias-9-y-10-16371f",
-    "slug": "cese-de-actividades-del-cda-por-feriados-los-dias-9-y-10",
-    "organismo": "Aduana",
-    "fecha": "2026-11-11",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "operatividad aduanera",
-      "cronograma",
-      "servicios extraordinarios",
-      "plazos",
-      "gestión aduanera"
-    ],
-    "titulo": "Cese de actividades del CDA por feriados los días 9 y 10",
-    "resumen": "El Centro Despachantes de Aduana comunica el cese de actividades administrativas con motivo de los feriados del 9 y 10. Se sugiere considerar posibles demoras en la atención y gestión de trámites durante estas fechas.",
-    "queSignifica": "Verifique con su despachante la disponibilidad de guardias aduaneras y el estado de sus operaciones en curso para evitar retrasos logísticos. Se recomienda prever la liberación de cargas antes de los días mencionados.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42845"
-    },
-    "publicadoEn": "2026-11-05T17:48:20.310Z",
     "actualizadoEn": "2026-11-11T17:39:18.837Z"
   },
   {
@@ -166,30 +332,6 @@
     },
     "publicadoEn": "2026-11-06T17:07:54.851Z",
     "actualizadoEn": "2026-11-09T20:23:42.022Z"
-  },
-  {
-    "id": "2026-11-06-capacitacion-sobre-reformas-al-codigo-aduanero-8ece37",
-    "slug": "capacitacion-sobre-reformas-al-codigo-aduanero",
-    "organismo": "Aduana",
-    "fecha": "2026-11-05",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "Código Aduanero",
-      "Capacitación",
-      "Legislación",
-      "Actualización Normativa",
-      "Comercio Exterior"
-    ],
-    "titulo": "Capacitación sobre reformas al Código Aduanero",
-    "resumen": "El CDA organiza una charla informativa para analizar las recientes modificaciones y actualizaciones realizadas al Código Aduanero Argentino.",
-    "queSignifica": "Se recomienda participar o revisar el material de la jornada para comprender los cambios legales que podrían afectar la operativa aduanera a futuro. Es prudente verificar cómo estas modificaciones impactarán en los procedimientos habituales de despacho.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42841"
-    },
-    "publicadoEn": "2026-11-05T17:48:05.770Z",
-    "actualizadoEn": "2026-11-06T17:08:38.573Z"
   },
   {
     "id": "2026-11-06-visita-tecnica-a-instalaciones-del-senasa-revision-de-controles-en-comercio-exte-e7dc51",
@@ -473,29 +615,6 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42833"
     },
     "publicadoEn": "2026-10-29T16:32:56.385Z",
-    "actualizadoEn": "2026-10-30T16:25:40.018Z"
-  },
-  {
-    "id": "2026-10-30-apertura-de-preinscripcion-online-para-la-asamblea-general-ordinaria-del-cda-835783",
-    "slug": "apertura-de-preinscripcion-online-para-la-asamblea-general-ordinaria-del-cda",
-    "organismo": "Aduana",
-    "fecha": "2026-10-29",
-    "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "CDA",
-      "Asamblea",
-      "Gestión Institucional",
-      "Comercio Exterior"
-    ],
-    "titulo": "Apertura de preinscripción online para la Asamblea General Ordinaria del CDA",
-    "resumen": "El CDA ha habilitado el proceso de preinscripción digital para su Asamblea General Ordinaria.",
-    "queSignifica": "Esta comunicación es de carácter institucional y no afecta la operativa aduanera. Se sugiere verificar el cronograma de la asamblea si es socio de la entidad.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42836"
-    },
-    "publicadoEn": "2026-10-28T16:24:18.917Z",
     "actualizadoEn": "2026-10-30T16:25:40.018Z"
   },
   {
