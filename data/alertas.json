@@ -1,52 +1,124 @@
 [
   {
-    "id": "2026-11-16-actualizacion-del-tipo-de-cambio-de-referencia-del-bcra-para-el-mulc-c1a435",
-    "slug": "actualizacion-del-tipo-de-cambio-de-referencia-del-bcra-para-el-mulc",
+    "id": "2026-11-17-actualizacion-del-tipo-de-cambio-de-referencia-del-bcra-al-17-11-2026-688cb8",
+    "slug": "actualizacion-del-tipo-de-cambio-de-referencia-del-bcra-al-17-11-2026",
     "organismo": "BCRA",
-    "fecha": "2026-11-16",
+    "fecha": "2026-11-17",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "Tipo de Cambio",
-      "Liquidación de Divisas",
-      "Acceso al Mercado de Cambios",
-      "Comercio Exterior"
+      "tipo de cambio",
+      "divisas",
+      "operaciones cambiarias",
+      "BCRA"
     ],
-    "titulo": "Actualización del tipo de cambio de referencia del BCRA para el MULC",
-    "resumen": "Se ha publicado el valor oficial del dólar en el Mercado Único y Libre de Cambios para la fecha indicada. Este valor es la referencia diaria utilizada para la valoración de operaciones de comercio exterior.",
-    "queSignifica": "Debe verificar que este tipo de cambio sea el aplicado en sus liquidaciones o pagos pendientes ante el BCRA. Se sugiere revisar la conciliación contable de sus divisas y consultar con su entidad bancaria la aplicación específica para su operación.",
+    "titulo": "Actualización del tipo de cambio de referencia del BCRA al 17-11-2026",
+    "resumen": "Se informa el valor del tipo de cambio oficial en el Mercado Único y Libre de Cambios (MULC) para la fecha indicada. Este valor es la referencia para la valuación de operaciones cambiarias oficiales.",
+    "queSignifica": "Debe revisar este valor para la liquidación de divisas o el pago de importaciones en su sistema contable. Se sugiere verificar su impacto en los costos de cierre de operaciones con su entidad bancaria o departamento financiero.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-11-16T19:58:48.985Z"
+    "actualizadoEn": "2026-11-17T18:55:02.660Z"
   },
   {
-    "id": "2026-11-16-habilitacion-de-preinscripcion-online-para-la-asamblea-general-ordinaria-del-cda-35c756",
-    "slug": "habilitacion-de-preinscripcion-online-para-la-asamblea-general-ordinaria-del-cda",
+    "id": "2026-11-17-preinscripcion-online-para-la-asamblea-general-ordinaria-del-cda-ac529e",
+    "slug": "preinscripcion-online-para-la-asamblea-general-ordinaria-del-cda",
     "organismo": "Aduana",
-    "fecha": "2026-11-16",
+    "fecha": "2026-11-17",
     "impacto": "bajo",
     "categoria": "normativa",
     "tags": [
       "CDA",
+      "gremial",
       "asociados",
-      "gestión institucional"
+      "gestión",
+      "institucional"
     ],
-    "titulo": "Habilitación de preinscripción online para la Asamblea General Ordinaria del CDA",
-    "resumen": "El Centro Despachantes de Aduana comunica la apertura de la instancia de preinscripción virtual para su próxima Asamblea General. Se trata de un procedimiento administrativo exclusivo para sus asociados.",
-    "queSignifica": "Esta novedad es de carácter institucional y no afecta la operatividad aduanera. Se sugiere verificar el cronograma de la asamblea si el asociado desea participar o ejercer sus derechos societarios.",
+    "titulo": "Preinscripción online para la Asamblea General Ordinaria del CDA",
+    "resumen": "Se encuentra habilitada la plataforma para realizar la preinscripción a la próxima Asamblea General Ordinaria del Centro Despachantes de Aduana.",
+    "queSignifica": "Es un trámite de carácter institucional para los socios. Se sugiere revisar el cronograma y los requisitos de participación en la web oficial del CDA si es socio de la entidad.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42836"
     },
     "publicadoEn": "2026-10-28T16:24:18.917Z",
-    "actualizadoEn": "2026-11-16T19:58:48.985Z"
+    "actualizadoEn": "2026-11-17T18:55:02.660Z"
   },
   {
-    "id": "2026-11-16-inauguracion-de-muestra-de-arte-en-la-sede-del-cda-ee2813",
+    "id": "2026-11-17-convocatoria-a-presentacion-de-memoria-y-balance-del-cda-020f1c",
+    "slug": "convocatoria-a-presentacion-de-memoria-y-balance-del-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-11-17",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "institucional",
+      "cda",
+      "gestión gremial"
+    ],
+    "titulo": "Convocatoria a presentación de Memoria y Balance del CDA",
+    "resumen": "El Centro Despachantes de Aduana informa sobre la puesta a disposición de los estados contables.",
+    "queSignifica": "Es una comunicación de carácter institucional y gremial sin impacto directo en las operaciones de comercio exterior. Se sugiere revisar la comunicación si el usuario es socio de la entidad para estar al tanto de la gestión administrativa interna.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42862"
+    },
+    "publicadoEn": "2026-11-17T18:54:22.824Z",
+    "actualizadoEn": "2026-11-17T18:55:02.660Z"
+  },
+  {
+    "id": "2026-11-17-nuevo-procedimiento-unificado-para-tratamientos-fitosanitarios-de-exportacion-61d867",
+    "slug": "nuevo-procedimiento-unificado-para-tratamientos-fitosanitarios-de-exportacion",
+    "organismo": "SENASA",
+    "fecha": "2026-11-17",
+    "impacto": "medio",
+    "categoria": "exportacion",
+    "tags": [
+      "SENASA",
+      "fumigación",
+      "tratamientos fitosanitarios",
+      "exportación",
+      "barreras no arancelarias"
+    ],
+    "titulo": "Nuevo procedimiento unificado para tratamientos fitosanitarios de exportación",
+    "resumen": "La Resolución SENASA 955/2026 estandariza los lineamientos nacionales para el control de plagas en mercadería de exportación, regulando la interacción entre exportadores y empresas fumigadoras.",
+    "queSignifica": "Deberá revisar los nuevos requisitos documentales y procedimentales para evitar demoras en la emisión de certificados fitosanitarios. Se recomienda verificar si sus proveedores de servicios de fumigación ya han adecuado sus procesos a esta normativa vigente.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42867"
+    },
+    "publicadoEn": "2026-11-17T18:54:29.424Z",
+    "actualizadoEn": "2026-11-17T18:55:02.660Z"
+  },
+  {
+    "id": "2026-11-17-unificacion-y-modernizacion-de-procedimientos-de-certificacion-fitosanitaria-de--fcb347",
+    "slug": "unificacion-y-modernizacion-de-procedimientos-de-certificacion-fitosanitaria-de-",
+    "organismo": "SENASA",
+    "fecha": "2026-11-17",
+    "impacto": "medio",
+    "categoria": "logistica",
+    "tags": [
+      "SENASA",
+      "certificación fitosanitaria",
+      "despacho",
+      "simplificación administrativa",
+      "control aduanero"
+    ],
+    "titulo": "Unificación y modernización de procedimientos de certificación fitosanitaria de SENASA",
+    "resumen": "La resolución integra y optimiza los procesos de control y certificación fitosanitaria ante SENASA. Busca agilizar la intervención oficial mediante la unificación de los circuitos procedimentales.",
+    "queSignifica": "Se recomienda revisar el nuevo manual de procedimientos para verificar si los trámites específicos de su mercadería han sido modificados. Es necesario constatar la correcta categorización de su producto en el sistema para asegurar la continuidad de sus operaciones sin demoras.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42864"
+    },
+    "publicadoEn": "2026-11-17T18:54:35.237Z",
+    "actualizadoEn": "2026-11-17T18:55:02.660Z"
+  },
+  {
+    "id": "2026-11-17-inauguracion-de-muestra-de-arte-en-la-sede-del-cda-3b46dc",
     "slug": "inauguracion-de-muestra-de-arte-en-la-sede-del-cda",
     "organismo": "Aduana",
     "fecha": "2026-11-16",
@@ -55,20 +127,20 @@
     "tags": [
       "institucional",
       "CDA",
-      "novedad gremial"
+      "novedad"
     ],
     "titulo": "Inauguración de muestra de arte en la sede del CDA",
-    "resumen": "El Centro Despachantes de Aduana comunica la apertura de una muestra cultural en sus instalaciones.",
-    "queSignifica": "Se trata de un evento institucional sin impacto en la operativa aduanera o cambiaria. Se sugiere revisar la agenda institucional si desea asistir, sin implicancias para el despacho de mercaderías.",
+    "resumen": "Se informa la realización de una actividad cultural dentro de las instalaciones del Centro Despachantes de Aduana.",
+    "queSignifica": "Es una noticia de carácter institucional sin implicancia técnica ni operativa para la gestión de despachos aduaneros. Se sugiere desestimar para fines de planificación operativa.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42848"
     },
     "publicadoEn": "2026-11-12T17:51:16.996Z",
-    "actualizadoEn": "2026-11-16T19:58:48.985Z"
+    "actualizadoEn": "2026-11-17T18:55:02.660Z"
   },
   {
-    "id": "2026-11-16-capacitacion-sobre-la-reforma-del-codigo-aduanero-a31d12",
+    "id": "2026-11-17-capacitacion-sobre-la-reforma-del-codigo-aduanero-c765da",
     "slug": "capacitacion-sobre-la-reforma-del-codigo-aduanero",
     "organismo": "Aduana",
     "fecha": "2026-11-16",
@@ -78,18 +150,42 @@
       "Código Aduanero",
       "Capacitación",
       "Legislación",
-      "Derecho Aduanero",
+      "Procedimiento Aduanero",
       "ARCA"
     ],
     "titulo": "Capacitación sobre la reforma del Código Aduanero",
-    "resumen": "El CDA organiza una charla informativa orientada a analizar las modificaciones introducidas al Código Aduanero. El objetivo es actualizar a los profesionales sobre los cambios en el marco legal vigente.",
-    "queSignifica": "Se sugiere revisar el temario de la capacitación para identificar posibles cambios en los procedimientos aduaneros. Se recomienda participar para evaluar si las reformas impactan en la operativa diaria de las destinaciones.",
+    "resumen": "El CDA organiza una charla informativa técnica sobre las recientes modificaciones al Código Aduanero argentino. El encuentro tiene como objetivo actualizar a los profesionales sobre los cambios en el marco legal vigente.",
+    "queSignifica": "Se sugiere revisar el temario de la capacitación para identificar posibles modificaciones en los procedimientos aduaneros. Es recomendable evaluar cómo estos cambios podrían influir en futuras operaciones de comercio exterior.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42841"
     },
     "publicadoEn": "2026-11-05T17:48:05.770Z",
-    "actualizadoEn": "2026-11-16T19:58:48.985Z"
+    "actualizadoEn": "2026-11-17T18:55:02.660Z"
+  },
+  {
+    "id": "2026-11-17-unificacion-de-procedimientos-y-modernizacion-en-la-certificacion-fitosanitaria--fdfa0c",
+    "slug": "unificacion-de-procedimientos-y-modernizacion-en-la-certificacion-fitosanitaria-",
+    "organismo": "SENASA",
+    "fecha": "2026-11-16",
+    "impacto": "medio",
+    "categoria": "exportacion",
+    "tags": [
+      "fitosanitario",
+      "certificacion",
+      "comercio exterior",
+      "senasa",
+      "despacho"
+    ],
+    "titulo": "Unificación de procedimientos y modernización en la certificación fitosanitaria de exportación",
+    "resumen": "La Resolución 952/2026 consolida los criterios de control y certificación fitosanitaria para productos de origen vegetal. Su objetivo es agilizar la intervención oficial mediante la simplificación de procesos administrativos.",
+    "queSignifica": "Se recomienda revisar el nuevo procedimiento para ajustar la documentación técnica de las próximas cargas. Verifique con su sector de control de calidad si la nueva normativa modifica los tiempos o requisitos documentales de su mercadería específica.",
+    "fuente": {
+      "nombre": "SENASA Comunica",
+      "url": "https://www.argentina.gob.ar/noticias/senasa-simplifica-y-moderniza-los-controles-fitosanitarios-de-exportacion-de-productos"
+    },
+    "publicadoEn": "2026-11-17T18:54:57.216Z",
+    "actualizadoEn": "2026-11-17T18:55:02.660Z"
   },
   {
     "id": "2026-11-16-xi-encuentro-nacional-de-despachantes-de-aduana-en-mar-del-plata-82b875",
@@ -638,53 +734,5 @@
     },
     "publicadoEn": "2026-11-05T17:48:35.960Z",
     "actualizadoEn": "2026-11-06T17:08:38.573Z"
-  },
-  {
-    "id": "2026-11-05-nueva-modalidad-para-la-asignacion-de-cupos-en-operaciones-de-importacion-d8b43e",
-    "slug": "nueva-modalidad-para-la-asignacion-de-cupos-en-operaciones-de-importacion",
-    "organismo": "Secretaría de Industria, Comercio y de la Pequeña y Mediana Empresa",
-    "fecha": "2026-11-02",
-    "impacto": "medio",
-    "categoria": "importacion",
-    "tags": [
-      "cupos de importación",
-      "SIRA",
-      "licencias de importación",
-      "comercio exterior",
-      "gestión aduanera"
-    ],
-    "titulo": "Nueva modalidad para la asignación de cupos en operaciones de importación",
-    "resumen": "Se establece un nuevo esquema administrativo para la asignación y gestión de los cupos destinados a operaciones de importación. La medida busca centralizar y definir nuevos criterios para la distribución de autorizaciones.",
-    "queSignifica": "Se recomienda revisar el nuevo cronograma y los requisitos técnicos de presentación de solicitudes para evitar demoras. Es fundamental auditar los estados de las declaraciones vigentes ante la Secretaría para anticipar posibles cambios operativos.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42842"
-    },
-    "publicadoEn": "2026-11-02T19:56:37.995Z",
-    "actualizadoEn": "2026-11-05T17:49:01.598Z"
-  },
-  {
-    "id": "2026-11-05-retiro-voluntario-del-mercado-de-lote-especifico-del-medicamento-neocalmans-b2f633",
-    "slug": "retiro-voluntario-del-mercado-de-lote-especifico-del-medicamento-neocalmans",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-11-02",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "ANMAT",
-      "RETIRO DE MERCADO",
-      "MEDICAMENTOS",
-      "CONTROL DE CALIDAD",
-      "SANCIONES"
-    ],
-    "titulo": "Retiro voluntario del mercado de lote específico del medicamento NEOCALMANS",
-    "resumen": "La ANMAT ha ordenado el retiro preventivo de un lote específico del producto NEOCALMANS por irregularidades detectadas. La medida busca evitar la comercialización y uso del lote afectado para garantizar la seguridad sanitaria.",
-    "queSignifica": "Debe verificar inmediatamente si su stock o mercadería en tránsito corresponde al número de lote afectado en la comunicación oficial. Se recomienda aislar dicho lote y consultar con el proveedor o laboratorio responsable para coordinar la devolución o destrucción según las pautas de ANMAT.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/retiro-del-mercado-de-un-lote-de-neocalmans"
-    },
-    "publicadoEn": "2026-11-03T17:30:09.045Z",
-    "actualizadoEn": "2026-11-05T17:49:01.598Z"
   }
 ]
