@@ -1,101 +1,81 @@
 [
   {
-    "id": "2026-11-20-actualizacion-del-tipo-de-cambio-de-referencia-del-bcra-para-el-mulc-cbb9a5",
-    "slug": "actualizacion-del-tipo-de-cambio-de-referencia-del-bcra-para-el-mulc",
+    "id": "2026-11-23-bcra-tipo-de-cambio-mulc-del-dia-708c67",
+    "slug": "bcra-tipo-de-cambio-mulc-del-dia",
     "organismo": "BCRA",
-    "fecha": "2026-11-20",
-    "impacto": "medio",
+    "fecha": "2026-11-23",
+    "impacto": "alto",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "Tipo de Cambio",
-      "BCRA",
-      "Operaciones Cambiarias",
-      "Liquidación de Divisas"
+      "tipo de cambio"
     ],
-    "titulo": "Actualización del tipo de cambio de referencia del BCRA para el MULC",
-    "resumen": "Se informa el tipo de cambio oficial del Mercado Único y Libre de Cambios para la fecha indicada.",
-    "queSignifica": "Debe verificar esta cotización para el cálculo de costos operativos, pago de derechos o liquidación de divisas. Se sugiere revisar la aplicación de esta tasa en los sistemas contables y financieros de sus operaciones vigentes.",
+    "titulo": "BCRA – Tipo de Cambio MULC del día",
+    "resumen": "Tipo de Cambio MULC ($ por USD): 1047.54 — al 2026-11-20",
+    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-11-20T18:14:49.704Z"
+    "actualizadoEn": "2026-11-23T21:53:18.607Z"
   },
   {
-    "id": "2026-11-20-presentacion-del-borrador-de-reforma-de-la-normativa-aduanera-en-el-cda-5bbc51",
-    "slug": "presentacion-del-borrador-de-reforma-de-la-normativa-aduanera-en-el-cda",
-    "organismo": "Aduana",
+    "id": "2026-11-23-el-cda-fue-sede-de-la-presentacion-del-borrador-del-proyec-6f7ab5",
+    "slug": "el-cda-fue-sede-de-la-presentacion-del-borrador-del-proyec",
+    "organismo": "CDA",
     "fecha": "2026-11-20",
     "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "CDA",
-      "legislacion aduanera",
-      "proyecto de ley",
-      "comercio exterior"
-    ],
-    "titulo": "Presentación del borrador de reforma de la normativa aduanera en el CDA",
-    "resumen": "El CDA realizó la presentación técnica de un proyecto de reforma normativa para el sector. Se trata de una instancia de difusión y análisis de un anteproyecto aún en etapa de debate.",
-    "queSignifica": "Es una instancia informativa sin cambios operativos inmediatos. Se recomienda realizar un seguimiento de los avances legislativos para evaluar posibles adecuaciones en los procesos futuros.",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "El CDA fue sede de la presentación del borrador del proyec",
+    "resumen": "En el día de ayer (19 de noviembre), se realizó en la sede del Centro Despachantes de Aduana (CDA) una presentación del borrador del proy...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42877"
     },
     "publicadoEn": "2026-11-20T18:12:23.675Z",
-    "actualizadoEn": "2026-11-20T18:14:49.704Z"
+    "actualizadoEn": "2026-11-23T21:53:18.607Z"
   },
   {
-    "id": "2026-11-20-participacion-del-cda-en-el-congreso-cepy-2026-d3fdaa",
-    "slug": "participacion-del-cda-en-el-congreso-cepy-2026",
-    "organismo": "Aduana",
+    "id": "2026-11-23-el-cda-estara-presente-en-el-congreso-cepy-2026-en-bahia-b-c66d47",
+    "slug": "el-cda-estara-presente-en-el-congreso-cepy-2026-en-bahia-b",
+    "organismo": "CDA",
     "fecha": "2026-11-20",
     "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "institucional",
-      "CDA",
-      "comercio exterior",
-      "capacitación",
-      "aduanas"
-    ],
-    "titulo": "Participación del CDA en el Congreso CEPY 2026",
-    "resumen": "El Centro Despachantes de Aduana confirma su presencia en el Congreso CEPY 2026 a realizarse en Bahía Blanca el 4 de diciembre.",
-    "queSignifica": "Es una noticia de carácter institucional sin impacto operativo. Se recomienda revisar la agenda del evento por si se tratasen temas de actualidad técnica o normativa de interés profesional.",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "El CDA estará presente en el Congreso CEPY 2026 en Bahía B",
+    "resumen": "El Centro Despachantes de Aduana (CDA) participará el próximo 4 de diciembre en el Congreso CEPY 2026, que se llevará a cabo en el Audito...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42874"
     },
     "publicadoEn": "2026-11-20T18:12:28.832Z",
-    "actualizadoEn": "2026-11-20T18:14:49.704Z"
+    "actualizadoEn": "2026-11-23T21:53:18.607Z"
   },
   {
-    "id": "2026-11-20-informe-mensual-del-indec-sobre-el-intercambio-comercial-argentino-octubre-2026-5d195a",
-    "slug": "informe-mensual-del-indec-sobre-el-intercambio-comercial-argentino-octubre-2026",
-    "organismo": "Aduana",
+    "id": "2026-11-23-indec-intercambio-comercial-argentino-octubre-2026-ca6d53",
+    "slug": "indec-intercambio-comercial-argentino-octubre-2026",
+    "organismo": "CDA",
     "fecha": "2026-11-20",
     "impacto": "bajo",
-    "categoria": "normativa",
-    "tags": [
-      "INDICE",
-      "ESTADISTICA",
-      "COMERCIO EXTERIOR",
-      "PRECIOS",
-      "ANALISIS"
-    ],
-    "titulo": "Informe mensual del INDEC sobre el Intercambio Comercial Argentino - Octubre 2026",
-    "resumen": "El informe presenta los índices de precios y cantidades del comercio exterior correspondientes al mes de octubre de 2026. Se trata de un reporte de carácter estadístico sobre el comportamiento del sector externo.",
-    "queSignifica": "Se sugiere revisar estos informes para analizar tendencias de mercado, costos sectoriales o competitividad de precios. No implica modificaciones operativas ni cambios en los procedimientos aduaneros vigentes.",
+    "categoria": "importacion",
+    "tags": [],
+    "titulo": "INDEC - Intercambio Comercial Argentino octubre 2026",
+    "resumen": "El Centro Despachantes de Aduana les acerca a sus asociados los informes técnicos sobre el Índice de precios y cantidades del comercio ext...",
+    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42873"
     },
     "publicadoEn": "2026-11-20T18:12:35.909Z",
-    "actualizadoEn": "2026-11-20T18:14:49.704Z"
+    "actualizadoEn": "2026-11-23T21:53:18.607Z"
   },
   {
-    "id": "2026-11-20-hoy-reforma-del-codigo-aduanero-df86d0",
+    "id": "2026-11-23-hoy-reforma-del-codigo-aduanero-03f05c",
     "slug": "hoy-reforma-del-codigo-aduanero",
     "organismo": "CDA",
     "fecha": "2026-11-20",
@@ -110,10 +90,10 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42841"
     },
     "publicadoEn": "2026-11-05T17:48:05.770Z",
-    "actualizadoEn": "2026-11-20T18:14:49.704Z"
+    "actualizadoEn": "2026-11-23T21:53:18.607Z"
   },
   {
-    "id": "2026-11-20-actualizacion-normativa-y-operativa-en-inocuidad-y-calidad-en-frigorificos-del-c-847ed7",
+    "id": "2026-11-23-actualizacion-normativa-y-operativa-en-inocuidad-y-calidad-en-frigorificos-del-c-64cb5f",
     "slug": "actualizacion-normativa-y-operativa-en-inocuidad-y-calidad-en-frigorificos-del-c",
     "organismo": "SENASA",
     "fecha": "2026-11-20",
@@ -131,55 +111,49 @@
       "url": "https://www.argentina.gob.ar/noticias/actualizacion-normativa-y-operativa-en-inocuidad-y-calidad-en-frigorificos-del-centro-y"
     },
     "publicadoEn": "2026-11-20T18:14:04.580Z",
-    "actualizadoEn": "2026-11-20T18:14:49.704Z"
+    "actualizadoEn": "2026-11-23T21:53:18.607Z"
   },
   {
-    "id": "2026-11-20-exportacion-de-arroz-a-chile-cumplimiento-de-controles-senasa-9ff3fb",
-    "slug": "exportacion-de-arroz-a-chile-cumplimiento-de-controles-senasa",
+    "id": "2026-11-23-se-certifico-la-exportacion-de-56-toneladas-de-arroz-entrerriano-con-destino-a-c-d52570",
+    "slug": "se-certifico-la-exportacion-de-56-toneladas-de-arroz-entrerriano-con-destino-a-c",
     "organismo": "SENASA",
     "fecha": "2026-11-20",
     "impacto": "bajo",
-    "categoria": "exportacion",
+    "categoria": "logistica",
     "tags": [
-      "exportación de alimentos",
-      "certificación fitosanitaria",
-      "arroz",
-      "tráfico vecinal",
-      "senasa"
+      "SENASA",
+      "exportación"
     ],
-    "titulo": "Exportación de arroz a Chile: cumplimiento de controles SENASA",
-    "resumen": "Se certificó una partida de 56 toneladas de arroz entrerriano para consumo humano con destino a Chile bajo controles del SENASA.",
-    "queSignifica": "Es una noticia operativa de rutina. Se recomienda a los exportadores verificar que los certificados fitosanitarios y de inocuidad estén alineados con los protocolos vigentes exigidos por Chile para cada partida específica.",
+    "titulo": "Se certificó la exportación de 56 toneladas de arroz entrerriano con destino a Chile",
+    "resumen": "En la localidad de La Paz, el SENASA inspeccionó la partida de arroz blanco elaborado a granel para consumo humano cumpliendo con los requisitos del vecino país.",
+    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
     "fuente": {
       "nombre": "SENASA Comunica",
       "url": "https://www.argentina.gob.ar/noticias/se-certifico-la-exportacion-de-56-toneladas-de-arroz-entrerriano-con-destino-chile"
     },
     "publicadoEn": "2026-11-20T18:14:15.697Z",
-    "actualizadoEn": "2026-11-20T18:14:49.704Z"
+    "actualizadoEn": "2026-11-23T21:53:18.607Z"
   },
   {
-    "id": "2026-11-20-nuevo-procedimiento-de-fiscalizacion-inteligente-para-exportacion-de-ajo-a-brasi-fc54b9",
-    "slug": "nuevo-procedimiento-de-fiscalizacion-inteligente-para-exportacion-de-ajo-a-brasi",
+    "id": "2026-11-23-sistema-de-fiscalizacion-inteligente-para-la-exportacion-de-ajo-de-mendoza-y-san-972dc7",
+    "slug": "sistema-de-fiscalizacion-inteligente-para-la-exportacion-de-ajo-de-mendoza-y-san",
     "organismo": "SENASA",
     "fecha": "2026-11-20",
-    "impacto": "medio",
-    "categoria": "exportacion",
+    "impacto": "bajo",
+    "categoria": "logistica",
     "tags": [
-      "trazabilidad",
-      "ajis",
-      "análisis de riesgo",
-      "certificación fitosanitaria",
-      "Brasil"
+      "SENASA",
+      "exportación"
     ],
-    "titulo": "Nuevo procedimiento de fiscalización inteligente para exportación de ajo a Brasil",
-    "resumen": "SENASA implementa un sistema basado en análisis de riesgo para optimizar la trazabilidad y calidad del ajo con destino a Brasil. El objetivo es reducir la tasa de rechazos en frontera mediante controles preventivos.",
-    "queSignifica": "Los exportadores deben revisar los nuevos criterios técnicos y ajustar sus procesos de trazabilidad para cumplir con el análisis de riesgo. Se recomienda verificar los protocolos vigentes en el sistema del SENASA para evitar demoras en la emisión de certificados fitosanitarios.",
+    "titulo": "Sistema de fiscalización inteligente para la exportación de ajo de Mendoza y San Juan a Brasil",
+    "resumen": "SENASA establece un procedimiento operativo basado en el análisis de riesgo para fortalecer la trazabilidad y la calidad de la producción, y minimizar riesgos de rechazo en frontera.",
+    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
     "fuente": {
       "nombre": "SENASA Comunica",
       "url": "https://www.argentina.gob.ar/noticias/sistema-de-fiscalizacion-inteligente-para-la-exportacion-de-ajo-de-mendoza-y-san-juan"
     },
     "publicadoEn": "2026-11-20T18:14:22.247Z",
-    "actualizadoEn": "2026-11-20T18:14:49.704Z"
+    "actualizadoEn": "2026-11-23T21:53:18.607Z"
   },
   {
     "id": "2026-11-20-cronograma-operativo-de-terminales-portuarias-por-feriado-ab6ef0",
@@ -845,77 +819,5 @@
     },
     "publicadoEn": "2026-11-11T17:38:16.300Z",
     "actualizadoEn": "2026-11-11T17:39:18.837Z"
-  },
-  {
-    "id": "2026-11-09-nueva-alerta-fitosanitaria-por-lobesia-botrana-en-san-juan-80a2ac",
-    "slug": "nueva-alerta-fitosanitaria-por-lobesia-botrana-en-san-juan",
-    "organismo": "SENASA",
-    "fecha": "2026-11-06",
-    "impacto": "medio",
-    "categoria": "logistica",
-    "tags": [
-      "fitosanitario",
-      "vid",
-      "certificados",
-      "barreras no arancelarias",
-      "SENASA"
-    ],
-    "titulo": "Nueva alerta fitosanitaria por Lobesia botrana en San Juan",
-    "resumen": "SENASA establece la obligatoriedad de tratamientos fitosanitarios específicos para productores de vid en la provincia de San Juan. La medida busca controlar la plaga Lobesia botrana mediante aplicaciones en periodos definidos.",
-    "queSignifica": "Los exportadores de productos vitivinícolas deben revisar si sus proveedores se encuentran en las zonas afectadas y verificar que la mercadería cuente con los certificados fitosanitarios vigentes exigidos por SENASA para evitar trabas en el despacho.",
-    "fuente": {
-      "nombre": "SENASA Comunica",
-      "url": "https://www.argentina.gob.ar/noticias/segunda-alerta-fitosanitaria-para-el-control-de-la-plaga-lobesia-botrana-en-la-provincia-de"
-    },
-    "publicadoEn": "2026-11-09T20:22:27.214Z",
-    "actualizadoEn": "2026-11-09T20:23:42.022Z"
-  },
-  {
-    "id": "2026-11-09-refuerzo-en-controles-de-transito-de-productos-vegetales-por-senasa-bbc93c",
-    "slug": "refuerzo-en-controles-de-transito-de-productos-vegetales-por-senasa",
-    "organismo": "SENASA",
-    "fecha": "2026-11-06",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "SENASA",
-      "sanidad vegetal",
-      "transporte de carga",
-      "control fitosanitario",
-      "tránsito aduanero"
-    ],
-    "titulo": "Refuerzo en controles de tránsito de productos vegetales por SENASA",
-    "resumen": "SENASA interdictó 27 toneladas de frutas y hortalizas en Corrientes por falta de garantías sanitarias. La medida busca prevenir la dispersión de plagas y asegurar la inocuidad alimentaria.",
-    "queSignifica": "Se sugiere verificar que toda la documentación sanitaria (DT-e, remitos y certificados fitosanitarios) esté vigente y coincida con la carga transportada. Se recomienda auditar la habilitación del transporte y el estado de los precintos para evitar bloqueos en controles en ruta.",
-    "fuente": {
-      "nombre": "SENASA Comunica",
-      "url": "https://www.argentina.gob.ar/noticias/se-evito-que-mas-de-27-toneladas-de-frutas-y-hortalizas-sin-garantias-sanitarias-llegaran"
-    },
-    "publicadoEn": "2026-11-09T20:22:32.230Z",
-    "actualizadoEn": "2026-11-09T20:23:42.022Z"
-  },
-  {
-    "id": "2026-11-09-anmat-prohibe-el-uso-y-comercializacion-de-productos-medicos-marca-veritas-b1ec6c",
-    "slug": "anmat-prohibe-el-uso-y-comercializacion-de-productos-medicos-marca-veritas",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-11-06",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "ANMAT",
-      "productos médicos",
-      "prohibición",
-      "comercialización",
-      "inspección"
-    ],
-    "titulo": "ANMAT prohíbe el uso y comercialización de productos médicos marca VERITAS",
-    "resumen": "La disposición prohíbe la comercialización, distribución y uso de todos los productos médicos marca VERITAS por carecer de registro sanitario y autorizaciones pertinentes.",
-    "queSignifica": "Es imperativo verificar el stock existente y la documentación de respaldo de los productos marca VERITAS. Se sugiere consultar con el departamento de Asuntos Regulatorios para asegurar que ninguna mercadería de esta marca sea ingresada a despacho o distribuida en el mercado local.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-distintos-productos-medicos-de-la-marca-veritas"
-    },
-    "publicadoEn": "2026-11-06T17:07:54.851Z",
-    "actualizadoEn": "2026-11-09T20:23:42.022Z"
   }
 ]
