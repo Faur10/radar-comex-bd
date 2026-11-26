@@ -1,64 +1,77 @@
 [
   {
-    "id": "2026-11-25-bcra-tipo-de-cambio-mulc-del-dia-b3f2c5",
-    "slug": "bcra-tipo-de-cambio-mulc-del-dia",
+    "id": "2026-11-26-actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc-a1d835",
+    "slug": "actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc",
     "organismo": "BCRA",
-    "fecha": "2026-11-25",
-    "impacto": "alto",
+    "fecha": "2026-11-26",
+    "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
-      "tipo de cambio"
+      "tipo de cambio",
+      "divisas",
+      "liquidación",
+      "pagos al exterior"
     ],
-    "titulo": "BCRA – Tipo de Cambio MULC del día",
-    "resumen": "Tipo de Cambio MULC ($ por USD): 1062.01 — al 2026-11-25",
-    "queSignifica": "Esta disposición puede modificar el marco regulatorio de las operaciones de comercio exterior. Se recomienda revisar su aplicación con el asesor de COMEX.",
+    "titulo": "Actualización de la cotización oficial del dólar en el MULC",
+    "resumen": "El BCRA ha fijado el tipo de cambio oficial de referencia del Mercado Único y Libre de Cambios para la fecha indicada.",
+    "queSignifica": "El operador debe utilizar esta cotización para el cálculo de costos, liquidación de divisas o pago de derechos. Se recomienda verificar la aplicación de este tipo de cambio según la normativa cambiaria vigente para su operación particular.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-11-25T19:43:44.880Z"
+    "actualizadoEn": "2026-11-26T19:24:51.788Z"
   },
   {
-    "id": "2026-11-25-hoy-cultura-en-el-cda-inauguracion-de-la-muestra-de-arte-112325",
-    "slug": "hoy-cultura-en-el-cda-inauguracion-de-la-muestra-de-arte",
-    "organismo": "CDA",
-    "fecha": "2026-11-25",
+    "id": "2026-11-26-preinscripcion-online-para-la-asamblea-general-ordinaria-del-cda-ca430a",
+    "slug": "preinscripcion-online-para-la-asamblea-general-ordinaria-del-cda",
+    "organismo": "Aduana",
+    "fecha": "2026-11-26",
     "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [],
-    "titulo": "#HOY CULTURA EN EL CDA: Inauguración de la muestra de arte",
-    "resumen": "El Centro Despachantes de Aduana (CDA) tiene el agrado de invitar a sus asociados y al público en general a la inauguración de una nueva m...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42848"
-    },
-    "publicadoEn": "2026-11-12T17:51:16.996Z",
-    "actualizadoEn": "2026-11-25T19:43:44.880Z"
-  },
-  {
-    "id": "2026-11-25-manana-preinscripcion-online-a-la-asamblea-general-ordina-da14d1",
-    "slug": "manana-preinscripcion-online-a-la-asamblea-general-ordina",
-    "organismo": "CDA",
-    "fecha": "2026-11-25",
-    "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [],
-    "titulo": "#MAÑANA Preinscripción Online a la Asamblea General Ordina",
-    "resumen": "El Centro Despachantes de Aduana (CDA) informa a sus asociados que se encuentra habilitada la \"Preinscripción Online\" para la Asamblea Gene...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "categoria": "normativa",
+    "tags": [
+      "CDA",
+      "Asamblea",
+      "Institucional",
+      "Despachantes",
+      "Gremial"
+    ],
+    "titulo": "Preinscripción online para la Asamblea General Ordinaria del CDA",
+    "resumen": "El Centro Despachantes de Aduana habilitó el sistema de preinscripción digital para su próxima Asamblea General Ordinaria.",
+    "queSignifica": "Esta comunicación es de carácter institucional y no afecta la operatividad aduanera. Se recomienda a los asociados revisar el sitio oficial del CDA si desean participar o conocer el orden del día.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42836"
     },
     "publicadoEn": "2026-10-28T16:24:18.917Z",
-    "actualizadoEn": "2026-11-25T19:43:44.880Z"
+    "actualizadoEn": "2026-11-26T19:24:51.788Z"
   },
   {
-    "id": "2026-11-25-disponibilidad-de-material-literario-en-la-sede-del-centro-despachantes-de-aduan-8ea885",
-    "slug": "disponibilidad-de-material-literario-en-la-sede-del-centro-despachantes-de-aduan",
+    "id": "2026-11-26-inauguracion-de-muestra-de-arte-en-el-centro-despachantes-de-aduana-5c7462",
+    "slug": "inauguracion-de-muestra-de-arte-en-el-centro-despachantes-de-aduana",
+    "organismo": "Aduana",
+    "fecha": "2026-11-26",
+    "impacto": "bajo",
+    "categoria": "normativa",
+    "tags": [
+      "institucional",
+      "CDA",
+      "novedad gremial"
+    ],
+    "titulo": "Inauguración de muestra de arte en el Centro Despachantes de Aduana",
+    "resumen": "El CDA organiza un evento cultural abierto al público y a sus asociados.",
+    "queSignifica": "Se trata de una comunicación institucional sin impacto en la operativa diaria de comercio exterior, por lo cual no requiere acciones de gestión aduanera.",
+    "fuente": {
+      "nombre": "Centro Despachantes de Aduana – Noticias",
+      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42848"
+    },
+    "publicadoEn": "2026-11-12T17:51:16.996Z",
+    "actualizadoEn": "2026-11-26T19:24:51.788Z"
+  },
+  {
+    "id": "2026-11-26-disponibilidad-de-ejemplares-de-la-novela-institucional-del-cda-45d957",
+    "slug": "disponibilidad-de-ejemplares-de-la-novela-institucional-del-cda",
     "organismo": "Aduana",
     "fecha": "2026-11-25",
     "impacto": "bajo",
@@ -66,45 +79,45 @@
     "tags": [
       "institucional",
       "cda",
-      "capacitación profesional"
+      "profesión"
     ],
-    "titulo": "Disponibilidad de material literario en la sede del Centro Despachantes de Aduana",
-    "resumen": "El CDA informa a sus asociados sobre la disponibilidad de ejemplares de una obra literaria vinculada a la profesión para su adquisición en la sede central.",
-    "queSignifica": "Esta comunicación tiene carácter institucional y no afecta la operativa aduanera. Se recomienda consultar el sitio oficial del CDA si desea adquirir el material.",
+    "titulo": "Disponibilidad de ejemplares de la novela institucional del CDA",
+    "resumen": "El CDA informa que se encuentra disponible para la venta en su sede central una novela que reivindica la profesión de despachante de aduana.",
+    "queSignifica": "Es una comunicación de carácter institucional sin impacto en la operatoria de comercio exterior; se sugiere desestimar para la gestión de despachos.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42882"
     },
     "publicadoEn": "2026-11-25T19:42:23.597Z",
-    "actualizadoEn": "2026-11-25T19:43:44.880Z"
+    "actualizadoEn": "2026-11-26T19:24:51.788Z"
   },
   {
-    "id": "2026-11-25-anmat-prohibe-la-comercializacion-y-uso-del-producto-spray-frio-gmp-526792",
+    "id": "2026-11-26-anmat-prohibe-la-comercializacion-y-uso-del-producto-spray-frio-gmp-c68888",
     "slug": "anmat-prohibe-la-comercializacion-y-uso-del-producto-spray-frio-gmp",
     "organismo": "ANMAT / INAL",
     "fecha": "2026-11-25",
     "impacto": "alto",
     "categoria": "importacion",
     "tags": [
-      "anmat",
       "prohibición",
+      "ANMAT",
+      "intervención",
       "seguridad sanitaria",
-      "bloqueo",
-      "importación"
+      "cumplimiento normativo"
     ],
     "titulo": "ANMAT prohíbe la comercialización y uso del producto Spray Frío GMP",
-    "resumen": "La ANMAT ha dispuesto la prohibición de comercialización, distribución y uso del producto Spray Frío marca GMP en todo el territorio nacional.",
-    "queSignifica": "Los importadores deben verificar sus stocks y la mercadería en curso para asegurar que no contenga este producto, evitando así eventuales intervenciones de Aduana o sanciones comerciales por comercializar artículos prohibidos.",
+    "resumen": "La autoridad sanitaria dispuso la prohibición de uso, distribución y comercialización del producto Spray Frío GMP por carecer de registro sanitario ante el organismo.",
+    "queSignifica": "Los importadores deben verificar el stock en depósito y suspender inmediatamente cualquier operación de despacho, venta o distribución del producto. Se recomienda revisar la base de datos de productos registrados de ANMAT para asegurar la conformidad de toda la mercadería ingresada.",
     "fuente": {
       "nombre": "ANMAT – Alertas",
       "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-el-producto-spray-frio-gmp"
     },
     "publicadoEn": "2026-11-25T19:43:23.140Z",
-    "actualizadoEn": "2026-11-25T19:43:44.880Z"
+    "actualizadoEn": "2026-11-26T19:24:51.788Z"
   },
   {
-    "id": "2026-11-25-actualizacion-de-normas-sobre-acceso-al-mercado-unico-y-libre-de-cambios-1e45d7",
-    "slug": "actualizacion-de-normas-sobre-acceso-al-mercado-unico-y-libre-de-cambios",
+    "id": "2026-11-26-actualizacion-de-las-normas-cambiarias-sobre-acceso-al-mercado-de-cambios-bd8719",
+    "slug": "actualizacion-de-las-normas-cambiarias-sobre-acceso-al-mercado-de-cambios",
     "organismo": "BCRA",
     "fecha": "2026-11-24",
     "impacto": "alto",
@@ -112,123 +125,139 @@
     "tags": [
       "MULC",
       "acceso al mercado de cambios",
-      "pagos al exterior",
       "BCRA",
-      "operaciones cambiarias"
+      "giro de divisas",
+      "normativa cambiaria"
     ],
-    "titulo": "Actualización de normas sobre acceso al Mercado Único y Libre de Cambios",
-    "resumen": "La norma establece nuevos requisitos y condiciones para el acceso al MULC por parte de los operadores de comercio exterior. Define los mecanismos de cumplimiento necesarios para validar el giro de divisas en operaciones vigentes.",
-    "queSignifica": "Es necesario verificar el estado de los comprobantes y la nueva documentación exigida para evitar bloqueos en el giro de divisas. Se recomienda auditar la posición cambiaria de la empresa y consultar con su entidad bancaria para validar la operatividad bajo el nuevo marco.",
+    "titulo": "Actualización de las normas cambiarias sobre acceso al mercado de cambios",
+    "resumen": "La comunicación establece nuevas disposiciones para el acceso al Mercado Único y Libre de Cambios (MULC) aplicables a las operaciones de comercio exterior. Define los requisitos operativos y documentales necesarios para cursar pagos al exterior.",
+    "queSignifica": "Se recomienda revisar el alcance de la norma frente a su operativa cambiaria y consultar con su entidad financiera bancaria para verificar si las nuevas pautas afectan sus pendientes de pago o futuras liquidaciones. Evalúe con su departamento contable la vigencia de las declaraciones juradas y plazos aplicables a su posición.",
     "fuente": {
       "nombre": "Boletín Oficial de la República Argentina",
       "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350696/20261124"
     },
     "normativaRef": "Comunicación \"A\" 8511/2026",
     "publicadoEn": "2026-11-24T20:28:04.261Z",
-    "actualizadoEn": "2026-11-25T19:43:44.880Z"
+    "actualizadoEn": "2026-11-26T19:24:51.788Z"
   },
   {
-    "id": "2026-11-25-invitacion-capacitacion-control-valoracion-tributaci-fee381",
-    "slug": "invitacion-capacitacion-control-valoracion-tributaci",
-    "organismo": "CDA",
+    "id": "2026-11-26-capacitacion-sobre-control-valoracion-y-tributacion-aduanera-76594b",
+    "slug": "capacitacion-sobre-control-valoracion-y-tributacion-aduanera",
+    "organismo": "Aduana",
     "fecha": "2026-11-24",
     "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [],
-    "titulo": "Invitación - Capacitación: Control, valoración, tributaci",
-    "resumen": "El Centro Despachantes de Aduana (CDA) informa a sus asociados sobre una nueva propuesta de capacitación organizada por SUPARA y la Asociac...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "categoria": "normativa",
+    "tags": [
+      "capacitación",
+      "valoración aduanera",
+      "tributación",
+      "control aduanero",
+      "actualización profesional"
+    ],
+    "titulo": "Capacitación sobre control, valoración y tributación aduanera",
+    "resumen": "El CDA y SUPARA convocan a una jornada de capacitación técnica sobre mecanismos de control, valoración y tributación en el comercio exterior.",
+    "queSignifica": "Se sugiere revisar el temario de la convocatoria para evaluar si los contenidos resultan pertinentes para actualizar los conocimientos operativos de su equipo técnico.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42879"
     },
     "publicadoEn": "2026-11-24T20:28:12.572Z",
-    "actualizadoEn": "2026-11-25T19:43:44.880Z"
+    "actualizadoEn": "2026-11-26T19:24:51.788Z"
   },
   {
-    "id": "2026-11-25-el-cda-invita-a-participar-de-una-nueva-mesa-de-trabajo-sobr-5ff2b4",
-    "slug": "el-cda-invita-a-participar-de-una-nueva-mesa-de-trabajo-sobr",
-    "organismo": "CDA",
+    "id": "2026-11-26-convocatoria-del-cda-a-mesa-de-trabajo-para-asociados-542b97",
+    "slug": "convocatoria-del-cda-a-mesa-de-trabajo-para-asociados",
+    "organismo": "Aduana",
     "fecha": "2026-11-24",
     "impacto": "bajo",
-    "categoria": "importacion",
-    "tags": [],
-    "titulo": "El CDA invita a participar de una nueva Mesa de Trabajo sobr",
-    "resumen": "El Centro Despachantes de Aduana (CDA) invita a todos sus asociados a participar de una nueva Mesa de Trabajo, que tendrá lugar el próximo...",
-    "queSignifica": "Revisá si esta normativa afecta las importaciones en curso o las próximas operaciones. Consultá con tu despachante para evaluar el impacto en la destinación aduanera.",
+    "categoria": "normativa",
+    "tags": [
+      "CDA",
+      "comercio exterior",
+      "mesa de trabajo",
+      "gestión aduanera"
+    ],
+    "titulo": "Convocatoria del CDA a Mesa de Trabajo para asociados",
+    "resumen": "El Centro Despachantes de Aduana organiza un espacio de intercambio para sus socios sobre temas de interés en la operativa de comercio exterior.",
+    "queSignifica": "Se sugiere a los asociados consultar el cronograma de la entidad para verificar si los temas a tratar impactan en sus operaciones vigentes y evaluar la conveniencia de participar.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42878"
     },
     "publicadoEn": "2026-11-24T20:28:30.182Z",
-    "actualizadoEn": "2026-11-25T19:43:44.880Z"
+    "actualizadoEn": "2026-11-26T19:24:51.788Z"
   },
   {
-    "id": "2026-11-25-cese-de-actividades-del-cda-por-feriado-del-23-de-noviembre-de-2026-e1cfc8",
-    "slug": "cese-de-actividades-del-cda-por-feriado-del-23-de-noviembre-de-2026",
+    "id": "2026-11-26-cierre-de-atencion-institucional-del-cda-por-feriado-del-23-de-noviembre-de-2026-f2471c",
+    "slug": "cierre-de-atencion-institucional-del-cda-por-feriado-del-23-de-noviembre-de-2026",
     "organismo": "Aduana",
     "fecha": "2026-11-24",
     "impacto": "bajo",
     "categoria": "logistica",
     "tags": [
       "CDA",
-      "operatividad aduanera",
-      "asistencia",
-      "cronograma",
-      "comercio exterior"
+      "operatividad",
+      "gestión aduanera",
+      "feriado",
+      "despachante"
     ],
-    "titulo": "Cese de actividades del CDA por feriado del 23 de noviembre de 2026",
-    "resumen": "El Centro Despachantes de Aduana comunica que permanecerá cerrado al público el día 23 de noviembre de 2026 debido a la conmemoración del feriado.",
-    "queSignifica": "Se recomienda revisar si las operaciones programadas requieren asistencia técnica del CDA para prever posibles demoras, aunque el sistema aduanero SIM/Malvina mantiene su operatividad habitual.",
+    "titulo": "Cierre de atención institucional del CDA por feriado del 23 de noviembre de 2026",
+    "resumen": "El Centro Despachantes de Aduana comunica que no brindará atención presencial ni administrativa debido al feriado. La medida afecta exclusivamente las actividades institucionales del organismo.",
+    "queSignifica": "Revise si su operativa requiere gestiones directas en las oficinas del CDA antes de la fecha indicada. Se sugiere prever la carga de trámites administrativos para días hábiles previos.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42863"
     },
     "publicadoEn": "2026-11-19T18:46:31.428Z",
-    "actualizadoEn": "2026-11-25T19:43:44.880Z"
+    "actualizadoEn": "2026-11-26T19:24:51.788Z"
   },
   {
-    "id": "2026-11-25-cronogramas-de-atencion-en-terminales-portuarias-durante-dias-feriados-f5997e",
-    "slug": "cronogramas-de-atencion-en-terminales-portuarias-durante-dias-feriados",
+    "id": "2026-11-26-cronograma-operativo-de-terminales-portuarias-por-feriado-d6c5f0",
+    "slug": "cronograma-operativo-de-terminales-portuarias-por-feriado",
     "organismo": "Aduana",
     "fecha": "2026-11-24",
     "impacto": "bajo",
     "categoria": "logistica",
     "tags": [
+      "cronograma",
       "terminales portuarias",
-      "feriados",
-      "logística",
-      "operativa aduanera"
+      "feriado",
+      "operativa",
+      "puerto"
     ],
-    "titulo": "Cronogramas de atención en terminales portuarias durante días feriados",
-    "resumen": "Se comunica el esquema de funcionamiento y disponibilidad de las terminales portuarias durante el feriado vigente.",
-    "queSignifica": "Verifique con su agente de carga o terminal la disponibilidad de turnos para el retiro o ingreso de contenedores. Se sugiere planificar las operaciones para evitar sobrecostos por demoras o estadías.",
+    "titulo": "Cronograma operativo de terminales portuarias por feriado",
+    "resumen": "Se informa el detalle de los horarios y guardias de las terminales portuarias durante el feriado.",
+    "queSignifica": "Se sugiere verificar la disponibilidad de turnos y servicios de la terminal específica para evitar demoras en el retiro o ingreso de cargas. Es recomendable coordinar con el depósito fiscal o terminal ante cualquier necesidad de movimiento en fechas inhábiles.",
     "fuente": {
       "nombre": "Centro Despachantes de Aduana – Noticias",
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42872"
     },
     "publicadoEn": "2026-11-19T18:46:12.533Z",
-    "actualizadoEn": "2026-11-25T19:43:44.880Z"
+    "actualizadoEn": "2026-11-26T19:24:51.788Z"
   },
   {
-    "id": "2026-11-25-anmat-prohibe-distintos-productos-medicos-de-las-marcas-metal-gauss-e-imeco-49e51b",
-    "slug": "anmat-prohibe-distintos-productos-medicos-de-las-marcas-metal-gauss-e-imeco",
+    "id": "2026-11-26-anmat-prohibe-la-comercializacion-de-productos-medicos-marcas-metal-gauss-e-imec-cb090e",
+    "slug": "anmat-prohibe-la-comercializacion-de-productos-medicos-marcas-metal-gauss-e-imec",
     "organismo": "ANMAT / INAL",
     "fecha": "2026-11-24",
     "impacto": "alto",
-    "categoria": "logistica",
+    "categoria": "importacion",
     "tags": [
-      "ANMAT"
+      "ANMAT",
+      "productos médicos",
+      "prohibición comercialización",
+      "bloqueo de aduana",
+      "SIMI/SIRA"
     ],
-    "titulo": "ANMAT prohíbe distintos productos médicos de las marcas Metal Gauss e IMECO",
-    "resumen": "ANMAT prohíbe distintos productos médicos de las marcas Metal Gauss e IMECO",
-    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
+    "titulo": "ANMAT prohíbe la comercialización de productos médicos marcas Metal Gauss e IMECO",
+    "resumen": "La medida dispone la prohibición de uso, comercialización y distribución en todo el territorio nacional de diversos productos médicos fabricados por Metal Gauss e IMECO por carecer de registro sanitario. La normativa impacta directamente en el levante de mercadería y la tenencia de stock en depósitos fiscales.",
+    "queSignifica": "Se recomienda verificar de inmediato el stock en depósito y las operaciones en curso para asegurar que no contengan productos de estas marcas, evitando así posibles incautaciones o rechazos en el despacho a plaza. Asimismo, es prudente consultar con el área de asuntos regulatorios para evaluar el impacto en las declaraciones juradas de salud vigentes.",
     "fuente": {
       "nombre": "ANMAT – Alertas",
       "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-distintos-productos-medicos-de-las-marcas-metal-gauss-e-imeco"
     },
     "publicadoEn": "2026-11-24T20:28:59.792Z",
-    "actualizadoEn": "2026-11-25T19:43:44.880Z"
+    "actualizadoEn": "2026-11-26T19:24:51.788Z"
   },
   {
     "id": "2026-11-23-el-cda-fue-sede-de-la-presentacion-del-borrador-del-proyec-6f7ab5",
@@ -840,101 +869,5 @@
     },
     "publicadoEn": "2026-11-12T17:52:02.544Z",
     "actualizadoEn": "2026-11-12T17:52:19.167Z"
-  },
-  {
-    "id": "2026-11-13-cronogramas-de-atencion-en-terminales-portuarias-por-feriados-d0fa35",
-    "slug": "cronogramas-de-atencion-en-terminales-portuarias-por-feriados",
-    "organismo": "Aduana",
-    "fecha": "2026-11-11",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "cronograma",
-      "terminales",
-      "operativa portuaria",
-      "feriados",
-      "despachante"
-    ],
-    "titulo": "Cronogramas de atención en terminales portuarias por feriados",
-    "resumen": "El CDA informa el esquema operativo de las terminales portuarias ante los feriados por la visita del Papa.",
-    "queSignifica": "Se sugiere verificar la disponibilidad de turnos y guardias en las terminales con sus agentes de carga para evitar demoras en el retiro o ingreso de mercadería. Es recomendable confirmar las operaciones programadas para las fechas mencionadas.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42843"
-    },
-    "publicadoEn": "2026-11-02T19:56:29.889Z",
-    "actualizadoEn": "2026-11-13T17:28:56.002Z"
-  },
-  {
-    "id": "2026-11-13-cese-de-actividades-del-cda-por-feriados-del-9-y-10-de-octubre-8adb1a",
-    "slug": "cese-de-actividades-del-cda-por-feriados-del-9-y-10-de-octubre",
-    "organismo": "Aduana",
-    "fecha": "2026-11-11",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "operatividad aduanera",
-      "cronograma",
-      "despacho",
-      "feriado",
-      "gestión documental"
-    ],
-    "titulo": "Cese de actividades del CDA por feriados del 9 y 10 de octubre",
-    "resumen": "El Centro Despachantes de Aduana comunica el cese de sus actividades administrativas durante las jornadas del 9 y 10 de octubre debido a feriados.",
-    "queSignifica": "Se recomienda revisar el cronograma de vencimientos de operaciones y turnos de retiro en terminales. Considere posibles demoras administrativas en la gestión ante el CDA durante estas fechas.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42845"
-    },
-    "publicadoEn": "2026-11-05T17:48:20.310Z",
-    "actualizadoEn": "2026-11-13T17:28:56.002Z"
-  },
-  {
-    "id": "2026-11-13-prohibicion-de-comercializacion-y-uso-de-productos-medicos-gore-viabahn-sustraid-cb6957",
-    "slug": "prohibicion-de-comercializacion-y-uso-de-productos-medicos-gore-viabahn-sustraid",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-11-11",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "productos medicos",
-      "ANMAT",
-      "control sanitario",
-      "prohibicion de comercializacion",
-      "gestion de stock"
-    ],
-    "titulo": "Prohibición de comercialización y uso de productos médicos GORE VIABAHN sustraídos",
-    "resumen": "La ANMAT prohibió el uso, distribución y comercialización de unidades específicas de la marca GORE VIABAHN debido a su sustracción del canal legítimo.",
-    "queSignifica": "Se recomienda revisar el inventario y los lotes ingresados para verificar que no coincidan con los números de serie informados en la disposición. Ante la tenencia de mercadería alcanzada, se debe dar aviso inmediato a la autoridad sanitaria y suspender su despacho o venta.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-productos-medicos-de-la-marca-gore-viabahn-sustraidos"
-    },
-    "publicadoEn": "2026-11-12T17:52:13.790Z",
-    "actualizadoEn": "2026-11-13T17:28:56.002Z"
-  },
-  {
-    "id": "2026-11-11-reapertura-del-paso-internacional-pehuenche-para-operaciones-de-comercio-exterio-84faf7",
-    "slug": "reapertura-del-paso-internacional-pehuenche-para-operaciones-de-comercio-exterio",
-    "organismo": "Aduana",
-    "fecha": "2026-11-11",
-    "impacto": "bajo",
-    "categoria": "logistica",
-    "tags": [
-      "Paso Pehuenche",
-      "transporte internacional",
-      "logística terrestre",
-      "comercio bilateral",
-      "aduanas"
-    ],
-    "titulo": "Reapertura del Paso Internacional Pehuenche para operaciones de comercio exterior",
-    "resumen": "Se informa la rehabilitación operativa del paso fronterizo Pehuenche que conecta Argentina con Chile. Esta medida restablece el tránsito terrestre internacional en dicho corredor.",
-    "queSignifica": "Se sugiere verificar la disponibilidad de turnos en el paso y las condiciones actuales de transitabilidad. Revise con sus operadores logísticos si este punto resulta eficiente para sus rutas habituales.",
-    "fuente": {
-      "nombre": "Centro Despachantes de Aduana – Noticias",
-      "url": "https://www.cda.org.ar/detalle_noticia.php?id=42856"
-    },
-    "publicadoEn": "2026-11-11T17:38:16.300Z",
-    "actualizadoEn": "2026-11-11T17:39:18.837Z"
   }
 ]
