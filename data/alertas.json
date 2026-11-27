@@ -1,27 +1,68 @@
 [
   {
-    "id": "2026-11-26-actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc-a1d835",
-    "slug": "actualizacion-de-la-cotizacion-oficial-del-dolar-en-el-mulc",
+    "id": "2026-11-27-actualizacion-del-tipo-de-cambio-oficial-del-bcra-42f902",
+    "slug": "actualizacion-del-tipo-de-cambio-oficial-del-bcra",
     "organismo": "BCRA",
-    "fecha": "2026-11-26",
+    "fecha": "2026-11-27",
     "impacto": "medio",
     "categoria": "normativa",
     "tags": [
       "MULC",
       "tipo de cambio",
       "divisas",
-      "liquidación",
-      "pagos al exterior"
+      "operaciones cambiarias"
     ],
-    "titulo": "Actualización de la cotización oficial del dólar en el MULC",
-    "resumen": "El BCRA ha fijado el tipo de cambio oficial de referencia del Mercado Único y Libre de Cambios para la fecha indicada.",
-    "queSignifica": "El operador debe utilizar esta cotización para el cálculo de costos, liquidación de divisas o pago de derechos. Se recomienda verificar la aplicación de este tipo de cambio según la normativa cambiaria vigente para su operación particular.",
+    "titulo": "Actualización del tipo de cambio oficial del BCRA",
+    "resumen": "Se informa el valor del tipo de cambio oficial del Mercado Único y Libre de Cambios para la fecha indicada.",
+    "queSignifica": "El operador debe utilizar esta cotización de referencia para la liquidación de divisas o el cálculo de obligaciones en moneda extranjera. Se sugiere verificar su impacto en los costos operativos y la registración contable de las operaciones de comercio exterior.",
     "fuente": {
       "nombre": "BCRA – Estadísticas Cambiarias",
       "url": "https://www.bcra.gob.ar/PublicacionesEstadisticas/Tipos_de_cambio_repo.asp"
     },
     "publicadoEn": "2026-06-28T15:11:17.497Z",
-    "actualizadoEn": "2026-11-26T19:24:51.788Z"
+    "actualizadoEn": "2026-11-27T19:18:18.757Z"
+  },
+  {
+    "id": "2026-11-27-nueva-terminal-de-cargas-habilitada-por-senasa-en-santa-elena-entre-rios-01d6fe",
+    "slug": "nueva-terminal-de-cargas-habilitada-por-senasa-en-santa-elena-entre-rios",
+    "organismo": "SENASA",
+    "fecha": "2026-11-27",
+    "impacto": "bajo",
+    "categoria": "logistica",
+    "tags": [
+      "SENASA",
+      "Exportación",
+      "Terminal de Cargas",
+      "Origen Vegetal",
+      "Habilitación"
+    ],
+    "titulo": "Nueva terminal de cargas habilitada por SENASA en Santa Elena, Entre Ríos",
+    "resumen": "El SENASA habilitó una nueva terminal en Santa Elena para la operatoria de exportación de productos de origen vegetal.",
+    "queSignifica": "Los exportadores con base en la zona pueden evaluar esta terminal como una nueva alternativa logística para sus embarques. Se recomienda verificar con el operador logístico si la terminal cuenta con las certificaciones específicas para el tipo de producto vegetal a exportar.",
+    "fuente": {
+      "nombre": "SENASA Comunica",
+      "url": "https://www.argentina.gob.ar/noticias/se-registro-una-nueva-terminal-de-cargas-en-entre-rios-para-la-exportacion-de-productos-de"
+    },
+    "publicadoEn": "2026-11-27T19:17:40.723Z",
+    "actualizadoEn": "2026-11-27T19:18:18.757Z"
+  },
+  {
+    "id": "2026-11-27-retiro-del-mercado-de-nueve-lotes-de-gobbifol-5492ac",
+    "slug": "retiro-del-mercado-de-nueve-lotes-de-gobbifol",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-11-27",
+    "impacto": "alto",
+    "categoria": "logistica",
+    "tags": [],
+    "titulo": "Retiro del mercado de nueve lotes de GOBBIFOL",
+    "resumen": "Retiro del mercado de nueve lotes de GOBBIFOL",
+    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/retiro-del-mercado-de-nueve-lotes-de-gobbifol"
+    },
+    "publicadoEn": "2026-11-27T19:17:55.680Z",
+    "actualizadoEn": "2026-11-27T19:18:18.757Z"
   },
   {
     "id": "2026-11-26-preinscripcion-online-para-la-asamblea-general-ordinaria-del-cda-ca430a",
@@ -70,6 +111,30 @@
     "actualizadoEn": "2026-11-26T19:24:51.788Z"
   },
   {
+    "id": "2026-11-27-anmat-prohibe-la-comercializacion-y-uso-del-producto-spray-frio-gmp-839749",
+    "slug": "anmat-prohibe-la-comercializacion-y-uso-del-producto-spray-frio-gmp",
+    "organismo": "ANMAT / INAL",
+    "fecha": "2026-11-25",
+    "impacto": "alto",
+    "categoria": "importacion",
+    "tags": [
+      "ANMAT",
+      "prohibición",
+      "seguridad sanitaria",
+      "bloqueo",
+      "mercadería"
+    ],
+    "titulo": "ANMAT prohíbe la comercialización y uso del producto Spray Frío GMP",
+    "resumen": "La disposición prohíbe el uso, comercialización y distribución en todo el territorio nacional del producto Spray Frío GMP por carecer de registro sanitario ante la autoridad competente.",
+    "queSignifica": "Los importadores deben revisar sus stocks actuales y proveedores para asegurar que no posean ni comercialicen este producto. Se recomienda verificar la vigencia de registros sanitarios de cualquier mercadería similar antes de iniciar nuevas operaciones de importación.",
+    "fuente": {
+      "nombre": "ANMAT – Alertas",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-el-producto-spray-frio-gmp"
+    },
+    "publicadoEn": "2026-11-25T19:43:23.140Z",
+    "actualizadoEn": "2026-11-27T19:18:18.757Z"
+  },
+  {
     "id": "2026-11-26-disponibilidad-de-ejemplares-de-la-novela-institucional-del-cda-45d957",
     "slug": "disponibilidad-de-ejemplares-de-la-novela-institucional-del-cda",
     "organismo": "Aduana",
@@ -92,28 +157,28 @@
     "actualizadoEn": "2026-11-26T19:24:51.788Z"
   },
   {
-    "id": "2026-11-26-anmat-prohibe-la-comercializacion-y-uso-del-producto-spray-frio-gmp-c68888",
-    "slug": "anmat-prohibe-la-comercializacion-y-uso-del-producto-spray-frio-gmp",
+    "id": "2026-11-27-anmat-prohibe-el-uso-comercializacion-y-distribucion-de-productos-medicos-metal--958e2c",
+    "slug": "anmat-prohibe-el-uso-comercializacion-y-distribucion-de-productos-medicos-metal-",
     "organismo": "ANMAT / INAL",
-    "fecha": "2026-11-25",
+    "fecha": "2026-11-24",
     "impacto": "alto",
     "categoria": "importacion",
     "tags": [
-      "prohibición",
+      "productos médicos",
       "ANMAT",
-      "intervención",
-      "seguridad sanitaria",
+      "bloqueo de importación",
+      "fiscalización",
       "cumplimiento normativo"
     ],
-    "titulo": "ANMAT prohíbe la comercialización y uso del producto Spray Frío GMP",
-    "resumen": "La autoridad sanitaria dispuso la prohibición de uso, distribución y comercialización del producto Spray Frío GMP por carecer de registro sanitario ante el organismo.",
-    "queSignifica": "Los importadores deben verificar el stock en depósito y suspender inmediatamente cualquier operación de despacho, venta o distribución del producto. Se recomienda revisar la base de datos de productos registrados de ANMAT para asegurar la conformidad de toda la mercadería ingresada.",
+    "titulo": "ANMAT prohíbe el uso, comercialización y distribución de productos médicos Metal Gauss e IMECO",
+    "resumen": "La autoridad sanitaria dispuso la prohibición de productos médicos específicos de las marcas Metal Gauss e IMECO por irregularidades en su registro o comercialización.",
+    "queSignifica": "Verificar de inmediato si posee stock o destinaciones en curso con estas marcas para evitar interdicciones. Se recomienda auditar las certificaciones y legajos técnicos ante ANMAT antes de cursar cualquier operación con dichos proveedores.",
     "fuente": {
       "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-el-producto-spray-frio-gmp"
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-distintos-productos-medicos-de-las-marcas-metal-gauss-e-imeco"
     },
-    "publicadoEn": "2026-11-25T19:43:23.140Z",
-    "actualizadoEn": "2026-11-26T19:24:51.788Z"
+    "publicadoEn": "2026-11-24T20:28:59.792Z",
+    "actualizadoEn": "2026-11-27T19:18:18.757Z"
   },
   {
     "id": "2026-11-26-actualizacion-de-las-normas-cambiarias-sobre-acceso-al-mercado-de-cambios-bd8719",
@@ -233,30 +298,6 @@
       "url": "https://www.cda.org.ar/detalle_noticia.php?id=42872"
     },
     "publicadoEn": "2026-11-19T18:46:12.533Z",
-    "actualizadoEn": "2026-11-26T19:24:51.788Z"
-  },
-  {
-    "id": "2026-11-26-anmat-prohibe-la-comercializacion-de-productos-medicos-marcas-metal-gauss-e-imec-cb090e",
-    "slug": "anmat-prohibe-la-comercializacion-de-productos-medicos-marcas-metal-gauss-e-imec",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-11-24",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "ANMAT",
-      "productos médicos",
-      "prohibición comercialización",
-      "bloqueo de aduana",
-      "SIMI/SIRA"
-    ],
-    "titulo": "ANMAT prohíbe la comercialización de productos médicos marcas Metal Gauss e IMECO",
-    "resumen": "La medida dispone la prohibición de uso, comercialización y distribución en todo el territorio nacional de diversos productos médicos fabricados por Metal Gauss e IMECO por carecer de registro sanitario. La normativa impacta directamente en el levante de mercadería y la tenencia de stock en depósitos fiscales.",
-    "queSignifica": "Se recomienda verificar de inmediato el stock en depósito y las operaciones en curso para asegurar que no contengan productos de estas marcas, evitando así posibles incautaciones o rechazos en el despacho a plaza. Asimismo, es prudente consultar con el área de asuntos regulatorios para evaluar el impacto en las declaraciones juradas de salud vigentes.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-distintos-productos-medicos-de-las-marcas-metal-gauss-e-imeco"
-    },
-    "publicadoEn": "2026-11-24T20:28:59.792Z",
     "actualizadoEn": "2026-11-26T19:24:51.788Z"
   },
   {
@@ -755,119 +796,5 @@
     "normativaRef": "Comunicación \"A\" 8507/2026",
     "publicadoEn": "2026-11-13T17:27:27.641Z",
     "actualizadoEn": "2026-11-13T17:28:56.002Z"
-  },
-  {
-    "id": "2026-11-13-prohibicion-de-comercializacion-de-lote-falsificado-del-medicamento-dysport-500--4ae39e",
-    "slug": "prohibicion-de-comercializacion-de-lote-falsificado-del-medicamento-dysport-500-",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-11-12",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "ANMAT",
-      "productos farmacéuticos",
-      "prohibición comercialización",
-      "control aduanero",
-      "gestión de riesgo"
-    ],
-    "titulo": "Prohibición de comercialización de lote falsificado del medicamento Dysport 500 IPSEN",
-    "resumen": "La ANMAT prohibió la comercialización, distribución y uso de un lote específico falsificado del producto Dysport 500 unidades de Laboratorios IPSEN. La medida responde a una alerta sanitaria para evitar el ingreso al mercado de unidades ilegítimas.",
-    "queSignifica": "El importador debe verificar el número de lote de su stock y de futuras operaciones para asegurar que no coincida con el lote falsificado. Se recomienda consultar el listado oficial de ANMAT y solicitar certificados de análisis al proveedor para validar la trazabilidad del producto.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/se-prohibe-un-lote-falsificado-del-medicamento-dysport-500-ipsen"
-    },
-    "publicadoEn": "2026-11-12T17:51:48.587Z",
-    "actualizadoEn": "2026-11-13T17:28:56.002Z"
-  },
-  {
-    "id": "2026-11-13-prohibicion-de-importacion-y-comercializacion-de-farmacos-con-monosialogangliosi-eac759",
-    "slug": "prohibicion-de-importacion-y-comercializacion-de-farmacos-con-monosialogangliosi",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-11-12",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "ANMAT",
-      "prohibición",
-      "especialidades medicinales",
-      "importación",
-      "MSD"
-    ],
-    "titulo": "Prohibición de importación y comercialización de fármacos con Monosialogangliósidos (GM1)",
-    "resumen": "La norma establece la prohibición total de todas las especialidades medicinales que contengan el principio activo Monosialogangliósidos (GM1) en el territorio nacional. Se ordena el retiro inmediato del mercado de los productos alcanzados.",
-    "queSignifica": "El importador debe verificar si sus registros o despachos en curso contienen este principio activo para evitar bloqueos aduaneros. Se recomienda revisar el estado de sus certificados de inscripción ante ANMAT y consultar con el departamento técnico cualquier contingencia sobre stocks existentes.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/se-prohiben-todas-las-especialidades-medicinales-que-contengan-monosialogangliosidos-gm1"
-    },
-    "publicadoEn": "2026-11-13T17:28:32.845Z",
-    "actualizadoEn": "2026-11-13T17:28:56.002Z"
-  },
-  {
-    "id": "2026-11-13-se-prohiben-medicamentos-de-la-marca-canna-oil-4b16eb",
-    "slug": "se-prohiben-medicamentos-de-la-marca-canna-oil",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-11-12",
-    "impacto": "alto",
-    "categoria": "logistica",
-    "tags": [],
-    "titulo": "Se prohíben medicamentos de la marca Canna Oil",
-    "resumen": "Se prohíben medicamentos de la marca Canna Oil",
-    "queSignifica": "Consultá si esta normativa exige nuevas certificaciones, registros o modifica los plazos logísticos en la cadena de importación/exportación.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/se-prohiben-medicamentos-de-la-marca-canna-oil"
-    },
-    "publicadoEn": "2026-11-13T17:28:39.688Z",
-    "actualizadoEn": "2026-11-13T17:28:56.002Z"
-  },
-  {
-    "id": "2026-11-12-prohibicion-de-importacion-y-comercializacion-de-especialidades-medicinales-con--447b82",
-    "slug": "prohibicion-de-importacion-y-comercializacion-de-especialidades-medicinales-con-",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-11-12",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "ANMAT",
-      "prohibición",
-      "productos farmacéuticos",
-      "restricción a la importación",
-      "despacho de aduana"
-    ],
-    "titulo": "Prohibición de importación y comercialización de especialidades medicinales con Monosialogangliósidos",
-    "resumen": "La ANMAT ha establecido la prohibición total de todas las especialidades medicinales que contengan el principio activo Monosialogangliósidos (GM1). Esta medida implica el cese inmediato de su circulación en el mercado nacional.",
-    "queSignifica": "Se sugiere verificar el listado de productos importados y stock actual para identificar la presencia de este componente. Es necesario consultar el registro de productos médicos y coordinar con el servicio de carga para evitar el ingreso de mercadería alcanzada por esta restricción.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/se-prohibe-todas-las-especialidades-medicinales-que-contengan-monosialogangliosidos-gm1"
-    },
-    "publicadoEn": "2026-11-12T17:51:57.311Z",
-    "actualizadoEn": "2026-11-12T17:52:19.167Z"
-  },
-  {
-    "id": "2026-11-12-anmat-prohibe-la-comercializacion-y-uso-de-medicamentos-marca-canna-oil-e5dbc1",
-    "slug": "anmat-prohibe-la-comercializacion-y-uso-de-medicamentos-marca-canna-oil",
-    "organismo": "ANMAT / INAL",
-    "fecha": "2026-11-12",
-    "impacto": "alto",
-    "categoria": "importacion",
-    "tags": [
-      "ANMAT",
-      "prohibición",
-      "productos médicos",
-      "alerta sanitaria",
-      "control aduanero"
-    ],
-    "titulo": "ANMAT prohíbe la comercialización y uso de medicamentos marca Canna Oil",
-    "resumen": "La autoridad sanitaria dispuso la prohibición de comercialización, distribución y uso de todos los productos de la marca Canna Oil en el territorio nacional. La medida responde a la falta de registro y autorizaciones sanitarias correspondientes.",
-    "queSignifica": "Se recomienda verificar el inventario y las operaciones en curso para asegurar que no contengan productos de esta marca. Ante la detección de mercadería de esta procedencia, se sugiere consultar con el servicio jurídico o técnico para evitar bloqueos en Aduana.",
-    "fuente": {
-      "nombre": "ANMAT – Alertas",
-      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-medicamentos-de-la-marca-canna-oil"
-    },
-    "publicadoEn": "2026-11-12T17:52:02.544Z",
-    "actualizadoEn": "2026-11-12T17:52:19.167Z"
   }
 ]
